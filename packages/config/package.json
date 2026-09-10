@@ -1,0 +1,10 @@
+{
+  "name": "@nexus/config",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./eslint": "./eslint/base.js",
+    "./tailwind": "./tailwind/preset.js",
+    "./tsconfig": "./tsconfig/base.json"
+  }
+}

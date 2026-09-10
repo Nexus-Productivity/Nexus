@@ -1,0 +1,7 @@
+{
+  "extends": "@nexus/config/tsconfig",
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}

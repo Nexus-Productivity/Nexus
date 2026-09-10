@@ -1,0 +1,7 @@
+{
+  "extends": "@nexus/config/tsconfig",
+  "compilerOptions": {
+    "types": ["node"]
+  },
+  "include": ["src"]
+}
