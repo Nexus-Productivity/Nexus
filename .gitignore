@@ -17,6 +17,12 @@ out/
 # Logs
 *.log
 
+# Storybook
+storybook-static/
+
+# TypeScript incremental
+*.tsbuildinfo
+
 # Sistema
 .DS_Store
 
@@ -24,3 +30,7 @@ out/
 packages/prisma/generated/
 prisma/*.db
 prisma/*.db-journal
+
+/conversations
+
+*storybook.log

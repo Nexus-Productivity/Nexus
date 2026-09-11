@@ -1,0 +1,54 @@
+/**
+ * Tokens de color Nexus — "papel estelar".
+ * MODOS: :root = claro (producto), .dark = espacio (branding/login).
+ * Los valores son tripletas RGB (sin `rgb()`) para usar <alpha-value>.
+ */
+
+:root {
+  /* Neutros claro */
+  --nexus-bg: 250 250 249;        /* #fafaf9 papel */
+  --nexus-surface: 255 255 255;   /* #ffffff tarjetas */
+  --nexus-surface-alt: 245 245 243; /* #f5f5f3 hover */
+  --nexus-border: 229 229 227;    /* #e5e5e3 */
+  --nexus-ink: 17 17 17;          /* #111111 texto principal */
+  --nexus-muted: 107 107 104;     /* #6b6b68 texto secundario */
+  --nexus-brand: 201 130 26;      /* #c9821a dorado de marca (wordmark) */
+
+  /* Dorado — atención / advertencia */
+  --nexus-gold-soft: 253 241 222;   /* #fdf1de */
+  --nexus-gold-text: 138 87 15;     /* #8a570f */
+  --nexus-gold-strong: 92 58 10;    /* #5c3a0a */
+
+  /* Verde — éxito / ingresos */
+  --nexus-green-soft: 234 243 222;  /* #eaf3de */
+  --nexus-green-text: 59 109 17;    /* #3b6d11 */
+  --nexus-green-strong: 39 80 10;   /* #27500a */
+
+  /* Rojo — error / egresos */
+  --nexus-red-soft: 252 235 235;    /* #fcebeb */
+  --nexus-red-text: 163 45 45;      /* #a32d2d */
+  --nexus-red-strong: 121 31 31;    /* #791f1f */
+}
+
+.dark {
+  /* Neutros oscuro (espacio Nexus) */
+  --nexus-bg: 10 10 15;           /* #0a0a0f */
+  --nexus-surface: 20 20 28;      /* #14141c */
+  --nexus-surface-alt: 30 30 40;  /* #1e1e28 */
+  --nexus-border: 35 35 46;       /* #23232e */
+  --nexus-ink: 242 240 234;       /* #f2f0ea */
+  --nexus-muted: 139 139 152;     /* #8b8b98 */
+  --nexus-brand: 212 175 55;      /* #d4af37 dorado de marca en oscuro */
+
+  --nexus-gold-soft: 41 35 18;      /* #292312 */
+  --nexus-gold-text: 212 175 55;    /* #d4af37 */
+  --nexus-gold-strong: 255 233 168; /* #ffe9a8 */
+
+  --nexus-green-soft: 24 36 14;     /* #18240e */
+  --nexus-green-text: 132 204 62;   /* #84cc3e */
+  --nexus-green-strong: 217 249 157;/* #d9f99d */
+
+  --nexus-red-soft: 45 18 18;       /* #2d1212 */
+  --nexus-red-text: 248 113 113;    /* #f87171 */
+  --nexus-red-strong: 254 202 202;  /* #fecaca */
+}
