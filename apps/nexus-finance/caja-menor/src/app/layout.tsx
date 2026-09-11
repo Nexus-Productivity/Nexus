@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Caja Menor — Nexus",
-  description: "Sistema de caja menor para negocios no modernizados.",
+  title: "Caja Menor — Nexus Finance",
+  description: "Gestión de caja menor para negocios: ingresos, egresos y control.",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-      <body className="min-h-screen bg-nexus-bg font-sans text-stone-100 antialiased">
+      <body className="min-h-screen bg-nexus-bg font-sans text-nexus-ink antialiased">
         {children}
       </body>
     </html>
