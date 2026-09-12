@@ -24,7 +24,12 @@ export const CashFlowChart: React.FC<CashFlowChartProps> = ({ data, className = 
   <div className={`rounded-xl border border-nexus-border bg-nexus-surface p-5 ${className}`}>
     <h3 className="text-sm font-semibold text-nexus-ink">Flujo de efectivo</h3>
     <p className="mt-0.5 text-xs text-nexus-muted">Ingresos vs egresos · últimos 6 meses</p>
-    <div className="mt-4 h-64">
+    {data.length === 0 ? (
+      <div className="mt-4 flex h-64 items-center justify-center rounded-lg border border-dashed border-nexus-border bg-nexus-surface/50">
+        <p className="text-sm text-nexus-muted">Sin movimientos registrados todavía</p>
+      </div>
+    ) : (
+      <div className="mt-4 h-64">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} barGap={4}>
           <CartesianGrid strokeDasharray="3 3" stroke="var(--nexus-border-rgb, #e5e5e3)" vertical={false} />
@@ -55,6 +60,7 @@ export const CashFlowChart: React.FC<CashFlowChartProps> = ({ data, className = 
           <Bar dataKey="expenses" name="Egresos" fill="#791f1f" radius={[4, 4, 0, 0]} maxBarSize={28} />
         </BarChart>
       </ResponsiveContainer>
-    </div>
+      </div>
+    )}
   </div>
 );

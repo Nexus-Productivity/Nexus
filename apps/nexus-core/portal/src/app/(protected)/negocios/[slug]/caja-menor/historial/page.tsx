@@ -4,18 +4,20 @@ import { ChevronLeft, PlusIcon } from "lucide-react";
 import { Button } from "@nexus/ui";
 import { prisma } from "@/lib/prisma";
 import { MovementsTable } from "@/components/MovementsTable";
-import { allMovements } from "@/lib/data";
+import { getMovimientos, toMovementView } from "@/lib/negocio";
 
 /**
- * MÓDULO CAJA MENOR — historial completo de efectivo.
+ * MÓDULO CAJA MENOR — historial completo de efectivo (datos reales).
  */
 export default async function CajaMenorHistorialPage({ params }: { params: { slug: string } }) {
   const org = await prisma.organization.findUnique({
     where: { slug: params.slug },
-    select: { nombre: true, slug: true },
+    select: { id: true, nombre: true, slug: true },
   });
   if (!org) notFound();
 
+  const movimientos = await getMovimientos(org.id);
+  const categories = Array.from(new Set(movimientos.map((m) => m.categoria.nombre)));
   const base = `/negocios/${org.slug}`;
 
   return (
@@ -42,7 +44,7 @@ export default async function CajaMenorHistorialPage({ params }: { params: { slu
       </div>
 
       <div className="mt-6">
-        <MovementsTable movements={allMovements} />
+        <MovementsTable movements={movimientos.map(toMovementView)} categories={categories} />
       </div>
     </>
   );

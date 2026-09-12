@@ -18,7 +18,13 @@ export const ExpenseDonut: React.FC<ExpenseDonutProps> = ({ data, className = ""
   <div className={`rounded-xl border border-nexus-border bg-nexus-surface p-5 ${className}`}>
     <h3 className="text-sm font-semibold text-nexus-ink">Egresos por categoría</h3>
     <p className="mt-0.5 text-xs text-nexus-muted">Mes actual</p>
-    <div className="mt-2 h-44">
+    {data.length === 0 ? (
+      <div className="mt-2 flex h-44 items-center justify-center rounded-lg border border-dashed border-nexus-border bg-nexus-surface/50">
+        <p className="text-sm text-nexus-muted">Sin egresos en el mes</p>
+      </div>
+    ) : (
+      <>
+      <div className="mt-2 h-44">
       <ResponsiveContainer width="100%" height="100%">
         <PieChart>
           <Pie
@@ -59,5 +65,7 @@ export const ExpenseDonut: React.FC<ExpenseDonutProps> = ({ data, className = ""
         </li>
       ))}
     </ul>
+      </>
+    )}
   </div>
 );

@@ -2,12 +2,12 @@
 
 import React, { useMemo, useState } from "react";
 import type { Movement, MovementStatus } from "@/lib/data";
-import { CATEGORIES } from "@/lib/data";
 import { formatDate, formatMoney } from "@/lib/format";
 
 interface MovementsTableProps {
   movements: Movement[];
   limit?: number;
+  categories?: string[];
   className?: string;
 }
 
@@ -18,8 +18,13 @@ const statusBadge: Record<MovementStatus, { bg: string; text: string; label: str
 };
 
 /** Tabla de movimientos con filtro por categoría. */
-export const MovementsTable: React.FC<MovementsTableProps> = ({ movements, limit, className = "" }) => {
+export const MovementsTable: React.FC<MovementsTableProps> = ({ movements, limit, categories, className = "" }) => {
   const [category, setCategory] = useState<string>("all");
+
+  const allCategories =
+    categories && categories.length > 0
+      ? categories
+      : Array.from(new Set(movements.map((m) => m.category)));
 
   const filtered = useMemo(() => {
     const rows = category === "all" ? movements : movements.filter((m) => m.category === category);
@@ -40,7 +45,7 @@ export const MovementsTable: React.FC<MovementsTableProps> = ({ movements, limit
             className="rounded-lg border border-nexus-border bg-nexus-surface px-3 py-1.5 text-sm text-nexus-ink focus:border-nexus-brand focus:outline-none"
           >
             <option value="all">Todas</option>
-            {CATEGORIES.map((c) => (
+            {allCategories.map((c) => (
               <option key={c} value={c}>
                 {c}
               </option>

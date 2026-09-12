@@ -6,22 +6,22 @@ import { prisma } from "@/lib/prisma";
 import { CashFlowChart } from "@/components/charts/CashFlowChart";
 import { ExpenseDonut } from "@/components/charts/ExpenseDonut";
 import { MovementsTable } from "@/components/MovementsTable";
-import { DASHBOARD_METRICS, monthlyFlow, expenseByCategory, recentMovements } from "@/lib/data";
+import { getDashboardData } from "@/lib/negocio";
 import { formatMoney } from "@/lib/format";
 import { iconoNegocio } from "@/lib/iconos";
 
 /**
  * DASHBOARD DEL NEGOCIO — la primera pantalla que se ve al entrar.
- * Métricas clave, gráficas de flujo de efectivo y egresos, y movimientos
- * recientes. Se extiende al ancho disponible (max-w-7xl + sidebar).
+ * Métricas y gráficas reales desde la base (cero mocks).
  */
 export default async function NegocioDashboard({ params }: { params: { slug: string } }) {
   const org = await prisma.organization.findUnique({
     where: { slug: params.slug },
-    select: { nombre: true, slug: true, tipoNegocio: true, moneda: true },
+    select: { id: true, nombre: true, slug: true, tipoNegocio: true, moneda: true },
   });
   if (!org) notFound();
 
+  const data = await getDashboardData(org.id);
   const IconoNegocio = iconoNegocio(org.tipoNegocio);
 
   const today = new Date().toLocaleDateString("es-CO", {
@@ -54,38 +54,42 @@ export default async function NegocioDashboard({ params }: { params: { slug: str
       <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <StatCard
           label="Efectivo en caja"
-          value={formatMoney(DASHBOARD_METRICS.cash)}
+          value={formatMoney(data.metrics.cash)}
           tone="gold"
           footnote="Disponible hoy"
         />
         <StatCard
           label="Ingresos (mes)"
-          value={formatMoney(DASHBOARD_METRICS.income)}
+          value={formatMoney(data.metrics.income)}
           tone="green"
         />
         <StatCard
           label="Egresos (mes)"
-          value={formatMoney(DASHBOARD_METRICS.expenses)}
+          value={formatMoney(data.metrics.expenses)}
           tone="red"
         />
         <StatCard
-          label="Socios activos"
-          value={String(DASHBOARD_METRICS.activeMembers)}
+          label="Miembros del negocio"
+          value={String(data.metrics.activeMembers)}
           tone="neutral"
-          footnote="Membresías vigentes"
+          footnote="Usuarios con acceso"
         />
       </div>
 
       {/* Gráficas */}
       <div className="mt-6 grid grid-cols-1 gap-5 xl:grid-cols-2">
-        <CashFlowChart data={monthlyFlow} />
-        <ExpenseDonut data={expenseByCategory} />
+        <CashFlowChart data={data.monthlyFlow} />
+        <ExpenseDonut data={data.expenseByCategory} />
       </div>
 
       {/* Movimientos recientes + historial */}
       <div className="mt-7">
         <div className="mb-4 flex items-center justify-between">
-          <MovementsTable movements={recentMovements} limit={8} />
+          <MovementsTable
+            movements={data.movements}
+            categories={data.expenseByCategory.map((c) => c.category)}
+            limit={8}
+          />
         </div>
         <div className="flex justify-end">
           <Link

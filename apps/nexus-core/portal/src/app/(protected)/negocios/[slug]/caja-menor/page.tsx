@@ -4,21 +4,22 @@ import { ArrowRight } from "lucide-react";
 import { StatCard } from "@nexus/ui";
 import { prisma } from "@/lib/prisma";
 import { MovementsTable } from "@/components/MovementsTable";
-import { DASHBOARD_METRICS, allMovements } from "@/lib/data";
+import { getDashboardData } from "@/lib/negocio";
 import { formatMoney } from "@/lib/format";
 
 /**
  * MÓDULO CAJA MENOR — dentro del negocio.
- * Métricas de caja + historial de movimientos. Las gráficas de negocio viven
- * en el Dashboard (raíz del negocio), la sidebar navega entre módulos.
+ * Métricas de caja + historial de movimientos (datos reales de la base).
+ * Las gráficas de negocio viven en el Dashboard (raíz del negocio).
  */
 export default async function CajaMenorPage({ params }: { params: { slug: string } }) {
   const org = await prisma.organization.findUnique({
     where: { slug: params.slug },
-    select: { nombre: true, slug: true },
+    select: { id: true, nombre: true, slug: true },
   });
   if (!org) notFound();
 
+  const data = await getDashboardData(org.id);
   const today = new Date().toLocaleDateString("es-CO", {
     day: "numeric",
     month: "long",
@@ -47,30 +48,34 @@ export default async function CajaMenorPage({ params }: { params: { slug: string
       <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <StatCard
           label="Efectivo en caja"
-          value={formatMoney(DASHBOARD_METRICS.cash)}
+          value={formatMoney(data.metrics.cash)}
           tone="gold"
           footnote="Disponible hoy"
         />
         <StatCard
           label="Ingresos (mes)"
-          value={formatMoney(DASHBOARD_METRICS.income)}
+          value={formatMoney(data.metrics.income)}
           tone="green"
         />
         <StatCard
           label="Egresos (mes)"
-          value={formatMoney(DASHBOARD_METRICS.expenses)}
+          value={formatMoney(data.metrics.expenses)}
           tone="red"
         />
         <StatCard
           label="Movimientos"
-          value={String(allMovements.length)}
+          value={String(data.totalMovements)}
           tone="neutral"
           footnote="Registrados"
         />
       </div>
 
       <div className="mt-7">
-        <MovementsTable movements={allMovements} limit={10} />
+        <MovementsTable
+          movements={data.movements}
+          categories={data.expenseByCategory.map((c) => c.category)}
+          limit={10}
+        />
       </div>
     </>
   );
