@@ -18,7 +18,7 @@ interface PortalHeaderProps {
 export function PortalHeader({ email, negocios, activoSlug }: PortalHeaderProps) {
   return (
     <header className="sticky top-0 z-20 border-b border-nexus-border/80 bg-nexus-surface/85 backdrop-blur">
-      <div className="mx-auto flex h-16 max-w-6xl items-center gap-3 px-4 lg:px-6">
+      <div className="flex h-16 items-center gap-3 px-4 lg:px-6">
         <Link href="/" className="shrink-0 transition hover:opacity-85">
           <Logo size="sm" />
         </Link>
