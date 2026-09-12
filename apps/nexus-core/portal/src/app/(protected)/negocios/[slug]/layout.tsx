@@ -3,12 +3,13 @@ import { getServerSession } from "next-auth";
 import { prisma } from "@/lib/prisma";
 import { authOptions } from "@/lib/auth";
 import { getPortalCtx } from "@/lib/session";
-import { PortalScaffold } from "@/components/PortalScaffold";
+import { PortalHeader } from "@/components/PortalHeader";
+import { NegocioSidebar } from "@/components/NegocioSidebar";
 
 /**
  * Layout del segmento /negocios/[slug] — el NEGOCIO.
- * Valida membresía (aislamiento por membership, no por parche) y envuelve
- * panel + módulos con el header global del portal (select de negocio activo).
+ * Shell corporativo: header global (marca + select) + sidebar del negocio
+ * (Dashboard + módulos ACTIVOS) + contenido extendido estilo empresa.
  */
 export default async function NegocioLayout({
   children,
@@ -22,7 +23,14 @@ export default async function NegocioLayout({
 
   const org = await prisma.organization.findUnique({
     where: { slug: params.slug },
-    include: { members: true },
+    include: {
+      members: true,
+      modules: {
+        where: { estado: "ACTIVO" },
+        include: { module: true },
+        orderBy: { module: { orden: "asc" } },
+      },
+    },
   });
   if (!org) notFound();
 
@@ -34,9 +42,22 @@ export default async function NegocioLayout({
 
   const ctx = await getPortalCtx(session.user.email);
 
+  const modulos = org.modules.map((m) => ({
+    slug: m.module.slug,
+    nombre: m.module.nombre,
+  }));
+
   return (
-    <PortalScaffold email={ctx.email} negocios={ctx.negocios} activoSlug={ctx.activo?.slug}>
-      {children}
-    </PortalScaffold>
+    <div className="min-h-screen bg-nexus-bg">
+      <PortalHeader email={ctx.email} negocios={ctx.negocios} activoSlug={ctx.activo?.slug} />
+      <div className="mx-auto flex max-w-7xl items-start gap-6 px-4 py-6 lg:px-6">
+        <NegocioSidebar
+          negocioSlug={params.slug}
+          negocioNombre={org.nombre}
+          modulos={modulos}
+        />
+        <main className="min-w-0 flex-1 pb-12">{children}</main>
+      </div>
+    </div>
   );
 }
