@@ -24,9 +24,14 @@ export function formatCompact(value: number): string {
   return `${sign}$${abs}`;
 }
 
-/** Fecha corta localizada: 11 sep 2026. */
+/**
+ * Fecha corta localizada: 11 sep 2026.
+ * Se parsea como fecha LOCAL (YYYY-MM-DD) para que el servidor y el navegador
+ * muestren el mismo día en cualquier zona horaria (evita hydration mismatch).
+ */
 export function formatDate(iso: string): string {
-  return new Date(iso).toLocaleDateString(LOCALE, {
+  const [y = 0, m = 1, d = 1] = iso.split("T")[0]!.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString(LOCALE, {
     day: "numeric",
     month: "short",
     year: "numeric",
