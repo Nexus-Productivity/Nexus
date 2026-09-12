@@ -1,10 +1,10 @@
 export { default } from "next-auth/middleware";
 
 /**
- * Todo lo que no sea pública (login/registro/api) requiere sesión.
- * El flujo: /login → Home (redirige al negocio ACTIVO o a /ceo) →
- * /negocios/[slug] → módulos. /ceo requiere scope CEO (check en la página).
+ * Prototipo GYM (rama gym/prototipo): todo lo privado requiere sesión.
+ * Público: /login, /registro, /api.
+ * Las páginas (protected) re-verifican sesión + org gym en el layout.
  */
 export const config = {
-  matcher: ["/", "/negocios/:path*", "/explorar", "/ceo"],
+  matcher: ["/", "/clientes/:path*", "/pagos", "/gastos"],
 };

@@ -1,6 +1,6 @@
 /**
  * Tipos de vista para el portal. NINGÚN dato inventado acá:
- * todo se consulta desde la base (ver lib/negocio.ts).
+ * todo se consulta desde la base (ver lib/gym.ts).
  */
 
 export type MovementStatus = "approved" | "pending" | "rejected";

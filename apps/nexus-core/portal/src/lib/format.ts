@@ -26,11 +26,20 @@ export function formatCompact(value: number): string {
 
 /**
  * Fecha corta localizada: 11 sep 2026.
- * Se parsea como fecha LOCAL (YYYY-MM-DD) para que el servidor y el navegador
- * muestren el mismo día en cualquier zona horaria (evita hydration mismatch).
+ * - Si llega un string, se parsea como fecha LOCAL (YYYY-MM-DD) para que el
+ *   servidor y el navegador muestren el mismo día en cualquier zona horaria
+ *   (evita hydration mismatch).
+ * - Si llega un Date (p. ej. desde Prisma), se formatea directo.
  */
-export function formatDate(iso: string): string {
-  const [y = 0, m = 1, d = 1] = iso.split("T")[0]!.split("-").map(Number);
+export function formatDate(input: string | Date): string {
+  if (input instanceof Date) {
+    return input.toLocaleDateString(LOCALE, {
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+    });
+  }
+  const [y = 0, m = 1, d = 1] = input.split("T")[0]!.split("-").map(Number);
   return new Date(y, m - 1, d).toLocaleDateString(LOCALE, {
     day: "numeric",
     month: "short",

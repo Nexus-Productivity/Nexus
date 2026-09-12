@@ -26,9 +26,9 @@ export const authOptions: NextAuthOptions = {
         if (!credentials?.email || !credentials?.password) return null;
 
         // login por identidad: una persona puede pertenecer a varias orgs —
-        // tomamos la membresía más reciente (su negocio activo al crear cuenta).
+        // solo las membresías CON contraseña son credenciales válidas.
         const member = await prisma.member.findFirst({
-          where: { email: credentials.email.toLowerCase().trim() },
+          where: { email: credentials.email.toLowerCase().trim(), passwordHash: { not: null } },
           orderBy: { createdAt: "desc" },
         });
 

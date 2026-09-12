@@ -16,14 +16,21 @@ import { formatCompact, formatMoney } from "@/lib/format";
 
 interface CashFlowChartProps {
   data: MonthlyFlow[];
+  title?: string;
+  subtitle?: string;
   className?: string;
 }
 
-/** Gráfica de flujo mensual: ingresos vs egresos (últimos 6 meses). */
-export const CashFlowChart: React.FC<CashFlowChartProps> = ({ data, className = "" }) => (
+/** Gráfica de flujo: ingresos vs egresos por período (rango configurable). */
+export const CashFlowChart: React.FC<CashFlowChartProps> = ({
+  data,
+  title = "Flujo de efectivo",
+  subtitle = "Ingresos vs egresos",
+  className = "",
+}) => (
   <div className={`rounded-xl border border-nexus-border bg-nexus-surface p-5 ${className}`}>
-    <h3 className="text-sm font-semibold text-nexus-ink">Flujo de efectivo</h3>
-    <p className="mt-0.5 text-xs text-nexus-muted">Ingresos vs egresos · últimos 6 meses</p>
+    <h3 className="text-sm font-semibold text-nexus-ink">{title}</h3>
+    <p className="mt-0.5 text-xs text-nexus-muted">{subtitle}</p>
     {data.length === 0 ? (
       <div className="mt-4 flex h-64 items-center justify-center rounded-lg border border-dashed border-nexus-border bg-nexus-surface/50">
         <p className="text-sm text-nexus-muted">Sin movimientos registrados todavía</p>

@@ -35,6 +35,11 @@ model Organization {
   arqueos           Arqueo[]
   adjuntos          Adjunto[]
   auditLogs         AuditLog[]
+  // Dominio gym (rama gym/prototipo)
+  planes            Plan[]
+  clientes          Cliente[]
+  pagos             Pago[]
+  gastos            Gasto[]
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 

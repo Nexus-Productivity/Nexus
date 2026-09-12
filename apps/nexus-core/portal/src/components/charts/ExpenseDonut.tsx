@@ -7,17 +7,24 @@ import { formatMoney } from "@/lib/format";
 
 interface ExpenseDonutProps {
   data: CategoryExpense[];
+  title?: string;
+  subtitle?: string;
   className?: string;
 }
 
 /** Paleta Nexus (sin azul): dorado, verde, rojo y neutros. */
 const COLORS = ["#c9821a", "#8a570f", "#27500a", "#791f1f", "#6b6b68"];
 
-/** Donut de egresos del mes por categoría. */
-export const ExpenseDonut: React.FC<ExpenseDonutProps> = ({ data, className = "" }) => (
+/** Donut por categoría (egresos del negocio, pagos por método, etc.). */
+export const ExpenseDonut: React.FC<ExpenseDonutProps> = ({
+  data,
+  title = "Egresos por categoría",
+  subtitle = "Período seleccionado",
+  className = "",
+}) => (
   <div className={`rounded-xl border border-nexus-border bg-nexus-surface p-5 ${className}`}>
-    <h3 className="text-sm font-semibold text-nexus-ink">Egresos por categoría</h3>
-    <p className="mt-0.5 text-xs text-nexus-muted">Mes actual</p>
+    <h3 className="text-sm font-semibold text-nexus-ink">{title}</h3>
+    <p className="mt-0.5 text-xs text-nexus-muted">{subtitle}</p>
     {data.length === 0 ? (
       <div className="mt-2 flex h-44 items-center justify-center rounded-lg border border-dashed border-nexus-border bg-nexus-surface/50">
         <p className="text-sm text-nexus-muted">Sin egresos en el mes</p>
