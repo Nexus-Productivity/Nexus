@@ -17,12 +17,18 @@
 // ============================================================
 
 model Organization {
-  id      String   @id @default(cuid())
-  nombre  String
-  slug    String   @unique // identidad amigable para URL (ej: "profe-caja")
-  rolDefault Rol    @default(OPERADOR)
-  caja    Caja?    // 1:1 — el paquete de config de la caja
-  members Member[]
+  id          String   @id @default(cuid())
+  nombre      String
+  slug        String   @unique // identidad amigable para URL (ej: "zonarosa")
+  // Perfil del negocio (onboarding) — alimenta recomendación de módulos
+  tipoNegocio String?  /// "gimnasio" | "comercio" | "restaurante" | ...
+  moneda      String   @default("COP")
+  pais        String?  /// código ISO (ej: "CO")
+  logoUrl     String?
+  rolDefault  Rol      @default(OPERADOR)
+  caja        Caja?    // 1:1 — el paquete de config de la caja
+  members     Member[]
+  modules     OrganizationModule[] // módulos habilitados para este negocio
   movimientos       Movimiento[]
   categorias        Categoria[]
   solicitudes       SolicitudFondo[]
@@ -36,24 +42,71 @@ model Organization {
 }
 
 model Member {
-  id        String  @id @default(cuid())
-  orgId     String
-  org       Organization @relation(fields: [orgId], references: [id])
-  nombre    String
-  email     String  @unique // base del login → Future campo passwordHash va aquí
-  rol       Rol     @default(OPERADOR)
-  activo    Boolean @default(true) // desactivar ≠ borrar (decisión: nunca se borra identidad)
+  id           String    @id @default(cuid())
+  orgId        String
+  org          Organization @relation(fields: [orgId], references: [id])
+  nombre       String
+  email        String    @unique // identidad de login (global: un email = una persona)
+  passwordHash String?   // login real (bcrypt). null = pendiente invitación
+  rol          Rol       @default(OPERADOR)
+  scope        UserScope @default(USER) // USER | CEO — consola global (futuro)
+  activo       Boolean   @default(true) // desactivar ≠ borrar (decisión: nunca se borra identidad)
   movimientos Movimiento[]        @relation("responsable")
   solicitudesCreadas  SolicitudFondo[] @relation("solicitante")
   solicitudesValidadas SolicitudFondo[] @relation("validador")
   arqueos     Arqueo[]    @relation("arqueador")
-  adjuntos    Adjunto[]   @relation("adjuntadoPor")
+  adjuntos    Adjunto[]   @relation("adjunto")
   auditLogs   AuditLog[]  @relation("auditor")
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
   @@index([orgId])
   @@map("members")
+}
+
+// ============================================================
+// MÓDULOS — catálogo GLOBAL de NEXUS (nivel 1 del producto).
+// El cliente solo ve esto + las secciones de cada módulo.
+// `campo` es taxonomía INTERNA (Finance/Services/...): invisible al cliente.
+// ============================================================
+
+model Module {
+  id          String          @id @default(cuid())
+  slug        String          @unique // "clientes" | "caja-menor" | "facturacion" | ...
+  nombre      String
+  descripcion String
+  campo       CampoModulo             // taxonomía INTERNA (invisible al cliente)
+  icono       String?                 // emoji/identificador visual
+  /// Módulo BASE: se activa automáticamente en toda organización al crearla
+  /// (ej: "clientes"). No es contratable ni se puede desactivar.
+  porDefecto  Boolean         @default(false)
+  /// Tipos de negocio para los que se recomienda este módulo
+  /// (ej: "gimnasio" → presupuestos para control de gastos de máquinas).
+  sugeridoPara String[]        @default([])
+  activo      Boolean         @default(true)
+  orden       Int             @default(0)
+  organizaciones OrganizationModule[]
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+
+  @@map("modules")
+}
+
+/// Habilitación de un módulo en un negocio: ACTIVO (se usa) o SOLICITADO (pedido).
+model OrganizationModule {
+  id         String          @id @default(cuid())
+  orgId      String
+  org        Organization    @relation(fields: [orgId], references: [id], onDelete: Cascade)
+  moduleId   String
+  module     Module          @relation(fields: [moduleId], references: [id])
+  estado     EstadoModuloOrg @default(SOLICITADO)
+  activadoAt DateTime?
+  createdAt  DateTime        @default(now())
+  updatedAt  DateTime        @updatedAt
+
+  @@unique([orgId, moduleId])
+  @@index([orgId])
+  @@map("organization_modules")
 }
 
 /// 1:1 por org — configuración de la caja (saldo mínimo, categorías por defecto)

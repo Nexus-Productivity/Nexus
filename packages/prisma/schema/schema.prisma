@@ -15,6 +15,8 @@
 generator client {
   provider        = "prisma-client-js"
   previewFeatures = ["prismaSchemaFolder"]
+  // Engine explícito: garantiza copiado del .so en build de Next/pnpm
+  binaryTargets   = ["native", "debian-openssl-3.0.x"]
 }
 
 datasource db {
@@ -49,4 +51,24 @@ enum EstadoArqueo {
   ABIERTO
   CERRADO
   DIFERENCIA
+}
+
+// ---------- Enums del PORTAL (catálogo de módulos) ----------
+/// Taxonomía INTERNA de NEXUS — NUNCA visible para el cliente
+enum CampoModulo {
+  CORE
+  FINANCE
+  SERVICES
+  PRODUCTIVITY
+}
+
+enum EstadoModuloOrg {
+  SOLICITADO
+  ACTIVO
+}
+
+/// Alcance del miembro: USER (normal) | CEO (consola global — solo equipo Nexus)
+enum UserScope {
+  USER
+  CEO
 }
