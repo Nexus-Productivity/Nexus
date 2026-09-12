@@ -1,0 +1,70 @@
+// ============================================================
+// MÓDULO IDENTIDAD — GLOBAL a nivel de datos (multitenancy real)
+//
+// La estructura sigue la tabla multi-nivel del vault:
+//   Organization = el "negocio" — la caja del profe.
+//   Member       = UNA persona dentro de la org (el user/login).
+//
+// DECISIÓN CLAVE (no negociable, vault: arquitectura-multi-app-sesion-theme):
+//   User/Organization/Member son GLOBALES en los DATOS.
+//   La separación "por app" (caja vs futuro módulo) es SOLO de UI.
+//   Un futuro campo "Services" NO re-registra usuarios: reutiliza esto.
+//
+// POR QUÉ login va ACÁ (y no en la app):
+//   El schema es La Fuente. Si el login vive en la UI de app-shell
+//   y la identidad SOLO en la tabla de caja, el 2º módulo financiero
+//   tendría que re-inventar usuarios. Multitenancy desde el día 1.
+// ============================================================
+
+model Organization {
+  id      String   @id @default(cuid())
+  nombre  String
+  slug    String   @unique // identidad amigable para URL (ej: "profe-caja")
+  rolDefault Rol    @default(OPERADOR)
+  caja    Caja?    // 1:1 — el paquete de config de la caja
+  members Member[]
+  movimientos       Movimiento[]
+  categorias        Categoria[]
+  solicitudes       SolicitudFondo[]
+  arqueos           Arqueo[]
+  adjuntos          Adjunto[]
+  auditLogs         AuditLog[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("organizations")
+}
+
+model Member {
+  id        String  @id @default(cuid())
+  orgId     String
+  org       Organization @relation(fields: [orgId], references: [id])
+  nombre    String
+  email     String  @unique // base del login → Future campo passwordHash va aquí
+  rol       Rol     @default(OPERADOR)
+  activo    Boolean @default(true) // desactivar ≠ borrar (decisión: nunca se borra identidad)
+  movimientos Movimiento[]        @relation("responsable")
+  solicitudesCreadas  SolicitudFondo[] @relation("solicitante")
+  solicitudesValidadas SolicitudFondo[] @relation("validador")
+  arqueos     Arqueo[]    @relation("arqueador")
+  adjuntos    Adjunto[]   @relation("adjuntadoPor")
+  auditLogs   AuditLog[]  @relation("auditor")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([orgId])
+  @@map("members")
+}
+
+/// 1:1 por org — configuración de la caja (saldo mínimo, categorías por defecto)
+model Caja {
+  id              String   @id @default(cuid())
+  orgId           String   @unique
+  org             Organization @relation(fields: [orgId], references: [id])
+  saldoMinimo     Decimal  @default(0) @db.Decimal(12,2)
+  permiteSaldoNegativo Boolean @default(false) // F3/C → impedir, no avisar nomás
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("cajas")
+}

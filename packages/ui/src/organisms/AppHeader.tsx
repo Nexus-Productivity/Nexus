@@ -1,5 +1,5 @@
 import React from "react";
-import { SparkleIcon } from "../atoms/Icons";
+import { Logo } from "../atoms/Logo";
 
 export interface AppHeaderLink {
   label: string;
@@ -35,8 +35,7 @@ export const AppHeader: React.FC<AppHeaderProps> = ({
     className={`sticky top-0 z-20 flex h-16 items-center justify-between border-b border-nexus-border bg-nexus-surface px-4 lg:px-6 ${className}`}
   >
     <a href={appHref} className="flex items-center gap-2 transition hover:opacity-80">
-      <span className="text-lg font-black italic tracking-tight text-nexus-ink">NEXUS</span>
-      <SparkleIcon className="text-nexus-brand" />
+      <Logo size="md" />
       {brandLabel && (
         <span className="ml-1 text-sm font-medium text-nexus-muted">{brandLabel}</span>
       )}

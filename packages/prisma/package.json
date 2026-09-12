@@ -10,10 +10,14 @@
   "scripts": {
     "generate": "prisma generate",
     "migrate": "prisma migrate dev",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "db:seed": "prisma db seed",
+    "db:reset": "prisma migrate reset",
     "type-check": "tsc --noEmit"
   },
   "prisma": {
-    "schema": "schema.prisma"
+    "schema": "schema"
   },
   "dependencies": {
     "@prisma/client": "^5.19.0"

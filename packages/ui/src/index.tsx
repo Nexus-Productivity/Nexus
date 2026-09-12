@@ -4,6 +4,7 @@ export { IconButton, type IconButtonVariant } from "./atoms/IconButton";
 export { TransactionTag, type TransactionTagVariant } from "./atoms/TransactionTag";
 export { CurrencyInput } from "./atoms/CurrencyInput";
 export { DateInput } from "./atoms/DateInput";
+export { Logo, type LogoProps, type LogoSize } from "./atoms/Logo";
 export {
   SparkleIcon,
   WalletIcon,
