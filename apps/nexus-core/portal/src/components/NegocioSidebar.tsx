@@ -34,9 +34,8 @@ export function NegocioSidebar({ negocioSlug, negocioNombre, modulos }: NegocioS
     }`;
 
   return (
-    <aside className="hidden w-56 shrink-0 md:block">
-      <nav className="sticky top-20 space-y-7">
-        <div>
+    <nav className="flex h-full flex-col gap-7 px-3 py-6">
+      <div>
           <p className="px-2.5 text-[11px] font-semibold uppercase tracking-widest text-nexus-muted">
             {negocioNombre}
           </p>
@@ -73,7 +72,7 @@ export function NegocioSidebar({ negocioSlug, negocioNombre, modulos }: NegocioS
           </div>
         )}
 
-        <div className="border-t border-nexus-border/70 pt-4">
+        <div className="mt-auto border-t border-nexus-border/70 pt-4">
           <Link
             href="/explorar"
             className="flex items-center gap-2.5 rounded-lg px-2.5 py-2 text-sm font-medium text-nexus-muted transition hover:bg-nexus-surface-alt hover:text-nexus-ink"
@@ -83,6 +82,5 @@ export function NegocioSidebar({ negocioSlug, negocioNombre, modulos }: NegocioS
           </Link>
         </div>
       </nav>
-    </aside>
   );
 }

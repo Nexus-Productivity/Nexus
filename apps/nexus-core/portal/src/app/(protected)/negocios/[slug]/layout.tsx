@@ -50,13 +50,15 @@ export default async function NegocioLayout({
   return (
     <div className="min-h-screen bg-nexus-bg">
       <PortalHeader email={ctx.email} negocios={ctx.negocios} activoSlug={ctx.activo?.slug} />
-      <div className="mx-auto flex max-w-7xl items-start gap-6 px-4 py-6 lg:px-6">
-        <NegocioSidebar
-          negocioSlug={params.slug}
-          negocioNombre={org.nombre}
-          modulos={modulos}
-        />
-        <main className="min-w-0 flex-1 pb-12">{children}</main>
+      <div className="flex min-h-[calc(100vh-4rem)]">
+        <aside className="w-60 shrink-0 border-r border-nexus-border bg-white">
+          <NegocioSidebar
+            negocioSlug={params.slug}
+            negocioNombre={org.nombre}
+            modulos={modulos}
+          />
+        </aside>
+        <main className="min-w-0 flex-1 px-6 py-6 lg:px-10">{children}</main>
       </div>
     </div>
   );
