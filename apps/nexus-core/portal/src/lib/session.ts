@@ -10,10 +10,14 @@ export interface NegocioInfo {
 
 /**
  * Todos los negocios del miembro (para el SELECT de la navbar).
+ * Excluye la org interna "Nexus" (plataforma): no es un negocio cliente.
  */
 export async function getMisNegocios(email: string): Promise<NegocioInfo[]> {
   return prisma.organization.findMany({
-    where: { members: { some: { email, activo: true } } },
+    where: {
+      members: { some: { email, activo: true } },
+      tipoNegocio: { not: "plataforma" },
+    },
     select: { id: true, slug: true, nombre: true, tipoNegocio: true },
     orderBy: { createdAt: "asc" },
   });
