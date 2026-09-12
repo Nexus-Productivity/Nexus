@@ -30,40 +30,53 @@ async function activarModuloBase(orgId: string) {
 }
 
 /**
- * REGISTRO — crea cuenta + negocio. El módulo BASE (Clientes) se activa
- * automáticamente; el resto se sugiere según el tipo de negocio en el panel.
+ * REGISTRO — crea solo la CUENTA de usuario (ámbito USER, org interna Nexus).
+ * El negocio se crea después, dentro del portal, en el onboarding
+ * (`/nuevo-negocio`), donde el módulo BASE (Clientes) se activa.
  */
 export async function registrar(input: FormData) {
   const nombre = String(input.get("nombre") || "").trim();
   const email = String(input.get("email") || "").trim().toLowerCase();
   const password = String(input.get("password") || "");
-  const negocio = String(input.get("negocio") || "").trim();
-  const tipoNegocio = String(input.get("tipoNegocio") || "otro").trim();
 
-  if (!nombre || !email || !password || !negocio) {
+  if (!nombre || !email || !password) {
     redirect("/registro?error=campos");
   }
   if (password.length < 6) {
     redirect("/registro?error=password");
   }
 
-  const passwordHash = await bcrypt.hash(password, 10);
-  const slug = `${slugify(negocio)}-${Date.now().toString(36).slice(-4)}`;
+  const existente = await prisma.member.findFirst({ where: { email } });
+  if (existente) {
+    redirect("/registro?error=email");
+  }
 
-  const primeraOrg = await prisma.organization.create({
-    data: {
-      nombre: negocio,
-      slug,
-      tipoNegocio,
+  const passwordHash = await bcrypt.hash(password, 10);
+
+  // La cuenta vive en la org interna "Nexus" (plataforma) hasta que el
+  // usuario cree su primer negocio en el onboarding.
+  const nexus = await prisma.organization.upsert({
+    where: { slug: "nexus" },
+    update: {},
+    create: {
+      nombre: "Nexus",
+      slug: "nexus",
+      tipoNegocio: "plataforma",
       moneda: "COP",
       pais: "CO",
-      members: {
-        create: { nombre, email, passwordHash, rol: "ADMIN" },
-      },
     },
   });
 
-  await activarModuloBase(primeraOrg.id);
+  await prisma.member.create({
+    data: {
+      orgId: nexus.id,
+      nombre,
+      email,
+      passwordHash,
+      rol: "ADMIN",
+      scope: "USER",
+    },
+  });
 
   redirect("/login?ok=1");
 }
@@ -101,8 +114,10 @@ export async function solicitarModulo(input: FormData) {
 }
 
 /**
- * NUEVO NEGOCIO — la cuenta suma otra org (mis negocios crece).
- * El módulo BASE se activa igual que en el registro.
+ * NUEVO NEGOCIO — la cuenta suma un negocio (onboarding o "crear otro").
+ * La membresía del dueño se MUEVE a la nueva org: el schema tiene email
+ * único global, así que no se crea un member nuevo (el de la org interna
+ * Nexus se reasigna). El módulo BASE se activa igual que en el registro.
  */
 export async function crearNegocio(input: FormData) {
   const session = await getServerSession(authOptions);
@@ -121,13 +136,19 @@ export async function crearNegocio(input: FormData) {
       tipoNegocio,
       moneda: "COP",
       pais: "CO",
-      members: {
-        create: {
-          nombre: session.user.name ?? nombre,
-          email: session.user.email,
-          rol: "ADMIN",
-        },
-      },
+    },
+  });
+
+  // Membresía en la nueva org (multi-org): la cuenta SUMA el negocio.
+  // El member de la org interna Nexus (plataforma) se conserva.
+  await prisma.member.upsert({
+    where: { email_orgId: { email: session.user.email, orgId: org.id } },
+    update: { rol: "ADMIN" },
+    create: {
+      orgId: org.id,
+      nombre: session.user.name ?? nombre,
+      email: session.user.email,
+      rol: "ADMIN",
     },
   });
 

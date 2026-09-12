@@ -25,8 +25,11 @@ export const authOptions: NextAuthOptions = {
       async authorize(credentials) {
         if (!credentials?.email || !credentials?.password) return null;
 
-        const member = await prisma.member.findUnique({
+        // login por identidad: una persona puede pertenecer a varias orgs —
+        // tomamos la membresía más reciente (su negocio activo al crear cuenta).
+        const member = await prisma.member.findFirst({
           where: { email: credentials.email.toLowerCase().trim() },
+          orderBy: { createdAt: "desc" },
         });
 
         if (!member || !member.passwordHash || !member.activo) return null;

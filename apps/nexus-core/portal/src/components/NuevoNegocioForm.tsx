@@ -1,6 +1,5 @@
 "use client";
 
-import { useRef } from "react";
 import { Plus } from "lucide-react";
 import { crearNegocio } from "@/lib/actions";
 
@@ -17,17 +16,11 @@ const TIPOS = [
   { value: "otro", label: "Otro" },
 ];
 
-/** Formulario para sumar un negocio a la cuenta (activa el módulo BASE). */
+/** Formulario para crear un negocio (onboarding o "crear otro"). Server action directa. */
 export function NuevoNegocioForm({ standalone = false }: NuevoNegocioFormProps) {
-  const formRef = useRef<HTMLFormElement>(null);
-
   const formBody = (
     <form
-      ref={formRef}
-      action={async (fd) => {
-        await crearNegocio(fd);
-        formRef.current?.reset();
-      }}
+      action={crearNegocio}
       className={`${standalone ? "space-y-4" : "space-y-3 border-t border-nexus-border/70 px-5 py-4"}`}
     >
       <div>
@@ -56,6 +49,9 @@ export function NuevoNegocioForm({ standalone = false }: NuevoNegocioFormProps) 
             </option>
           ))}
         </select>
+        <p className="mt-1 text-xs text-nexus-muted">
+          Esto nos dice qué módulos te conviene arrancar.
+        </p>
       </div>
       <button
         type="submit"

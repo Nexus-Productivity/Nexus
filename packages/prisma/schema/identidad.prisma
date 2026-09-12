@@ -46,8 +46,8 @@ model Member {
   orgId        String
   org          Organization @relation(fields: [orgId], references: [id])
   nombre       String
-  email        String    @unique // identidad de login (global: un email = una persona)
-  passwordHash String?   // login real (bcrypt). null = pendiente invitación
+  email        String   // identidad de login: una persona puede pertenecer a varias orgs
+  passwordHash String?  // login real (bcrypt). null = pendiente invitación
   rol          Rol       @default(OPERADOR)
   scope        UserScope @default(USER) // USER | CEO — consola global (futuro)
   activo       Boolean   @default(true) // desactivar ≠ borrar (decisión: nunca se borra identidad)
@@ -61,6 +61,7 @@ model Member {
   updatedAt   DateTime @updatedAt
 
   @@index([orgId])
+  @@unique([email, orgId]) // una persona por org (permite multi-org)
   @@map("members")
 }
 

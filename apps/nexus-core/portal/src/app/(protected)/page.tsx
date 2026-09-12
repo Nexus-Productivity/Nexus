@@ -39,10 +39,10 @@ export default async function HomePage() {
             caja menor, facturación y más. Un negocio, un panel.
           </p>
           <Link
-            href="/registro"
+            href="/nuevo-negocio"
             className="mt-6 inline-flex rounded-lg bg-nexus-ink px-5 py-2.5 text-sm font-medium text-white transition hover:bg-nexus-ink/85"
           >
-            Crear cuenta y negocio
+            Empezar el onboarding
           </Link>
         </div>
       </main>
