@@ -1,15 +1,14 @@
 import Link from "next/link";
 import { Wallet, Plus } from "lucide-react";
 import { prisma } from "@/lib/prisma";
-import { getGymOrg } from "@/lib/gym";
+import { getOrgActiva } from "@/lib/org";
 import { formatDate, formatMoney } from "@/lib/format";
 import { cobrarPago, crearPlan } from "@/lib/acciones-gym";
 
 export const dynamic = "force-dynamic";
 
 export default async function PagosPage() {
-  const org = await getGymOrg();
-  if (!org) return null;
+  const { org } = await getOrgActiva();
 
   const hoy = new Date();
   hoy.setHours(0, 0, 0, 0);
@@ -121,7 +120,7 @@ export default async function PagosPage() {
             <ul className="mt-3 divide-y divide-nexus-border/70">
               {porVencer.map((c) => (
                 <li key={c.id} className="flex items-center justify-between py-2.5">
-                  <Link href={`/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
+                  <Link href={`/gym/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
                     {c.nombre}
                   </Link>
                   <span className="text-sm text-nexus-muted">

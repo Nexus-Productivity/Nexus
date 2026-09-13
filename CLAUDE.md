@@ -3,24 +3,17 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## 📋 Overview
-Nexus es un monorepo que utiliza pnpm y Turborepo para gestionar un ecosistema de soluciones modulares. Actualmente contiene una aplicación financiera (nexus-finance) con un módulo inicial de caja menor.
+Nexus es el **núcleo** de la base del ecosistema: un portal (Next.js) con la estructura REGISTRO → ONBOARDING → PANEL PRINCIPAL → MÓDULOS SEGÚN EL ONBOARDING. Las apps verticales (`nexus-finance`, `nexus-services`) quedaron fuera de la base — referencia histórica en `main`. Ver `docs/BASE-NEXUS.md`.
 
-## 🏗️ Arquitectura
-- **apps/**: Aplicaciones independientes, cada una representa un módulo validado del ecosistema
-  - `apps/nexus-finance/`: Aplicación financiera principal
-    - `caja-menor/`: Primera aplicación Next.js (módulo de caja menor para negocios)
-    - `shared/`: Código compartido específico del dominio Finance
-- **packages/**: Bibliotecas y configuraciones compartidas entre aplicaciones
-  - `@nexus/config`: Presets compartidos (ESLint, Tailwind, TypeScript)
-  - `@nexus/prisma`: Schema y cliente Prisma singleton
-  - `@nexus/ui`: Componentes UI compartidos (futuro hogar de Storybook)
-  - `@nexus/utils`: Helpers tipados (validación Zod, schemas base)
-- **tooling/**: Configuraciones de desarrollo de bajo nivel
-  - `eslint-config/`: Configuración base de ESLint
-  - `tsconfig/`: Configuración base de TypeScript
-- **infraestructura**: 
-  - `docker-compose.yml`: PostgreSQL 16 local para desarrollo
-  - `.env.example`: Variables de entorno de referencia
+## 🏗️ Arquitectura (rama `core/base`)
+- **apps/nexus-core/portal/**: Portal único de Nexus
+  - `src/app/`: `(auth)` registro/login · `(onboarding)` perfil del negocio · `(protected)` shell + panel principal + módulos (`gym/`)
+  - `src/lib/`: `acciones.ts` (núcleo: registrar, onboarding, activar módulo) · `org.ts` (sesión → org activa) · `modulos.ts` (catálogo activos/sugeridos) · `gym.ts`/`acciones-gym.ts` (módulo Gym, aislado)
+- **packages/**:
+  - `@nexus/prisma`: Schema modular — `identidad.prisma` (NÚCLEO: Organization/Member/Module/OrganizationModule) + `gym.prisma` (MÓDULO). El núcleo no conoce módulos verticales.
+  - `@nexus/ui`, `@nexus/utils`, `@nexus/config`: compartidos (UI, helpers, presets)
+- **tooling/**: ESLint y TypeScript base
+- **infraestructura**: `docker-compose.yml` (PostgreSQL 16 local), `.env.example`
 
 ## ⚙️ Comandos esenciales
 

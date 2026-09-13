@@ -1,5 +1,7 @@
 /**
- * Dominio GYM — prototipo a la medida del gimnasio (rama gym/prototipo).
+ * MÓDULO GYM — datos del dashboard del gimnasio (rama core/base).
+ * El módulo ya no busca "la org del gym": recibe la org activa del usuario
+ * (lib/org.ts) y verifica la habilitación en el layout del módulo.
  * Cero mocks: todo se calcula sobre la base real.
  */
 import { prisma } from "@/lib/prisma";
@@ -28,9 +30,16 @@ export function rangoFechas(rango: RangoKey): { desde: Date; hasta: Date } {
   return { desde, hasta };
 }
 
-/** La org del gimnasio (el negocio del prototipo). */
-export async function getGymOrg() {
-  return prisma.organization.findFirst({ where: { tipoNegocio: "gimnasio" } });
+/** La org del gimnasio: el módulo recibe la org activa del usuario. */
+
+/** ¿La org tiene el módulo Gym ACTIVO? (lo usa el layout del módulo). */
+export async function gymHabilitado(orgId: string) {
+  const gym = await prisma.module.findUnique({ where: { slug: "gym" } });
+  if (!gym) return false;
+  const om = await prisma.organizationModule.findUnique({
+    where: { orgId_moduleId: { orgId, moduleId: gym.id } },
+  });
+  return om?.estado === "ACTIVO";
 }
 
 /**

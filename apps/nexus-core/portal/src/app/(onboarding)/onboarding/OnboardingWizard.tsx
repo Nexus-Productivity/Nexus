@@ -19,7 +19,7 @@ import {
   Wrench,
 } from "lucide-react";
 import { Button, FormField, Logo } from "@nexus/ui";
-import { guardarOnboarding } from "@/lib/acciones-gym";
+import { guardarOnboarding } from "@/lib/acciones";
 
 /**
  * Wizard de onboarding — 6 pasos:

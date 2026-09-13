@@ -1,6 +1,6 @@
 import { Receipt } from "lucide-react";
 import { prisma } from "@/lib/prisma";
-import { getGymOrg } from "@/lib/gym";
+import { getOrgActiva } from "@/lib/org";
 import { formatDate, formatMoney } from "@/lib/format";
 import { registrarGasto, anularGasto } from "@/lib/acciones-gym";
 
@@ -25,8 +25,7 @@ const CAT_COLOR: Record<string, string> = {
 };
 
 export default async function GastosPage() {
-  const org = await getGymOrg();
-  if (!org) return null;
+  const { org } = await getOrgActiva();
 
   const desde = new Date();
   desde.setMonth(desde.getMonth() - 1);

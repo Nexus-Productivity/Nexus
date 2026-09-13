@@ -2,15 +2,14 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, Pause, Play, Wallet } from "lucide-react";
 import { prisma } from "@/lib/prisma";
-import { getGymOrg } from "@/lib/gym";
+import { getOrgActiva } from "@/lib/org";
 import { formatDate, formatMoney } from "@/lib/format";
 import { cobrarPago, congelarCliente, reactivarCliente, anularPago } from "@/lib/acciones-gym";
 
 export const dynamic = "force-dynamic";
 
 export default async function ClientePage({ params }: { params: Promise<{ id: string }> }) {
-  const org = await getGymOrg();
-  if (!org) return null;
+  const { org } = await getOrgActiva();
   const { id } = await params;
 
   const cliente = await prisma.cliente.findFirst({
@@ -33,7 +32,7 @@ export default async function ClientePage({ params }: { params: Promise<{ id: st
 
   return (
     <div className="space-y-6">
-      <Link href="/clientes" className="flex items-center gap-1 text-sm text-nexus-muted hover:text-nexus-ink">
+      <Link href="/gym/clientes" className="flex items-center gap-1 text-sm text-nexus-muted hover:text-nexus-ink">
         <ArrowLeft className="h-4 w-4" /> Volver a clientes
       </Link>
 

@@ -6,7 +6,8 @@ import { ExpenseDonut } from "@/components/charts/ExpenseDonut";
 import { FiltroRango } from "@/components/FiltroRango";
 import { TourInicial } from "@/components/TourInicial";
 import { formatMoney, formatDate } from "@/lib/format";
-import { getGymDashboard, getGymOrg, isRango, RANGOS } from "@/lib/gym";
+import { getGymDashboard, isRango, RANGOS } from "@/lib/gym";
+import { getOrgActiva } from "@/lib/org";
 
 export const dynamic = "force-dynamic";
 
@@ -18,8 +19,7 @@ export default async function DashboardPage({
   const { rango: rangoRaw, tour } = await searchParams;
   const rango = isRango(rangoRaw) ? rangoRaw : "semana";
 
-  const org = await getGymOrg();
-  if (!org) return null;
+  const { org } = await getOrgActiva();
   const data = await getGymDashboard(rango, org.id, org.nombre);
 
   const rangoLabel = RANGOS.find((r) => r.key === rango)!.label;
@@ -77,7 +77,7 @@ export default async function DashboardPage({
       <div className="rounded-xl border border-nexus-border bg-nexus-surface p-5">
         <div className="flex items-center justify-between">
           <h2 className="text-sm font-semibold text-nexus-ink">Renovaciones próximas (7 días)</h2>
-          <Link href="/pagos" className="flex items-center gap-1 text-sm font-medium text-nexus-gold-text hover:underline">
+          <Link href="/gym/pagos" className="flex items-center gap-1 text-sm font-medium text-nexus-gold-text hover:underline">
             Cobrar <ArrowUpRight className="h-3.5 w-3.5" />
           </Link>
         </div>
@@ -106,7 +106,7 @@ export default async function DashboardPage({
           <div>
             <h3 className="text-sm font-semibold text-nexus-ink">Arrancá con lo básico</h3>
             <p className="mt-1 text-sm text-nexus-muted">
-              <Link href="/clientes" className="font-medium text-nexus-gold-text hover:underline">
+              <Link href="/gym/clientes" className="font-medium text-nexus-gold-text hover:underline">
                 Registrá tu primer cliente
               </Link>{" "}
               y cobrale su membresía: el dashboard empieza a contar solo, sin digitar nada a mano.

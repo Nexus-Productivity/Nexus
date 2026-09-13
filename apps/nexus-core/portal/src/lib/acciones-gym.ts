@@ -1,24 +1,30 @@
 /**
- * Acciones del dominio GYM (prototipo). Solo operaciones reales: alta de
- * cliente, cobro de membresía, gasto, plan. Nada simulado.
+ * MÓDULO GYM — acciones server del gimnasio (rama core/base).
+ * Solo operaciones reales: alta de cliente, cobro de membresía, gasto, plan.
+ * La sesión sale del NÚCLEO (org activa del usuario) y acá se verifica
+ * que la org tenga el módulo Gym ACTIVO antes de operar.
  */
 "use server";
 
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
-import { getServerSession } from "next-auth";
-import bcrypt from "bcryptjs";
 import type { MetodoPago } from "@prisma/client";
 import { prisma } from "@/lib/prisma";
-import { authOptions } from "@/lib/auth";
-import { getGymOrg } from "@/lib/gym";
+import { requiereSesion, getOrgActiva } from "@/lib/org";
 
-async function requireGym() {
-  const session = await getServerSession(authOptions);
-  if (!session?.user?.email) redirect("/login");
-  const org = await getGymOrg();
-  if (!org) redirect("/login");
-  return { email: session.user.email, orgId: org.id, nombre: session.user.name ?? null };
+async function requireModuloGym() {
+  const { email } = await requiereSesion();
+  const { org } = await getOrgActiva();
+
+  const gym = await prisma.module.findUnique({ where: { slug: "gym" } });
+  const habilitado = gym
+    ? await prisma.organizationModule.findUnique({
+        where: { orgId_moduleId: { orgId: org.id, moduleId: gym.id } },
+      })
+    : null;
+  if (!habilitado || habilitado.estado !== "ACTIVO") redirect("/");
+
+  return { email, orgId: org.id };
 }
 
 function str(input: FormData, key: string): string {
@@ -35,9 +41,9 @@ function din(input: FormData, key: string): number {
 // ---------------------------------------------------------------
 
 export async function crearCliente(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const nombre = str(input, "nombre");
-  if (!nombre) redirect("/clientes?error=nombre");
+  if (!nombre) redirect("/gym/clientes?error=nombre");
 
   const planId = str(input, "planId") || null;
 
@@ -56,12 +62,12 @@ export async function crearCliente(input: FormData) {
 
   // Si el cliente nace con membresía definida, registrar el primer pago es
   // responsabilidad del dueño desde el perfil (no se inventan pagos acá).
-  revalidatePath("/clientes");
-  redirect(`/clientes/${cliente.id}`);
+  revalidatePath("/gym/clientes");
+  redirect(`/gym/clientes/${cliente.id}`);
 }
 
 export async function actualizarCliente(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const id = str(input, "id");
   if (!id) return;
   const nombre = str(input, "nombre");
@@ -80,25 +86,25 @@ export async function actualizarCliente(input: FormData) {
     },
   });
 
-  revalidatePath(`/clientes/${id}`);
+  revalidatePath(`/gym/clientes/${id}`);
 }
 
 export async function congelarCliente(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const id = str(input, "id");
   if (!id) return;
   await prisma.cliente.updateMany({ where: { id, orgId }, data: { estado: "CONGELADO" } });
-  revalidatePath(`/clientes/${id}`);
-  revalidatePath("/clientes");
+  revalidatePath(`/gym/clientes/${id}`);
+  revalidatePath("/gym/clientes");
 }
 
 export async function reactivarCliente(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const id = str(input, "id");
   if (!id) return;
   await prisma.cliente.updateMany({ where: { id, orgId }, data: { estado: "ACTIVO" } });
-  revalidatePath(`/clientes/${id}`);
-  revalidatePath("/clientes");
+  revalidatePath(`/gym/clientes/${id}`);
+  revalidatePath("/gym/clientes");
 }
 
 // ---------------------------------------------------------------
@@ -110,9 +116,9 @@ export async function reactivarCliente(input: FormData) {
  * El estado pasa a ACTIVO y el periodoFin lo da el plan (o fecha libre).
  */
 export async function cobrarPago(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const clienteId = str(input, "clienteId");
-  if (!clienteId) redirect("/clientes");
+  if (!clienteId) redirect("/gym/clientes");
 
   const planId = str(input, "planId") || null;
   const monto = din(input, "monto");
@@ -145,21 +151,21 @@ export async function cobrarPago(input: FormData) {
     data: { periodoFin, estado: "ACTIVO", planId: plan?.id },
   });
 
-  revalidatePath("/");
-  revalidatePath("/pagos");
-  revalidatePath(`/clientes/${clienteId}`);
-  redirect(`/clientes/${clienteId}?ok=pago`);
+  revalidatePath("/"); revalidatePath("/gym");
+  revalidatePath("/gym/pagos");
+  revalidatePath(`/gym/clientes/${clienteId}`);
+  redirect(`/gym/clientes/${clienteId}?ok=pago`);
 }
 
 export async function anularPago(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const id = str(input, "id");
   const motivo = str(input, "motivo");
   if (!id || !motivo) return;
 
   await prisma.pago.updateMany({ where: { id, orgId }, data: { anulado: true, motivoAnulacion: motivo } });
-  revalidatePath("/");
-  revalidatePath("/pagos");
+  revalidatePath("/"); revalidatePath("/gym");
+  revalidatePath("/gym/pagos");
 }
 
 // ---------------------------------------------------------------
@@ -169,10 +175,10 @@ export async function anularPago(input: FormData) {
 const GASTO_ENUM = ["ARRIENDO", "NOMINA", "SERVICIOS", "MANTENIMIENTO", "PUBLICIDAD", "OTROS"];
 
 export async function registrarGasto(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const monto = din(input, "monto");
   const categoria = (str(input, "categoria") || "OTROS").toUpperCase();
-  if (monto <= 0) redirect("/gastos?error=monto");
+  if (monto <= 0) redirect("/gym/gastos?error=monto");
 
   await prisma.gasto.create({
     data: {
@@ -183,18 +189,18 @@ export async function registrarGasto(input: FormData) {
     },
   });
 
-  revalidatePath("/");
-  revalidatePath("/gastos");
+  revalidatePath("/"); revalidatePath("/gym");
+  revalidatePath("/gym/gastos");
 }
 
 export async function anularGasto(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const id = str(input, "id");
   const motivo = str(input, "motivo");
   if (!id || !motivo) return;
   await prisma.gasto.updateMany({ where: { id, orgId }, data: { anulado: true, motivoAnulacion: motivo } });
-  revalidatePath("/");
-  revalidatePath("/gastos");
+  revalidatePath("/"); revalidatePath("/gym");
+  revalidatePath("/gym/gastos");
 }
 
 // ---------------------------------------------------------------
@@ -202,97 +208,12 @@ export async function anularGasto(input: FormData) {
 // ---------------------------------------------------------------
 
 export async function crearPlan(input: FormData) {
-  const { orgId } = await requireGym();
+  const { orgId } = await requireModuloGym();
   const nombre = str(input, "nombre");
   const precio = din(input, "precio");
   const duracionDias = Math.round(din(input, "duracionDias")) || 30;
-  if (!nombre || precio <= 0) redirect("/pagos?error=plan");
+  if (!nombre || precio <= 0) redirect("/gym/pagos?error=plan");
 
   await prisma.plan.create({ data: { orgId, nombre, precio, duracionDias } });
-  revalidatePath("/pagos");
-}
-
-// ---------------------------------------------------------------
-// ONBOARDING (base NEXUS 2026-09-12) — el dueño arma su negocio.
-// Registra las respuestas del wizard: nombre, rubro, país+moneda,
-// equipo y dolor primero. Nada de mocks: de acá sale el negocio real.
-// ---------------------------------------------------------------
-
-const RUBROS = ["gimnasio", "restaurante", "tienda", "taller", "constructora", "otro"];
-const DOLORES = ["cobrar", "no-perder", "saber-flujo"];
-
-export async function guardarOnboarding(input: FormData) {
-  const { email, orgId, nombre } = await requireGym();
-
-  const nombreNegocio = str(input, "nombre") || "Mi negocio";
-  const rubro = (str(input, "rubro") || "otro").toLowerCase();
-  const pais = (str(input, "pais") || "CO").toUpperCase();
-  const moneda = (str(input, "moneda") || "COP").toUpperCase();
-  const equipo = str(input, "equipo") === "equipo" ? "equipo" : "solo-yo";
-  const dolor = DOLORES.includes(str(input, "dolor")) ? str(input, "dolor") : null;
-
-  // El perfil del negocio se arma UNA vez (el primer dueño); los demás
-  // usuarios completan su propia guía sin pisar los datos del negocio.
-  const org = await prisma.organization.findUnique({ where: { id: orgId } });
-  if (org && !org.onboardingCompletadoAt) {
-    await prisma.organization.update({
-      where: { id: orgId },
-      data: {
-        nombre: nombreNegocio,
-        tipoNegocio: RUBROS.includes(rubro) ? rubro : "otro",
-        pais,
-        moneda,
-        equipo,
-        dolor,
-        onboardingCompletadoAt: new Date(),
-      },
-    });
-  }
-
-  // Onboarding POR PERSONA (base NEXUS 2026-09-12): este email queda guiado.
-  // Si el usuario todavía no es miembro del negocio (nuevo registro), se le
-  // crea la membresía acá — quien arma el negocio entra como ADMIN (dueño).
-  await prisma.member.upsert({
-    where: { email_orgId: { email, orgId } },
-    update: { onboardingCompletadoAt: new Date() },
-    create: {
-      orgId,
-      email,
-      nombre: nombre ?? email.split("@")[0] ?? "Miembro",
-      rol: "ADMIN",
-      scope: "USER",
-      activo: true,
-      onboardingCompletadoAt: new Date(),
-    },
-  });
-
-  revalidatePath("/");
-  redirect("/?tour=1");
-}
-
-// ---------------------------------------------------------------
-// CUENTA (demo rápida del prototipo: el dueño no puede registrarse él
-// mismo si ya existe, así que el registro queda para prospectos futuros).
-// ---------------------------------------------------------------
-
-export async function registrar(input: FormData) {
-  const nombre = str(input, "nombre");
-  const email = str(input, "email").toLowerCase();
-  const password = str(input, "password");
-  if (!nombre || !email || !password) redirect("/registro?error=campos");
-  if (password.length < 6) redirect("/registro?error=password");
-
-  const existente = await prisma.member.findFirst({ where: { email } });
-  if (existente) redirect("/registro?error=email");
-
-  const passwordHash = await bcrypt.hash(password, 10);
-  const nexus = await prisma.organization.upsert({
-    where: { slug: "nexus" },
-    update: {},
-    create: { nombre: "Nexus", slug: "nexus", tipoNegocio: "plataforma", moneda: "COP", pais: "CO" },
-  });
-  await prisma.member.create({
-    data: { orgId: nexus.id, nombre, email, passwordHash, rol: "OPERADOR", scope: "USER" },
-  });
-  redirect("/login?ok=1");
+  revalidatePath("/gym/pagos");
 }

@@ -1,6 +1,6 @@
 import { Users } from "lucide-react";
 import { prisma } from "@/lib/prisma";
-import { getGymOrg } from "@/lib/gym";
+import { getOrgActiva } from "@/lib/org";
 import { formatDate } from "@/lib/format";
 import { crearCliente } from "@/lib/acciones-gym";
 import { ListaClientes } from "@/components/gym/ListaClientes";
@@ -19,8 +19,7 @@ const ESTADO_LABEL: Record<string, string> = {
 };
 
 export default async function ClientesPage() {
-  const org = await getGymOrg();
-  if (!org) return null;
+  const { org } = await getOrgActiva();
 
   const [clientes, planes] = await Promise.all([
     prisma.cliente.findMany({

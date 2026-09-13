@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Button, FormField, Logo } from "@nexus/ui";
-import { registrar } from "@/lib/acciones-gym";
+import { registrar } from "@/lib/acciones";
 
 export const dynamic = "force-dynamic";
 

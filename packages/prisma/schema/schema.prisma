@@ -1,16 +1,16 @@
 // ============================================================
 // Schema base — Prisma multi-file (prismaSchemaFolder)
 //
-// La app está ordenada por dominios (identidad global / caja).
-// El schema se divide IGUAL que la estructura de la app:
+// El núcleo de NEXUS NO conoce ningún módulo vertical (gym, caja...).
+// Cada módulo vive en su propio archivo y cuelga de Organization:
 //   schema.prisma    → datasource, generator, enums compartidos
-//   identidad.prisma → Organization, Member (USER GLOBAL multitenancy)
-//   caja.prisma      → Categoria, Movimiento + post-MVP (neto, sin mock)
+//   identidad.prisma → Organization, Member, Module (núcleo global)
+//   gym.prisma       → MÓDULO Gym (demo Zona Rosa, rama core/base)
 //
-// DECISIÓN (vault: arquitectura-multi-app-sesion-theme):
-//   User/Organization/Member son GLOBALES a nivel de datos.
-//   La separación "por campo" es SOLO de UI. Un futuro campo
-//   Services NO re-registra usuarios.
+// DECISIÓN (PLAN-BASE-NEXUS 2026-09-12): NEXUS es la marca, el Campo
+// es taxonomía interna y el Módulo es el producto reutilizable. La
+// identidad es GLOBAL: una persona (Member), varias orgs, módulos
+// activables por org. Un módulo nuevo NUNCA re-registra usuarios.
 // ============================================================
 generator client {
   provider        = "prisma-client-js"
@@ -24,33 +24,11 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// ---------- Enums GLOBALES (compartidos por ignorancia/cliente de la caja) ----------
+// ---------- Enums GLOBALES del núcleo ----------
 enum Rol {
-  ADMIN      // dueño de la caja (el profe)
-  OPERADOR   // puede operar movimientos
-  AUDITOR    // puede aprobar/revisar (arqueos, solicitudes)
-}
-
-enum TipoMovimiento {
-  INGRESO
-  EGRESO
-}
-
-enum EstadoMovimiento {
-  CONFIRMADO
-  ANULADO // nunca se borra: se anula con motivo y queda en AuditLog
-}
-
-enum EstadoSolicitud {
-  PENDIENTE
-  APROBADA
-  RECHAZADA
-}
-
-enum EstadoArqueo {
-  ABIERTO
-  CERRADO
-  DIFERENCIA
+  ADMIN      // dueño de la organización
+  OPERADOR   // tareas diarias (permisos por módulo)
+  AUDITOR    // puede aprobar/revisar
 }
 
 // ---------- Enums del PORTAL (catálogo de módulos) ----------

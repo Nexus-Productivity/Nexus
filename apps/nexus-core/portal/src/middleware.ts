@@ -1,10 +1,11 @@
 export { default } from "next-auth/middleware";
 
 /**
- * Prototipo GYM (rama gym/prototipo): todo lo privado requiere sesión.
+ * Núcleo Nexus (rama core/base): todo lo privado requiere sesión.
  * Público: /login, /registro, /api.
- * Las páginas (protected) re-verifican sesión + org gym en el layout.
+ * Las páginas (protected) re-verifican sesión + org activa + onboarding
+ * en el layout, y cada módulo verifica su propia habilitación.
  */
 export const config = {
-  matcher: ["/", "/clientes/:path*", "/pagos", "/gastos", "/onboarding"],
+  matcher: ["/", "/onboarding", "/gym/:path*"],
 };
