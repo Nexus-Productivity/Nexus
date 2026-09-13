@@ -6,5 +6,5 @@ export { default } from "next-auth/middleware";
  * Las páginas (protected) re-verifican sesión + org gym en el layout.
  */
 export const config = {
-  matcher: ["/", "/clientes/:path*", "/pagos", "/gastos"],
+  matcher: ["/", "/clientes/:path*", "/pagos", "/gastos", "/onboarding"],
 };

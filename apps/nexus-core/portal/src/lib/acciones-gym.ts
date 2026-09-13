@@ -18,7 +18,7 @@ async function requireGym() {
   if (!session?.user?.email) redirect("/login");
   const org = await getGymOrg();
   if (!org) redirect("/login");
-  return { email: session.user.email, orgId: org.id };
+  return { email: session.user.email, orgId: org.id, nombre: session.user.name ?? null };
 }
 
 function str(input: FormData, key: string): string {
@@ -210,6 +210,64 @@ export async function crearPlan(input: FormData) {
 
   await prisma.plan.create({ data: { orgId, nombre, precio, duracionDias } });
   revalidatePath("/pagos");
+}
+
+// ---------------------------------------------------------------
+// ONBOARDING (base NEXUS 2026-09-12) — el dueño arma su negocio.
+// Registra las respuestas del wizard: nombre, rubro, país+moneda,
+// equipo y dolor primero. Nada de mocks: de acá sale el negocio real.
+// ---------------------------------------------------------------
+
+const RUBROS = ["gimnasio", "restaurante", "tienda", "taller", "constructora", "otro"];
+const DOLORES = ["cobrar", "no-perder", "saber-flujo"];
+
+export async function guardarOnboarding(input: FormData) {
+  const { email, orgId, nombre } = await requireGym();
+
+  const nombreNegocio = str(input, "nombre") || "Mi negocio";
+  const rubro = (str(input, "rubro") || "otro").toLowerCase();
+  const pais = (str(input, "pais") || "CO").toUpperCase();
+  const moneda = (str(input, "moneda") || "COP").toUpperCase();
+  const equipo = str(input, "equipo") === "equipo" ? "equipo" : "solo-yo";
+  const dolor = DOLORES.includes(str(input, "dolor")) ? str(input, "dolor") : null;
+
+  // El perfil del negocio se arma UNA vez (el primer dueño); los demás
+  // usuarios completan su propia guía sin pisar los datos del negocio.
+  const org = await prisma.organization.findUnique({ where: { id: orgId } });
+  if (org && !org.onboardingCompletadoAt) {
+    await prisma.organization.update({
+      where: { id: orgId },
+      data: {
+        nombre: nombreNegocio,
+        tipoNegocio: RUBROS.includes(rubro) ? rubro : "otro",
+        pais,
+        moneda,
+        equipo,
+        dolor,
+        onboardingCompletadoAt: new Date(),
+      },
+    });
+  }
+
+  // Onboarding POR PERSONA (base NEXUS 2026-09-12): este email queda guiado.
+  // Si el usuario todavía no es miembro del negocio (nuevo registro), se le
+  // crea la membresía acá — quien arma el negocio entra como ADMIN (dueño).
+  await prisma.member.upsert({
+    where: { email_orgId: { email, orgId } },
+    update: { onboardingCompletadoAt: new Date() },
+    create: {
+      orgId,
+      email,
+      nombre: nombre ?? email.split("@")[0] ?? "Miembro",
+      rol: "ADMIN",
+      scope: "USER",
+      activo: true,
+      onboardingCompletadoAt: new Date(),
+    },
+  });
+
+  revalidatePath("/");
+  redirect("/?tour=1");
 }
 
 // ---------------------------------------------------------------

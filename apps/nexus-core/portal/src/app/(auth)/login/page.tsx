@@ -66,7 +66,7 @@ function LoginInner() {
         <div className="flex flex-col items-center text-center">
           <Logo size="lg" />
           <p className="mt-4 text-sm text-nexus-muted">
-            Un solo acceso para todos tus negocios.
+            ¿Perdiste plata el mes pasado? Nexus es la solución.
           </p>
         </div>
 

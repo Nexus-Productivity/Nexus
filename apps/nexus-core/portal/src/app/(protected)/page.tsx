@@ -4,6 +4,7 @@ import { StatCard } from "@nexus/ui";
 import { CashFlowChart } from "@/components/charts/CashFlowChart";
 import { ExpenseDonut } from "@/components/charts/ExpenseDonut";
 import { FiltroRango } from "@/components/FiltroRango";
+import { TourInicial } from "@/components/TourInicial";
 import { formatMoney, formatDate } from "@/lib/format";
 import { getGymDashboard, getGymOrg, isRango, RANGOS } from "@/lib/gym";
 
@@ -12,9 +13,9 @@ export const dynamic = "force-dynamic";
 export default async function DashboardPage({
   searchParams,
 }: {
-  searchParams: Promise<{ rango?: string }>;
+  searchParams: Promise<{ rango?: string; tour?: string }>;
 }) {
-  const { rango: rangoRaw } = await searchParams;
+  const { rango: rangoRaw, tour } = await searchParams;
   const rango = isRango(rangoRaw) ? rangoRaw : "semana";
 
   const org = await getGymOrg();
@@ -25,6 +26,9 @@ export default async function DashboardPage({
 
   return (
     <div className="space-y-6">
+      {/* Guía post-onboarding (side-out) */}
+      <TourInicial abrir={tour === "1"} />
+
       <div className="flex flex-wrap items-center justify-between gap-4">
         <div>
           <h1 className="text-xl font-bold text-nexus-ink">Dashboard · {data.orgNombre}</h1>

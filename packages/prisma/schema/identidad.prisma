@@ -24,6 +24,11 @@ model Organization {
   tipoNegocio String?  /// "gimnasio" | "comercio" | "restaurante" | ...
   moneda      String   @default("COP")
   pais        String?  /// código ISO (ej: "CO")
+  // Onboarding (base NEXUS 2026-09-12): respuestas del dueño + flag de fin.
+  // onboardingCompletadoAt = null → el dueño aún no arma su negocio.
+  equipo      String?  /// "solo-yo" | "equipo"
+  dolor       String?  /// "cobrar" | "no-perder" | "saber-flujo"
+  onboardingCompletadoAt DateTime?
   logoUrl     String?
   rolDefault  Rol      @default(OPERADOR)
   caja        Caja?    // 1:1 — el paquete de config de la caja
@@ -56,6 +61,9 @@ model Member {
   rol          Rol       @default(OPERADOR)
   scope        UserScope @default(USER) // USER | CEO — consola global (futuro)
   activo       Boolean   @default(true) // desactivar ≠ borrar (decisión: nunca se borra identidad)
+  // Onboarding POR PERSONA (base NEXUS 2026-09-12): cada usuario nuevo ve la
+  // guía hasta completarla. Null = todavía no armó su acceso al negocio.
+  onboardingCompletadoAt DateTime?
   movimientos Movimiento[]        @relation("responsable")
   solicitudesCreadas  SolicitudFondo[] @relation("solicitante")
   solicitudesValidadas SolicitudFondo[] @relation("validador")

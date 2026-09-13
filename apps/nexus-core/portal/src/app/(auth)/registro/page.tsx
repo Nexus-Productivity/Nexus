@@ -11,7 +11,8 @@ export const dynamic = "force-dynamic";
 /**
  * REGISTRO — solo la CUENTA de usuario (nombre, email, contraseña).
  * El negocio se crea después, dentro del portal, en el onboarding
- * (/nuevo-negocio): ahí se pregunta nombre, tipo y moneda del negocio.
+ * (/onboarding): ahí se preguntan nombre, rubro, país+moneda, equipo y
+ * dolor primero, con la intro de visión (problema → NEXUS es la solución).
  */
 export default function RegistroPage() {
   return (
@@ -37,7 +38,7 @@ function RegistroInner() {
         <div className="flex flex-col items-center text-center">
           <Logo size="lg" />
           <p className="mt-4 text-sm text-nexus-muted">
-            Tu cuenta de acceso. Tu negocio lo armamos juntos enseguida.
+            Creá tu cuenta — después armamos tu negocio en 5 minutos.
           </p>
         </div>
 

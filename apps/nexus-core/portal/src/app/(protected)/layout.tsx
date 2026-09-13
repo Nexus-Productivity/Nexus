@@ -5,9 +5,12 @@ import { LayoutDashboard, Users, Wallet, Receipt } from "lucide-react";
 import { Logo } from "@nexus/ui";
 import { authOptions } from "@/lib/auth";
 import { getGymOrg } from "@/lib/gym";
+import { prisma } from "@/lib/prisma";
 
 /**
  * Layout del prototipo GYM: una sesión, un negocio (el gimnasio).
+ * Si este USUARIO todavía no completó su guía (onboarding por persona),
+ * se manda a armar el acceso antes de entrar al sistema.
  * Fuera del alcance acá: explorar catálogo, consola CEO, multi-org.
  */
 export default async function GymLayout({ children }: { children: React.ReactNode }) {
@@ -16,6 +19,14 @@ export default async function GymLayout({ children }: { children: React.ReactNod
 
   const org = await getGymOrg();
   if (!org) notFound();
+
+  // Onboarding POR PERSONA (base NEXUS 2026-09-12): cada usuario nuevo ve la
+  // guía hasta completarla, aunque la org ya esté armada. La política NO está
+  // en la org (eso hacía que solo saliera una vez para todos).
+  const miembro = await prisma.member.findUnique({
+    where: { email_orgId: { email: session.user.email, orgId: org.id } },
+  });
+  if (!miembro?.onboardingCompletadoAt) redirect("/onboarding");
 
   const nav = [
     { href: "/", label: "Dashboard", icon: LayoutDashboard },
