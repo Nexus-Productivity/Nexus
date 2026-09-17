@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { Wallet, Plus } from "lucide-react";
-import { prisma } from "@/lib/prisma";
-import { getOrgActiva } from "@/lib/org";
-import { formatDate, formatMoney } from "@/lib/format";
-import { cobrarPago, crearPlan } from "@/lib/acciones-gym";
+import { prisma } from "@/lib/core/prisma";
+import { getOrgActiva } from "@/lib/core/org";
+import { formatDate, formatMoney } from "@/lib/shared/format";
+import { cobrarPago } from "@/lib/modulos/pagos/acciones";
+import { crearPlan } from "@/lib/modulos/planes/acciones";
 
 export const dynamic = "force-dynamic";
 
@@ -120,7 +121,7 @@ export default async function PagosPage() {
             <ul className="mt-3 divide-y divide-nexus-border/70">
               {porVencer.map((c) => (
                 <li key={c.id} className="flex items-center justify-between py-2.5">
-                  <Link href={`/gym/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
+                  <Link href={`/plantillas/gym/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
                     {c.nombre}
                   </Link>
                   <span className="text-sm text-nexus-muted">

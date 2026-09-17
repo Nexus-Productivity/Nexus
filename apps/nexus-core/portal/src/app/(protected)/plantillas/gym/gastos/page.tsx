@@ -1,8 +1,8 @@
 import { Receipt } from "lucide-react";
-import { prisma } from "@/lib/prisma";
-import { getOrgActiva } from "@/lib/org";
-import { formatDate, formatMoney } from "@/lib/format";
-import { registrarGasto, anularGasto } from "@/lib/acciones-gym";
+import { prisma } from "@/lib/core/prisma";
+import { getOrgActiva } from "@/lib/core/org";
+import { formatDate, formatMoney } from "@/lib/shared/format";
+import { registrarGasto, anularGasto } from "@/lib/modulos/gastos/acciones";
 
 export const dynamic = "force-dynamic";
 

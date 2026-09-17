@@ -1,9 +1,9 @@
 import { Users } from "lucide-react";
-import { prisma } from "@/lib/prisma";
-import { getOrgActiva } from "@/lib/org";
-import { formatDate } from "@/lib/format";
-import { crearCliente } from "@/lib/acciones-gym";
-import { ListaClientes } from "@/components/gym/ListaClientes";
+import { prisma } from "@/lib/core/prisma";
+import { getOrgActiva } from "@/lib/core/org";
+import { formatDate } from "@/lib/shared/format";
+import { crearCliente } from "@/lib/modulos/clientes/acciones";
+import { ListaClientes } from "@/components/modulos/clientes/ListaClientes";
 
 export const dynamic = "force-dynamic";
 
