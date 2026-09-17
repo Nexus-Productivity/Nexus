@@ -6,7 +6,7 @@
  * perfil del negocio (onboarding): Module.sugeridoPara contiene los
  * tipos de negocio para los que el módulo encaja.
  */
-import { prisma } from "@/lib/prisma";
+import { prisma } from "@/lib/core/prisma";
 
 /** Módulos ACTIVOS de una org, ordenados por el catálogo. */
 export async function getModulosActivos(orgId: string) {

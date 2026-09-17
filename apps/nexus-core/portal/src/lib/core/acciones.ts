@@ -13,10 +13,11 @@
 
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
+import { cookies } from "next/headers";
 import bcrypt from "bcryptjs";
-import { prisma } from "@/lib/prisma";
-import { requiereSesion } from "@/lib/org";
-import { activarModuloPorRubro, activarModuloEnOrg } from "@/lib/modulos";
+import { prisma } from "@/lib/core/prisma";
+import { requiereSesion } from "@/lib/core/org";
+import { activarModuloPorRubro, activarModuloEnOrg } from "@/lib/core/modulos";
 
 function str(input: FormData, key: string): string {
   return String(input.get(key) || "").trim();
@@ -83,6 +84,8 @@ export async function guardarOnboarding(input: FormData) {
   const dolor = ["cobrar", "no-perder", "saber-flujo"].includes(str(input, "dolor"))
     ? str(input, "dolor")
     : null;
+  // Módulos elegidos en "Otro negocio" (personalización del catálogo).
+  const modulosIds = (input.getAll("modulos") as string[]).filter(Boolean);
 
   const miembro = await prisma.member.findFirst({
     where: { email, activo: true },
@@ -113,12 +116,56 @@ export async function guardarOnboarding(input: FormData) {
     data: { onboardingCompletadoAt: new Date() },
   });
 
-  // El rubro decide el módulo que se enciende (PLAN-BASE §6: "módulo activo
-  // + dashboard funcionando + checklist" — nada de "próximamente").
-  const conModulo = await activarModuloPorRubro(miembro.orgId, rubro);
+  // "Otro negocio" → se activan los módulos que eligió del catálogo real.
+  // Rubro con plantilla → se activa su módulo base (PLAN-BASE §6).
+  let conModulo = false;
+  if (rubro === "otro" && modulosIds.length > 0) {
+    const validos = await prisma.module.findMany({
+      where: { id: { in: modulosIds }, activo: true },
+    });
+    for (const m of validos) {
+      const ok = await activarModuloEnOrg(miembro.orgId, m.id, "ADMIN");
+      if (ok) conModulo = true;
+    }
+  } else {
+    conModulo = await activarModuloPorRubro(miembro.orgId, rubro);
+  }
 
   revalidatePath("/");
-  redirect(conModulo ? "/gym?tour=1" : "/");
+
+  // Al terminar la guía, el usuario cae en SU módulo activo (no hardcodeado).
+  if (conModulo) {
+    const activo = await prisma.module.findFirst({
+      where: {
+        organizaciones: { some: { orgId: miembro.orgId, estado: "ACTIVO" } },
+        activo: true,
+      },
+      orderBy: { orden: "asc" },
+    });
+    if (activo) redirect(`/${activo.slug}?tour=1`);
+  }
+  redirect("/");
+}
+
+/**
+ * NAVBAR — cambia la organización ACTIVA del usuario (multi-org real).
+ * Es una acción GLOBAL (no depende del módulo): persiste en cookie y el
+ * próximo render de cualquier ruta usa la org elegida.
+ */
+export async function cambiarOrgActiva(input: FormData) {
+  const { email } = await requiereSesion();
+  const orgId = str(input, "orgId");
+  if (!orgId) return;
+
+  const miembro = await prisma.member.findFirst({ where: { email, orgId, activo: true } });
+  if (!miembro) return;
+
+  cookies().set("nexus-org-activa", orgId, {
+    httpOnly: true,
+    sameSite: "lax",
+    path: "/",
+  });
+  revalidatePath("/", "layout");
 }
 
 /** PANEL — activa un módulo sugerido (solo el ADMIN de la org). */
