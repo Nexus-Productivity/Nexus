@@ -11,8 +11,8 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import type { MonthlyFlow } from "@/lib/data";
-import { formatCompact, formatMoney } from "@/lib/format";
+import type { MonthlyFlow } from "@/lib/shared/tipos";
+import { formatCompact, formatMoney } from "@/lib/shared/format";
 
 interface CashFlowChartProps {
   data: MonthlyFlow[];

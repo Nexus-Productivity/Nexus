@@ -2,8 +2,8 @@
 
 import React from "react";
 import { Cell, Pie, PieChart, ResponsiveContainer, Tooltip } from "recharts";
-import type { CategoryExpense } from "@/lib/data";
-import { formatMoney } from "@/lib/format";
+import type { CategoryExpense } from "@/lib/shared/tipos";
+import { formatMoney } from "@/lib/shared/format";
 
 interface ExpenseDonutProps {
   data: CategoryExpense[];

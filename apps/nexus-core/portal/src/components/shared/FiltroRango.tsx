@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { RANGOS, type RangoKey } from "@/lib/gym";
+import { RANGOS, type RangoKey } from "@/lib/shared/rango";
 
 /** Filtro de rango: Última semana / mes / año → query ?rango=. */
 export function FiltroRango({ activo }: { activo: RangoKey }) {
