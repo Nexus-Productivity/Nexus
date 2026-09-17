@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { ArrowUpRight, CheckCircle2, Compass, Rocket } from "lucide-react";
 import { Button } from "@nexus/ui";
-import { getOrgActiva } from "@/lib/org";
-import { getModulosActivos, getModulosSugeridos } from "@/lib/modulos";
-import { activarModulo } from "@/lib/acciones";
+import { getOrgActiva } from "@/lib/core/org";
+import { getModulosActivos, getModulosSugeridos } from "@/lib/core/modulos";
+import { iconoModulo } from "@/lib/core/iconos-modulos";
+import { RUTA_POR_SLUG } from "@/lib/core/navegacion";
+import { activarModulo } from "@/lib/core/acciones";
 
 export const dynamic = "force-dynamic";
 
@@ -43,12 +45,15 @@ export default async function PanelPrincipalPage() {
             {activos.map((om) => (
               <Link
                 key={om.moduleId}
-                href={`/${om.module.slug}`}
+                href={RUTA_POR_SLUG[om.module.slug] ?? `/${om.module.slug}`}
                 className="group rounded-xl border border-nexus-border bg-nexus-surface p-5 transition hover:border-nexus-gold/60"
               >
                 <div className="flex items-start justify-between">
-                  <span className="text-2xl" aria-hidden>
-                    {om.module.icono ?? "✦"}
+                  <span className="flex h-10 w-10 items-center justify-center rounded-lg bg-nexus-gold/10">
+                    {(() => {
+                      const Icono = iconoModulo(om.module.icono);
+                      return <Icono className="h-5 w-5 text-nexus-gold" aria-hidden />;
+                    })()}
                   </span>
                   <ArrowUpRight className="h-4 w-4 text-nexus-muted transition group-hover:text-nexus-gold" />
                 </div>
@@ -62,7 +67,7 @@ export default async function PanelPrincipalPage() {
 
       {/* Sugerencias según el onboarding */}
       {sugeridos.length > 0 && (
-        <section className="rounded-xl border border-nexus-gold/30 bg-nexus-gold-soft p-5">
+        <section id="sugerencias" className="rounded-xl border border-nexus-gold/30 bg-nexus-gold-soft p-5 scroll-mt-20">
           <h2 className="flex items-center gap-2 text-sm font-semibold text-nexus-ink">
             <Compass className="h-4 w-4 text-nexus-gold" />
             Te recomendamos para tu negocio
@@ -74,9 +79,14 @@ export default async function PanelPrincipalPage() {
                 className="flex flex-wrap items-center justify-between gap-3 rounded-lg border border-nexus-border/70 bg-nexus-surface px-4 py-3"
               >
                 <div className="flex items-center gap-3">
-                  <span className="text-lg" aria-hidden>
-                    {m.icono ?? "✦"}
-                  </span>
+                  {(() => {
+                    const Icono = iconoModulo(m.icono);
+                    return (
+                      <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-nexus-gold/10">
+                        <Icono className="h-4.5 w-4.5 text-nexus-gold" aria-hidden />
+                      </span>
+                    );
+                  })()}
                   <div>
                     <p className="text-sm font-semibold text-nexus-ink">{m.nombre}</p>
                     <p className="text-xs text-nexus-muted">{m.descripcion}</p>
@@ -137,7 +147,7 @@ function capitalizar(s: string) {
     tienda: "Tienda",
     taller: "Taller",
     constructora: "Constructora",
-    otro: "Otro negocio",
+    otro: "Personalizar negocio",
   };
   return mapa[s] ?? s.charAt(0).toUpperCase() + s.slice(1);
 }

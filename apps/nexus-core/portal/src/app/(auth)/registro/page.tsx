@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Button, FormField, Logo } from "@nexus/ui";
-import { registrar } from "@/lib/acciones";
+import { registrar } from "@/lib/core/acciones";
 
 export const dynamic = "force-dynamic";
 
@@ -30,8 +30,8 @@ function RegistroInner() {
     <main
       className="relative flex min-h-screen items-center justify-center bg-nexus-bg px-4 py-12"
       style={{
-        backgroundImage:
-          "radial-gradient(700px 360px at 50% -10%, rgb(201 130 26 / 0.12), transparent 70%)",
+         backgroundImage:
+          "radial-gradient(800px 420px at 50% -20%, rgb(255 190 60 / 0.35), transparent 65%), radial-gradient(600px 320px at 50% -10%, rgb(201 130 26 / 0.25), transparent 70%)",
       }}
     >
       <div className="w-full max-w-sm">
@@ -68,7 +68,7 @@ function RegistroInner() {
                 type="text"
                 required
                 className="w-full rounded-md border border-nexus-border bg-nexus-surface px-3 py-2 text-sm text-nexus-ink focus:border-nexus-brand focus:outline-none focus:ring-2 focus:ring-nexus-brand/20"
-                placeholder="Laura Rivas"
+                placeholder="Tu nombre"
                 autoComplete="name"
               />
             </FormField>
@@ -79,7 +79,7 @@ function RegistroInner() {
                 type="email"
                 required
                 className="w-full rounded-md border border-nexus-border bg-nexus-surface px-3 py-2 text-sm text-nexus-ink focus:border-nexus-brand focus:outline-none focus:ring-2 focus:ring-nexus-brand/20"
-                placeholder="vos@negocio.com"
+                placeholder="correo@negocio.com"
                 autoComplete="email"
               />
             </FormField>

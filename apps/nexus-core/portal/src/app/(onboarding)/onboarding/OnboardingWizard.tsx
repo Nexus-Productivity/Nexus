@@ -11,6 +11,7 @@ import {
   HardHat,
   MapPin,
   Rocket,
+  Search,
   ShoppingBag,
   Sparkles,
   Store,
@@ -19,7 +20,8 @@ import {
   Wrench,
 } from "lucide-react";
 import { Button, FormField, Logo } from "@nexus/ui";
-import { guardarOnboarding } from "@/lib/acciones";
+import { iconoModulo } from "@/lib/core/iconos-modulos";
+import { guardarOnboarding } from "@/lib/core/acciones";
 
 /**
  * Wizard de onboarding — 6 pasos:
@@ -27,20 +29,33 @@ import { guardarOnboarding } from "@/lib/acciones";
  *  1. Nombre del negocio · 2. Rubro · 3. País + moneda · 4. Equipo · 5. Dolor primero.
  * 6. Resumen y guardado (server action guardarOnboarding → /?tour=1).
  *
- * El paso 2 marca el rubro para el rubro del módulo. Hoy sólo el gimnasio tiene
- * módulo activo; las demás opciones se guardan igualmente (llegan en el roadmap).
+ * El paso 2 (rubro) distingue:
+ *  - Rubros con PLANTILLA conocida (activo: true) → seleccionables, se activa
+ *    su módulo base al guardar (hoy: gimnasio → Gym).
+ *  - Rubros sin plantilla todavía → deshabilitados ("Próximamente").
+ *  - "Otro negocio" → PERSONALIZACIÓN: el negocio elige sus módulos del
+ *    catálogo real (el que viene del servidor) con una búsqueda.
  */
 
 const TOTAL = 6;
 
 const RUBROS = [
   { id: "gimnasio", label: "Gimnasio", icono: Dumbbell, activo: true },
-  { id: "restaurante", label: "Restaurante / Café", icono: Coffee },
-  { id: "tienda", label: "Tienda", icono: ShoppingBag },
-  { id: "taller", label: "Taller", icono: Wrench },
-  { id: "constructora", label: "Constructora", icono: HardHat },
-  { id: "otro", label: "Otro negocio", icono: Building2 },
+  { id: "restaurante", label: "Restaurante / Café", icono: Coffee, activo: false },
+  { id: "tienda", label: "Tienda", icono: ShoppingBag, activo: false },
+  { id: "taller", label: "Taller", icono: Wrench, activo: false },
+  { id: "constructora", label: "Constructora", icono: HardHat, activo: false },
+  { id: "otro", label: "Personalizar negocio", icono: Building2, activo: false },
 ];
+
+export interface ModuloCatalogo {
+  id: string;
+  slug: string;
+  nombre: string;
+  descripcion: string;
+  icono: string | null;
+  campo: string;
+}
 
 const PAISES = [
   { codigo: "CO", nombre: "Colombia" },
@@ -79,35 +94,58 @@ const EQUIPO = [
 type Datos = {
   nombre: string;
   rubro: string;
+  modulos: string[];
   pais: string;
   moneda: string;
   equipo: string;
   dolor: string;
 };
 
-export function OnboardingWizard({ orgNombre }: { orgNombre: string }) {
+export function OnboardingWizard({
+  orgNombre,
+  catalogo,
+}: {
+  orgNombre: string;
+  catalogo: ModuloCatalogo[];
+}) {
   const [paso, setPaso] = useState(0);
   const [datos, setDatos] = useState<Datos>({
     nombre: orgNombre,
     rubro: "gimnasio",
+    modulos: [],
     pais: "CO",
     moneda: "COP",
     equipo: "solo-yo",
     dolor: "",
   });
+  const [busqueda, setBusqueda] = useState("");
 
   const siguiente = () => setPaso((p) => Math.min(p + 1, TOTAL));
   const atras = () => setPaso((p) => Math.max(p - 1, 0));
 
+  const filtrados = catalogo.filter((m) => {
+    const q = busqueda.trim().toLowerCase();
+    if (!q) return true;
+    return (
+      m.nombre.toLowerCase().includes(q) || m.descripcion.toLowerCase().includes(q)
+    );
+  });
+
   const puedeSeguir =
-    paso === 1 ? datos.nombre.trim().length > 1 : paso === 5 ? datos.dolor !== "" : true;
+    paso === 1
+      ? datos.nombre.trim().length > 1
+      : paso === 2
+        ? datos.rubro !== "otro" || datos.modulos.length > 0
+        : paso === 5
+          ? datos.dolor !== ""
+          : true;
 
   return (
     <main
       className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-nexus-bg px-4 py-10"
       style={{
         backgroundImage:
-          "radial-gradient(650px 340px at 50% -10%, rgb(201 130 26 / 0.16), transparent 70%)",
+          "radial-gradient(800px 420px at 50% -20%, rgb(255 190 60 / 0.35), transparent 65%), radial-gradient(600px 320px at 50% -10%, rgb(201 130 26 / 0.25), transparent 70%)",
       }}
     >
       <div className="w-full max-w-lg">
@@ -155,7 +193,7 @@ export function OnboardingWizard({ orgNombre }: { orgNombre: string }) {
                   value={datos.nombre}
                   onChange={(e) => setDatos((d) => ({ ...d, nombre: e.target.value }))}
                   className="w-full rounded-md border border-nexus-border bg-nexus-surface px-3 py-2 text-sm text-nexus-ink focus:border-nexus-gold focus:outline-none focus:ring-2 focus:ring-nexus-gold/20"
-                  placeholder="Gimnasio Zona Rosa"
+                  placeholder="Tu negocio"
                   autoFocus
                 />
               </FormField>
@@ -170,21 +208,32 @@ export function OnboardingWizard({ orgNombre }: { orgNombre: string }) {
                   <Store className="h-5 w-5 text-nexus-gold" /> ¿A qué se dedica?
                 </h1>
                 <p className="mt-1 text-sm text-nexus-muted">
-                  Define qué módulos usa tu negocio en Nexus.
+                  Si tu rubro tiene plantilla, Nexus la arma sola. Si no, elegís los módulos.
                 </p>
               </div>
+
               <div className="grid grid-cols-2 gap-2.5">
                 {RUBROS.map((r) => {
                   const sel = datos.rubro === r.id;
+                  const deshabilitado = !r.activo && r.id !== "otro";
                   return (
                     <button
                       key={r.id}
                       type="button"
-                      onClick={() => setDatos((d) => ({ ...d, rubro: r.id }))}
+                      disabled={deshabilitado}
+                      onClick={() =>
+                        setDatos((d) => ({
+                          ...d,
+                          rubro: r.id,
+                          modulos: r.id === "otro" ? d.modulos : [],
+                        }))
+                      }
                       className={`flex flex-col items-start gap-1 rounded-xl border p-3.5 text-left transition ${
-                        sel
-                          ? "border-nexus-gold bg-nexus-gold-soft"
-                          : "border-nexus-border bg-nexus-surface hover:border-nexus-gold/50"
+                        deshabilitado
+                          ? "cursor-not-allowed border-nexus-border/60 bg-nexus-surface opacity-50"
+                          : sel
+                            ? "border-nexus-gold bg-nexus-gold-soft"
+                            : "border-nexus-border bg-nexus-surface hover:border-nexus-gold/50"
                       }`}
                     >
                       <r.icono className={`h-5 w-5 ${sel ? "text-nexus-gold" : "text-nexus-muted"}`} />
@@ -194,10 +243,91 @@ export function OnboardingWizard({ orgNombre }: { orgNombre: string }) {
                           Activo hoy
                         </span>
                       )}
+                      {deshabilitado && (
+                        <span className="rounded-full bg-nexus-border/40 px-2 py-0.5 text-[10px] font-medium text-nexus-muted">
+                          Próximamente
+                        </span>
+                      )}
+                      {r.id === "otro" && (
+                        <span className="rounded-full bg-nexus-gold/10 px-2 py-0.5 text-[10px] font-medium text-nexus-muted">
+                          Elegís tus módulos
+                        </span>
+                      )}
                     </button>
                   );
                 })}
               </div>
+
+              {/* Personalización: buscar y elegir módulos del catálogo */}
+              {datos.rubro === "otro" && (
+                <div className="rounded-xl border border-nexus-gold/30 bg-nexus-gold-soft p-4">
+                  <p className="text-sm font-semibold text-nexus-ink">
+                    Personalizá tu negocio con nuestros módulos
+                  </p>
+                  <p className="mt-0.5 text-xs text-nexus-muted">
+                    Buscá y marcá los que necesites (podés agregar más después).
+                  </p>
+
+                  <div className="relative mt-3">
+                    <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-nexus-muted" />
+                    <input
+                      type="text"
+                      value={busqueda}
+                      onChange={(e) => setBusqueda(e.target.value)}
+                      placeholder="Buscá un módulo…"
+                      className="w-full rounded-lg border border-nexus-border bg-nexus-surface py-2 pl-9 pr-3 text-sm text-nexus-ink focus:border-nexus-gold focus:outline-none focus:ring-2 focus:ring-nexus-gold/20"
+                    />
+                  </div>
+
+                  <div className="mt-3 space-y-2">
+                    {filtrados.length === 0 && (
+                      <p className="rounded-lg border border-dashed border-nexus-border px-3 py-4 text-center text-xs text-nexus-muted">
+                        No encontramos módulos para esa búsqueda.
+                      </p>
+                    )}
+                    {filtrados.map((m) => {
+                      const marcado = datos.modulos.includes(m.id);
+                      const Icono = iconoModulo(m.icono);
+                      return (
+                        <button
+                          key={m.id}
+                          type="button"
+                          onClick={() =>
+                            setDatos((d) => ({
+                              ...d,
+                              modulos: marcado
+                                ? d.modulos.filter((x) => x !== m.id)
+                                : [...d.modulos, m.id],
+                            }))
+                          }
+                          className={`flex w-full items-center gap-3 rounded-lg border p-3 text-left transition ${
+                            marcado
+                              ? "border-nexus-gold bg-nexus-surface-alt"
+                              : "border-nexus-border bg-nexus-surface hover:border-nexus-gold/50"
+                          }`}
+                        >
+                          <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-nexus-gold/10">
+                            <Icono className="h-4.5 w-4.5 text-nexus-gold" aria-hidden />
+                          </span>
+                          <span className="min-w-0 flex-1">
+                            <span className="block text-sm font-medium text-nexus-ink">{m.nombre}</span>
+                            <span className="block truncate text-xs text-nexus-muted">{m.descripcion}</span>
+                          </span>
+                          <span
+                            className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-md border ${
+                              marcado
+                                ? "border-nexus-gold bg-nexus-gold text-nexus-surface"
+                                : "border-nexus-border bg-nexus-surface"
+                            }`}
+                          >
+                            {marcado && <Check className="h-3.5 w-3.5" />}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
@@ -405,6 +535,9 @@ function Resumen({ datos }: { datos: Datos }) {
         {[
           ["Negocio", datos.nombre],
           ["Rubro", rubro],
+          ...(datos.rubro === "otro" && datos.modulos.length > 0
+            ? [["Módulos", datos.modulos.length + " elegidos"] as const]
+            : []),
           ["Ubicación", `${pais} · ${datos.moneda}`],
           ["Equipo", equipo],
           ["Primer foco", dolor],
@@ -424,6 +557,9 @@ function Resumen({ datos }: { datos: Datos }) {
         <input type="hidden" name="moneda" value={datos.moneda} />
         <input type="hidden" name="equipo" value={datos.equipo} />
         <input type="hidden" name="dolor" value={datos.dolor} />
+        {datos.modulos.map((m) => (
+          <input key={m} type="hidden" name="modulos" value={m} />
+        ))}
         <Button type="submit" size="lg" className="w-full">
           Entrar a Nexus <ArrowRight className="ml-2 h-4 w-4" />
         </Button>

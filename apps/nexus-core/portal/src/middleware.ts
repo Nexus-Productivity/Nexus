@@ -7,5 +7,5 @@ export { default } from "next-auth/middleware";
  * en el layout, y cada módulo verifica su propia habilitación.
  */
 export const config = {
-  matcher: ["/", "/onboarding", "/gym/:path*"],
+  matcher: ["/", "/onboarding", "/plantillas/:path*", "/modulos/:path*"],
 };

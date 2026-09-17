@@ -59,14 +59,14 @@ function LoginInner() {
       className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-nexus-bg px-4 py-12"
       style={{
         backgroundImage:
-          "radial-gradient(600px 320px at 50% -10%, rgb(201 130 26 / 0.14), transparent 70%)",
+          "radial-gradient(800px 420px at 50% -20%, rgb(255 190 60 / 0.35), transparent 65%), radial-gradient(600px 320px at 50% -10%, rgb(201 130 26 / 0.25), transparent 70%)",
       }}
     >
       <div className="w-full max-w-sm">
         <div className="flex flex-col items-center text-center">
           <Logo size="lg" />
           <p className="mt-4 text-sm text-nexus-muted">
-            ¿Perdiste plata el mes pasado? Nexus es la solución.
+            Soluciones para tu negocio, de principio a fin.
           </p>
         </div>
 
@@ -92,7 +92,7 @@ function LoginInner() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="w-full rounded-md border border-nexus-border bg-nexus-surface px-3 py-2 text-sm text-nexus-ink transition focus:border-nexus-brand focus:outline-none focus:ring-2 focus:ring-nexus-brand/20"
-                placeholder="vos@negocio.com"
+                placeholder="correo@negocio.com"
                 autoComplete="email"
               />
             </FormField>
