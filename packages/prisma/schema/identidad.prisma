@@ -62,26 +62,36 @@ model Member {
 // MÓDULOS — catálogo GLOBAL de NEXUS (nivel 1 del producto).
 // El cliente solo ve esto + las secciones de cada módulo.
 // `campo` es taxonomía INTERNA (Finance/Services/...): invisible al cliente.
+// `naturaleza` separa CAPA (horizontal, cualquier negocio) de VERTICAL
+//   (plantilla de un rubro: se activa por rubro, ej. Gym → gimnasio).
+//   La personalización del onboarding ofrece SOLO capas; los verticales
+//   entran como plantilla cuando el rubro coincide.
 // ============================================================
 
+enum NaturalezaModulo {
+  CAPA
+  VERTICAL
+}
+
 model Module {
-  id          String          @id @default(cuid())
-  slug        String          @unique // "clientes" | "caja-menor" | "facturacion" | ...
+  id          String            @id @default(cuid())
+  slug        String            @unique // "clientes" | "caja-menor" | "facturacion" | ...
   nombre      String
   descripcion String
-  campo       CampoModulo             // taxonomía INTERNA (invisible al cliente)
-  icono       String?                 // emoji/identificador visual
+  campo       CampoModulo               // taxonomía INTERNA (invisible al cliente)
+  naturaleza  NaturalezaModulo @default(CAPA)
+  icono       String?                   // slug del ícono lucide ("dumbbell", "wallet", ...)
   /// Módulo BASE: se activa automáticamente en toda organización al crearla
   /// (ej: "clientes"). No es contratable ni se puede desactivar.
-  porDefecto  Boolean         @default(false)
+  porDefecto  Boolean           @default(false)
   /// Tipos de negocio para los que se recomienda este módulo
   /// (ej: "gimnasio" → presupuestos para control de gastos de máquinas).
-  sugeridoPara String[]        @default([])
-  activo      Boolean         @default(true)
-  orden       Int             @default(0)
+  sugeridoPara String[]          @default([])
+  activo      Boolean           @default(true)
+  orden       Int               @default(0)
   organizaciones OrganizationModule[]
-  createdAt   DateTime        @default(now())
-  updatedAt   DateTime        @updatedAt
+  createdAt   DateTime          @default(now())
+  updatedAt   DateTime          @updatedAt
 
   @@map("modules")
 }
