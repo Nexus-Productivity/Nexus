@@ -90,8 +90,7 @@ async function main() {
     },
   });
 
-  for (let i = 0; i < gymModules.length; i++) {
-    const m = gymModules[i];
+  for (const [i, m] of gymModules.entries()) {
     const mod = await prisma.module.upsert({
       where: { slug: m.slug },
       update: { nombre: m.nombre, descripcion: m.descripcion, campo: m.campo, naturaleza: "VERTICAL", icono: m.icono, porDefecto: false, sugeridoPara: ["gimnasio"], orden: i + 1 },
