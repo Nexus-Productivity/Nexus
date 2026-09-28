@@ -10,6 +10,7 @@
  */
 import { prisma } from "@/lib/core/prisma";
 import { moduloActivoEnOrg } from "@/lib/core/requiere-modulo";
+import { derivarEstadosClientes } from "@/lib/modulos/clientes/estado";
 import type { MonthlyFlow, CategoryExpense } from "@/lib/shared/tipos";
 import { rangoFechas, buckets, inRange, type RangoKey } from "@/lib/shared/rango";
 
@@ -28,22 +29,12 @@ export async function gymHabilitado(orgId: string) {
 }
 
 /**
- * Deriva el estado real de cada cliente: si su membresía ya venció, pasa a
- * VENCIDO; si está al día (porque cobraron), vuelve a ACTIVO.
- * Se llama en cada lectura del dashboard: el estado SIEMPRE refleja los pagos.
+ * La derivación de estado del cliente es del MÓDULO CLIENTES, no de esta
+ * plantilla. Antes vivía acá y el dashboard hacía `updateMany` sobre la tabla
+ * de otro módulo; ahora se llama a su dueño. Re-exportado para no romper los
+ * imports de las páginas.
  */
-export async function derivaEstadosClientes(orgId: string) {
-  const hoy = new Date();
-  hoy.setHours(0, 0, 0, 0);
-  await prisma.cliente.updateMany({
-    where: { orgId, estado: "ACTIVO", periodoFin: { not: null, lt: hoy } },
-    data: { estado: "VENCIDO" },
-  });
-  await prisma.cliente.updateMany({
-    where: { orgId, estado: "VENCIDO", periodoFin: { gte: hoy } },
-    data: { estado: "ACTIVO" },
-  });
-}
+export { derivarEstadosClientes };
 
 export interface GymDashboard {
   orgId: string;
@@ -63,7 +54,7 @@ export interface GymDashboard {
 /** Datos del dashboard del gym en el rango pedido — TODO real. */
 export async function getGymDashboard(rango: RangoKey, orgId: string, orgNombre: string): Promise<GymDashboard> {
   const { desde, hasta } = rangoFechas(rango);
-  await derivaEstadosClientes(orgId);
+  await derivarEstadosClientes(orgId);
 
   const [pagos, gastos, clientes] = await Promise.all([
     prisma.pago.findMany({ where: { orgId, anulado: false, pagadoEl: { gte: desde, lte: hasta } } }),

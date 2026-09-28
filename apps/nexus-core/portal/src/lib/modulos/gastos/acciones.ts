@@ -7,6 +7,7 @@
 
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
+import type { CategoriaGasto } from "@prisma/client";
 import { prisma } from "@/lib/core/prisma";
 import { requiereModuloActivo } from "@/lib/core/requiere-modulo";
 import { str, din } from "@/lib/shared/form";
@@ -14,7 +15,7 @@ import { str, din } from "@/lib/shared/form";
 const GASTO_ENUM = ["ARRIENDO", "NOMINA", "SERVICIOS", "MANTENIMIENTO", "PUBLICIDAD", "OTROS"];
 
 export async function registrarGasto(input: FormData) {
-  const { orgId } = await requiereModuloActivo("gym");
+  const { orgId } = await requiereModuloActivo("gastos");
   const monto = din(input, "monto");
   const categoria = (str(input, "categoria") || "OTROS").toUpperCase();
   if (monto <= 0) redirect("/plantillas/gym/gastos?error=monto");
@@ -23,7 +24,7 @@ export async function registrarGasto(input: FormData) {
     data: {
       orgId,
       monto,
-      categoria: GASTO_ENUM.includes(categoria) ? (categoria as never) : "OTROS",
+      categoria: GASTO_ENUM.includes(categoria) ? (categoria as CategoriaGasto) : "OTROS",
       descripcion: str(input, "descripcion") || null,
     },
   });
@@ -33,7 +34,7 @@ export async function registrarGasto(input: FormData) {
 }
 
 export async function anularGasto(input: FormData) {
-  const { orgId } = await requiereModuloActivo("gym");
+  const { orgId } = await requiereModuloActivo("gastos");
   const id = str(input, "id");
   const motivo = str(input, "motivo");
   if (!id || !motivo) return;
