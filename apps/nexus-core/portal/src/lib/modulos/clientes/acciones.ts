@@ -13,7 +13,7 @@ import { resolverPlanDeOrg } from "@/lib/modulos/clientes/consultas";
 import { recalcularMembresia } from "@/lib/modulos/clientes/estado";
 import { str } from "@/lib/shared/form";
 
-const LISTADO = "/plantillas/gym/clientes";
+const LISTADO = "/modulos/clientes";
 
 /** Resultado de leer una fecha opcional de un formulario. */
 type FechaOpcional =

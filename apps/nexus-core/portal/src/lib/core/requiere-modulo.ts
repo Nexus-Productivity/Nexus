@@ -2,14 +2,14 @@
  * NÚCLEO — gate de acceso a módulos.
  *
  * ESTE ARCHIVO ES EL ÚNICO que consulta si una organización tiene un módulo
- * habilitado. Antes había cuatro copias del mismo chequeo:
- *   - `requiere-modulo.ts`   (este, el canónico)
- *   - `caja-menor/acciones.ts`   `requireModuloCajaMenor`
- *   - `caja-menor/datos.ts`       `cajamenorHabilitado`
- *   - `plantillas/gym/dashboard.ts` `gymHabilitado`
- * Las tres últimas quedaron como envolturas DELEGADAS aquí: conservan sus
- * nombres porque las páginas y los actions las usan, pero la decisión vive
- * en un solo lado. Si el criterio de "tiene el módulo" cambia, cambia acá.
+ * habilitado. Antes había cuatro copias del mismo chequeo. Las que quedaban
+ * como envolturas delegadas se fueron cayendo a medida que el acceso se movió
+ * a `components/core/GuardModulo.tsx` (rutas) y a las server actions:
+ *   - `caja-menor/acciones.ts`   `requireModuloCajaMenor` → borrada
+ *   - `caja-menor/datos.ts`       `cajamenorHabilitado`   → borrada
+ *   - `plantillas/gym/dashboard.ts` `gymHabilitado`       → borrada
+ * Quien llama, llama directo a `moduloActivoEnOrg` o a `requiereModuloActivo`.
+ * Si el criterio de "tiene el módulo" cambia, cambia acá y en ningún otro lado.
  *
  * Un slug puede ser:
  *   1) un MÓDULO del catálogo (`Module`)  → exige ESE módulo activo;

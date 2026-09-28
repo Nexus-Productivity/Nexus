@@ -10,7 +10,7 @@ import { prisma } from "@/lib/core/prisma";
 import { requiereModuloActivo } from "@/lib/core/requiere-modulo";
 import { str, din } from "@/lib/shared/form";
 
-const LISTADO = "/plantillas/gym/pagos";
+const LISTADO = "/modulos/pagos";
 
 /** Duración razonable de un plan: de 1 día a 5 años. */
 const DIAS_MIN = 1;

@@ -123,7 +123,7 @@ export default async function PagosPage() {
             <ul className="mt-3 divide-y divide-nexus-border/70">
               {porVencer.map((c) => (
                 <li key={c.id} className="flex items-center justify-between py-2.5">
-                  <Link href={`/plantillas/gym/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
+                  <Link href={`/modulos/clientes/${c.id}`} className="font-medium text-nexus-ink hover:underline">
                     {c.nombre}
                   </Link>
                   <span className="text-sm text-nexus-muted">

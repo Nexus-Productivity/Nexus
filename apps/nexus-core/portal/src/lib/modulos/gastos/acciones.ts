@@ -18,7 +18,7 @@ export async function registrarGasto(input: FormData) {
   const { orgId } = await requiereModuloActivo("gastos");
   const monto = din(input, "monto");
   const categoria = (str(input, "categoria") || "OTROS").toUpperCase();
-  if (monto <= 0) redirect("/plantillas/gym/gastos?error=monto");
+  if (monto <= 0) redirect("/modulos/gastos?error=monto");
 
   await prisma.gasto.create({
     data: {
@@ -30,7 +30,7 @@ export async function registrarGasto(input: FormData) {
   });
 
   revalidatePath("/"); revalidatePath("/plantillas/gym");
-  revalidatePath("/plantillas/gym/gastos");
+  revalidatePath("/modulos/gastos");
 }
 
 export async function anularGasto(input: FormData) {
@@ -40,5 +40,5 @@ export async function anularGasto(input: FormData) {
   if (!id || !motivo) return;
   await prisma.gasto.updateMany({ where: { id, orgId }, data: { anulado: true, motivoAnulacion: motivo } });
   revalidatePath("/"); revalidatePath("/plantillas/gym");
-  revalidatePath("/plantillas/gym/gastos");
+  revalidatePath("/modulos/gastos");
 }

@@ -1,23 +1,12 @@
 /**
  * MÓDULO CAJA MENOR — datos del módulo (rama core/base).
- * Igual que gym: recibe la org activa del usuario (lib/org.ts) y verifica
- * la habilitación en el layout del módulo. Cero mocks: todo sale de la base.
+ * Igual que gym: recibe la org activa del usuario (lib/org.ts) y el acceso lo
+ * cuida `components/core/GuardModulo.tsx`. Cero mocks: todo sale de la base.
  * El saldo se DERIVA (suma de movimientos no anulados) — nunca se guarda.
  */
 import { prisma } from "@/lib/core/prisma";
-import { moduloActivoEnOrg } from "@/lib/core/requiere-modulo";
 import type { MonthlyFlow, CategoryExpense } from "@/lib/shared/tipos";
 import { rangoFechas, buckets, inRange, type RangoKey } from "@/lib/shared/rango";
-
-/**
- * ¿La org tiene el módulo Caja Menor ACTIVO? (lo usa el layout del módulo).
- *
- * DELGADO: la decisión vive en `lib/core/requiere-modulo.ts` — el mismo gate
- * que usan las server actions. Acá solo se adapta al nombre del dominio.
- */
-export async function cajamenorHabilitado(orgId: string) {
-  return moduloActivoEnOrg("caja-menor", orgId);
-}
 
 /** Saldo actual: INGRESOS − EGRESOS de movimientos NO anulados (todas las fechas). */
 export async function saldoCaja(orgId: string): Promise<number> {

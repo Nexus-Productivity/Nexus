@@ -17,7 +17,7 @@ import { cookies } from "next/headers";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/core/prisma";
 import { requiereSesion } from "@/lib/core/org";
-import { activarModuloPorRubro, activarModuloEnOrg, getModulosActivosAgrupados, getRutaBase } from "@/lib/core/modulos";
+import { activarModuloPorRubro, activarModuloEnOrg, activarModulosPorDefecto, getModulosActivosAgrupados, getRutaBase } from "@/lib/core/modulos";
 
 function str(input: FormData, key: string): string {
   return String(input.get(key) || "").trim();
@@ -59,6 +59,10 @@ export async function registrar(input: FormData) {
   const org = await prisma.organization.create({
     data: { nombre: "Mi negocio", slug: await slugUnico(slugBase) },
   });
+
+  // Los módulos BASE del catálogo entran desde el primer momento: son la base
+  // del producto, no una sugerencia. `clientes` es el caso de hoy.
+  await activarModulosPorDefecto(org.id);
 
   await prisma.member.create({
     data: { orgId: org.id, nombre, email, passwordHash, rol: "ADMIN" },

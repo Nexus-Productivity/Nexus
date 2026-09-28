@@ -21,8 +21,8 @@ import { str, din } from "@/lib/shared/form";
  */
 const METODOS: readonly string[] = ["EFECTIVO", "TARJETA", "TRANSFERENCIA", "NEQUI", "OTRO"];
 
-const FICHA = "/plantillas/gym/clientes";
-const LISTADO = "/plantillas/gym/pagos";
+const FICHA = "/modulos/clientes";
+const LISTADO = "/modulos/pagos";
 const DASHBOARD = "/plantillas/gym";
 
 /** Revalida todo lo que un cobro o una anulación puede haber cambiado. */

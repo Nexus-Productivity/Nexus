@@ -23,9 +23,7 @@ import { str, din } from "@/lib/shared/form";
  */
 async function requireModuloCajaMenor() {
   return requiereModuloActivo("caja-menor");
-}
-
-// ---------------------------------------------------------------
+}// ---------------------------------------------------------------
 // MOVIMIENTOS
 // ---------------------------------------------------------------
 

@@ -7,6 +7,13 @@
  * La SUGERENCIA sale del perfil del negocio (onboarding).
  */
 import { prisma } from "@/lib/core/prisma";
+import { getSubpaginasModulo } from "@/lib/core/navegacion";
+
+/** Una entrada navegable del sidebar. */
+export interface SeccionModulo {
+  href: string;
+  label: string;
+}
 
 /** Módulos ACTIVOS de una org, ordenados por el catálogo. */
 export async function getModulosActivos(orgId: string) {
@@ -32,6 +39,14 @@ export interface ModuloNavAgrupado {
    * null = el catálogo no define ruta (el link no se renderiza).
    */
   rutaBase: string | null;
+  /**
+   * Sub-entradas del sidebar, también derivadas del catálogo: para una
+   * plantilla, sus módulos miembros; para un módulo suelto, sus sub-páginas.
+   * Antes las armaba `lib/core/navegacion.ts` con rutas fijas y claves que
+   * nunca se usaban, y una org con `clientes` solo veía enlaces a Pagos y
+   * Gastos que no tenía.
+   */
+  secciones: SeccionModulo[];
 }
 
 /**
@@ -45,10 +60,17 @@ export async function getModulosActivosAgrupados(orgId: string): Promise<ModuloN
   if (activos.length === 0) return [];
 
   const enPlantilla = await prisma.plantillaModulo.findMany({
+    where: { plantilla: { activo: true }, moduleId: { in: activos.map((a) => a.moduleId) } },
     include: { plantilla: true },
+    orderBy: { orden: "asc" },
   });
+
+  // Un módulo puede estar en más de una plantilla. El "último gana" del Map
+  // no era determinista (el findMany no traía orden); ahora gana la primera
+  // según el `orden` de la propia plantilla_modulos.
   const plantillaPorModule = new Map<string, { slug: string; nombre: string; descripcion: string | null; icono: string | null; rutaBase: string | null }>();
   for (const pm of enPlantilla) {
+    if (plantillaPorModule.has(pm.moduleId)) continue;
     plantillaPorModule.set(pm.moduleId, {
       slug: pm.plantilla.slug,
       nombre: pm.plantilla.nombre,
@@ -64,10 +86,28 @@ export async function getModulosActivosAgrupados(orgId: string): Promise<ModuloN
   for (const om of activos) {
     const plantilla = plantillaPorModule.get(om.moduleId);
     if (plantilla) {
-      if (!vistos.has(plantilla.slug)) {
-        vistos.add(plantilla.slug);
-        resultado.push(plantilla);
+      if (vistos.has(plantilla.slug)) continue;
+      vistos.add(plantilla.slug);
+
+      // Las sub-entradas de una plantilla son SUS MÓDULOS, cada uno en su
+      // propia ruta (`/modulos/<slug>`), y salen de los miembros ACTIVOS: si
+      // la org no tiene `gastos`, no aparece un enlace a Gastos.
+      const secciones: SeccionModulo[] = [];
+      for (const pm of enPlantilla) {
+        if (pm.plantilla.slug !== plantilla.slug) continue;
+        const activo = activos.find((a) => a.moduleId === pm.moduleId);
+        if (!activo?.module.rutaBase) continue;
+        secciones.push({ href: activo.module.rutaBase, label: activo.module.nombre });
       }
+
+      resultado.push({
+        slug: plantilla.slug,
+        nombre: plantilla.nombre,
+        descripcion: plantilla.descripcion,
+        icono: plantilla.icono,
+        rutaBase: plantilla.rutaBase,
+        secciones,
+      });
     } else {
       resultado.push({
         slug: om.module.slug,
@@ -75,6 +115,7 @@ export async function getModulosActivosAgrupados(orgId: string): Promise<ModuloN
         descripcion: om.module.descripcion,
         icono: om.module.icono,
         rutaBase: om.module.rutaBase,
+        secciones: getSubpaginasModulo(om.module.slug, om.module.rutaBase),
       });
     }
   }
@@ -123,6 +164,30 @@ export async function getModulosSugeridos(orgId: string, tipoNegocio?: string | 
     orderBy: { orden: "asc" },
   });
   return sugeridos.filter((m) => !activosIds.has(m.id) && !enPlantillaIds.has(m.id));
+}
+
+/**
+ * Activa los módulos BASE del catálogo en la org.
+ *
+ * `Module.porDefecto` marcaba en el schema que ciertos módulos se activan
+ * "automáticamente en toda organización al crearla" (ej: clientes), pero la
+ * columna solo se escribía en el seed: nadie la leía. Un negocio se quedaba
+ * sin su módulo base y no había forma de recuperarlo salvo activarlo a mano
+ * desde el panel.
+ *
+ * Se llama al crear la organización. Un CAPA con `porDefecto` es la base del
+ * producto, no una recomendación: viene siempre, con independencia del rubro.
+ */
+export async function activarModulosPorDefecto(orgId: string): Promise<number> {
+  const base = await prisma.module.findMany({ where: { activo: true, porDefecto: true } });
+  for (const m of base) {
+    await prisma.organizationModule.upsert({
+      where: { orgId_moduleId: { orgId, moduleId: m.id } },
+      update: {},
+      create: { orgId, moduleId: m.id, estado: "ACTIVO", activadoAt: new Date() },
+    });
+  }
+  return base.length;
 }
 
 /** Activa un módulo del catálogo en la org (si no estaba). */
