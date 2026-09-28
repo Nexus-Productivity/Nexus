@@ -17,7 +17,7 @@ import { cookies } from "next/headers";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/core/prisma";
 import { requiereSesion } from "@/lib/core/org";
-import { activarModuloPorRubro, activarModuloEnOrg, getModulosActivosAgrupados } from "@/lib/core/modulos";
+import { activarModuloPorRubro, activarModuloEnOrg, getModulosActivosAgrupados, getRutaBase } from "@/lib/core/modulos";
 
 function str(input: FormData, key: string): string {
   return String(input.get(key) || "").trim();
@@ -182,9 +182,17 @@ export async function activarModulo(input: FormData) {
   await activarModuloEnOrg(miembro.orgId, moduleId, miembro.rol);
 
   revalidatePath("/");
-  const org = await prisma.organization.findUnique({ where: { id: miembro.orgId } });
   // NO se llama `module`: `module` es un global de CommonJS y Next lo
   // reescribe; asignarle rompe el bundle del server (`@next/next/no-assign-module-variable`).
   const modulo = await prisma.module.findUnique({ where: { id: moduleId } });
-  if (org && modulo) revalidatePath(`/${modulo.slug}`);
+  if (!modulo) return;
+
+  // La ruta sale del CATÁLOGO, no de armarla con el slug. Antes era
+  // `revalidatePath(`/${modulo.slug}`)`, que apunta a `/caja-menor`: una ruta
+  // que no existe, porque caja-menor vive en `/modulos/caja-menor`. La
+  // revalidación no fallaba en voz alta, solo no invalidaba nada.
+  // `getRutaBase` resuelve también el caso de un módulo miembro de plantilla
+  // (que hereda la base de su plantilla).
+  const rutaBase = await getRutaBase(modulo.slug);
+  if (rutaBase) revalidatePath(rutaBase);
 }
