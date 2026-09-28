@@ -9,7 +9,6 @@
  * habilitada si tiene ACTIVO al menos un módulo miembro de la plantilla.
  */
 import { prisma } from "@/lib/core/prisma";
-import { moduloActivoEnOrg } from "@/lib/core/requiere-modulo";
 import { derivarEstadosClientes } from "@/lib/modulos/clientes/estado";
 import type { MonthlyFlow, CategoryExpense } from "@/lib/shared/tipos";
 import { rangoFechas, buckets, inRange, type RangoKey } from "@/lib/shared/rango";
@@ -19,22 +18,21 @@ export { RANGOS, isRango, rangoFechas, buckets } from "@/lib/shared/rango";
 export type { RangoKey } from "@/lib/shared/rango";
 
 /**
- * ¿La org tiene la plantilla Gym habilitada? (lo usa el layout del módulo).
- *
- * DELGADO: la decisión vive en `lib/core/requiere-modulo.ts` — es el mismo
- * gate que usan las server actions. Acá solo se adapta al nombre del dominio.
- */
-export async function gymHabilitado(orgId: string) {
-  return moduloActivoEnOrg("gym", orgId);
-}
-
-/**
  * La derivación de estado del cliente es del MÓDULO CLIENTES, no de esta
  * plantilla. Antes vivía acá y el dashboard hacía `updateMany` sobre la tabla
  * de otro módulo; ahora se llama a su dueño. Re-exportado para no romper los
  * imports de las páginas.
  */
 export { derivarEstadosClientes };
+
+/**
+ * EL GATE SOLO VIVE EN `lib/core/requiere-modulo.ts`.
+ * Hasta el Eje A este archivo exportaba `gymHabilitado()` y el layout de la
+ * plantilla lo llamaba. Con `moduloActivoEnOrg("gym")` + `GuardModulo` el
+ * acceso se decidió en UN solo lado; la envoltura se borró y el layout llama
+ * a `requiereModuloActivo` directo.
+ * Si el criterio de "tiene la plantilla" cambia, cambia en ese archivo.
+ */
 
 export interface GymDashboard {
   orgId: string;
