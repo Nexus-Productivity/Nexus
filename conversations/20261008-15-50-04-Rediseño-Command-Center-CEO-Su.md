@@ -7,7 +7,7 @@
 ## Conversation
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 # NEXUS THRIVE — Command Center CEO / SuperAdmin
 
@@ -1602,7 +1602,7 @@ La prioridad es:
 > **Visibilidad ejecutiva → Operación → Seguridad → Velocidad → Escalabilidad → UX**
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -1706,7 +1706,7 @@ eb3d57e feat(finance): implement payment management features including payment f
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -1869,7 +1869,7 @@ export default nextConfig;
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -1955,7 +1955,7 @@ sign-up/ [[...sign-up]]
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -2700,7 +2700,7 @@ model QuoteItem {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -3115,7 +3115,7 @@ body {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -4066,7 +4066,7 @@ export const config = {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -4823,7 +4823,7 @@ export default function TenantStatusBadge({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -5328,7 +5328,7 @@ export function getQuotePublicUrl(tenantSlug: string, quoteId: string): string {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -5667,7 +5667,7 @@ export default function Header({ tenantName }: HeaderProps) {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -5831,7 +5831,7 @@ For a vague prompt, ask **one** disambiguating question. Pick from:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -5896,7 +5896,7 @@ EXIT=0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -6029,7 +6029,7 @@ psql: error: invalid URI query parameter: "schema"
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -6101,7 +6101,7 @@ api/endpoints/ APIKeysApi.d.ts AbstractApi.d.ts AccountlessApplicationsAPI.d.ts 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -6329,7 +6329,7 @@ export type RecentActivityItem = {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -6413,7 +6413,7 @@ upgrades
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -6990,7 +6990,7 @@ Let me read migrations.md quickstart and queries.md sections. I'll read migratio
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7217,7 +7217,7 @@ Voy a construir el Command Center sobre datos reales. Empiezo por la fundación 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7286,7 +7286,7 @@ Done in 2m 8s using pnpm v12.3.4
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7363,7 +7363,7 @@ OK Pill
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7444,7 +7444,7 @@ type SVGProps = Record<string, any>;
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7531,7 +7531,7 @@ Done in 3.1s using pnpm v12.3.4
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7589,7 +7589,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7648,7 +7648,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7793,7 +7793,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7898,7 +7898,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -7969,7 +7969,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8027,7 +8027,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8141,7 +8141,7 @@ OK Tent
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8180,7 +8180,7 @@ tilityPole, UtilityPole as UtilityPoleIcon, Van, Van as VanIcon, Variable, Varia
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8222,7 +8222,7 @@ Let me do a definitive check with rg.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8262,7 +8262,7 @@ ucideBuilding, BuildingComplex as LucideBuilding2, Building
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8303,7 +8303,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8343,7 +8343,7 @@ EXIT=0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8442,7 +8442,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8488,7 +8488,7 @@ Let me run emit first.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8526,7 +8526,7 @@ Let me run it.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8564,7 +8564,7 @@ Let me apply.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8638,7 +8638,7 @@ Migración aplicada (6 ops aditivas). Realineo el ref de dev y estudio los idiom
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8879,7 +8879,7 @@ Let me read the tenant-db sections to learn: aggregate date ranges, `and`/`or` f
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -8951,7 +8951,7 @@ This skill is split for selective loading. Target-specific reference paths live 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -9062,7 +9062,7 @@ The four parsers are also `fns` members in the SQL builder. Each takes the text 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -9166,7 +9166,7 @@ Let me read lines 280-330.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -9334,7 +9334,7 @@ app/admin/page.tsx:74:        <PlatformMetrics metrics={metrics} />
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -9510,12 +9510,12 @@ export function currentYearBogota(): number {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -9656,12 +9656,12 @@ FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compact
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10138,7 +10138,7 @@ export function createAdminDb() {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10187,7 +10187,7 @@ Let me find the line number of monthRangeBogota.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10360,7 +10360,7 @@ Let me grep the contract for model fields quickly.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10491,7 +10491,7 @@ enum PaymentStatus {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10665,7 +10665,7 @@ enum Role {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10854,7 +10854,7 @@ lib/memberships.ts:222:export function whatsappReminderLink(
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -10965,7 +10965,7 @@ export function paymentStatusLabel(status: PaymentStatusValue): string {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11041,7 +11041,7 @@ enum MembershipType {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11273,7 +11273,7 @@ export const db = postgres<Contract>({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11590,7 +11590,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11646,7 +11646,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11701,7 +11701,7 @@ lib/admin-db.ts(750,9): error TS2741: Property 'epochMilliseconds' is missing in
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11745,7 +11745,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11830,7 +11830,7 @@ Let me check package.json.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11888,7 +11888,7 @@ object
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11931,7 +11931,7 @@ Wrote file successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -11974,7 +11974,7 @@ Node.js v26.7.0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -12044,7 +12044,7 @@ tenant sample: {
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -12292,7 +12292,7 @@ removed
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -12676,7 +12676,7 @@ Also read page.tsx and platform-metrics/tenant-table current to know what to rep
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -12894,7 +12894,7 @@ Let me read them.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -12982,7 +12982,7 @@ node_modules/@clerk/nextjs/dist/types/utils/serverRedirectWithAuth.d.ts.map
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13021,7 +13021,7 @@ node_modules/@clerk/nextjs/dist/types/server/index.d.ts:6:export { n } from './n
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13147,7 +13147,7 @@ utils.d.ts.map  1.3K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13227,7 +13227,7 @@ export { clerkClient };
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13276,7 +13276,7 @@ chunk-TOROEX6P.mjs
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13335,7 +13335,7 @@ node_modules/.pnpm/@clerk+backend@3.23.0_react-dom@19.2.8_react@19.2.8__react@19
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13499,7 +13499,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13536,7 +13536,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13594,7 +13594,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13630,7 +13630,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13685,7 +13685,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13732,7 +13732,7 @@ app/admin/page.tsx(50,13): error TS2339: Property 'getPlatformMetrics' does not 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13799,7 +13799,7 @@ Hmm 358 — let me read.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13838,7 +13838,7 @@ Let me apply.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13866,7 +13866,7 @@ Let me apply.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13893,7 +13893,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -13960,7 +13960,7 @@ export { cn } from "./utils";
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -14319,7 +14319,7 @@ export { Checkbox };
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -14448,7 +14448,7 @@ Let me check the globals.css tokens to know available color classes (--color-*).
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -14849,7 +14849,7 @@ function EcosystemRow({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -14949,7 +14949,7 @@ Let me read sheet.tsx, command.tsx, dialog.tsx, dropdown-menu.tsx exports quickl
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15026,7 +15026,7 @@ export {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15135,7 +15135,7 @@ function CommandDialog({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15199,7 +15199,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15225,7 +15225,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15279,7 +15279,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15322,7 +15322,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15359,7 +15359,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15660,7 +15660,7 @@ export default function PaginationLinks({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15758,7 +15758,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -15968,7 +15968,7 @@ Now the tenant-table + drawer. Let me also make the vertical icon helper usage: 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16047,7 +16047,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16138,7 +16138,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16228,7 +16228,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16257,7 +16257,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16284,7 +16284,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16311,7 +16311,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16371,7 +16371,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16398,7 +16398,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16500,7 +16500,7 @@ Let me grep TenantForm props.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16526,7 +16526,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16552,7 +16552,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16591,7 +16591,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16617,7 +16617,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16675,7 +16675,7 @@ export default function TenantModuleBadges({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16788,7 +16788,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16814,7 +16814,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16920,7 +16920,7 @@ Now loading.tsx. Let me read the existing one and rewrite.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -16946,12 +16946,12 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17072,12 +17072,12 @@ FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compact
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17169,7 +17169,7 @@ tenant-toolbar.tsx  4.1K
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17207,7 +17207,7 @@ app/admin/_components/tenant-drawer.tsx(133,44): error TS2339: Property 'created
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17257,7 +17257,7 @@ node_modules/.pnpm/@clerk+react@6.17.6_react-dom@19.2.8_react@19.2.8__react@19.2
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17445,7 +17445,7 @@ Clerk 7 dropped the legacy `useSignIn().isLoaded/setActive`. The new signals-bas
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17495,7 +17495,7 @@ Let me inspect signInFuture.d.ts.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17605,7 +17605,7 @@ Let me inspect signInFuture.d.ts.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17697,7 +17697,7 @@ Let me check the return shape of `ticket` (line 561) and `finalize` (587).
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17897,7 +17897,7 @@ Now let me read the current tenant-drawer impersonation code around lines 40-140
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -17983,7 +17983,7 @@ node_modules/.pnpm/@clerk+shared@4.39.0_react-dom@19.2.8_react@19.2.8__react@19.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18033,7 +18033,7 @@ node_modules/.pnpm/@clerk+shared@4.39.0_react-dom@19.2.8_react@19.2.8__react@19.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18094,7 +18094,7 @@ node_modules/.pnpm/@clerk+shared@4.39.0_react-dom@19.2.8_react@19.2.8__react@19.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18157,7 +18157,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18190,7 +18190,7 @@ Now createImpersonationAction returns `result.message` / `result.ticket` / `resu
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18283,7 +18283,7 @@ tsc passes. Now run lint.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18346,7 +18346,7 @@ $ eslint
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18454,7 +18454,7 @@ Calling setState synchronously within an effect body causes cascading renders th
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18555,7 +18555,7 @@ zsh:1: no matches found: .eslintrc*
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18667,7 +18667,7 @@ prisma/contract.d.ts
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18741,7 +18741,7 @@ But wait — are the `{}` errors also present in `.devin`/`.claude` skill files?
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -18835,12 +18835,12 @@ Does the lint flag setState inside startTransition within effect? The rule detec
 </details>
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 diseña esa vaina bien que sea un panel con sidebar bien profesional y bordes no con un color negro fuerte corrige eso y dejalo listo.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19040,7 +19040,7 @@ export default async function AdminLayout({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19261,7 +19261,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19298,7 +19298,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19485,7 +19485,7 @@ Check Sheet exports: SheetContent, SheetHeader, SheetTitle, SheetTrigger. Does S
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19543,7 +19543,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19570,7 +19570,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19632,7 +19632,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19660,7 +19660,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19699,7 +19699,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19895,7 +19895,7 @@ Let me check how tenant-table renders the drawer.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -19975,7 +19975,7 @@ Let me check how tenant-table renders the drawer.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20038,7 +20038,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20062,7 +20062,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20107,7 +20107,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20146,7 +20146,7 @@ app/admin/actions.ts:171:export async function suspendTenantAction(
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20206,7 +20206,7 @@ app/admin/actions.ts:171:export async function suspendTenantAction(
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20266,7 +20266,7 @@ app/admin/actions.ts:171:export async function suspendTenantAction(
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20303,7 +20303,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20369,7 +20369,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20393,7 +20393,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20457,7 +20457,7 @@ Calling setState synchronously within an effect body causes cascading renders th
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20547,7 +20547,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20649,7 +20649,7 @@ Now check admin-db warnings and remove unused imports/vars. Let me read the rele
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20687,7 +20687,7 @@ Let me grep usages.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20732,7 +20732,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20770,7 +20770,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20835,7 +20835,7 @@ import {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20862,7 +20862,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20907,7 +20907,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -20979,7 +20979,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21017,7 +21017,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21042,7 +21042,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21119,7 +21119,7 @@ Route (app)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21229,7 +21229,7 @@ export default function ExecutiveKpis({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21312,7 +21312,7 @@ const ACCENTS: Record<string, string> = {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21381,7 +21381,7 @@ function AlertRow({ label, value }: { label: string; value: number }) {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21480,7 +21480,7 @@ Build OK. Guardo lo clave en memoria y cierro el resumen:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21506,7 +21506,7 @@ Build OK. Guardo lo clave en memoria y cierro el resumen:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -21548,7 +21548,7 @@ Los únicos avisos restantes de lint son archivos generados de Prisma (`.d.ts` d
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 # NEXUS THRIVE — Sistema de Onboarding Adaptativo
 
@@ -23012,7 +23012,7 @@ El flujo final esperado es:
 La implementación debe ser **production-ready**, modular, mantenible, segura y alineada con la arquitectura existente de NEXUS THRIVE.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23157,7 +23157,7 @@ Voy a implementar el Sistema de Onboarding Adaptativo. Primero necesito entender
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23242,7 +23242,7 @@ Voy a implementar el Sistema de Onboarding Adaptativo. Primero necesito entender
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23431,7 +23431,7 @@ Voy a implementar el Sistema de Onboarding Adaptativo. Primero necesito entender
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23529,7 +23529,7 @@ app/[tenant]/onboarding/_components/onboarding-progress.tsx
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23809,7 +23809,7 @@ app/[tenant]/onboarding/_components/onboarding-progress.tsx
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23945,7 +23945,7 @@ export const config = {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -23989,7 +23989,7 @@ Existing: admin createTenant creates Tenant + optionally a User? Let me check ad
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -24114,7 +24114,7 @@ Existing: admin createTenant creates Tenant + optionally a User? Let me check ad
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -25734,7 +25734,7 @@ Also I need to see `lib/tenant-db.ts` fully — how tenantDb.users works, `onboa
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -25773,7 +25773,7 @@ Now let me see the rest of tenant-db.ts: the `onboarding` namespace and `dashboa
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -25898,7 +25898,7 @@ Now let me see the rest of tenant-db.ts: the `onboarding` namespace and `dashboa
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -25941,7 +25941,7 @@ Now let me see the rest of tenant-db.ts: the `onboarding` namespace and `dashboa
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26085,7 +26085,7 @@ Now the big question: what creates a Tenant + OWNER User for a new signup that h
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26264,7 +26264,7 @@ Let me read admin-catalogs around MODULES, BASE_MODULES, VERTICAL_RECIPES struct
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26369,7 +26369,7 @@ Let me read admin-catalogs around MODULES, BASE_MODULES, VERTICAL_RECIPES struct
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26503,7 +26503,7 @@ export const RESERVED_SLUGS = [
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26602,7 +26602,7 @@ export const RESERVED_SLUGS = [
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26721,12 +26721,12 @@ Let me read the `(app)/layout.tsx` gate.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -26947,12 +26947,12 @@ FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compact
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27295,7 +27295,7 @@ Note: file list is sampled.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27351,7 +27351,7 @@ Where would the spec live? The user handed 49 sections in the conversation (befo
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27549,7 +27549,7 @@ I have the full pattern now. First, the mandatory post-compaction memory save, t
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27709,7 +27709,7 @@ I have the full pattern now. First, the mandatory post-compaction memory save, t
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27861,7 +27861,7 @@ export default definePrismaConfig({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27913,7 +27913,7 @@ ad4b126 feat(memberships): implement membership creation and renewal actions,...
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27942,7 +27942,7 @@ b089352 feat(onboarding): implement multi-step onboarding wizard for business...
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -27977,7 +27977,7 @@ Actually, the best check: `pnpm prisma migration ref list` and `pnpm prisma db v
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28133,7 +28133,7 @@ Then run `pnpm prisma contract emit` (or rely on the Vite plugin — see `refere
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28182,7 +28182,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28209,7 +28209,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28237,7 +28237,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28263,7 +28263,7 @@ Contract emitted. Now the migration plan from the db ref:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28303,7 +28303,7 @@ Plan is exactly the 6 additive ops, no data transforms. Applying:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28343,7 +28343,7 @@ Applied (1 migration, 6 ops). The `db` ref didn't auto-advance (`advancedRef: nu
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28489,7 +28489,7 @@ tooltip.tsx  1.7K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28572,7 +28572,7 @@ tooltip.tsx  1.7K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28695,7 +28695,7 @@ export const VERTICALS = [
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -28779,7 +28779,7 @@ export function normalizeVertical(value: string): VerticalValue {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29016,7 +29016,7 @@ references/queries-mongo.md:205:Update callbacks return arrays of field operatio
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29041,7 +29041,7 @@ references/queries-mongo.md:205:Update callbacks return arrays of field operatio
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29107,7 +29107,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29133,7 +29133,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29159,7 +29159,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29197,7 +29197,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29224,7 +29224,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29281,7 +29281,7 @@ Wait, I made an edit error — the oldString had "  // Orden estable..." with tw
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29308,7 +29308,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29343,7 +29343,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29422,7 +29422,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29449,7 +29449,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29618,7 +29618,7 @@ Now let me view the final validation file to double-check coherence.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29660,7 +29660,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29851,7 +29851,7 @@ lib/tenant-db.ts:2060:        db.transaction(async (tx) => {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29914,7 +29914,7 @@ function escapeLike(input: string): string {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29951,7 +29951,7 @@ function escapeLike(input: string): string {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -29995,7 +29995,7 @@ function escapeLike(input: string): string {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30098,7 +30098,7 @@ To be safe inside tx: use `tx.orm...` for EVERYTHING (which I plan to). The sync
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30198,7 +30198,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30224,7 +30224,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30280,7 +30280,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30315,7 +30315,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30409,7 +30409,7 @@ Now the page. Let me look at the existing onboarding shell for design language a
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30513,7 +30513,7 @@ export default function OnboardingShell({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30636,7 +30636,7 @@ export default function OnboardingShell({
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30754,7 +30754,7 @@ Good design pattern reference. The new adaptive wizard is different: single subm
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30915,7 +30915,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30942,7 +30942,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30969,7 +30969,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -30996,7 +30996,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31029,7 +31029,7 @@ Could not find oldString in the file. It must match exactly, including whitespac
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31093,7 +31093,7 @@ Could not find oldString in the file. It must match exactly, including whitespac
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31120,7 +31120,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31268,7 +31268,7 @@ Now check the UI primitives (switch, input, label) before writing the wizard:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31405,7 +31405,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31431,7 +31431,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31492,7 +31492,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31530,7 +31530,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31557,7 +31557,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31584,7 +31584,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31612,7 +31612,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31648,7 +31648,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31676,7 +31676,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31702,7 +31702,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31740,7 +31740,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31767,7 +31767,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31795,7 +31795,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31830,7 +31830,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31856,7 +31856,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -31974,7 +31974,7 @@ lib/onboarding/validation.ts(90,12): error TS2339: Property 'tenantType' does no
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32073,7 +32073,7 @@ Let me fix these. Read actions.ts around 130-145.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32100,15 +32100,15 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 continua
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32135,7 +32135,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32173,7 +32173,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32201,7 +32201,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32226,7 +32226,7 @@ DONE
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32273,7 +32273,7 @@ tsc is clean. Now eslint on the new code:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32314,7 +32314,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32341,7 +32341,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32368,7 +32368,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32395,7 +32395,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32421,7 +32421,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32503,7 +32503,7 @@ Route (app)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32586,7 +32586,7 @@ Build passes with `/onboarding` served. Let me verify the preset logic against t
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32641,7 +32641,7 @@ Build passes with `/onboarding` served. Let me verify the preset logic against t
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32721,7 +32721,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32748,7 +32748,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32775,7 +32775,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32806,7 +32806,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32833,7 +32833,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32860,7 +32860,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32887,7 +32887,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32914,7 +32914,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32942,7 +32942,7 @@ app/onboarding/_components/adaptive-business-form.tsx(157,49): error TS2339: Pro
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -32990,7 +32990,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33016,7 +33016,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33059,7 +33059,7 @@ Clean. Final build to confirm:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33111,7 +33111,7 @@ ops.json  7.9K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33165,7 +33165,7 @@ Everything is in place. Let me persist the learnings per protocol:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33191,7 +33191,7 @@ Everything is in place. Let me persist the learnings per protocol:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33217,7 +33217,7 @@ Everything is in place. Let me persist the learnings per protocol:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33292,7 +33292,7 @@ Everything is in place. Let me persist the learnings per protocol:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33326,12 +33326,12 @@ Decisión tomada: `legalName` se agregó como campo propio (razón social) en ve
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 en el onboading no veo nada implementado sigue igual
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33513,7 +33513,7 @@ be1d010 feat: add APU importer with XLSX/CSV/TXT parsing and row re-derivation
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33572,7 +33572,7 @@ status=200 redirect=
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33625,7 +33625,7 @@ not-found:            1
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33687,7 +33687,7 @@ root status=307 loc=http://localhost:3000/sign-in
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33748,7 +33748,7 @@ shell tool terminated command after exceeding timeout 120000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33786,7 +33786,7 @@ El `pkill -f "pnpm run dev"` se auto-mató (el patrón coincidía con su propia 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33830,7 +33830,7 @@ $ next dev
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33876,7 +33876,7 @@ admin status=307 loc=http://localhost:3000/sign-in?redirect_url=http%3A%2F%2Floc
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33926,7 +33926,7 @@ clerk:                1
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -33963,7 +33963,7 @@ Wait, the `rtk` wrapper might be eating output. Let me just check file size and 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34013,12 +34013,12 @@ zsh:1: == not found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34177,12 +34177,12 @@ FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compact
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34227,7 +34227,7 @@ self.__next_f.push([1,"0:{\"P\":\"$1\",\"c\":[\"\",\"onboarding\"],\"q\":\"\",\"
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34323,7 +34323,7 @@ To learn more, including how to opt-out from the telemetry program, visit: https
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34545,7 +34545,7 @@ El header dice `signed-out` pero responde 200 con la 404 por defecto — eso sug
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34644,7 +34644,7 @@ To learn more, including how to opt-out from the telemetry program, visit: https
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34694,7 +34694,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34723,7 +34723,7 @@ status=200 loc=
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34777,7 +34777,7 @@ app/sign-up//
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34817,7 +34817,7 @@ rtk: rtk find does not support compound predicates or actions (e.g. -not, -exec)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34855,7 +34855,7 @@ app/[tenant]/onboarding/page.tsx
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34944,7 +34944,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -34980,7 +34980,7 @@ probe status=200
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35070,7 +35070,7 @@ ls: cannot access '.next/server/app/probe/': No such file or directory
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35141,7 +35141,7 @@ Manifest clave hallado: el dev SÍ conoce `/onboarding/page` como estática. La 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35183,7 +35183,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35215,7 +35215,7 @@ status=200
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35272,7 +35272,7 @@ La página AHORA ejecuta y renderiza `DIAG-ONBOARDING-OK` — el ruteo funciona.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35353,7 +35353,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35381,7 +35381,7 @@ status=200 loc=
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35434,7 +35434,7 @@ app/admin/layout.tsx:    n();
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35521,7 +35521,7 @@ El patrón de `/admin` es distinto — leo el layout de admin completo para comp
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35617,7 +35617,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35644,7 +35644,7 @@ onboarding status=200 loc=
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35692,7 +35692,7 @@ oundary:not-found\",\"pagePath\":\"__next_builtin__not-found.js@boundary\
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35778,7 +35778,7 @@ status=200 loc=
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35856,7 +35856,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35882,7 +35882,7 @@ rg: /tmp/opencode/mini.html: IO error for operation on /tmp/opencode/mini.html: 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35929,7 +35929,7 @@ craxker    55151  0.0  1.0 9927716 83640 ?       SNl  17:50   0:00 node /home/cr
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -35985,7 +35985,7 @@ status=200
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36051,7 +36051,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36078,7 +36078,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36103,7 +36103,7 @@ status=307 loc=http://localhost:3000/sign-in?redirect_url=http%3A%2F%2Flocalhost
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36198,7 +36198,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36226,7 +36226,7 @@ FAILED: curl probe(eliminado) status=000
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36267,7 +36267,7 @@ craxker    55182  7.2 11.1 11975712 887420 ?     SNl  17:50   1:33 next-server (
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36307,7 +36307,7 @@ onboarding status=307 loc=http://localhost:3000/sign-in?redirect_url=http%3A%2F%
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36357,7 +36357,7 @@ shell tool terminated command after exceeding timeout 180000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36401,7 +36401,7 @@ tsc limpio (sin salida). eslint se colgó por la carga del server — lo corro s
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36451,7 +36451,7 @@ Limpio. Guardo el hallazgo clave en memoria:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36482,15 +36482,15 @@ El gate de sesión que puse en la *page* producía 404 para usuarios no autentic
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 es que aun no se paraece el mismo osea no esta la pregunta si es una empresa o no me sale asi: Niveles de un ERP: del mínimo al máximo
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 es que aun no se paraece el mismo osea no esta la pregunta si es una empresa o no me sale asi: NEXUS
 Configura tu negocio
@@ -36522,7 +36522,7 @@ Continuar
 Guardamos cada paso: puedes cerrar y continuar en cualquier momento.
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36711,7 +36711,7 @@ Let me also quickly double check the (app)/layout gate file to quote it precisel
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -36905,7 +36905,7 @@ Let me read prefill.ts to edit precisely.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37063,7 +37063,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37090,7 +37090,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37117,7 +37117,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37144,7 +37144,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37185,7 +37185,7 @@ delicia.lvh.me/delicia/onboarding -> 307 loc=http://delicia.lvh.me:3000/sign-in?
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37232,7 +37232,7 @@ zsh:1: no matches found: app/[tenant]/(app)/layout.tsx
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37266,7 +37266,7 @@ The zsh glob failed on the parentheses in the path. Quote it.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-08 18:24:17*
+*2026-10-08 18:45:30*
 
 *[step-start part]*
 
@@ -37318,5 +37318,4232 @@ Recargá **`delicia.lvh.me:3000/`** (o cualquier ruta del negocio): como `delici
 Ojo: si al recargar te choca un loop de sesión, es el warning de Clerk que apareció en el log (*"instance keys do not match"*) — avisame y verificamos las keys del `.env` contra la instancia.
 
 ¿Lo probás y me decís?
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+adapta las nuevas opciones de onboarding a el panel CEO.
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user wants to adapt the new onboarding options to the CEO panel. Let me think about what this means.
+
+The new onboarding has:
+- `tenantType` (INDIVIDUAL | COMPANY)
+- `legalName` (razón social)
+- `taxId` (NIT/RUT)
+- `teamSize` (SOLO, 2-5, 6-20, 20+)
+- `address` (with REMOTE allowed)
+- Module presets based on tenantType + vertical
+
+The CEO panel (admin Command Center at `/admin`) creates tenants for "integrantes" / users. It has a tenant creation form presumably in `app/admin/` — I built the admin Command Center earlier (admin shell, sidebar, etc.). Now the user wants the CEO panel to include the new onboarding options — i.e., when the CEO creates a tenant, they should be able to set:
+- Empresa vs Persona individual (tenantType)
+- legalName? / taxId? / teamSize? / address?
+- likely module presets too? Or at least the profile fields
+
+Let me explore the admin panel structure to find the tenant creation form. There's `lib/admin-catalogs.ts`, `lib/admin-db.ts`, and probably an admin page with a form for creating tenants. Let me look.
+
+I should first check what the admin panel currently has for tenant creation, then adapt:
+- Add tenantType selector (Empresa/Persona)
+- Add optional fields (legalName, taxId, teamSize, address, city maybe)
+- Possibly module preselection based on preset
+
+I need to look at the existing admin tenant-creation page. Let me explore the admin directory.
+
+</details>
+
+Voy a mirar cómo está armado el panel CEO y el formulario de creación de tenants para adaptarlo a las opciones nuevas:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; find app/admin -type f | sort
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; find app/admin -type f | sort"
+}
+```
+
+**Output:**
+```
+app/admin/actions.ts
+app/admin/_components/activity-feed.tsx
+app/admin/_components/admin-header.tsx
+app/admin/_components/admin-shell.tsx
+app/admin/_components/audit-log.tsx
+app/admin/_components/command-palette.tsx
+app/admin/_components/executive-kpis.tsx
+app/admin/_components/sparkline.tsx
+app/admin/_components/suspend-dialog.tsx
+app/admin/_components/tenant-drawer.tsx
+app/admin/_components/tenant-form.tsx
+app/admin/_components/tenant-status-badge.tsx
+app/admin/_components/tenant-table.tsx
+app/admin/_components/tenant-toolbar.tsx
+app/admin/export/route.ts
+app/admin/layout.tsx
+app/admin/loading.tsx
+app/admin/page.tsx
+app/admin/validators.ts
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import { useEffect, useActionState, useState } from "react";
+4: import { Building2, Check, Loader2, X } from "lucide-react";
+5: import {
+6:   createTenantAction,
+7:   checkSlugAvailabilityAction,
+8:   type AdminFormState,
+9: } from "../actions";
+10: import {
+11:   DEFAULT_MODULES_BY_VERTICAL,
+12:   MODULE_LABELS,
+13:   MODULES,
+14:   VERTICAL_ICONS,
+15:   VERTICAL_LABELS,
+16:   VERTICALS,
+17:   type VerticalValue,
+18: } from "@/lib/admin-catalogs";
+19: 
+20: const IDLE_STATE: AdminFormState = { status: "idle" };
+21: const SLUG_DEBOUNCE_MS = 350;
+22: 
+23: type SlugStatus = "idle" | "checking" | "available" | "taken" | "invalid";
+24: 
+25: /**
+26:  * Modal de alta de negocios en la plataforma. El slug se chequea en vivo
+27:  * (debounce) contra el servidor, pero la validación definitiva — formato,
+28:  * catálogo, unicidad y transacción con los módulos — siempre ocurre en el
+29:  * Server Action. Crea el tenant con sus módulos iniciales en una sola
+30:  * transacción y cierra tras el feedback de éxito.
+31:  */
+32: export default function TenantForm({ onClose }: { onClose: () => void }) {
+33:   const [state, formAction, isPending] = useActionState(
+34:     createTenantAction,
+35:     IDLE_STATE,
+36:   );
+37: 
+38:   const [name, setName] = useState(state.values?.name ?? "");
+39:   const [slug, setSlug] = useState(state.values?.slug ?? "");
+40:   const [vertical, setVertical] = useState<VerticalValue | "">(
+41:     state.values?.vertical ?? "",
+42:   );
+43:   const [modules, setModules] = useState<ReadonlySet<string>>(
+44:     new Set(state.values?.modules ?? []),
+45:   );
+46:   // Si el CEO aún no tocó los módulos a mano, elegir vertical preselecciona
+47:   // la receta del catálogo (VERTICAL_RECIPES → DEFAULT_MODULES_BY_VERTICAL).
+48:   const [modulesTouched, setModulesTouched] = useState(false);
+49:   // Última respuesta del servidor; se deriva `slugStatus` para no llamar
+50:   // setState de forma síncrona dentro de un effect.
+51:   const [slugCheck, setSlugCheck] = useState<{
+52:     slug: string;
+53:     status: "available" | "taken" | "invalid";
+54:   } | null>(null);
+55: 
+56:   // Check de disponibilidad en vivo con debounce.
+57:   useEffect(() => {
+58:     const trimmed = slug.trim();
+59:     if (!trimmed) {
+60:       return;
+61:     }
+62: 
+63:     let cancelled = false;
+64:     const timer = setTimeout(() => {
+65:       void checkSlugAvailabilityAction(trimmed).then((result) => {
+66:         if (!cancelled && result.status !== "unauthorized") {
+67:           setSlugCheck({ slug: trimmed, status: result.status });
+68:         }
+69:       });
+70:     }, SLUG_DEBOUNCE_MS);
+71: 
+72:     return () => {
+73:       cancelled = true;
+74:       clearTimeout(timer);
+75:     };
+76:   }, [slug]);
+77: 
+78:   // Cierra tras el éxito.
+79:   useEffect(() => {
+80:     if (state.status !== "ok") {
+81:       return;
+82:     }
+83:     const timer = setTimeout(() => onClose(), 1500);
+84:     return () => clearTimeout(timer);
+85:   }, [state, onClose]);
+86: 
+87:   // Bloquea el scroll de fondo mientras el modal está abierto.
+88:   useEffect(() => {
+89:     const previousOverflow = document.body.style.overflow;
+90:     document.body.style.overflow = "hidden";
+91: 
+92:     const onKeyDown = (event: KeyboardEvent) => {
+93:       if (event.key === "Escape" && !isPending) {
+94:         onClose();
+95:       }
+96:     };
+97:     document.addEventListener("keydown", onKeyDown);
+98: 
+99:     return () => {
+100:       document.body.style.overflow = previousOverflow;
+101:       document.removeEventListener("keydown", onKeyDown);
+102:     };
+103:   }, [onClose, isPending]);
+104: 
+105:   const errors = state.errors ?? {};
+106: 
+107:   const trimmedSlug = slug.trim();
+108:   const slugStatus: SlugStatus = !trimmedSlug
+109:     ? "idle"
+110:     : slugCheck && slugCheck.slug === trimmedSlug
+111:       ? slugCheck.status
+112:       : "checking";
+113: 
+114:   const toggleModule = (moduleName: string) => {
+115:     setModulesTouched(true);
+116:     setModules((current) => {
+117:       const next = new Set(current);
+118:       if (next.has(moduleName)) {
+119:         next.delete(moduleName);
+120:       } else {
+121:         next.add(moduleName);
+122:       }
+123:       return next;
+124:     });
+125:   };
+126: 
+127:   const slugHint =
+128:     slugStatus === "checking"
+129:       ? "Verificando…"
+130:       : slugStatus === "available"
+131:         ? "Slug disponible."
+132:         : slugStatus === "taken"
+133:           ? "Ese slug ya está en uso."
+134:           : slugStatus === "invalid"
+135:             ? "Formato de slug no válido."
+136:             : null;
+137: 
+138:   const slugHintTone =
+139:     slugStatus === "available"
+140:       ? "text-emerald-600"
+141:       : slugStatus === "taken" || slugStatus === "invalid"
+142:         ? "text-rose-600"
+143:         : "text-slate-500";
+144: 
+145:   return (
+146:     <div className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto p-4 sm:items-center">
+147:       <div
+148:         aria-hidden="true"
+149:         className="fixed inset-0 bg-slate-950/45 backdrop-blur-[1px]"
+150:         onClick={() => !isPending && onClose()}
+151:       />
+152:       <div
+153:         role="dialog"
+154:         aria-modal="true"
+155:         aria-labelledby="tenant-form-title"
+156:         className="relative mt-10 w-full max-w-lg rounded-xl border border-slate-200 bg-white p-6 shadow-xl sm:mt-0"
+157:       >
+158:         <div className="flex items-start justify-between gap-4">
+159:           <div>
+160:             <h2
+161:               id="tenant-form-title"
+162:               className="text-lg font-semibold text-slate-900"
+163:             >
+164:               Nuevo negocio
+165:             </h2>
+166:             <p className="mt-0.5 text-sm text-slate-500">
+167:               Crea el tenant con su vertical y módulos iniciales.
+168:             </p>
+169:           </div>
+170:           <button
+171:             type="button"
+172:             aria-label="Cerrar"
+173:             disabled={isPending}
+174:             onClick={onClose}
+175:             className="-m-1 rounded-lg p-1 text-slate-400 transition hover:bg-slate-100 hover:text-slate-600 disabled:opacity-50"
+176:           >
+177:             <X aria-hidden="true" className="h-5 w-5" />
+178:           </button>
+179:         </div>
+180: 
+181:         <form action={formAction} className="mt-5 space-y-4" noValidate>
+182:           {/* Nombre del negocio */}
+183:           <div>
+184:             <label
+185:               htmlFor="tenant-name"
+186:               className="text-sm font-medium text-slate-700"
+187:             >
+188:               Nombre
+189:             </label>
+190:             <input
+191:               id="tenant-name"
+192:               name="name"
+193:               type="text"
+194:               value={name}
+195:               onChange={(event) => setName(event.target.value)}
+196:               placeholder="Ej: Gimnasio Carlos"
+197:               aria-invalid={Boolean(errors.name)}
+198:               className={[
+199:                 "mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2",
+200:                 errors.name
+201:                   ? "border-rose-300 focus:border-rose-400 focus:outline-rose-500/30"
+202:                   : "border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30",
+203:               ].join(" ")}
+204:             />
+205:             {errors.name ? (
+206:               <p role="alert" className="mt-1 text-xs text-rose-600">
+207:                 {errors.name}
+208:               </p>
+209:             ) : null}
+210:           </div>
+211: 
+212:           {/* Slug (subdominio) con check en vivo */}
+213:           <div>
+214:             <label
+215:               htmlFor="tenant-slug"
+216:               className="text-sm font-medium text-slate-700"
+217:             >
+218:               Slug (subdominio)
+219:             </label>
+220:             <div className="mt-1 flex items-center rounded-lg border border-slate-200 bg-white transition focus-within:border-indigo-400 focus-within:outline-2 focus-within:outline-indigo-500/30 hover:border-slate-300">
+221:               <input
+222:                 id="tenant-slug"
+223:                 name="slug"
+224:                 type="text"
+225:                 value={slug}
+226:                 onChange={(event) => setSlug(event.target.value)}
+227:                 placeholder="gimnasio-carlos"
+228:                 aria-invalid={Boolean(errors.slug)}
+229:                 className="h-10 w-full rounded-l-lg bg-transparent px-3 text-sm text-slate-900 focus:outline-none"
+230:               />
+231:                 <span className="flex h-10 shrink-0 items-center border-l border-slate-200 px-3 text-xs text-slate-500">
+232:                 {slugStatus === "checking" ? (
+233:                   <Loader2
+234:                     aria-hidden="true"
+235:                     className="h-3.5 w-3.5 animate-spin"
+236:                   />
+237:                 ) : slugStatus === "available" ? (
+238:                   <Check aria-hidden="true" className="h-3.5 w-3.5 text-emerald-500" />
+239:                 ) : slugStatus === "taken" || slugStatus === "invalid" ? (
+240:                   <X aria-hidden="true" className="h-3.5 w-3.5 text-rose-500" />
+241:                 ) : null}
+242:               </span>
+243:             </div>
+244:             {errors.slug ? (
+245:               <p role="alert" className="mt-1 text-xs text-rose-600">
+246:                 {errors.slug}
+247:               </p>
+248:             ) : slugHint ? (
+249:               <p className={`mt-1 text-xs ${slugHintTone}`}>{slugHint}</p>
+250:             ) : (
+251:               <p className="mt-1 text-xs text-slate-500">
+252:                 Minúsculas, números y guiones · 3–48 caracteres.
+253:               </p>
+254:             )}
+255:           </div>
+256: 
+257:           {/* Vertical */}
+258:           <div>
+259:             <label
+260:               htmlFor="tenant-vertical"
+261:               className="text-sm font-medium text-slate-700"
+262:             >
+263:               Vertical
+264:             </label>
+265:             <select
+266:               id="tenant-vertical"
+267:               name="vertical"
+268:               value={vertical}
+269:               onChange={(event) => {
+270:                 const next = event.target.value as VerticalValue | "";
+271:                 setVertical(next);
+272:                 if (!modulesTouched && next) {
+273:                   setModules(new Set(DEFAULT_MODULES_BY_VERTICAL[next]));
+274:                 }
+275:               }}
+276:               aria-invalid={Boolean(errors.vertical)}
+277:               className={[
+278:                 "mt-1 h-10 w-full appearance-none rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2",
+279:                 errors.vertical
+280:                   ? "border-rose-300 focus:border-rose-400 focus:outline-rose-500/30"
+281:                   : "border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30",
+282:               ].join(" ")}
+283:             >
+284:               <option value="" disabled>
+285:                 Selecciona una vertical…
+286:               </option>
+287:               {VERTICALS.map((value) => (
+288:                 <option key={value} value={value}>
+289:                   {VERTICAL_ICONS[value]} {VERTICAL_LABELS[value]}
+290:                 </option>
+291:               ))}
+292:             </select>
+293:             {errors.vertical ? (
+294:               <p role="alert" className="mt-1 text-xs text-rose-600">
+295:                 {errors.vertical}
+296:               </p>
+297:             ) : null}
+298:           </div>
+299: 
+300:           {/* Módulos iniciales */}
+301:           <fieldset>
+302:             <legend className="text-sm font-medium text-slate-700">
+303:               Módulos iniciales
+304:             </legend>
+305:             <p className="mt-0.5 text-xs text-slate-500">
+306:               Podrás activar o desactivar cada módulo después desde la tabla.
+307:             </p>
+308:             <div className="mt-2 grid grid-cols-1 gap-2 sm:grid-cols-2">
+309:               {MODULES.map((moduleName) => (
+310:                 <label
+311:                   key={moduleName}
+312:                   className="flex cursor-pointer items-center gap-2.5 rounded-lg border border-slate-200 px-3 py-2.5 text-sm text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
+313:                 >
+314:                   <input
+315:                     type="checkbox"
+316:                     name="modules"
+317:                     value={moduleName}
+318:                     checked={modules.has(moduleName)}
+319:                     onChange={() => toggleModule(moduleName)}
+320:                     className="h-4 w-4 rounded border-slate-300 accent-indigo-600"
+321:                   />
+322:                   {MODULE_LABELS[moduleName]}
+323:                 </label>
+324:               ))}
+325:             </div>
+326:             {errors.modules ? (
+327:               <p role="alert" className="mt-1 text-xs text-rose-600">
+328:                 {errors.modules}
+329:               </p>
+330:             ) : null}
+331:           </fieldset>
+332: 
+333:           {state.status === "error" && state.message ? (
+334:             <p
+335:               role="alert"
+336:               className="rounded-lg bg-rose-50 px-3 py-2 text-sm text-rose-700"
+337:             >
+338:               {state.message}
+339:             </p>
+340:           ) : null}
+341: 
+342:           {state.status === "ok" ? (
+343:             <p
+344:               role="status"
+345:               className="flex items-center gap-2 rounded-lg bg-emerald-50 px-3 py-2 text-sm text-emerald-700"
+346:             >
+347:               <Building2 aria-hidden="true" className="h-4 w-4 shrink-0" />
+348:               {state.message ?? "Negocio creado correctamente."}
+349:             </p>
+350:           ) : null}
+351: 
+352:           <div className="flex justify-end gap-2 pt-1">
+353:             <button
+354:               type="button"
+355:               disabled={isPending}
+356:               onClick={onClose}
+357:               className="h-10 rounded-lg border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50 disabled:opacity-50"
+358:             >
+359:               Cancelar
+360:             </button>
+361:             <button
+362:               type="submit"
+363:               disabled={isPending}
+364:               className="inline-flex h-10 items-center gap-2 rounded-lg bg-indigo-600 px-4 text-sm font-medium text-white transition hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-60"
+365:             >
+366:               {isPending ? (
+367:                 <Loader2 aria-hidden="true" className="h-4 w-4 animate-spin" />
+368:               ) : (
+369:                 <Building2 aria-hidden="true" className="h-4 w-4" />
+370:               )}
+371:               {isPending ? "Creando…" : "Crear negocio"}
+372:             </button>
+373:           </div>
+374:         </form>
+375:       </div>
+376:     </div>
+377:   );
+378: }
+
+(End of file - total 378 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/validators.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/validators.ts</path>
+<type>file</type>
+<content>
+1: import {
+2:   MODULES,
+3:   VERTICALS,
+4:   isModule,
+5:   isVertical,
+6:   validateSlug,
+7:   type ModuleValue,
+8:   type VerticalValue,
+9: } from "@/lib/admin-catalogs";
+10: 
+11: export type TenantFormValues = {
+12:   name: string;
+13:   slug: string;
+14:   vertical: VerticalValue | "";
+15:   modules: ModuleValue[];
+16: };
+17: 
+18: export type TenantFieldErrors = Partial<
+19:   Record<keyof TenantFormValues | "form", string>
+20: >;
+21: 
+22: export type TenantValidation =
+23:   | { ok: true; values: TenantFormValues & { vertical: VerticalValue } }
+24:   | {
+25:       ok: false;
+26:       errors: TenantFieldErrors;
+27:       values: TenantFormValues;
+28:     };
+29: 
+30: /**
+31:  * Validación de creación de tenant en el servidor. El slug se normaliza y
+32:  * valida aquí SIEMPRE (nunca se confía en el form) y los módulos deben
+33:  * pertenecer al catálogo de la plataforma.
+34:  */
+35: export function validateTenantForm(formData: FormData): TenantValidation {
+36:   const name = String(formData.get("name") ?? "").trim();
+37:   const rawSlug = String(formData.get("slug") ?? "").trim();
+38:   const rawVertical = String(formData.get("vertical") ?? "").trim();
+39:   const rawModules = formData
+40:     .getAll("modules")
+41:     .map((entry) => String(entry).trim());
+42: 
+43:   // Duplicados defensivos desde el cliente.
+44:   const modules = [...new Set(rawModules)];
+45: 
+46:   const values: TenantFormValues = {
+47:     name,
+48:     slug: rawSlug,
+49:     vertical: isVertical(rawVertical) ? rawVertical : "",
+50:     modules: modules.filter(isModule),
+51:   };
+52: 
+53:   const errors: TenantFieldErrors = {};
+54: 
+55:   if (!name) {
+56:     errors.name = "El nombre es obligatorio.";
+57:   } else if (name.length < 2) {
+58:     errors.name = "Mínimo 2 caracteres.";
+59:   } else if (name.length > 80) {
+60:     errors.name = "Máximo 80 caracteres.";
+61:   }
+62: 
+63:   const slugValidation = validateSlug(rawSlug);
+64:   if (!slugValidation.ok) {
+65:     errors.slug = slugValidation.error;
+66:   }
+67: 
+68:   if (!isVertical(rawVertical)) {
+69:     errors.vertical = "Selecciona una vertical válida.";
+70:   }
+71: 
+72:   // Un módulo desconocido es error explícito: la lista viene manipulada.
+73:   if (modules.some((module) => !isModule(module))) {
+74:     errors.modules = "Módulo no válido.";
+75:   } else if (modules.length > MODULES.length) {
+76:     errors.modules = "Módulos duplicados.";
+77:   }
+78: 
+79:   if (Object.keys(errors).length > 0 || !slugValidation.ok) {
+80:     return { ok: false, errors, values };
+81:   }
+82: 
+83:   return {
+84:     ok: true,
+85:     values: {
+86:       name,
+87:       slug: slugValidation.slug,
+88:       vertical: rawVertical as VerticalValue,
+89:       modules: modules.filter(isModule),
+90:     },
+91:   };
+92: }
+93: 
+94: export type ToggleFormValues = {
+95:   tenantId: string;
+96:   active: boolean;
+97: };
+98: 
+99: export type ToggleValidation =
+100:   | { ok: true; values: ToggleFormValues }
+101:   | { ok: false; message: string; values: ToggleFormValues };
+102: 
+103: const UUID_PATTERN =
+104:   /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+105: 
+106: /** Activar/suspender un tenant (tabla principal). */
+107: export function validateToggleTenant(
+108:   formData: FormData,
+109: ): ToggleValidation {
+110:   const tenantId = String(formData.get("tenantId") ?? "").trim();
+111:   const rawActive = String(formData.get("active") ?? "").trim();
+112: 
+113:   const values: ToggleFormValues = {
+114:     tenantId,
+115:     active: rawActive === "true",
+116:   };
+117: 
+118:   if (!UUID_PATTERN.test(tenantId)) {
+119:     return { ok: false, message: "Negocio no válido.", values };
+120:   }
+121:   if (rawActive !== "true" && rawActive !== "false") {
+122:     return { ok: false, message: "Estado no válido.", values };
+123:   }
+124: 
+125:   return { ok: true, values };
+126: }
+127: 
+128: export type ModuleToggleFormValues = {
+129:   tenantId: string;
+130:   moduleName: ModuleValue | "";
+131:   active: boolean;
+132: };
+133: 
+134: export type ModuleToggleValidation =
+135:   | { ok: true; values: ModuleToggleFormValues & { moduleName: ModuleValue } }
+136:   | { ok: false; message: string; values: ModuleToggleFormValues };
+137: 
+138: /** Activar/desactivar un módulo de un tenant (modal de gestión). */
+139: export function validateToggleModule(
+140:   formData: FormData,
+141: ): ModuleToggleValidation {
+142:   const tenantId = String(formData.get("tenantId") ?? "").trim();
+143:   const rawModule = String(formData.get("moduleName") ?? "").trim();
+144:   const rawActive = String(formData.get("active") ?? "").trim();
+145: 
+146:   const values: ModuleToggleFormValues = {
+147:     tenantId,
+148:     moduleName: isModule(rawModule) ? rawModule : "",
+149:     active: rawActive === "true",
+150:   };
+151: 
+152:   if (!UUID_PATTERN.test(tenantId)) {
+153:     return { ok: false, message: "Negocio no válido.", values };
+154:   }
+155:   if (!isModule(rawModule)) {
+156:     return { ok: false, message: "Módulo no válido.", values };
+157:   }
+158:   if (rawActive !== "true" && rawActive !== "false") {
+159:     return { ok: false, message: "Estado no válido.", values };
+160:   }
+161: 
+162:   return { ok: true, values: { ...values, moduleName: rawModule } };
+163: }
+164: 
+165: /** Normaliza y valida un id de tenant (UUID). Devuelve `null` si es inválido. */
+166: export function validateTenantId(raw: unknown): string | null {
+167:   const tenantId = String(raw ?? "").trim();
+168:   return UUID_PATTERN.test(tenantId) ? tenantId : null;
+169: }
+170: 
+171: export type SuspensionFormValues = {
+172:   tenantId: string;
+173:   reason: string;
+174: };
+175: 
+176: export type SuspensionValidation =
+177:   | { ok: true; values: SuspensionFormValues }
+178:   | { ok: false; message: string; values: SuspensionFormValues };
+179: 
+180: /**
+181:  * Suspensión administrativa: el motivo es obligatorio (queda en el historial
+182:  * del negocio y en la bitácora de auditoría). Se acota para no almacenar
+183:  * texto arbitrario sin límite.
+184:  */
+185: export function validateSuspendTenant(
+186:   formData: FormData,
+187: ): SuspensionValidation {
+188:   const tenantId = String(formData.get("tenantId") ?? "").trim();
+189:   const reason = String(formData.get("reason") ?? "").trim();
+190:   const values: SuspensionFormValues = { tenantId, reason };
+191: 
+192:   if (!UUID_PATTERN.test(tenantId)) {
+193:     return { ok: false, message: "Negocio no válido.", values };
+194:   }
+195:   if (reason.length < 5) {
+196:     return {
+197:       ok: false,
+198:       message: "Describe el motivo (mínimo 5 caracteres).",
+199:       values,
+200:     };
+201:   }
+202:   if (reason.length > 300) {
+203:     return {
+204:       ok: false,
+205:       message: "El motivo no puede superar 300 caracteres.",
+206:       values,
+207:     };
+208:   }
+209: 
+210:   return { ok: true, values };
+211: }
+212: 
+213: /** Reexporta el catálogo para que los componentes no lo dupliquen. */
+214: export const ADMIN_VERTICAL_OPTIONS = VERTICALS;
+215: export const ADMIN_MODULE_OPTIONS = MODULES;
+
+(End of file - total 215 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now let me look at the admin actions.ts to see `createTenantAction` and `checkSlugAvailabilityAction`:
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth, clerkClient } from "@clerk/nextjs/server";
+4: import { headers } from "next/headers";
+5: import { revalidatePath } from "next/cache";
+6: import { createAdminDb, type AuditLogInput } from "@/lib/admin-db";
+7: import { validateSlug, type SlugValidation } from "@/lib/admin-catalogs";
+8: import {
+9:   validateSuspendTenant,
+10:   validateTenantForm,
+11:   validateTenantId,
+12:   validateToggleModule,
+13:   type TenantFieldErrors,
+14:   type TenantFormValues,
+15: } from "./validators";
+16: 
+17: export type AdminFormState = {
+18:   status: "idle" | "error" | "ok";
+19:   message?: string;
+20:   errors?: TenantFieldErrors;
+21:   values?: TenantFormValues;
+22: };
+23: 
+24: export type SlugCheckState = {
+25:   status: "available" | "taken" | "invalid" | "unauthorized";
+26: };
+27: 
+28: export type ImpersonationState = {
+29:   status: "ok" | "error";
+30:   message?: string;
+31:   /** Ticket de Clerk para iniciar sesión como el dueño del negocio. */
+32:   ticket?: string;
+33:   /** Destino sugerido tras completar el cambio de sesión. */
+34:   url?: string;
+35: };
+36: 
+37: const ACCESS_DENIED: AdminFormState = {
+38:   status: "error",
+39:   message: "No tienes permisos de administración.",
+40: };
+41: 
+42: type Actor = { userId: string; email: string | null };
+43: 
+44: /**
+45:  * Autorización de todas las actions /admin: sesión de Clerk + fila
+46:  * `User.role = SUPERADMIN`. Devuelve el actor (para auditoría) o `null`.
+47:  */
+48: async function requireSuperAdmin(): Promise<Actor | null> {
+49:   const { userId, sessionClaims } = await auth();
+50:   if (!userId) {
+51:     return null;
+52:   }
+53:   const isAdmin = await createAdminDb().isSuperAdmin(userId);
+54:   if (!isAdmin) {
+55:     return null;
+56:   }
+57:   const claims = sessionClaims as { email?: unknown } | null;
+58:   return {
+59:     userId,
+60:     email: typeof claims?.email === "string" ? claims.email : null,
+61:   };
+62: }
+63: 
+64: function revalidateAdmin(): void {
+65:   revalidatePath("/admin");
+66: }
+67: 
+68: /** IP y user-agent de la request, solo para la bitácora de auditoría. */
+69: async function requestContext(): Promise<{
+70:   ipAddress: string | null;
+71:   userAgent: string | null;
+72: }> {
+73:   const headerList = await headers();
+74:   const forwarded = headerList.get("x-forwarded-for");
+75:   return {
+76:     ipAddress:
+77:       forwarded?.split(",")[0]?.trim() ??
+78:       headerList.get("x-real-ip") ??
+79:       null,
+80:     userAgent: headerList.get("user-agent") ?? null,
+81:   };
+82: }
+83: 
+84: /**
+85:  * Registra una acción en la bitácora de auditoría. Nunca rompe la acción
+86:  * principal: si la auditoría falla, se registra en consola y se continúa.
+87:  */
+88: async function audit(
+89:   actor: Actor,
+90:   entry: Omit<AuditLogInput, "actorId" | "actorEmail">,
+91: ): Promise<void> {
+92:   try {
+93:     const context = await requestContext();
+94:     await createAdminDb().logAudit({
+95:       actorId: actor.userId,
+96:       actorEmail: actor.email,
+97:       ...entry,
+98:       ...context,
+99:     });
+100:   } catch (error) {
+101:     console.error("[admin] audit failed:", error);
+102:   }
+103: }
+104: 
+105: /**
+106:  * Crea un tenant de la plataforma con sus módulos iniciales (una
+107:  * transacción en la capa de datos). El slug vuelve a validarse y a
+108:  * chequearse contra DB aquí — protección final contra el estado del form
+109:  * y contra carreras con el check en vivo.
+110:  */
+111: export async function createTenantAction(
+112:   _prevState: AdminFormState,
+113:   formData: FormData,
+114: ): Promise<AdminFormState> {
+115:   const actor = await requireSuperAdmin();
+116:   if (!actor) {
+117:     return ACCESS_DENIED;
+118:   }
+119: 
+120:   const validation = validateTenantForm(formData);
+121:   if (!validation.ok) {
+122:     return {
+123:       status: "error",
+124:       errors: validation.errors,
+125:       values: validation.values,
+126:     };
+127:   }
+128: 
+129:   const { name, slug, vertical, modules } = validation.values;
+130:   const adminDb = createAdminDb();
+131: 
+132:   if (await adminDb.slugExists(slug)) {
+133:     return {
+134:       status: "error",
+135:       errors: { slug: "Ese slug ya está en uso." },
+136:       values: validation.values,
+137:     };
+138:   }
+139: 
+140:   try {
+141:     await adminDb.createTenant({ name, slug, vertical, modules });
+142:   } catch (error) {
+143:     // Colisión de slug por carrera (constraint único en DB) u otro fallo
+144:     // del motor: la transacción ya revirtió todo.
+145:     const message =
+146:       error instanceof Error &&
+147:       (error.message.includes("unique") || error.message.includes("Tenant_slug"))
+148:         ? "Ese slug ya está en uso."
+149:         : "No se pudo crear el negocio. Intenta de nuevo.";
+150:     console.error("[admin] createTenant failed:", error);
+151:     return { status: "error", message, values: validation.values };
+152:   }
+153: 
+154:   await audit(actor, {
+155:     action: "CREATE_TENANT",
+156:     targetTenantName: name,
+157:     metadata: { slug, vertical, modules },
+158:   });
+159: 
+160:   revalidateAdmin();
+161:   return {
+162:     status: "ok",
+163:     message: `Negocio "${name}" creado correctamente.`,
+164:   };
+165: }
+166: 
+167: /**
+168:  * Suspende un negocio con motivo obligatorio (queda en el historial y en la
+169:  * bitácora). El subdominio deja de responder vía proxy.
+170:  */
+171: export async function suspendTenantAction(
+172:   _prevState: AdminFormState,
+173:   formData: FormData,
+174: ): Promise<AdminFormState> {
+175:   const actor = await requireSuperAdmin();
+176:   if (!actor) {
+177:     return ACCESS_DENIED;
+178:   }
+179: 
+180:   const validation = validateSuspendTenant(formData);
+181:   if (!validation.ok) {
+182:     return { status: "error", message: validation.message };
+183:   }
+184: 
+185:   const { tenantId, reason } = validation.values;
+186:   const adminDb = createAdminDb();
+187: 
+188:   const tenant = await adminDb.getTenantModules(tenantId);
+189:   if (!tenant) {
+190:     return { status: "error", message: "El negocio no fue encontrado." };
+191:   }
+192:   if (!tenant.active) {
+193:     return { status: "ok", message: "El negocio ya estaba suspendido." };
+194:   }
+195: 
+196:   await adminDb.suspendTenant(tenantId, reason);
+197:   await audit(actor, {
+198:     action: "SUSPEND_TENANT",
+199:     targetTenantId: tenant.tenantId,
+200:     targetTenantName: tenant.name,
+201:     metadata: { reason },
+202:   });
+203: 
+204:   revalidateAdmin();
+205:   revalidatePath(`/admin/${tenantId}`);
+206:   return { status: "ok", message: `Negocio "${tenant.name}" suspendido.` };
+207: }
+208: 
+209: /** Reactiva un negocio suspendido (conserva el motivo histórico). */
+210: export async function activateTenantAction(
+211:   _prevState: AdminFormState,
+212:   formData: FormData,
+213: ): Promise<AdminFormState> {
+214:   const actor = await requireSuperAdmin();
+215:   if (!actor) {
+216:     return ACCESS_DENIED;
+217:   }
+218: 
+219:   const tenantId = validateTenantId(formData.get("tenantId"));
+220:   if (!tenantId) {
+221:     return { status: "error", message: "Negocio no válido." };
+222:   }
+223: 
+224:   const adminDb = createAdminDb();
+225:   const tenant = await adminDb.getTenantModules(tenantId);
+226:   if (!tenant) {
+227:     return { status: "error", message: "El negocio no fue encontrado." };
+228:   }
+229: 
+230:   await adminDb.activateTenant(tenantId);
+231:   await audit(actor, {
+232:     action: "ACTIVATE_TENANT",
+233:     targetTenantId: tenant.tenantId,
+234:     targetTenantName: tenant.name,
+235:   });
+236: 
+237:   revalidateAdmin();
+238:   revalidatePath(`/admin/${tenantId}`);
+239:   return { status: "ok", message: `Negocio "${tenant.name}" reactivado.` };
+240: }
+241: 
+242: /**
+243:  * Activa o desactiva un módulo del tenant (upsert en `TenantModule`,
+244:  * clave única `[tenantId, moduleName]`).
+245:  */
+246: export async function toggleTenantModuleAction(
+247:   _prevState: AdminFormState,
+248:   formData: FormData,
+249: ): Promise<AdminFormState> {
+250:   const actor = await requireSuperAdmin();
+251:   if (!actor) {
+252:     return ACCESS_DENIED;
+253:   }
+254: 
+255:   const validation = validateToggleModule(formData);
+256:   if (!validation.ok) {
+257:     return { status: "error", message: validation.message };
+258:   }
+259: 
+260:   const { tenantId, moduleName, active } = validation.values;
+261:   const adminDb = createAdminDb();
+262: 
+263:   const tenant = await adminDb.getTenantModules(tenantId);
+264:   if (!tenant) {
+265:     return { status: "error", message: "El negocio no fue encontrado." };
+266:   }
+267: 
+268:   await adminDb.toggleModule(tenantId, moduleName, active);
+269:   await audit(actor, {
+270:     action: "TOGGLE_MODULE",
+271:     targetTenantId: tenant.tenantId,
+272:     targetTenantName: tenant.name,
+273:     metadata: { moduleName, active },
+274:   });
+275: 
+276:   revalidateAdmin();
+277:   revalidatePath(`/admin/${tenantId}`);
+278:   return {
+279:     status: "ok",
+280:     message: active ? "Módulo activado." : "Módulo desactivado.",
+281:   };
+282: }
+283: 
+284: /** Detalle de un negocio para el drawer (autorizado server-side). */
+285: export async function getTenantDetailAction(tenantId: string) {
+286:   const actor = await requireSuperAdmin();
+287:   if (!actor) {
+288:     return null;
+289:   }
+290:   const id = validateTenantId(tenantId);
+291:   if (!id) {
+292:     return null;
+293:   }
+294:   return createAdminDb().getTenantDetail(id);
+295: }
+296: 
+297: /**
+298:  * Crea un token de actor de Clerk para que el CEO entre al negocio como su
+299:  * dueño. Devuelve un ticket de un solo uso (el cliente completa el cambio de
+300:  * sesión). Queda auditado.
+301:  */
+302: export async function createImpersonationAction(
+303:   tenantId: string,
+304: ): Promise<ImpersonationState> {
+305:   const actor = await requireSuperAdmin();
+306:   if (!actor) {
+307:     return { status: "error", message: "No tienes permisos de administración." };
+308:   }
+309: 
+310:   const id = validateTenantId(tenantId);
+311:   if (!id) {
+312:     return { status: "error", message: "Negocio no válido." };
+313:   }
+314: 
+315:   const adminDb = createAdminDb();
+316:   const detail = await adminDb.getTenantDetail(id);
+317:   if (!detail) {
+318:     return { status: "error", message: "El negocio no fue encontrado." };
+319:   }
+320: 
+321:   const owner = detail.users.find((user) => user.role === "OWNER");
+322:   const targetClerkUserId =
+323:     owner?.id ?? detail.users[0]?.id ?? null;
+324:   if (!targetClerkUserId) {
+325:     return {
+326:       status: "error",
+327:       message: "El negocio no tiene usuarios con acceso configurado.",
+328:     };
+329:   }
+330: 
+331:   // `User.id` no es el id de Clerk; se resuelve el clerkUserId real.
+332:   const clerkUserId = await adminDb.getUserClerkId(targetClerkUserId);
+333:   if (!clerkUserId) {
+334:     return {
+335:       status: "error",
+336:       message: "No se pudo resolver el acceso del negocio.",
+337:     };
+338:   }
+339: 
+340:   try {
+341:     const client = await clerkClient();
+342:     const actorToken = await client.actorTokens.create({
+343:       userId: clerkUserId,
+344:       actor: { sub: actor.userId },
+345:       expiresInSeconds: 600,
+346:       sessionMaxDurationInSeconds: 3600,
+347:     });
+348: 
+349:     await audit(actor, {
+350:       action: "IMPERSONATE",
+351:       targetTenantId: detail.id,
+352:       targetTenantName: detail.name,
+353:       metadata: { targetClerkUserId: clerkUserId },
+354:     });
+355: 
+356:     return {
+357:       status: "ok",
+358:       ticket: actorToken.token ?? undefined,
+359:       url: detail.slug ? `/${detail.slug}` : undefined,
+360:     };
+361:   } catch (error) {
+362:     console.error("[admin] impersonation failed:", error);
+363:     return {
+364:       status: "error",
+365:       message: "No se pudo iniciar la impersonación. Intenta de nuevo.",
+366:     };
+367:   }
+368: }
+369: 
+370: /**
+371:  * Check en vivo de disponibilidad de slug para el form (con debounce en
+372:  * el cliente). Requiere SuperAdmin: evita que visitantes enumeren qué
+373:  * slugs existen en la plataforma.
+374:  */
+375: export async function checkSlugAvailabilityAction(
+376:   slug: string,
+377: ): Promise<SlugCheckState> {
+378:   if (!(await requireSuperAdmin())) {
+379:     return { status: "unauthorized" };
+380:   }
+381: 
+382:   const validation: SlugValidation = validateSlug(String(slug ?? ""));
+383:   if (!validation.ok) {
+384:     return { status: "invalid" };
+385:   }
+386: 
+387:   const exists = await createAdminDb().slugExists(validation.slug);
+388:   return { status: exists ? "taken" : "available" };
+389: }
+
+(End of file - total 389 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now let me look at lib/admin-db.ts to see the `createTenant` method and how the modules are created, plus the getTenantDetail type to see what fields are exposed in the drawer.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/admin-db.ts</path>
+<type>file</type>
+<content>
+1: import { and, or } from "@prisma/orm-postgres/orm-client";
+2: import { db } from "@/prisma/db";
+3: import {
+4:   formatCurrency,
+5:   formatDateShort,
+6:   formatRelativeTime,
+7:   toNumber,
+8: } from "@/lib/format";
+9: import {
+10:   paymentStatusLabel,
+11:   type PaymentMethodValue,
+12: } from "@/lib/finance";
+13: import {
+14:   MODULES,
+15:   sortModules,
+16:   type ModuleValue,
+17:   type VerticalValue,
+18: } from "@/lib/admin-catalogs";
+19: 
+20: /**
+21:  * Capa de datos GLOBAL de la plataforma (capa /admin).
+22:  *
+23:  * A diferencia de `lib/tenant-db.ts`, estas consultas NO están scoped a un
+24:  * tenant: operan sobre todos los negocios. Se mantiene deliberadamente
+25:  * separado para no romper el aislamiento conceptual Platform ↔ Tenant.
+26:  *
+27:  * Regla de oro (spec CEO): nada de mocks ni métricas inventadas. Cada número
+28:  * sale de la base de datos real; lo que no existe (suscripciones/MRR, trials,
+29:  * último login, estado DNS) se marca explícitamente como no disponible.
+30:  */
+31: 
+32: /** Ventana de "actividad reciente" para el pulso de la plataforma. */
+33: export const ACTIVITY_WINDOW_DAYS = 7;
+34: /** Ventana del sparkline de altas y del volumen transaccionado. */
+35: export const TREND_WINDOW_DAYS = 30;
+36: /** Onboarding sin completar tras N días = "detenido" (alerta del CEO). */
+37: export const STALLED_ONBOARDING_DAYS = 7;
+38: /** Tope de filas que se pueden exportar/leer de una sola vez. */
+39: const MAX_EXPORT_ROWS = 5000;
+40: 
+41: const DAY_MS = 86_400_000;
+42: 
+43: // ---------------------------------------------------------------------------
+44: // Helpers de fecha (Temporal.Instant es el codec del driver Postgres)
+45: // ---------------------------------------------------------------------------
+46: 
+47: function instantFromMs(ms: number): Temporal.Instant {
+48:   return Temporal.Instant.fromEpochMilliseconds(ms);
+49: }
+50: 
+51: /** Normaliza Temporal.Instant / Date / string ISO a un Date de JS. */
+52: function toJsDate(value: unknown): Date {
+53:   if (value instanceof Date) {
+54:     return value;
+55:   }
+56:   // JS Date solo acepta 3 fracciones (ms); Temporal imprime nanos.
+57:   const iso = String(value).replace(/\.(\d{3})\d*(Z|[+-])/, ".$1$2");
+58:   const date = new Date(iso);
+59:   return Number.isNaN(date.getTime()) ? new Date(0) : date;
+60: }
+61: 
+62: const bogotaDayFormatter = new Intl.DateTimeFormat("en-CA", {
+63:   timeZone: "America/Bogota",
+64:   year: "numeric",
+65:   month: "2-digit",
+66:   day: "2-digit",
+67: });
+68: 
+69: /** Clave de día calendario en America/Bogota (YYYY-MM-DD). */
+70: function bogotaDayKey(value: unknown): string {
+71:   return bogotaDayFormatter.format(toJsDate(value));
+72: }
+73: 
+74: // ---------------------------------------------------------------------------
+75: // Tipos
+76: // ---------------------------------------------------------------------------
+77: 
+78: export type ExecutiveKpis = {
+79:   /**
+80:    * Volumen transaccionado por los negocios (pagos APPROVED). NO es MRR de
+81:    * Nexus: no existe modelo de suscripciones, así que no se inventa.
+82:    */
+83:   revenue: {
+84:     total: number;
+85:     previous: number;
+86:     changePct: number | null;
+87:     windowDays: number;
+88:   };
+89:   /** Altas de negocios: semana, mes y serie diaria para el sparkline. */
+90:   newTenants: {
+91:     week: number;
+92:     month: number;
+93:     series: { date: string; count: number }[];
+94:   };
+95:   /** Estado del wizard de configuración de los negocios. */
+96:   onboarding: { pending: number; stalled: number; completed: number };
+97:   /** Negocios con actividad real en la ventana reciente. */
+98:   realActivity: { activeTenants: number; windowDays: number };
+99:   /** Señales que requieren acción del CEO. */
+100:   alerts: {
+101:     total: number;
+102:     failedPayments: number;
+103:     stalledOnboarding: number;
+104:     suspendedTenants: number;
+105:   };
+106: };
+107: 
+108: export type TenantSortKey =
+109:   | "created_desc"
+110:   | "created_asc"
+111:   | "name_asc"
+112:   | "name_desc"
+113:   | "activity_desc"
+114:   | "activity_asc";
+115: 
+116: export type TenantListInput = {
+117:   /** Host de la request actual: base para las URLs de acceso directo. */
+118:   host: string;
+119:   /** Texto libre contra name, slug o customDomain. */
+120:   q?: string;
+121:   vertical?: VerticalValue;
+122:   activeStatus?: "active" | "inactive" | "all";
+123:   /** Solo negocios que requieren atención (onboarding pendiente o suspendido). */
+124:   attentionOnly?: boolean;
+125:   sort?: TenantSortKey;
+126:   page?: number;
+127:   limit?: number;
+128: };
+129: 
+130: /** Fila serializable de tenant (fechas → string, métricas derivadas reales). */
+131: export type TenantListRow = {
+132:   id: string;
+133:   name: string;
+134:   slug: string;
+135:   customDomain: string | null;
+136:   vertical: VerticalValue;
+137:   active: boolean;
+138:   /** Motivo de la última suspensión administrativa (historial). */
+139:   suspendedReason: string | null;
+140:   /** Ciudad declarada en el onboarding (Paso 1). */
+141:   city: string | null;
+142:   /** Wizard de onboarding (false = aún no configuró el negocio). */
+143:   onboardingCompleted: boolean;
+144:   /** Progreso real de configuración derivado de los campos del onboarding. */
+145:   onboardingProgress: number;
+146:   /** Canales del ecosistema digital (Paso 3; null = sin dato). */
+147:   ecosystem: {
+148:     whatsappNumber: string | null;
+149:     instagramHandle: string | null;
+150:     websiteUrl: string | null;
+151:     googleBusinessUrl: string | null;
+152:   };
+153:   /** ISO para orden/export; la UI formatea. */
+154:   createdAtIso: string;
+155:   createdAt: string;
+156:   updatedAtIso: string;
+157:   /** Última actividad real del negocio (última modificación de la fila). */
+158:   lastActivityLabel: string;
+159:   /** Usuarios registrados del negocio. */
+160:   usersCount: number;
+161:   /** Módulos activos, en orden del catálogo. */
+162:   modules: ModuleValue[];
+163:   /**
+164:    * Plan de suscripción: siempre `null` mientras no exista un modelo de
+165:    * planes/ingresos recurrentes. La UI lo muestra como "—".
+166:    */
+167:   plan: null;
+168:   /** URL de acceso directo al negocio (calculada con el host actual). */
+169:   url: string;
+170: };
+171: 
+172: export type TenantDetailMetrics = {
+173:   customersCount: number;
+174:   quotesCount: number;
+175:   quotesTotal: number;
+176:   paymentsCount: number;
+177:   paymentsApprovedCount: number;
+178:   paymentsApprovedTotal: number;
+179:   membershipsActive: number;
+180: };
+181: 
+182: export type TenantDetailUser = {
+183:   id: string;
+184:   name: string | null;
+185:   email: string;
+186:   role: "SUPERADMIN" | "OWNER" | "STAFF";
+187:   roleLabel: string;
+188:   createdAt: string;
+189: };
+190: 
+191: export type TenantDetail = {
+192:   id: string;
+193:   name: string;
+194:   slug: string;
+195:   customDomain: string | null;
+196:   vertical: VerticalValue;
+197:   active: boolean;
+198:   suspendedReason: string | null;
+199:   suspendedAt: string | null;
+200:   onboardingCompleted: boolean;
+201:   onboardingProgress: number;
+202:   city: string | null;
+203:   whatsappNumber: string | null;
+204:   websiteUrl: string | null;
+205:   instagramHandle: string | null;
+206:   googleBusinessUrl: string | null;
+207:   paymentMethods: PaymentMethodValue[];
+208:   createdAtIso: string;
+209:   createdAt: string;
+210:   updatedAtIso: string;
+211:   lastActivityLabel: string;
+212:   /** Los 11 módulos del catálogo con su estado (los ausentes = inactivos). */
+213:   modules: { moduleName: ModuleValue; active: boolean }[];
+214:   users: TenantDetailUser[];
+215:   metrics: TenantDetailMetrics;
+216: };
+217: 
+218: /** Eventos reales de plataforma (unión de las tablas de actividad). */
+219: export type ActivityKind =
+220:   | "tenant_created"
+221:   | "payment_approved"
+222:   | "payment_declined"
+223:   | "payment_pending"
+224:   | "quote_created"
+225:   | "quote_approved"
+226:   | "customer_created"
+227:   | "membership_created"
+228:   | "user_created"
+229:   | "tenant_suspended"
+230:   | "tenant_activated"
+231:   | "module_toggled"
+232:   | "audit";
+233: 
+234: export type ActivityItem = {
+235:   id: string;
+236:   kind: ActivityKind;
+237:   title: string;
+238:   description: string | null;
+239:   tenantId: string | null;
+240:   tenantName: string | null;
+241:   /** ISO (la UI formatea relativo/absoluto). */
+242:   at: string;
+243:   atLabel: string;
+244: };
+245: 
+246: /** Acciones auditables del panel CEO (string controlado, no enum). */
+247: export type AuditAction =
+248:   | "CREATE_TENANT"
+249:   | "SUSPEND_TENANT"
+250:   | "ACTIVATE_TENANT"
+251:   | "TOGGLE_MODULE"
+252:   | "EXPORT_TENANTS"
+253:   | "IMPERSONATE";
+254: 
+255: export type AuditLogInput = {
+256:   actorId: string;
+257:   actorEmail?: string | null;
+258:   action: AuditAction;
+259:   targetTenantId?: string | null;
+260:   targetTenantName?: string | null;
+261:   metadata?: Record<string, unknown> | null;
+262:   ipAddress?: string | null;
+263:   userAgent?: string | null;
+264: };
+265: 
+266: export type AuditLogRow = {
+267:   id: string;
+268:   actorId: string;
+269:   actorEmail: string | null;
+270:   action: string;
+271:   targetTenantId: string | null;
+272:   targetTenantName: string | null;
+273:   metadata: unknown;
+274:   ipAddress: string | null;
+275:   userAgent: string | null;
+276:   createdAt: string;
+277: };
+278: 
+279: type TenantRowSource = {
+280:   id: string;
+281:   name: string;
+282:   slug: string;
+283:   customDomain: string | null;
+284:   vertical: VerticalValue;
+285:   active: boolean;
+286:   onboardingCompleted: boolean;
+287:   city: string | null;
+288:   whatsappNumber: string | null;
+289:   websiteUrl: string | null;
+290:   instagramHandle: string | null;
+291:   googleBusinessUrl: string | null;
+292:   paymentMethods: readonly string[] | null;
+293:   suspendedReason: string | null;
+294:   createdAt: unknown;
+295:   updatedAt: unknown;
+296:   modules: { moduleName: ModuleValue; active: boolean }[];
+297: };
+298: 
+299: const ROLE_LABELS: Record<"SUPERADMIN" | "OWNER" | "STAFF", string> = {
+300:   SUPERADMIN: "SuperAdmin",
+301:   OWNER: "Propietario",
+302:   STAFF: "Equipo",
+303: };
+304: 
+305: const AUDIT_ACTION_LABELS: Record<string, string> = {
+306:   CREATE_TENANT: "Negocio creado",
+307:   SUSPEND_TENANT: "Negocio suspendido",
+308:   ACTIVATE_TENANT: "Negocio reactivado",
+309:   TOGGLE_MODULE: "Módulo actualizado",
+310:   EXPORT_TENANTS: "Exportación de negocios",
+311:   IMPERSONATE: "Acceso como negocio (impersonación)",
+312: };
+313: 
+314: /** Escapa los comodines de LIKE para que la búsqueda sea literal. */
+315: function escapeLike(input: string): string {
+316:   return input.replace(/[\\%_]/g, (char) => `\\${char}`);
+317: }
+318: 
+319: /**
+320:  * URL de acceso directo a un negocio.
+321:  * - En dev (host `*.lvh.me` / `*.localhost`): subdominio
+322:  *   `slug.<mismo host>` — sin hardcodear dominios de producción.
+323:  * - En cualquier otro host: ruta interna multi-tenant `/{slug}`
+324:  *   (siempre operativa vía proxy).
+325:  */
+326: export function tenantAccessUrl(slug: string, host: string): string {
+327:   const [hostname = "", port] = host.split(":");
+328:   const portSuffix = port ? `:${port}` : "";
+329:   if (hostname.endsWith(".lvh.me")) {
+330:     return `http://${slug}.lvh.me${portSuffix}/`;
+331:   }
+332:   if (hostname.endsWith(".localhost")) {
+333:     return `http://${slug}.localhost${portSuffix}/`;
+334:   }
+335:   return `/${slug}`;
+336: }
+337: 
+338: /** Progreso real de configuración (0–100) derivado del onboarding. */
+339: function computeOnboardingProgress(row: {
+340:   onboardingCompleted: boolean;
+341:   city: string | null;
+342:   whatsappNumber: string | null;
+343:   websiteUrl: string | null;
+344:   instagramHandle: string | null;
+345:   googleBusinessUrl: string | null;
+346:   paymentMethods: readonly string[] | null;
+347: }): number {
+348:   if (row.onboardingCompleted) {
+349:     return 100;
+350:   }
+351:   const signals = [
+352:     row.city,
+353:     row.whatsappNumber,
+354:     row.websiteUrl,
+355:     row.instagramHandle,
+356:     row.googleBusinessUrl,
+357:   ];
+358:   const filled =
+359:     signals.filter((value) => Boolean(value && String(value).trim())).length +
+360:     (row.paymentMethods && row.paymentMethods.length > 0 ? 1 : 0);
+361:   return Math.round((filled / 6) * 100);
+362: }
+363: 
+364: function buildTenantRow(
+365:   row: TenantRowSource,
+366:   host: string,
+367:   usersCount: number,
+368: ): TenantListRow {
+369:   return {
+370:     id: row.id,
+371:     name: row.name,
+372:     slug: row.slug,
+373:     customDomain: row.customDomain ?? null,
+374:     vertical: row.vertical,
+375:     active: row.active,
+376:     suspendedReason: row.suspendedReason ?? null,
+377:     city: row.city ?? null,
+378:     onboardingCompleted: row.onboardingCompleted,
+379:     onboardingProgress: computeOnboardingProgress(row),
+380:     ecosystem: {
+381:       whatsappNumber: row.whatsappNumber ?? null,
+382:       instagramHandle: row.instagramHandle ?? null,
+383:       websiteUrl: row.websiteUrl ?? null,
+384:       googleBusinessUrl: row.googleBusinessUrl ?? null,
+385:     },
+386:     createdAtIso: toJsDate(row.createdAt).toISOString(),
+387:     createdAt: formatDateShort(String(row.createdAt)),
+388:     updatedAtIso: toJsDate(row.updatedAt).toISOString(),
+389:     lastActivityLabel: formatRelativeTime(row.updatedAt),
+390:     usersCount,
+391:     modules: sortModules(
+392:       row.modules.filter((module) => module.active).map((m) => m.moduleName),
+393:     ),
+394:     plan: null,
+395:     url: tenantAccessUrl(row.slug, host),
+396:   };
+397: }
+398: 
+399: /** Conteo de usuarios por tenant, scoped a las filas de la página actual. */
+400: async function countUsersByTenant(
+401:   tenantIds: string[],
+402: ): Promise<Map<string, number>> {
+403:   const map = new Map<string, number>();
+404:   if (tenantIds.length === 0) {
+405:     return map;
+406:   }
+407:   const rows = await db.orm.public.User
+408:     .where((user) => user.tenantId.in(tenantIds))
+409:     .select("tenantId")
+410:     .all();
+411:   for (const row of rows) {
+412:     map.set(row.tenantId, (map.get(row.tenantId) ?? 0) + 1);
+413:   }
+414:   return map;
+415: }
+416: 
+417: export function createAdminDb() {
+418:   return {
+419:     /**
+420:      * Autorización global: el usuario es SuperAdmin si existe una fila
+421:      * `User` con su `clerkUserId` y `role = SUPERADMIN`. El rol se asigna
+422:      * por operación de plataforma (no existe UI de auto-asignación).
+423:      */
+424:     isSuperAdmin: async (clerkUserId: string): Promise<boolean> => {
+425:       if (!clerkUserId) {
+426:         return false;
+427:       }
+428:       const user = await db.orm.public.User
+429:         .where({ clerkUserId, role: "SUPERADMIN" })
+430:         .first();
+431:       return user !== null;
+432:     },
+433: 
+434:     /**
+435:      * KPIs ejecutivos del CEO, 100% derivados de datos reales.
+436:      *
+437:      * Notas de honestidad (no se inventa nada):
+438:      * - `revenue` es el volumen transaccionado por los negocios (pagos
+439:      *   APPROVED), NO MRR: no existe modelo de suscripciones.
+440:      * - No hay trials ni último login; se sustituyen por onboarding real.
+441:      */
+442:     getExecutiveMetrics: async (): Promise<ExecutiveKpis> => {
+443:       const nowMs = Date.now();
+444:       const since7 = instantFromMs(nowMs - 7 * DAY_MS);
+445:       const since30 = instantFromMs(nowMs - 30 * DAY_MS);
+446:       const since60 = instantFromMs(nowMs - 60 * DAY_MS);
+447:       const stalledBefore = instantFromMs(
+448:         nowMs - STALLED_ONBOARDING_DAYS * DAY_MS,
+449:       );
+450: 
+451:       const [
+452:         revenue30,
+453:         revenuePrev,
+454:         pendingOnboarding,
+455:         completedOnboarding,
+456:         stalledOnboarding,
+457:         suspendedTenants,
+458:         failedPayments,
+459:         newThisWeek,
+460:         recentTenants,
+461:         activePayments,
+462:         activeQuotes,
+463:         activeCustomers,
+464:         activeMemberships,
+465:         activeUsers,
+466:         activeNewTenants,
+467:       ] = await Promise.all([
+468:         db.orm.public.Payment
+469:           .where((payment) =>
+470:             and(
+471:               payment.status.eq("APPROVED"),
+472:               payment.createdAt.gte(since30),
+473:             ),
+474:           )
+475:           .aggregate((aggregate) => ({ total: aggregate.sum("amount") })),
+476:         db.orm.public.Payment
+477:           .where((payment) =>
+478:             and(
+479:               payment.status.eq("APPROVED"),
+480:               payment.createdAt.gte(since60),
+481:               payment.createdAt.lt(since30),
+482:             ),
+483:           )
+484:           .aggregate((aggregate) => ({ total: aggregate.sum("amount") })),
+485:         db.orm.public.Tenant
+486:           .where({ onboardingCompleted: false })
+487:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+488:         db.orm.public.Tenant
+489:           .where({ onboardingCompleted: true })
+490:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+491:         db.orm.public.Tenant
+492:           .where((tenant) =>
+493:             and(
+494:               tenant.onboardingCompleted.eq(false),
+495:               tenant.createdAt.lt(stalledBefore),
+496:             ),
+497:           )
+498:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+499:         db.orm.public.Tenant
+500:           .where({ active: false })
+501:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+502:         db.orm.public.Payment
+503:           .where({ status: "DECLINED" })
+504:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+505:         db.orm.public.Tenant
+506:           .where((tenant) => tenant.createdAt.gte(since7))
+507:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+508:         db.orm.public.Tenant
+509:           .where((tenant) => tenant.createdAt.gte(since30))
+510:           .select("createdAt")
+511:           .all(),
+512:         db.orm.public.Payment
+513:           .where((payment) => payment.createdAt.gte(since7))
+514:           .select("tenantId")
+515:           .all(),
+516:         db.orm.public.Quote
+517:           .where((quote) => quote.createdAt.gte(since7))
+518:           .select("tenantId")
+519:           .all(),
+520:         db.orm.public.Customer
+521:           .where((customer) => customer.createdAt.gte(since7))
+522:           .select("tenantId")
+523:           .all(),
+524:         db.orm.public.Membership
+525:           .where((membership) => membership.createdAt.gte(since7))
+526:           .select("tenantId")
+527:           .all(),
+528:         db.orm.public.User
+529:           .where((user) => user.createdAt.gte(since7))
+530:           .select("tenantId")
+531:           .all(),
+532:         db.orm.public.Tenant
+533:           .where((tenant) => tenant.createdAt.gte(since7))
+534:           .select("id")
+535:           .all(),
+536:       ]);
+537: 
+538:       const total = toNumber(revenue30.total);
+539:       const previous = toNumber(revenuePrev.total);
+540:       const changePct =
+541:         previous > 0 ? Math.round(((total - previous) / previous) * 100) : null;
+542: 
+543:       const countsByDay = new Map<string, number>();
+544:       for (const row of recentTenants) {
+545:         const key = bogotaDayKey(row.createdAt);
+546:         countsByDay.set(key, (countsByDay.get(key) ?? 0) + 1);
+547:       }
+548:       const series: { date: string; count: number }[] = [];
+549:       for (let i = TREND_WINDOW_DAYS - 1; i >= 0; i -= 1) {
+550:         const key = bogotaDayKey(instantFromMs(nowMs - i * DAY_MS));
+551:         series.push({ date: key, count: countsByDay.get(key) ?? 0 });
+552:       }
+553: 
+554:       const activeTenantIds = new Set<string>();
+555:       for (const row of activePayments) activeTenantIds.add(row.tenantId);
+556:       for (const row of activeQuotes) activeTenantIds.add(row.tenantId);
+557:       for (const row of activeCustomers) activeTenantIds.add(row.tenantId);
+558:       for (const row of activeMemberships) activeTenantIds.add(row.tenantId);
+559:       for (const row of activeUsers) activeTenantIds.add(row.tenantId);
+560:       for (const row of activeNewTenants) activeTenantIds.add(row.id);
+561: 
+562:       const stalled = stalledOnboarding.total;
+563:       const failed = failedPayments.total;
+564:       const suspended = suspendedTenants.total;
+565: 
+566:       return {
+567:         revenue: {
+568:           total,
+569:           previous,
+570:           changePct,
+571:           windowDays: TREND_WINDOW_DAYS,
+572:         },
+573:         newTenants: {
+574:           week: newThisWeek.total,
+575:           month: recentTenants.length,
+576:           series,
+577:         },
+578:         onboarding: {
+579:           pending: pendingOnboarding.total,
+580:           stalled,
+581:           completed: completedOnboarding.total,
+582:         },
+583:         realActivity: {
+584:           activeTenants: activeTenantIds.size,
+585:           windowDays: ACTIVITY_WINDOW_DAYS,
+586:         },
+587:         alerts: {
+588:           total: failed + stalled + suspended,
+589:           failedPayments: failed,
+590:           stalledOnboarding: stalled,
+591:           suspendedTenants: suspended,
+592:         },
+593:       };
+594:     },
+595: 
+596:     /**
+597:      * Listado paginado de tenants con búsqueda (name/slug/customDomain),
+598:      * filtro por vertical/estado y orden. Todo se resuelve en servidor.
+599:      */
+600:     listTenants: async ({
+601:       host,
+602:       q,
+603:       vertical,
+604:       activeStatus = "all",
+605:       attentionOnly = false,
+606:       sort = "created_desc",
+607:       page = 1,
+608:       limit = 10,
+609:     }: TenantListInput): Promise<{ rows: TenantListRow[]; total: number }> => {
+610:       const text = (q ?? "").trim();
+611:       const pattern = `%${escapeLike(text)}%`;
+612:       const safePage = Math.max(1, Math.trunc(page));
+613:       const safeLimit = Math.min(100, Math.max(1, Math.trunc(limit)));
+614: 
+615:       let filtered = db.orm.public.Tenant.where({});
+616:       if (activeStatus === "active") {
+617:         filtered = filtered.where({ active: true });
+618:       } else if (activeStatus === "inactive") {
+619:         filtered = filtered.where({ active: false });
+620:       }
+621:       if (attentionOnly) {
+622:         filtered = filtered.where((tenant) =>
+623:           or(
+624:             tenant.onboardingCompleted.eq(false),
+625:             tenant.active.eq(false),
+626:           ),
+627:         );
+628:       }
+629:       if (vertical) {
+630:         filtered = filtered.where({ vertical });
+631:       }
+632:       if (text) {
+633:         filtered = filtered.where((tenant) =>
+634:           or(
+635:             tenant.name.ilike(pattern),
+636:             tenant.slug.ilike(pattern),
+637:             tenant.customDomain.ilike(pattern),
+638:           ),
+639:         );
+640:       }
+641: 
+642:       let ordered = filtered;
+643:       switch (sort) {
+644:         case "name_asc":
+645:           ordered = filtered.orderBy((tenant) => tenant.name.asc());
+646:           break;
+647:         case "name_desc":
+648:           ordered = filtered.orderBy((tenant) => tenant.name.desc());
+649:           break;
+650:         case "created_asc":
+651:           ordered = filtered.orderBy((tenant) => tenant.createdAt.asc());
+652:           break;
+653:         case "activity_desc":
+654:           ordered = filtered.orderBy((tenant) => tenant.updatedAt.desc());
+655:           break;
+656:         case "activity_asc":
+657:           ordered = filtered.orderBy((tenant) => tenant.updatedAt.asc());
+658:           break;
+659:         case "created_desc":
+660:         default:
+661:           ordered = filtered.orderBy((tenant) => tenant.createdAt.desc());
+662:           break;
+663:       }
+664: 
+665:       const [rows, { total }] = await Promise.all([
+666:         ordered
+667:           .include("modules", (module) => module.select("moduleName", "active"))
+668:           .limit(safeLimit)
+669:           .offset((safePage - 1) * safeLimit)
+670:           .all(),
+671:         filtered.aggregate((aggregate) => ({ total: aggregate.count() })),
+672:       ]);
+673: 
+674:       const usersByTenant = await countUsersByTenant(rows.map((row) => row.id));
+675: 
+676:       return {
+677:         rows: rows.map((row) =>
+678:           buildTenantRow(
+679:             row as unknown as TenantRowSource,
+680:             host,
+681:             usersByTenant.get(row.id) ?? 0,
+682:           ),
+683:         ),
+684:         total,
+685:       };
+686:     },
+687: 
+688:     /**
+689:      * Igual que `listTenants` pero sin paginación (tope de seguridad), para
+690:      * la exportación CSV. Aplica los mismos filtros.
+691:      */
+692:     listTenantsForExport: async (
+693:       input: Omit<TenantListInput, "page" | "limit">,
+694:     ): Promise<TenantListRow[]> => {
+695:       const { rows } = await createAdminDb().listTenants({
+696:         ...input,
+697:         page: 1,
+698:         limit: MAX_EXPORT_ROWS,
+699:       });
+700:       return rows;
+701:     },
+702: 
+703:     /** Disponibilidad de un slug (para el check en vivo del form). */
+704:     slugExists: async (slug: string): Promise<boolean> => {
+705:       const tenant = await db.orm.public.Tenant.where({ slug }).first();
+706:       return tenant !== null;
+707:     },
+708: 
+709:     /**
+710:      * Alta de tenant + módulos iniciales en UNA transacción: si falla la
+711:      * creación de los módulos (o el insert por slug duplicado), se
+712:      * revierte todo — nunca quedan tenants parcialmente configurados.
+713:      */
+714:     createTenant: (data: {
+715:       name: string;
+716:       slug: string;
+717:       vertical: VerticalValue;
+718:       modules: ModuleValue[];
+719:     }) =>
+720:       db.transaction(async (tx) => {
+721:         const tenant = await tx.orm.public.Tenant.create({
+722:           name: data.name,
+723:           slug: data.slug,
+724:           vertical: data.vertical,
+725:         });
+726: 
+727:         for (const moduleName of data.modules) {
+728:           await tx.orm.public.TenantModule.create({
+729:             tenantId: tenant.id,
+730:             moduleName,
+731:           });
+732:         }
+733: 
+734:         return tenant;
+735:       }),
+736: 
+737:     /**
+738:      * Suspende un negocio (panel CEO): guarda motivo + timestamp. El motivo
+739:      * es obligatorio a nivel de acción; aquí solo se persiste.
+740:      */
+741:     suspendTenant: (id: string, reason: string) =>
+742:       db.orm.public.Tenant.where({ id }).update({
+743:         active: false,
+744:         suspendedReason: reason,
+745:         suspendedAt: instantFromMs(Date.now()),
+746:       }),
+747: 
+748:     /** Reactiva un negocio (conserva el historial de suspensión). */
+749:     activateTenant: (id: string) =>
+750:       db.orm.public.Tenant.where({ id }).update({ active: true }),
+751: 
+752:     /**
+753:      * Detalle completo de un negocio para el drawer: identidad, onboarding,
+754:      * módulos, usuarios y métricas reales. `null` si no existe.
+755:      */
+756:     getTenantDetail: async (tenantId: string): Promise<TenantDetail | null> => {
+757:       const tenant = await db.orm.public.Tenant
+758:         .where({ id: tenantId })
+759:         .include("modules", (module) =>
+760:           module.select("moduleName", "active"),
+761:         )
+762:         .include("users", (user) =>
+763:           user.select("id", "name", "email", "role", "createdAt"),
+764:         )
+765:         .first();
+766: 
+767:       if (!tenant) {
+768:         return null;
+769:       }
+770: 
+771:       const now = instantFromMs(Date.now());
+772:       const [
+773:         customersAgg,
+774:         quotesAgg,
+775:         paymentsApprovedAgg,
+776:         paymentsAllAgg,
+777:         membershipsAgg,
+778:       ] = await Promise.all([
+779:         db.orm.public.Customer
+780:           .where({ tenantId })
+781:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+782:         db.orm.public.Quote
+783:           .where({ tenantId })
+784:           .aggregate((aggregate) => ({
+785:             count: aggregate.count(),
+786:             total: aggregate.sum("totalAmount"),
+787:           })),
+788:         db.orm.public.Payment
+789:           .where({ tenantId })
+790:           .where((payment) => payment.status.eq("APPROVED"))
+791:           .aggregate((aggregate) => ({
+792:             count: aggregate.count(),
+793:             total: aggregate.sum("amount"),
+794:           })),
+795:         db.orm.public.Payment
+796:           .where({ tenantId })
+797:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+798:         db.orm.public.Membership
+799:           .where({ tenantId })
+800:           .where((membership) => membership.endDate.gt(now))
+801:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+802:       ]);
+803: 
+804:       const activeByName = new Map(
+805:         tenant.modules.map((module) => [module.moduleName, module.active]),
+806:       );
+807: 
+808:       const users: TenantDetailUser[] = [...tenant.users]
+809:         .sort((a, b) => {
+810:           const roleOrder = { OWNER: 0, SUPERADMIN: 1, STAFF: 2 } as const;
+811:           const diff = roleOrder[a.role] - roleOrder[b.role];
+812:           return diff !== 0
+813:             ? diff
+814:             : toJsDate(a.createdAt).getTime() - toJsDate(b.createdAt).getTime();
+815:         })
+816:         .map((user) => ({
+817:           id: user.id,
+818:           name: user.name ?? null,
+819:           email: user.email,
+820:           role: user.role,
+821:           roleLabel: ROLE_LABELS[user.role],
+822:           createdAt: formatDateShort(String(user.createdAt)),
+823:         }));
+824: 
+825:       return {
+826:         id: tenant.id,
+827:         name: tenant.name,
+828:         slug: tenant.slug,
+829:         customDomain: tenant.customDomain ?? null,
+830:         vertical: tenant.vertical,
+831:         active: tenant.active,
+832:         suspendedReason: tenant.suspendedReason ?? null,
+833:         suspendedAt: tenant.suspendedAt
+834:           ? toJsDate(tenant.suspendedAt).toISOString()
+835:           : null,
+836:         onboardingCompleted: tenant.onboardingCompleted,
+837:         onboardingProgress: computeOnboardingProgress(
+838:           tenant as unknown as TenantRowSource,
+839:         ),
+840:         city: tenant.city ?? null,
+841:         whatsappNumber: tenant.whatsappNumber ?? null,
+842:         websiteUrl: tenant.websiteUrl ?? null,
+843:         instagramHandle: tenant.instagramHandle ?? null,
+844:         googleBusinessUrl: tenant.googleBusinessUrl ?? null,
+845:         paymentMethods: (tenant.paymentMethods ??
+846:           []) as PaymentMethodValue[],
+847:         createdAtIso: toJsDate(tenant.createdAt).toISOString(),
+848:         createdAt: formatDateShort(String(tenant.createdAt)),
+849:         updatedAtIso: toJsDate(tenant.updatedAt).toISOString(),
+850:         lastActivityLabel: formatRelativeTime(tenant.updatedAt),
+851:         modules: MODULES.map((moduleName) => ({
+852:           moduleName,
+853:           active: activeByName.get(moduleName) ?? false,
+854:         })),
+855:         users,
+856:         metrics: {
+857:           customersCount: customersAgg.count,
+858:           quotesCount: quotesAgg.count,
+859:           quotesTotal: toNumber(quotesAgg.total),
+860:           paymentsCount: paymentsAllAgg.count,
+861:           paymentsApprovedCount: paymentsApprovedAgg.count,
+862:           paymentsApprovedTotal: toNumber(paymentsApprovedAgg.total),
+863:           membershipsActive: membershipsAgg.count,
+864:         },
+865:       };
+866:     },
+867: 
+868:     /**
+869:      * Resuelve el `clerkUserId` de un usuario interno (para impersonación).
+870:      * Vive solo en el servidor: la UI nunca recibe el id de Clerk.
+871:      */
+872:     getUserClerkId: async (userId: string): Promise<string | null> => {
+873:       const user = await db.orm.public.User
+874:         .where({ id: userId })
+875:         .select("clerkUserId")
+876:         .first();
+877:       return user?.clerkUserId ?? null;
+878:     },
+879: 
+880:     /**
+881:      * Detalle de módulos de un tenant: los 11 del catálogo con su estado
+882:      * (los no registrados cuentan como inactivos).
+883:      */
+884:     getTenantModules: async (tenantId: string) => {
+885:       const tenant = await db.orm.public.Tenant
+886:         .where({ id: tenantId })
+887:         .include("modules", (module) => module.select("moduleName", "active"))
+888:         .first();
+889: 
+890:       if (!tenant) {
+891:         return null;
+892:       }
+893: 
+894:       const activeByName = new Map(
+895:         tenant.modules.map((module) => [module.moduleName, module.active]),
+896:       );
+897: 
+898:       return {
+899:         tenantId: tenant.id,
+900:         name: tenant.name,
+901:         slug: tenant.slug,
+902:         active: tenant.active,
+903:         modules: MODULES.map((moduleName) => ({
+904:           moduleName,
+905:           active: activeByName.get(moduleName) ?? false,
+906:         })),
+907:       };
+908:     },
+909: 
+910:     /**
+911:      * Crea o actualiza el estado de un módulo del tenant (upsert sobre la
+912:      * clave única `[tenantId, moduleName]`).
+913:      */
+914:     toggleModule: (
+915:       tenantId: string,
+916:       moduleName: ModuleValue,
+917:       active: boolean,
+918:     ) =>
+919:       db.orm.public.TenantModule.upsert({
+920:         create: { tenantId, moduleName, active },
+921:         update: { active },
+922:         conflictOn: { tenantId, moduleName },
+923:       }),
+924: 
+925:     /**
+926:      * Feed de actividad real de la plataforma: une pagos, presupuestos,
+927:      * clientes, membresías, usuarios, altas de negocios y auditoría.
+928:      * Opcionalmente scoped a un tenant (drawer).
+929:      */
+930:     getActivityFeed: async (
+931:       options: { limit?: number; tenantId?: string } = {},
+932:     ): Promise<ActivityItem[]> => {
+933:       const safeLimit = Math.min(50, Math.max(1, Math.trunc(options.limit ?? 12)));
+934:       const perSource = Math.max(safeLimit, 10);
+935:       const tenantId = options.tenantId;
+936: 
+937:       const [payments, quotes, customers, memberships, users, newTenants, audits] =
+938:         await Promise.all([
+939:           db.orm.public.Payment
+940:             .where({})
+941:             .where(tenantId ? { tenantId } : {})
+942:             .select("id", "tenantId", "amount", "status", "createdAt")
+943:             .orderBy((payment) => payment.createdAt.desc())
+944:             .limit(perSource)
+945:             .all(),
+946:           db.orm.public.Quote
+947:             .where({})
+948:             .where(tenantId ? { tenantId } : {})
+949:             .select(
+950:               "id",
+951:               "tenantId",
+952:               "code",
+953:               "title",
+954:               "status",
+955:               "totalAmount",
+956:               "createdAt",
+957:             )
+958:             .orderBy((quote) => quote.createdAt.desc())
+959:             .limit(perSource)
+960:             .all(),
+961:           db.orm.public.Customer
+962:             .where({})
+963:             .where(tenantId ? { tenantId } : {})
+964:             .select("id", "tenantId", "name", "createdAt")
+965:             .orderBy((customer) => customer.createdAt.desc())
+966:             .limit(perSource)
+967:             .all(),
+968:           db.orm.public.Membership
+969:             .where({})
+970:             .where(tenantId ? { tenantId } : {})
+971:             .select("id", "tenantId", "type", "createdAt")
+972:             .orderBy((membership) => membership.createdAt.desc())
+973:             .limit(perSource)
+974:             .all(),
+975:           db.orm.public.User
+976:             .where({})
+977:             .where(tenantId ? { tenantId } : {})
+978:             .select("id", "tenantId", "name", "email", "role", "createdAt")
+979:             .orderBy((user) => user.createdAt.desc())
+980:             .limit(perSource)
+981:             .all(),
+982:           db.orm.public.Tenant
+983:             .where({})
+984:             .where(tenantId ? { id: tenantId } : {})
+985:             .select("id", "name", "active", "createdAt")
+986:             .orderBy((tenant) => tenant.createdAt.desc())
+987:             .limit(perSource)
+988:             .all(),
+989:           db.orm.public.AuditLog
+990:             .where({})
+991:             .where(tenantId ? { targetTenantId: tenantId } : {})
+992:             .select(
+993:               "id",
+994:               "action",
+995:               "targetTenantId",
+996:               "targetTenantName",
+997:               "createdAt",
+998:             )
+999:             .orderBy((entry) => entry.createdAt.desc())
+1000:             .limit(perSource)
+1001:             .all(),
+1002:         ]);
+1003: 
+1004:       const tenantIds = new Set<string>();
+1005:       for (const row of payments) tenantIds.add(row.tenantId);
+1006:       for (const row of quotes) tenantIds.add(row.tenantId);
+1007:       for (const row of customers) tenantIds.add(row.tenantId);
+1008:       for (const row of memberships) tenantIds.add(row.tenantId);
+1009:       for (const row of users) tenantIds.add(row.tenantId);
+1010:       if (tenantId) tenantIds.add(tenantId);
+1011:       for (const row of newTenants) tenantIds.add(row.id);
+1012: 
+1013:       const nameById = new Map<string, string>();
+1014:       if (tenantIds.size > 0) {
+1015:         const tenantRows = await db.orm.public.Tenant
+1016:           .where((tenant) => tenant.id.in([...tenantIds]))
+1017:           .select("id", "name")
+1018:           .all();
+1019:         for (const row of tenantRows) {
+1020:           nameById.set(row.id, row.name);
+1021:         }
+1022:       }
+1023:       for (const row of newTenants) {
+1024:         nameById.set(row.id, row.name);
+1025:       }
+1026: 
+1027:       const items: ActivityItem[] = [];
+1028: 
+1029:       for (const row of payments) {
+1030:         const status = row.status;
+1031:         items.push({
+1032:           id: `payment:${row.id}`,
+1033:           kind:
+1034:             status === "APPROVED"
+1035:               ? "payment_approved"
+1036:               : status === "DECLINED"
+1037:                 ? "payment_declined"
+1038:                 : "payment_pending",
+1039:           title: `${formatCurrency(toNumber(row.amount))} · ${paymentStatusLabel(status)}`,
+1040:           description: "Pago registrado",
+1041:           tenantId: row.tenantId,
+1042:           tenantName: nameById.get(row.tenantId) ?? null,
+1043:           at: toJsDate(row.createdAt).toISOString(),
+1044:           atLabel: formatRelativeTime(row.createdAt),
+1045:         });
+1046:       }
+1047: 
+1048:       for (const row of quotes) {
+1049:         items.push({
+1050:           id: `quote:${row.id}`,
+1051:           kind: row.status === "APPROVED" ? "quote_approved" : "quote_created",
+1052:           title: `${row.code} · ${row.title}`,
+1053:           description: `${formatCurrency(toNumber(row.totalAmount))} · presupuesto`,
+1054:           tenantId: row.tenantId,
+1055:           tenantName: nameById.get(row.tenantId) ?? null,
+1056:           at: toJsDate(row.createdAt).toISOString(),
+1057:           atLabel: formatRelativeTime(row.createdAt),
+1058:         });
+1059:       }
+1060: 
+1061:       for (const row of customers) {
+1062:         items.push({
+1063:           id: `customer:${row.id}`,
+1064:           kind: "customer_created",
+1065:           title: row.name,
+1066:           description: "Cliente nuevo",
+1067:           tenantId: row.tenantId,
+1068:           tenantName: nameById.get(row.tenantId) ?? null,
+1069:           at: toJsDate(row.createdAt).toISOString(),
+1070:           atLabel: formatRelativeTime(row.createdAt),
+1071:         });
+1072:       }
+1073: 
+1074:       for (const row of memberships) {
+1075:         items.push({
+1076:           id: `membership:${row.id}`,
+1077:           kind: "membership_created",
+1078:           title: `Membresía ${row.type}`,
+1079:           description: "Membresía registrada",
+1080:           tenantId: row.tenantId,
+1081:           tenantName: nameById.get(row.tenantId) ?? null,
+1082:           at: toJsDate(row.createdAt).toISOString(),
+1083:           atLabel: formatRelativeTime(row.createdAt),
+1084:         });
+1085:       }
+1086: 
+1087:       for (const row of users) {
+1088:         items.push({
+1089:           id: `user:${row.id}`,
+1090:           kind: "user_created",
+1091:           title: row.name ?? row.email,
+1092:           description: `Usuario ${ROLE_LABELS[row.role]}`,
+1093:           tenantId: row.tenantId,
+1094:           tenantName: nameById.get(row.tenantId) ?? null,
+1095:           at: toJsDate(row.createdAt).toISOString(),
+1096:           atLabel: formatRelativeTime(row.createdAt),
+1097:         });
+1098:       }
+1099: 
+1100:       for (const row of newTenants) {
+1101:         items.push({
+1102:           id: `tenant:${row.id}`,
+1103:           kind: "tenant_created",
+1104:           title: row.name,
+1105:           description: "Negocio creado",
+1106:           tenantId: row.id,
+1107:           tenantName: row.name,
+1108:           at: toJsDate(row.createdAt).toISOString(),
+1109:           atLabel: formatRelativeTime(row.createdAt),
+1110:         });
+1111:       }
+1112: 
+1113:       for (const row of audits) {
+1114:         items.push({
+1115:           id: `audit:${row.id}`,
+1116:           kind: "audit",
+1117:           title: AUDIT_ACTION_LABELS[row.action] ?? row.action,
+1118:           description: row.targetTenantName ?? null,
+1119:           tenantId: row.targetTenantId ?? null,
+1120:           tenantName: row.targetTenantName ?? null,
+1121:           at: toJsDate(row.createdAt).toISOString(),
+1122:           atLabel: formatRelativeTime(row.createdAt),
+1123:         });
+1124:       }
+1125: 
+1126:       return items
+1127:         .sort((a, b) => (a.at < b.at ? 1 : a.at > b.at ? -1 : 0))
+1128:         .slice(0, safeLimit);
+1129:     },
+1130: 
+1131:     /** Registra una acción del CEO en la bitácora de auditoría. */
+1132:     logAudit: async (input: AuditLogInput): Promise<void> => {
+1133:       await db.orm.public.AuditLog.create({
+1134:         actorId: input.actorId,
+1135:         actorEmail: input.actorEmail ?? null,
+1136:         action: input.action,
+1137:         targetTenantId: input.targetTenantId ?? null,
+1138:         targetTenantName: input.targetTenantName ?? null,
+1139:         metadata: (input.metadata ?? null) as never,
+1140:         ipAddress: input.ipAddress ?? null,
+1141:         userAgent: input.userAgent ?? null,
+1142:       });
+1143:     },
+1144: 
+1145:     /** Últimas entradas de la bitácora de auditoría (más recientes primero). */
+1146:     listAuditLogs: async (limit = 20): Promise<AuditLogRow[]> => {
+1147:       const safeLimit = Math.min(100, Math.max(1, Math.trunc(limit)));
+1148:       const rows = await db.orm.public.AuditLog
+1149:         .where({})
+1150:         .orderBy((entry) => entry.createdAt.desc())
+1151:         .limit(safeLimit)
+1152:         .all();
+1153:       return rows.map((row) => ({
+1154:         id: row.id,
+1155:         actorId: row.actorId,
+1156:         actorEmail: row.actorEmail ?? null,
+1157:         action: row.action,
+1158:         targetTenantId: row.targetTenantId ?? null,
+1159:         targetTenantName: row.targetTenantName ?? null,
+1160:         metadata: row.metadata ?? null,
+1161:         ipAddress: row.ipAddress ?? null,
+1162:         userAgent: row.userAgent ?? null,
+1163:         createdAt: toJsDate(row.createdAt).toISOString(),
+1164:       }));
+1165:     },
+1166:   };
+1167: }
+
+(End of file - total 1167 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I understand the whole admin panel. The task: "adapta las nuevas opciones de onboarding a el panel CEO" — adapt the new onboarding options to the CEO panel.
+
+The new onboarding options (from the adaptive wizard):
+- `tenantType` (INDIVIDUAL | COMPANY)
+- `legalName` (razón social, COMPANY optional)
+- `taxId` (NIT/RUT: COMPANY required in wizard validation)
+- `teamSize` (SOLO / 2-5 / 6-20 / 20+)
+- `address` (with REMOTE allowed)
+- Module presets based on tenantType + vertical
+
+The CEO panel's tenant creation form (TenantForm) currently creates: name, slug, vertical, modules. The user wants the CEO to be able to set the new onboarding profile options when creating a tenant.
+
+Scope decision. What makes sense for the CEO panel ("Nuevo negocio" modal):
+1. Add **Perfil: Empresa / Persona individual** (tenantType) selector — this is THE headline new option.
+2. Add conditional fields based on type:
+   - COMPANY: legalName (razón social, optional), taxId (required per wizard logic), teamSize (required), address (required, REMOTE allowed), city... wait, city isn't part of the new fields. In the wizard: name, legalName, taxId, slug, vertical, teamSize, address, city (city was part of old tenant). Actually look at the wizard validation from my earlier work: INDIVIDUAL → name/slug/vertical/city required, taxId optional; COMPANY → + taxId/teamSize/address required ("REMOTE" allowed), legalName optional 2-120.
+
+Hmm, but do we want to force ALL this on the CEO? The wizard has these as required for COMPANY. But the CEO creating a tenant often doesn't have all the tax info — they set it up and the integrante completes the rest via the resume wizard (which will validate required fields then). If the CEO creates a COMPANY tenant without taxId, then the integrante resumes the wizard and gets asked for taxId/teamSize/address. That's the design: the wizard is where the integrante fills the details; the CEO's job is identity + vertical + modules.
+
+So the RIGHT adaptation for the CEO panel is probably:
+- Add the Perfil selector (Empresa/Persona) — default Empresa (matches tenantType @default(COMPANY)).
+- Show the OPTIONAL profile fields for the CEO to prefill IF they have the data, but NOT enforce them as required (leaving that for the resume wizard): legalName, taxId, teamSize, address. Hmm — but "adaptar las nuevas opciones" — the CEO wants the new options available. 
+
+Also importantly: when CEO picks a module preset... the new wizard applies presets based on tenantType+vertical on RESUME. Since the CEO-created tenant will now go through the new wizard when the integrante logs in (we just changed the gate!), the module preselection in the CEO form becomes a starting point. The presets from lib/onboarding/presets.ts adjust in resume.
+
+Let me focus on the minimal, coherent adaptation:
+
+**1. validators.ts** — extend `TenantFormValues` with:
+- tenantType: OnboardingTenantType | "" (INDIVIDUAL | COMPANY)
+- legalName, taxId, teamSize, address: string (optional)
+- validation rules (lenient for CEO):
+  - tenantType must be INDIVIDUAL or COMPANY if provided, default COMPANY
+  - legalName: max 120, optional, min 2 if present (align with wizard's COMPANY optional 2-120)
+  - taxId: use the checkTaxId pattern (5-15 digits + optional -/.) — optional for CEO but validate format if provided
+  - teamSize: must be one of SOLO|2-5|6-20|20+ if provided
+  - address: max length (say 120) optional
+- The values returned use raw strings for the optional fields (empty string = not set → null in DB)
+
+**2. admin-db.ts createTenant** — accept the new fields and write them to Tenant:
+```ts
+createTenant: (data: {
+  name: string; slug: string; vertical: VerticalValue; modules: ModuleValue[];
+  tenantType?: TenantType; legalName?: string | null; taxId?: string | null;
+  teamSize?: string | null; address?: string | null;
+}) => db.transaction(...)
+```
+Tenant.create with tenantType etc. Note: tenantType is an enum in the contract — import type or use the same union as onboarding types. The OnboardingTenantType from lib/onboarding/types is client-safe (string union "INDIVIDUAL" | "COMPANY") — the contract enum is structurally compatible (I used the same trick in prefill: TenantForDraft uses OnboardingDraft["tenantType"]).
+
+**3. actions.ts createTenantAction** — pass through the new fields; validate via validators; include in metadata audit.
+
+**4. tenant-form.tsx** — add UI:
+- Perfil selector: two cards (Empresa / Persona) like the wizard's profile-selection (simpler: two radio-style buttons)
+- Conditional inputs: Empresa → legalName (razón social), taxId (NIT/RUT), teamSize (select chips/select), address (text, "REMOTE" allowed)
+- When tenantType changes to INDIVIDUAL → teamSize/address fields hide (or become optional-hidden)
+- Estética: keep the indigo admin style (the admin panel uses indigo accents, not amber — palette: indigo focus, slate borders). Keep consistent with the panel.
+
+Also worth: when the CEO changes tenantType, should the modules preselect change? The wizard's preset uses tenantType+vertical (INDIVIDUAL drops team-heavy modules). The admin form already preselects DEFAULT_MODULES_BY_VERTICAL on vertical change (unless touched). Adding preset adaptation on tenantType change: if !modulesTouched, recompute preset from new tenantType + vertical. That aligns defaults with the new system. I need access to getOnboardingModulePreset — that's in lib/onboarding/presets.ts (client-safe). Import it in the form. That's a nice touch: "Módulos iniciales" default becomes consistent.
+
+**5. tenant-drawer.tsx** — the detail drawer should DISPLAY the new profile fields (tenantType, legalName, taxId, teamSize, address) — "adaptar las opciones al panel" also means seeing them. Let me check the drawer and getTenantDetail (add fields to TenantDetail + TenantListRow maybe). At minimum, drawer shows the profile. Let me read tenant-drawer.tsx to see structure.
+
+Also the completion of onboarding: createTenant in admin keeps onboardingCompleted=false — right, so integrante still completes via wizard. Good.
+
+Hmm, but WAIT — also consider: should the CEO's form setting tenantType affect whether the detalles show? Let me read the drawer to add the display.
+
+Also there's `TenantDetail` type & `getTenantDetail` returning fields — add tenantType, legalName, taxId, teamSize, address. And `TenantListRow`? The table already has city; adding tenantType to the row might be nice for a badge in the table (Empresa/Persona) — optional. Keep it focused: drawer + form + validation + DB.
+
+Let me read the drawer quickly.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/_components/tenant-drawer.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-drawer.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/_components/tenant-drawer.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import { useActionState, useCallback, useEffect, useState } from "react";
+4: import { useSignIn } from "@clerk/nextjs";
+5: import {
+6:   AtSign,
+7:   CheckCircle2,
+8:   Globe,
+9:   Loader2,
+10:   LogIn,
+11:   MapPin,
+12:   MessageCircle,
+13:   Power,
+14:   RotateCcw,
+15: } from "lucide-react";
+16: import {
+17:   Sheet,
+18:   SheetContent,
+19:   SheetDescription,
+20:   SheetHeader,
+21:   SheetTitle,
+22: } from "@/components/ui/sheet";
+23: import { Button } from "@/components/ui/button";
+24: import { Skeleton } from "@/components/ui/skeleton";
+25: import { getVerticalIcon } from "@/lib/admin/vertical-icons";
+26: import { MODULE_LABELS, VERTICAL_LABELS } from "@/lib/admin-catalogs";
+27: import { paymentMethodLabel } from "@/lib/finance";
+28: import { formatCurrency, formatDateTime } from "@/lib/format";
+29: import type { TenantDetail } from "@/lib/admin-db";
+30: import { cn } from "@/lib/utils";
+31: import {
+32:   activateTenantAction,
+33:   createImpersonationAction,
+34:   getTenantDetailAction,
+35:   toggleTenantModuleAction,
+36:   type AdminFormState,
+37: } from "../actions";
+38: import TenantStatusBadge from "./tenant-status-badge";
+39: import SuspendDialog from "./suspend-dialog";
+40: 
+41: const IDLE: AdminFormState = { status: "idle" };
+42: 
+43: type TabId = "resumen" | "usuarios" | "modulos";
+44: 
+45: const TABS: { id: TabId; label: string }[] = [
+46:   { id: "resumen", label: "Resumen" },
+47:   { id: "usuarios", label: "Usuarios" },
+48:   { id: "modulos", label: "Módulos" },
+49: ];
+50: 
+51: /**
+52:  * Drawer de detalle de un negocio. Carga el detalle on-open vía Server
+53:  * Action (autorizada) y permite gestionar módulos, suspender/reactivar e
+54:  * impersonar, todo con auditoría. Sin datos inventados: lo que no hay se
+55:  * muestra como no disponible.
+56:  */
+57: export default function TenantDrawer({
+58:   tenantId,
+59:   onClose,
+60: }: {
+61:   tenantId: string | null;
+62:   onClose: () => void;
+63: }) {
+64:   const [detail, setDetail] = useState<TenantDetail | null>(null);
+65:   const [activeTab, setActiveTab] = useState<TabId>("resumen");
+66: 
+67:   const { signIn } = useSignIn();
+68:   const [impersonating, setImpersonating] = useState(false);
+69:   const [impersonationError, setImpersonationError] = useState<string | null>(
+70:     null,
+71:   );
+72: 
+73:   const [moduleState, moduleAction, modulePending] = useActionState(
+74:     toggleTenantModuleAction,
+75:     IDLE,
+76:   );
+77:   const [activateState, activateAction, activatePending] = useActionState(
+78:     activateTenantAction,
+79:     IDLE,
+80:   );
+81: 
+82:   const load = useCallback(async (id: string) => {
+83:     const result = await getTenantDetailAction(id);
+84:     setDetail(result);
+85:   }, []);
+86: 
+87:   useEffect(() => {
+88:     // Carga del detalle por interacción (client). El setState ocurre tras el
+89:     // fetch resuelto, no de forma síncrona en el cuerpo del efecto.
+90:     // eslint-disable-next-line react-hooks/set-state-in-effect
+91:     if (tenantId) void load(tenantId);
+92:   }, [tenantId, load]);
+93: 
+94:   // Tras una mutación exitosa, recargar el detalle del drawer.
+95:   useEffect(() => {
+96:     if (
+97:       (moduleState.status === "ok" || activateState.status === "ok") &&
+98:       tenantId
+99:     ) {
+100:       // Refresco tras una mutación exitosa.
+101:       // eslint-disable-next-line react-hooks/set-state-in-effect
+102:       void load(tenantId);
+103:     }
+104:     // eslint-disable-next-line react-hooks/exhaustive-deps
+105:   }, [moduleState.status, activateState.status]);
+106: 
+107:   const handleImpersonate = async () => {
+108:     if (!tenantId) return;
+109:     setImpersonating(true);
+110:     setImpersonationError(null);
+111:     try {
+112:       const result = await createImpersonationAction(tenantId);
+113:       if (result.status !== "ok" || !result.ticket) {
+114:         setImpersonationError(result.message ?? "No se pudo impersonar.");
+115:         return;
+116:       }
+117:       // Clerk 7 (signals): ticket → finalize, que activa la sesión y navega.
+118:       const ticketAttempt = await signIn.ticket({ ticket: result.ticket });
+119:       if (ticketAttempt.error) {
+120:         setImpersonationError(
+121:           ticketAttempt.error.longMessage ??
+122:             ticketAttempt.error.message ??
+123:             "No se pudo validar el ticket de acceso.",
+124:         );
+125:         return;
+126:       }
+127:       const target = result.url ?? "/";
+128:       const finalized = await signIn.finalize({
+129:         navigate: ({ decorateUrl }) => {
+130:           window.location.assign(decorateUrl(target));
+131:         },
+132:       });
+133:       if (finalized.error) {
+134:         setImpersonationError(
+135:           finalized.error.longMessage ??
+136:             finalized.error.message ??
+137:             "No se pudo completar el cambio de sesión.",
+138:         );
+139:       }
+140:     } catch (error) {
+141:       console.error("[admin] impersonate:", error);
+142:       setImpersonationError("No se pudo iniciar la impersonación.");
+143:     } finally {
+144:       setImpersonating(false);
+145:     }
+146:   };
+147: 
+148:   const visual = detail ? getVerticalIcon(detail.vertical) : null;
+149:   const VerticalIcon = visual?.icon;
+150: 
+151:   return (
+152:     <Sheet open={tenantId !== null} onOpenChange={(open) => !open && onClose()}>
+153:       <SheetContent
+154:         side="right"
+155:         className="w-full gap-0 overflow-y-auto p-0 sm:max-w-xl"
+156:       >
+157:         {!detail ? (
+158:           <div className="space-y-4 p-6">
+159:             <Skeleton className="h-6 w-40" />
+160:             <Skeleton className="h-4 w-64" />
+161:             <Skeleton className="h-24 w-full" />
+162:             <Skeleton className="h-24 w-full" />
+163:           </div>
+164:         ) : (
+165:           <>
+166:             <SheetHeader className="border-b p-6">
+167:               <div className="flex items-start gap-3">
+168:                 {visual && VerticalIcon ? (
+169:                   <span
+170:                     className={cn(
+171:                       "inline-flex size-10 shrink-0 items-center justify-center rounded-lg",
+172:                       visual.chipClass,
+173:                     )}
+174:                   >
+175:                     <VerticalIcon aria-hidden="true" className="h-5 w-5" />
+176:                   </span>
+177:                 ) : null}
+178:                 <div className="min-w-0 flex-1">
+179:                   <SheetTitle className="truncate">{detail.name}</SheetTitle>
+180:                   <SheetDescription className="truncate">
+181:                     {VERTICAL_LABELS[detail.vertical]} ·{" "}
+182:                     <span className="font-mono">{detail.slug}</span>
+183:                   </SheetDescription>
+184:                   <div className="mt-2 flex flex-wrap items-center gap-2">
+185:                     <TenantStatusBadge active={detail.active} />
+186:                     {detail.suspendedReason && !detail.active ? (
+187:                       <span className="text-xs text-rose-600">
+188:                         Motivo: {detail.suspendedReason}
+189:                       </span>
+190:                     ) : null}
+191:                   </div>
+192:                 </div>
+193:               </div>
+194: 
+195:               <div className="mt-4 flex flex-wrap gap-2">
+196:                 {detail.active ? (
+197:                   <SuspendDialog
+198:                     tenantId={detail.id}
+199:                     tenantName={detail.name}
+200:                     onSuspended={() => load(detail.id)}
+201:                   />
+202:                 ) : (
+203:                   <form action={activateAction}>
+204:                     <input type="hidden" name="tenantId" value={detail.id} />
+205:                     <Button
+206:                       type="submit"
+207:                       variant="outline"
+208:                       size="sm"
+209:                       disabled={activatePending}
+210:                     >
+211:                       {activatePending ? (
+212:                         <Loader2 className="animate-spin" />
+213:                       ) : (
+214:                         <RotateCcw />
+215:                       )}
+216:                       Reactivar
+217:                     </Button>
+218:                   </form>
+219:                 )}
+220:                 <Button
+221:                   type="button"
+222:                   variant="outline"
+223:                   size="sm"
+224:                   onClick={handleImpersonate}
+225:                   disabled={impersonating || detail.users.length === 0}
+226:                 >
+227:                   {impersonating ? (
+228:                     <Loader2 className="animate-spin" />
+229:                   ) : (
+230:                     <LogIn />
+231:                   )}
+232:                   Entrar como negocio
+233:                 </Button>
+234:               </div>
+235: 
+236:               {impersonationError ? (
+237:                 <p className="mt-2 text-xs text-rose-600">
+238:                   {impersonationError}
+239:                 </p>
+240:               ) : null}
+241:             </SheetHeader>
+242: 
+243:             <nav className="flex gap-1 border-b px-4" aria-label="Secciones">
+244:               {TABS.map((tab) => (
+245:                 <button
+246:                   key={tab.id}
+247:                   type="button"
+248:                   onClick={() => setActiveTab(tab.id)}
+249:                   aria-current={activeTab === tab.id ? "page" : undefined}
+250:                   className={cn(
+251:                     "-mb-px border-b-2 px-3 py-2.5 text-sm font-medium transition",
+252:                     activeTab === tab.id
+253:                       ? "border-amber-500 text-foreground"
+254:                       : "border-transparent text-muted-foreground hover:text-foreground",
+255:                   )}
+256:                 >
+257:                   {tab.label}
+258:                 </button>
+259:               ))}
+260:             </nav>
+261: 
+262:             <div className="space-y-6 p-6">
+263:               {activeTab === "resumen" ? (
+264:                 <ResumenTab detail={detail} />
+265:               ) : null}
+266:               {activeTab === "usuarios" ? <UsuariosTab detail={detail} /> : null}
+267:               {activeTab === "modulos" ? (
+268:                 <ModulosTab
+269:                   detail={detail}
+270:                   action={moduleAction}
+271:                   pending={modulePending}
+272:                   message={
+273:                     moduleState.status === "ok"
+274:                       ? (moduleState.message ?? null)
+275:                       : null
+276:                   }
+277:                 />
+278:               ) : null}
+279:             </div>
+280:           </>
+281:         )}
+282:       </SheetContent>
+283:     </Sheet>
+284:   );
+285: }
+286: 
+287: function Stat({
+288:   label,
+289:   value,
+290:   hint,
+291: }: {
+292:   label: string;
+293:   value: string;
+294:   hint?: string;
+295: }) {
+296:   return (
+297:     <div className="rounded-lg border bg-card p-3">
+298:       <p className="text-xs text-muted-foreground">{label}</p>
+299:       <p className="mt-1 text-lg font-semibold tabular-nums">{value}</p>
+300:       {hint ? (
+301:         <p className="mt-0.5 text-[11px] text-muted-foreground">{hint}</p>
+302:       ) : null}
+303:     </div>
+304:   );
+305: }
+306: 
+307: function ResumenTab({ detail }: { detail: TenantDetail }) {
+308:   const { metrics } = detail;
+309:   const ecosystem = [
+310:     {
+311:       icon: MessageCircle,
+312:       label: "WhatsApp",
+313:       value: detail.whatsappNumber,
+314:       href: detail.whatsappNumber
+315:         ? `https://wa.me/${detail.whatsappNumber.replace(/[^0-9]/g, "")}`
+316:         : null,
+317:     },
+318:     {
+319:       icon: AtSign,
+320:       label: "Instagram",
+321:       value: detail.instagramHandle
+322:         ? `@${detail.instagramHandle.replace(/^@/, "")}`
+323:         : null,
+324:       href: detail.instagramHandle
+325:         ? `https://instagram.com/${detail.instagramHandle.replace(/^@/, "")}`
+326:         : null,
+327:     },
+328:     {
+329:       icon: Globe,
+330:       label: "Sitio web",
+331:       value: detail.websiteUrl,
+332:       href: detail.websiteUrl,
+333:     },
+334:     {
+335:       icon: MapPin,
+336:       label: "Google Maps",
+337:       value: detail.googleBusinessUrl,
+338:       href: detail.googleBusinessUrl,
+339:     },
+340:   ];
+341: 
+342:   return (
+343:     <>
+344:       <section className="grid grid-cols-2 gap-3">
+345:         <Stat label="Clientes" value={String(metrics.customersCount)} />
+346:         <Stat
+347:           label="Presupuestos"
+348:           value={String(metrics.quotesCount)}
+349:           hint={formatCurrency(metrics.quotesTotal)}
+350:         />
+351:         <Stat
+352:           label="Pagos aprobados"
+353:           value={formatCurrency(metrics.paymentsApprovedTotal)}
+354:           hint={`${metrics.paymentsApprovedCount} de ${metrics.paymentsCount}`}
+355:         />
+356:         <Stat
+357:           label="Membresías vigentes"
+358:           value={String(metrics.membershipsActive)}
+359:         />
+360:       </section>
+361: 
+362:       <section>
+363:         <h3 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+364:           Identidad y ubicación
+365:         </h3>
+366:         <dl className="mt-2 grid grid-cols-1 gap-1 text-sm sm:grid-cols-2">
+367:           <InfoRow label="Ciudad" value={detail.city} />
+368:           <InfoRow
+369:             label="Dominio personalizado"
+370:             value={detail.customDomain}
+371:           />
+372:           <InfoRow
+373:             label="Métodos de pago"
+374:             value={
+375:               detail.paymentMethods.length > 0
+376:                 ? detail.paymentMethods
+377:                     .map((method) => paymentMethodLabel(method))
+378:                     .join(", ")
+379:                 : null
+380:             }
+381:           />
+382:           <InfoRow
+383:             label="Onboarding"
+384:             value={
+385:               detail.onboardingCompleted
+386:                 ? "Completo"
+387:                 : `Pendiente (${detail.onboardingProgress}%)`
+388:             }
+389:           />
+390:           <InfoRow label="Creado" value={formatDateTime(detail.createdAtIso)} />
+391:           <InfoRow
+392:             label="Última actividad"
+393:             value={detail.lastActivityLabel}
+394:           />
+395:         </dl>
+396:       </section>
+397: 
+398:       <section>
+399:         <h3 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+400:           Ecosistema digital
+401:         </h3>
+402:         <ul className="mt-2 space-y-1.5">
+403:           {ecosystem.map((row) => {
+404:             const Icon = row.icon;
+405:             return (
+406:               <li
+407:                 key={row.label}
+408:                 className="flex items-center gap-2.5 rounded-lg border px-3 py-2 text-sm"
+409:               >
+410:                 <Icon
+411:                   aria-hidden="true"
+412:                   className="h-4 w-4 shrink-0 text-muted-foreground"
+413:                 />
+414:                 <span className="w-24 shrink-0 text-muted-foreground">
+415:                   {row.label}
+416:                 </span>
+417:                 {row.value ? (
+418:                   row.href ? (
+419:                     <a
+420:                       href={row.href}
+421:                       target="_blank"
+422:                       rel="noopener noreferrer"
+423:                       className="min-w-0 truncate font-medium text-amber-700 hover:underline"
+424:                     >
+425:                       {row.value}
+426:                     </a>
+427:                   ) : (
+428:                     <span className="min-w-0 truncate">{row.value}</span>
+429:                   )
+430:                 ) : (
+431:                   <span className="text-xs text-muted-foreground">Sin dato</span>
+432:                 )}
+433:               </li>
+434:             );
+435:           })}
+436:         </ul>
+437:       </section>
+438:     </>
+439:   );
+440: }
+441: 
+442: function InfoRow({ label, value }: { label: string; value: string | null }) {
+443:   return (
+444:     <div className="flex items-baseline gap-2">
+445:       <dt className="w-40 shrink-0 text-muted-foreground">{label}</dt>
+446:       <dd className="min-w-0 truncate">{value ?? "—"}</dd>
+447:     </div>
+448:   );
+449: }
+450: 
+451: function UsuariosTab({ detail }: { detail: TenantDetail }) {
+452:   if (detail.users.length === 0) {
+453:     return (
+454:       <p className="text-sm text-muted-foreground">
+455:         El negocio todavía no tiene usuarios registrados.
+456:       </p>
+457:     );
+458:   }
+459:   return (
+460:     <ul className="divide-y">
+461:       {detail.users.map((user) => (
+462:         <li key={user.id} className="flex items-center gap-3 py-3 first:pt-0">
+463:           <span className="inline-flex size-9 shrink-0 items-center justify-center rounded-full bg-muted text-sm font-medium uppercase">
+464:             {(user.name ?? user.email).slice(0, 1)}
+465:           </span>
+466:           <span className="min-w-0 flex-1">
+467:             <span className="block truncate text-sm font-medium">
+468:               {user.name ?? "Sin nombre"}
+469:             </span>
+470:             <span className="block truncate text-xs text-muted-foreground">
+471:               {user.email}
+472:             </span>
+473:           </span>
+474:           <span className="shrink-0 rounded-md bg-muted px-2 py-0.5 text-xs font-medium text-muted-foreground">
+475:             {user.roleLabel}
+476:           </span>
+477:         </li>
+478:       ))}
+479:     </ul>
+480:   );
+481: }
+482: 
+483: function ModulosTab({
+484:   detail,
+485:   action,
+486:   pending,
+487:   message,
+488: }: {
+489:   detail: TenantDetail;
+490:   action: (formData: FormData) => void;
+491:   pending: boolean;
+492:   message: string | null;
+493: }) {
+494:   return (
+495:     <>
+496:       {message ? (
+497:         <p className="flex items-center gap-1.5 rounded-lg bg-emerald-50 px-3 py-2 text-sm text-emerald-700">
+498:           <CheckCircle2 aria-hidden="true" className="h-4 w-4" />
+499:           {message}
+500:         </p>
+501:       ) : null}
+502:       <ul className="space-y-2">
+503:         {detail.modules.map((module) => (
+504:           <li
+505:             key={module.moduleName}
+506:             className="flex items-center justify-between gap-3 rounded-lg border px-3 py-2.5"
+507:           >
+508:             <span className="min-w-0">
+509:               <span className="block text-sm font-medium">
+510:                 {MODULE_LABELS[module.moduleName]}
+511:               </span>
+512:               <span className="block text-xs text-muted-foreground">
+513:                 {module.active ? "Activo en este negocio" : "Desactivado"}
+514:               </span>
+515:             </span>
+516:             <form action={action} className="shrink-0">
+517:               <input type="hidden" name="tenantId" value={detail.id} />
+518:               <input
+519:                 type="hidden"
+520:                 name="moduleName"
+521:                 value={module.moduleName}
+522:               />
+523:               <input
+524:                 type="hidden"
+525:                 name="active"
+526:                 value={module.active ? "false" : "true"}
+527:               />
+528:               <Button
+529:                 type="submit"
+530:                 variant={module.active ? "outline" : "secondary"}
+531:                 size="sm"
+532:                 disabled={pending}
+533:               >
+534:                 {pending ? <Loader2 className="animate-spin" /> : <Power />}
+535:                 {module.active ? "Desactivar" : "Activar"}
+536:               </Button>
+537:             </form>
+538:           </li>
+539:         ))}
+540:       </ul>
+541:     </>
+542:   );
+543: }
+
+(End of file - total 543 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I have a complete picture. Plan for "adaptar las nuevas opciones de onboarding al panel CEO":
+
+**1. `validators.ts`** — extend `TenantFormValues`:
+```ts
+export type TenantFormValues = {
+  name: string;
+  slug: string;
+  vertical: VerticalValue | "";
+  modules: ModuleValue[];
+  tenantType: OnboardingTenantType | "";
+  legalName: string;
+  taxId: string;
+  teamSize: TeamSize | "";
+  address: string;
+};
+```
+Validation (lenient — CEO data is a prefill, wizard enforces the rest):
+- tenantType: "" or "INDIVIDUAL"|"COMPANY"; default to COMPANY in ok-values.
+- legalName: optional; if present: min 2 chars, max 120.
+- taxId: optional; if present: must pass the checkTaxId pattern (5-15 digits + optional -/. suffix 1-2). Empty OK.
+- teamSize: optional; must be one of SOLO|2-5|6-20|20+ if present.
+- address: optional; max 120; if provided and not "REMOTE", keep as-is (no trimming rules beyond whitespace trim).
+
+Where do I get the constants? lib/onboarding/validation.ts has checkTaxId but it's a full validation module with db-free pure functions — importable server-side. It also imports from lib/onboarding/slug.ts etc. Importing lib/onboarding/validation into app/admin/validators is fine (both server-only; admin validators is used in server action — wait, app/admin/validators.ts is imported by the FORM? No — the form imports actions and catalogs; validators.ts is imported by actions.ts (server) and... let me double check: tenant-form.tsx imports { createTenantAction, checkSlugAvailabilityAction, type AdminFormState } from "../actions" — not validators. So validators.ts is server-only. Good, I can import lib/onboarding/validation's checkTaxId? Actually simpler: import the constants TEAM_SIZES from lib/onboarding/types and reuse the taxId regex via lib/onboarding/validation.checkTaxId. Let me check lib/onboarding/validation exports — from my summary: `checkTaxId` refactored to {ok,value|error}. And lib/onboarding/types has TEAM_SIZES, TEAM_SIZE_LABELS, OnboardingTenantType, OnboardingTeamSize.
+
+Simpler + safer: don't import from validation (it pulls slug.ts normalize etc. — fine but unnecessary); just copy the small regex into validators with a comment referencing the wizard, OR import TEAM_SIZES only. Actually importing TEAM_SIZES from types.ts (client-safe constants file) is fine; types.ts has no server deps — it's imported by client components already. For taxId, replicate the regex constant with a pointer comment (keep validators self-contained like today: it re-runs validateSlug separately rather than importing wizard validation). I'll import TEAM_SIZES from lib/onboarding/types to avoid drift, and define TAX_ID_PATTERN locally mirroring the wizard.
+
+Hmm — actually it's better to reuse the wizard's checkTaxId to keep single source of truth. But validation.ts is a module with no DB/server imports (pure + client-safe!), also imported by client wizard. Importing checkTaxId from lib/onboarding/validation into app/admin/validators.ts — fine, no privacy/circular issues. And TEAM_SIZES from lib/onboarding/types. City max: wizard validation had city rules? Bank: wizard required city for both types. CEO form doesn't include city currently (city is part of old tenant? The old wizard saved city — the admin form doesn't have city). Keep city out — not part of this task (new options = profile fields).
+
+**2. `admin-db.ts createTenant`**:
+```ts
+createTenant: (data: {
+  name: string; slug: string; vertical: VerticalValue; modules: ModuleValue[];
+  tenantType: OnboardingTenantType; legalName?: string | null;
+  taxId?: string | null; teamSize?: string | null; address?: string | null;
+}) => db.transaction(async (tx) => {
+  const tenant = await tx.orm.public.Tenant.create({
+    name, slug, vertical,
+    tenantType: data.tenantType,
+    legalName: data.legalName?.trim() ? data.legalName.trim() : null,
+    taxId: ...,
+    teamSize: ...,
+    address: ...,
+  });
+  ...
+})
+```
+Type imports: `OnboardingTenantType` from "@/lib/onboarding/types".
+
+Also **TenantDetail** + **TenantListRow**: add tenantType, legalName, taxId, teamSize, address so the drawer can display the profile. Add to TenantRowSource too (or use TenantListRow-derived cast... TenantRowSource is the raw DB row type — add the 5 fields). buildTenantRow maps them. getTenantDetail maps them.
+
+**3. `actions.ts createTenantAction`** — destructure new values, pass to adminDb.createTenant, include tenantType etc in audit metadata.
+
+**4. `tenant-form.tsx`** — add UI:
+- "Perfil" section at top (before Nombre): two radio cards Empresa / Persona individual (Building2 / User icons).
+- Company-only fields (shown when tenantType === "COMPANY"): legalName (razón social, optional), taxId (opcional), teamSize (select), address (opcional, REMOTE allowed). For INDIVIDUAL show a hint? The wizard hides teamSize/address for INDIVIDUAL. Keep the CEO form simple: when Persona → hide those fields (CEO doesn't need them), or show all optional? Simplest faithful approach: show legalName/taxId/teamSize/address ONLY for Empresa (matches wizard's visibility model: INDIVIDUAL has no teamSize/address; taxId optional for both in wizard — but CEO panel can keep it company-only for simplicity... hmm, wizard allows taxId optional for INDIVIDUAL. To keep the panel clean, I'll show: taxId for BOTH (small field), teamSize/address only for Empresa. Actually let me not over-think: display fields:
+  - Perfil: Empresa / Persona
+  - Razón social (legalName) — solo Empresa, opcional
+  - NIT/RUT (taxId) — ambos perfiles, opcional (formato 5-15 dígitos)
+  - Equipo (teamSize) — solo Empresa, opcional (select: Solista, 2-5, 6-20, 20+)
+  - Dirección / REMOTE — solo Empresa, opcional
+- Module preset adaptation: when tenantType changes AND !modulesTouched AND vertical set → setModules(getOnboardingModulePreset({tenantType, vertical}).modules... wait the preset returns sorted modules ensuring minimal; import from lib/onboarding/presets. Signature: getOnboardingModulePreset({tenantType, vertical}) → ModuleValue[]. It's client-safe (uses admin-catalogs + types). Add effect or inline in the tenantType change handler: compute preset if !modulesTouched && vertical. This keeps CEO defaults aligned with the new adaptativo presets.
+
+But careful: getOnboardingModulePreset requires tenantType != "" — if user changes Perfil before vertical, nothing; when vertical changes (existing behavior) recompute with current tenantType: modify the vertical onChange to use preset with current tenantType instead of DEFAULT_MODULES_BY_VERTICAL. Actually the existing DEFAULT_MODULES_BY_VERTICAL is VERTICAL_RECIPES → without tenantType filtering. Using getOnboardingModulePreset with tenantType = "COMPANY" (default) gives recipe + minimal; for INDIVIDUAL drops team-heavy. This makes the form consistent with the new wizard. I'll switch vertical onChange to use the preset (with current tenantType, defaulting COMPANY if "").
+
+Let me check lib/onboarding/presets.ts signature quickly. And types.ts exports. Then implement.
+
+**5. `tenant-drawer.tsx ResumenTab`** — add profile rows:
+- Perfil: "Empresa"/"Persona individual" (label + maybe badge)
+- Razón social (if set)
+- NIT/RUT (if set)
+- Equipo (label)
+- Dirección (if set)
+Add to "Identidad y ubicación" section (InfoRow). Also maybe show city there already exists.
+
+Let me first read lib/onboarding/types.ts and presets.ts to get exact exports.
+
+</details>
+
+Tengo el panorama completo. Reviso los exports exactos de `lib/onboarding` para reutilizarlos en el panel:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; rg -n "export (type|const)" lib/onboarding/types.ts lib/onboarding/presets.ts lib/onboarding/validation.ts | rtk head -30
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; rg -n \"export (type|const)\" lib/onboarding/types.ts lib/onboarding/presets.ts lib/onboarding/validation.ts | rtk head -30"
+}
+```
+
+**Output:**
+```
+lib/onboarding/validation.ts:27:export type AdaptiveValidationResult =
+lib/onboarding/types.ts:11:export type { ModuleValue, VerticalValue };
+lib/onboarding/types.ts:14:export type OnboardingTenantType = "INDIVIDUAL" | "COMPANY";
+lib/onboarding/types.ts:16:export const ONBOARDING_TENANT_TYPES = ["INDIVIDUAL", "COMPANY"] as const;
+lib/onboarding/types.ts:24:export const ONBOARDING_STEPS = [1, 2, 3, 4] as const;
+lib/onboarding/types.ts:25:export type OnboardingStep = (typeof ONBOARDING_STEPS)[number];
+lib/onboarding/types.ts:28:export const TEAM_SIZES = ["SOLO", "2-5", "6-20", "20+"] as const;
+lib/onboarding/types.ts:29:export type TeamSizeValue = (typeof TEAM_SIZES)[number];
+lib/onboarding/types.ts:35:export const TEAM_SIZE_LABELS: Record<TeamSizeValue, string> = {
+lib/onboarding/types.ts:47:export type OnboardingDraft = {
+lib/onboarding/types.ts:60:export const EMPTY_DRAFT: OnboardingDraft = {
+lib/onboarding/types.ts:78:export type AdaptiveOnboardingInput = {
+lib/onboarding/types.ts:92:export type OnboardingFieldName =
+lib/onboarding/types.ts:104:export type OnboardingFieldErrors = Partial<
+lib/onboarding/types.ts:108:export type OnboardingActionResult =
+lib/onboarding/types.ts:118:export type OnboardingPrefill = {
+lib/onboarding/presets.ts:27:export const MINIMAL_MODULES: readonly ModuleValue[] = [
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; sed -n '20,40p' lib/onboarding/presets.ts; rtk rg -n "checkTaxId|TAX_ID_PATTERN" lib/onboarding/validation.ts
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; sed -n '20,40p' lib/onboarding/presets.ts; rtk rg -n \"checkTaxId|TAX_ID_PATTERN\" lib/onboarding/validation.ts"
+}
+```
+
+**Output:**
+```
+  "orders",
+  "inventory",
+  "memberships",
+  "billing",
+];
+
+/** Mínimo que todo negocio necesita (garantía de utilidad al entrar). */
+export const MINIMAL_MODULES: readonly ModuleValue[] = [
+  "dashboard",
+  "crm",
+  "payments",
+];
+
+export function getOnboardingModulePreset(input: {
+  tenantType: OnboardingTenantType;
+  vertical: VerticalValue;
+}): ModuleValue[] {
+  const recipe = VERTICAL_RECIPES[input.vertical].modules;
+  const preset =
+    input.tenantType === "INDIVIDUAL"
+      ? recipe.filter((moduleName) => !TEAM_HEAVY_MODULES.includes(moduleName))
+39:const TAX_ID_PATTERN = /^[\d]{5,15}(?:[-.][\d]{1,2})?$/;
+48:function checkTaxId(raw: string): TaxIdCheck {
+53:  if (value.length > TAX_ID_MAX || !TAX_ID_PATTERN.test(value)) {
+131:    const check = checkTaxId(clean(raw.taxId));
+140:    const check = checkTaxId(clean(raw.taxId));
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+I have all the pieces. Now implement:
+
+1. **`lib/onboarding/types.ts`** — check current exports around TEAM_SIZE_LABELS (line 35) to reuse labels. Already have TEAM_SIZES, TEAM_SIZE_LABELS, OnboardingTenantType.
+
+Note: `checkTaxId` in validation.ts is NOT exported (it's internal `function checkTaxId`). I'll export the TAX_ID_PATTERN? It's module-private const. Options: export it from validation.ts, or define locally in validators.ts with a comment. Cleanest single-source: export TAX_ID_PATTERN from validation.ts. But importing validation.ts into validators.ts pulls the whole module (pure, fine). Let me just export TAX_ID_PATTERN from lib/onboarding/validation.ts and import in app/admin/validators.ts.
+
+Actually wait — validation.ts imports presets? Let me check its imports: it uses validateSlug from admin-catalogs, slug normalize from slug.ts, presets? For module force. It's all pure. Fine.
+
+Let me now make the edits:
+
+### A. lib/onboarding/validation.ts — export TAX_ID_PATTERN
+Change `const TAX_ID_PATTERN` → `export const TAX_ID_PATTERN`.
+
+### B. app/admin/validators.ts
+- import { TEAM_SIZES, type OnboardingTenantType, type TeamSizeValue } from "@/lib/onboarding/types";
+- import { TAX_ID_PATTERN } from "@/lib/onboarding/validation";
+- Extend TenantFormValues + validation.
+
+New TenantFormValues:
+```ts
+export type TenantFormValues = {
+  name: string;
+  slug: string;
+  vertical: VerticalValue | "";
+  modules: ModuleValue[];
+  tenantType: OnboardingTenantType | "";
+  legalName: string;
+  taxId: string;
+  teamSize: TeamSizeValue | "";
+  address: string;
+};
+```
+
+TenantFieldErrors stays Partial<Record<keyof TenantFormValues | "form", string>>.
+
+Validation additions:
+```ts
+const rawTenantType = String(formData.get("tenantType") ?? "COMPANY").trim();
+const legalName = String(formData.get("legalName") ?? "").trim();
+const taxId = String(formData.get("taxId") ?? "").trim();
+const rawTeamSize = String(formData.get("teamSize") ?? "").trim();
+const address = String(formData.get("address") ?? "").trim();
+```
+
+values: tenantType: rawTenantType === "INDIVIDUAL" ? "INDIVIDUAL" : rawTenantType === "COMPANY" ? "COMPANY" : "", legalName, taxId, teamSize: (TEAM_SIZES as readonly string[]).includes(rawTeamSize) ? rawTeamSize as TeamSizeValue : "", address.
+
+Errors:
+- rawTenantType not in [INDIVIDUAL, COMPANY] → errors.tenantType = "Selecciona un perfil válido."
+- legalName: if present && len < 2 → "Mínimo 2 caracteres."; if len > 120 → "Máximo 120 caracteres."
+- taxId: if present && !TAX_ID_PATTERN.test(taxId) → "Formato: 5–15 dígitos (opcional sufijo -01)."
+- teamSize: if present && !TEAM_SIZES.includes → "Equipo no válido."
+- address: if len > 120 → "Máximo 120 caracteres."
+
+ok values include tenantType: (rawTenantType as OnboardingTenantType) default... For ok: ensure tenantType resolved to a valid value; if "" we should error. Actually default the CEO form hidden input to COMPANY (client sends tenantType always). To be lenient: treat "" as error. In ok values: tenantType: (values.tenantType as OnboardingTenantType) — but if empty we already errored (or should). Let me add: if (!isTenantType(rawTenantType)) errors.tenantType = ...; then ok: tenantType: rawTenantType as OnboardingTenantType.
+
+Note: existing `slugValidation` returns ok values using slugValidation.slug — keep.
+
+### C. app/admin/actions.ts
+- import type OnboardingTenantType? Not needed — validators carry the type.
+- In createTenantAction: `const { name, slug, vertical, modules, tenantType, legalName, taxId, teamSize, address } = validation.values;`
+- Pass to adminDb.createTenant({ name, slug, vertical, modules, tenantType, legalName: legalName || null, taxId: taxId || null, teamSize: teamSize || null, address: address || null })
+- audit metadata: { slug, vertical, modules, tenantType, legalName: legalName || undefined, taxId: ... , teamSize: ..., address: ... } — keep metadata concise: { slug, vertical, modules, tenantType }.
+
+Note: legalName etc — the form values are "" strings; the db layer should normalize empty → null. I'll normalize in db layer (createTenant) so callers can pass "" safely, and ALSO handle here. Cleanest: db layer normalizes (trim + empty→null).
+
+But type TenantFormValues now includes tenantType: "" possible in error values; in ok values it's resolved. createTenant's data type: tenantType: OnboardingTenantType — pass validation.values.tenantType as OnboardingTenantType (TS knows ok branch has it from TenantValidation ok type — currently ok type is `TenantFormValues & { vertical: VerticalValue }`; I'll extend ok: `TenantFormValues & { vertical: VerticalValue; tenantType: OnboardingTenantType }`. Then in action, after `if (!validation.ok) return ...`, validation.values is narrowed to the ok variant → tenantType: OnboardingTenantType. 
+
+### D. lib/admin-db.ts
+- import type OnboardingTenantType from "@/lib/onboarding/types".
+- TenantRowSource: add tenantType: OnboardingTenantType; legalName: string | null; taxId: string | null; teamSize: string | null; address: string | null;
+- TenantListRow: add same fields (maybe display in table later; at least carry them).
+- buildTenantRow: map them.
+- TenantDetail: add fields.
+- getTenantDetail: map them.
+- createTenant: accept + write; normalize empty→null.
+
+Wait — careful with TenantRowSource: it's built from listTenants rows which select specific fields. listTenants does `.include("modules", ...)` on a `db.orm.public.Tenant.where(...)` WITHOUT select() — so all fields are returned, including new ones. Good — no need to change the query. But buildTenantRow casts `row as unknown as TenantRowSource` — fine.
+
+Also computeOnboardingProgress — could now include the new profile fields as signals? The wizard's completion signals... The progress is derived from city/whatsapp/website/instagram/google/paymentMethods. With the new adaptive wizard, the signals differ, but keeping old signals is OK (compat). Not required for this task; skip to avoid scope creep. Hmm — actually a small win: COMPANY tenants created by CEO with teamSize etc... eh, skip.
+
+### E. app/admin/_components/tenant-form.tsx
+Add state:
+```ts
+const [tenantType, setTenantType] = useState<OnboardingTenantType>(
+  state.values?.tenantType === "INDIVIDUAL" ? "INDIVIDUAL" : "COMPANY",
+);
+const [legalName, setLegalName] = useState(state.values?.legalName ?? "");
+const [taxId, setTaxId] = useState(state.values?.taxId ?? "");
+const [teamSize, setTeamSize] = useState<TeamSizeValue | "">(state.values?.teamSize ?? "");
+const [address, setAddress] = useState(state.values?.address ?? "");
+```
+
+UI: profile section (two cards), then conditional company fields, order: Perfil → Nombre → Razón social (empresa) → NIT/RUT → vertical (keep vertical after name? current order: Name, Slug, Vertical, Modules). New order proposal: Perfil → Nombre → Razón social (si empresa) → NIT/RUT → Equipo (si empresa) → Dirección (si empresa) → Slug → Vertical → Módulos. Hmm, slug before vertical currently; keep slug after the profile fields but before vertical — minimal disruption: insert Perfil before Nombre; insert company fields after Nombre (before Slug): legalName, taxId, teamSize, address.
+
+For vertical change preset: replace DEFAULT_MODULES_BY_VERTICAL set with preset-based:
+```ts
+const applyPreset = (nextTenantType: OnboardingTenantType, nextVertical: VerticalValue | "") => {
+  if (!modulesTouched && nextVertical) {
+    const preset = getOnboardingModulePreset({
+      tenantType: nextTenantType,
+      vertical: nextVertical,
+    });
+    setModules(new Set(preset));
+  }
+};
+```
+- vertical onChange: setVertical(next); applyPreset(tenantType === "" ? "COMPANY" : tenantType, next)
+- tenantType onChange: setTenantType(next); applyPreset(next, vertical)
+
+Keep DEFAULT_MODULES_BY_VERTICAL import? No longer used — remove import to avoid lint unused. But careful: DEFAULT_MODULES_BY_VERTICAL is exported from catalogs (used elsewhere? tenant-table? keep import removal local only). Remove from imports.
+
+For the UI of Perfil — two "cards" like the wizard profile-selection but in admin indigo style; simpler: a two-button segmented control:
+```tsx
+<div className="grid grid-cols-2 gap-2">
+  <button type="button" onClick={() => changeProfile("COMPANY")} aria-pressed={tenantType === "COMPANY"} className={...}>Empresa</button>
+  <button type="button" onClick={() => changeProfile("INDIVIDUAL")} aria-pressed={...}>Persona individual</button>
+</div>
+<input type="hidden" name="tenantType" value={tenantType} />
+```
+Use Building2 / User icons. Style: aria-pressed → indigo border/bg when selected (matching panel accent indigo-600).
+
+teamSize select options from TEAM_SIZE_LABELS.
+
+Errors display for each new field (reuse pattern). 
+
+### F. app/admin/_components/tenant-drawer.tsx
+ResumenTab "Identidad y ubicación": add
+- InfoRow "Perfil" = detail.tenantType === "INDIVIDUAL" ? "Persona individual" : "Empresa"
+- InfoRow "Razón social" = detail.legalName
+- InfoRow "NIT / RUT" = detail.taxId
+- InfoRow "Equipo" = detail.teamSize ? TEAM_SIZE_LABELS[detail.teamSize] : null — need TeamSizeValue cast (db stores string). Use helper label lookup with fallback.
+- InfoRow "Dirección" = detail.address
+
+TEAM_SIZE_LABELS import from lib/onboarding/types.
+
+Also the header SheetDescription could show Perfil badge — keep minimal: rows in Resumen.
+
+Alright — also there's the tenant table (tenant-table.tsx / tenant-toolbar) — showing tenantType column? Not necessary; skip (drawer shows it).
+
+Let me also double check admin export route (export/route.ts) — it exports TenantListRow fields? If it enumerates fields manually, adding fields to the row type might need export col handling — optional; check quickly to avoid TS break (row fields are just data now; export likely maps specific columns — no break even if new fields exist). I'll grep for "TenantListRow" usage in export route later if tsc complains. tsc will catch any missing mapping in buildTenantRow/getTenantDetail (must add the new fields there, it's typed).
+
+Now — one more consideration: **teamSize in DB is `string | null`; wizard validates against TEAM_SIZES**. display label: `TEAM_SIZE_LABELS[detail.teamSize as TeamSizeValue] ?? detail.teamSize`.
+
+Let me write all the edits now. Start with lib/onboarding/validation.ts export.
+
+</details>
+
+Tengo todo. Implemento por capas — primero el patrón reutilizable y los validators:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/onboarding/validation.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/onboarding/validation.ts",
+  "newString": "export const TAX_ID_PATTERN = /^[\\d]{5,15}(?:[-.][\\d]{1,2})?$/;",
+  "oldString": "const TAX_ID_PATTERN = /^[\\d]{5,15}(?:[-.][\\d]{1,2})?$/;"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/validators.ts",
+  "newString": "import {\n  MODULES,\n  VERTICALS,\n  isModule,\n  isVertical,\n  validateSlug,\n  type ModuleValue,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";\nimport {\n  TEAM_SIZES,\n  type OnboardingTenantType,\n  type TeamSizeValue,\n} from \"@/lib/onboarding/types\";\nimport { TAX_ID_PATTERN } from \"@/lib/onboarding/validation\";\n\nexport type TenantFormValues = {\n  name: string;\n  slug: string;\n  vertical: VerticalValue | \"\";\n  modules: ModuleValue[];\n  /** Perfil adaptativo del onboarding (Empresa / Persona individual). */\n  tenantType: OnboardingTenantType | \"\";\n  legalName: string;\n  taxId: string;\n  teamSize: TeamSizeValue | \"\";\n  address: string;\n};",
+  "oldString": "import {\n  MODULES,\n  VERTICALS,\n  isModule,\n  isVertical,\n  validateSlug,\n  type ModuleValue,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";\n\nexport type TenantFormValues = {\n  name: string;\n  slug: string;\n  vertical: VerticalValue | \"\";\n  modules: ModuleValue[];\n};"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/validators.ts",
+  "newString": "export type TenantValidation =\n  | {\n      ok: true;\n      values: TenantFormValues & {\n        vertical: VerticalValue;\n        tenantType: OnboardingTenantType;\n      };\n    }\n  | {\n      ok: false;\n      errors: TenantFieldErrors;\n      values: TenantFormValues;\n    };\n\n/**\n * Validación de creación de tenant en el servidor. El slug se normaliza y\n * valida aquí SIEMPRE (nunca se confía en el form) y los módulos deben\n * pertenecer al catálogo de la plataforma.\n *\n * Los campos del perfil adaptativo son un PREFILL del CEO: formato válido\n * si vienen, pero no obligatorios (el wizard de onboarding del integrante\n * exige lo que necesite según su perfil: NIT/equipo/dirección en Empresa).\n */\nexport function validateTenantForm(formData: FormData): TenantValidation {\n  const name = String(formData.get(\"name\") ?? \"\").trim();\n  const rawSlug = String(formData.get(\"slug\") ?? \"\").trim();\n  const rawVertical = String(formData.get(\"vertical\") ?? \"\").trim();\n  const rawModules = formData\n    .getAll(\"modules\")\n    .map((entry) => String(entry).trim());\n  const rawTenantType = String(formData.get(\"tenantType\") ?? \"\").trim();\n  const rawTeamSize = String(formData.get(\"teamSize\") ?? \"\").trim();\n\n  // Duplicados defensivos desde el cliente.\n  const modules = [...new Set(rawModules)];\n\n  const legalName = String(formData.get(\"legalName\") ?? \"\").trim();\n  const taxId = String(formData.get(\"taxId\") ?? \"\").trim();\n  const address = String(formData.get(\"address\") ?? \"\").trim();\n\n  const values: TenantFormValues = {\n    name,\n    slug: rawSlug,\n    vertical: isVertical(rawVertical) ? rawVertical : \"\",\n    modules: modules.filter(isModule),\n    tenantType:\n      rawTenantType === \"INDIVIDUAL\" || rawTenantType === \"COMPANY\"\n        ? rawTenantType\n        : \"\",\n    legalName,\n    taxId,\n    teamSize: (TEAM_SIZES as readonly string[]).includes(rawTeamSize)\n      ? (rawTeamSize as TeamSizeValue)\n      : \"\",\n    address,\n  };\n\n  const errors: TenantFieldErrors = {};\n\n  if (!name) {\n    errors.name = \"El nombre es obligatorio.\";\n  } else if (name.length < 2) {\n    errors.name = \"Mínimo 2 caracteres.\";\n  } else if (name.length > 80) {\n    errors.name = \"Máximo 80 caracteres.\";\n  }\n\n  const slugValidation = validateSlug(rawSlug);\n  if (!slugValidation.ok) {\n    errors.slug = slugValidation.error;\n  }\n\n  if (!isVertical(rawVertical)) {\n    errors.vertical = \"Selecciona una vertical válida.\";\n  }\n\n  if (!values.tenantType) {\n    errors.tenantType = \"Selecciona un perfil válido.\";\n  } else {\n    if (legalName.length > 0 && legalName.length < 2) {\n      errors.legalName = \"Mínimo 2 caracteres.\";\n    } else if (legalName.length > 120) {\n      errors.legalName = \"Máximo 120 caracteres.\";\n    }\n\n    if (taxId.length > 0 && !TAX_ID_PATTERN.test(taxId)) {\n      errors.taxId = \"Formato: 5–15 dígitos (opcional sufijo -01).\";\n    }\n\n    if (address.length > 120) {\n      errors.address = \"Máximo 120 caracteres.\";\n    }\n  }\n\n  // Un módulo desconocido es error explícito: la lista viene manipulada.\n  if (modules.some((module) => !isModule(module))) {\n    errors.modules = \"Módulo no válido.\";\n  } else if (modules.length > MODULES.length) {\n    errors.modules = \"Módulos duplicados.\";\n  }\n\n  if (Object.keys(errors).length > 0 || !slugValidation.ok) {\n    return { ok: false, errors, values };\n  }\n\n  return {\n    ok: true,\n    values: {\n      name,\n      slug: slugValidation.slug,\n      vertical: rawVertical as VerticalValue,\n      modules: modules.filter(isModule),\n      tenantType: values.tenantType as OnboardingTenantType,\n      legalName,\n      taxId,\n      teamSize: values.teamSize,\n      address,\n    },\n  };\n}",
+  "oldString": "export type TenantValidation =\n  | { ok: true; values: TenantFormValues & { vertical: VerticalValue } }\n  | {\n      ok: false;\n      errors: TenantFieldErrors;\n      values: TenantFormValues;\n    };\n\n/**\n * Validación de creación de tenant en el servidor. El slug se normaliza y\n * valida aquí SIEMPRE (nunca se confía en el form) y los módulos deben\n * pertenecer al catálogo de la plataforma.\n */\nexport function validateTenantForm(formData: FormData): TenantValidation {\n  const name = String(formData.get(\"name\") ?? \"\").trim();\n  const rawSlug = String(formData.get(\"slug\") ?? \"\").trim();\n  const rawVertical = String(formData.get(\"vertical\") ?? \"\").trim();\n  const rawModules = formData\n    .getAll(\"modules\")\n    .map((entry) => String(entry).trim());\n\n  // Duplicados defensivos desde el cliente.\n  const modules = [...new Set(rawModules)];\n\n  const values: TenantFormValues = {\n    name,\n    slug: rawSlug,\n    vertical: isVertical(rawVertical) ? rawVertical : \"\",\n    modules: modules.filter(isModule),\n  };\n\n  const errors: TenantFieldErrors = {};\n\n  if (!name) {\n    errors.name = \"El nombre es obligatorio.\";\n  } else if (name.length < 2) {\n    errors.name = \"Mínimo 2 caracteres.\";\n  } else if (name.length > 80) {\n    errors.name = \"Máximo 80 caracteres.\";\n  }\n\n  const slugValidation = validateSlug(rawSlug);\n  if (!slugValidation.ok) {\n    errors.slug = slugValidation.error;\n  }\n\n  if (!isVertical(rawVertical)) {\n    errors.vertical = \"Selecciona una vertical válida.\";\n  }\n\n  // Un módulo desconocido es error explícito: la lista viene manipulada.\n  if (modules.some((module) => !isModule(module))) {\n    errors.modules = \"Módulo no válido.\";\n  } else if (modules.length > MODULES.length) {\n    errors.modules = \"Módulos duplicados.\";\n  }\n\n  if (Object.keys(errors).length > 0 || !slugValidation.ok) {\n    return { ok: false, errors, values };\n  }\n\n  return {\n    ok: true,\n    values: {\n      name,\n      slug: slugValidation.slug,\n      vertical: rawVertical as VerticalValue,\n      modules: modules.filter(isModule),\n    },\n  };\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now update `lib/admin-db.ts`: types + createTenant + buildTenantRow + getTenantDetail. Let me make the edits.
+
+</details>
+
+Ahora la capa de datos — tipos, `createTenant`, rows y detalle:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "import {\n  MODULES,\n  sortModules,\n  type ModuleValue,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";\nimport type { OnboardingTenantType } from \"@/lib/onboarding/types\";",
+  "oldString": "import {\n  MODULES,\n  sortModules,\n  type ModuleValue,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "/** Fila serializable de tenant (fechas → string, métricas derivadas reales). */\nexport type TenantListRow = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  /** Perfil adaptativo del onboarding (Empresa / Persona individual). */\n  tenantType: OnboardingTenantType;\n  legalName: string | null;\n  taxId: string | null;\n  teamSize: string | null;\n  address: string | null;\n  active: boolean;",
+  "oldString": "/** Fila serializable de tenant (fechas → string, métricas derivadas reales). */\nexport type TenantListRow = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  active: boolean;"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "export type TenantDetail = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  /** Perfil adaptativo del onboarding (Empresa / Persona individual). */\n  tenantType: OnboardingTenantType;\n  legalName: string | null;\n  taxId: string | null;\n  teamSize: string | null;\n  address: string | null;\n  active: boolean;",
+  "oldString": "export type TenantDetail = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  active: boolean;"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "type TenantRowSource = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  tenantType: OnboardingTenantType;\n  legalName: string | null;\n  taxId: string | null;\n  teamSize: string | null;\n  address: string | null;\n  active: boolean;",
+  "oldString": "type TenantRowSource = {\n  id: string;\n  name: string;\n  slug: string;\n  customDomain: string | null;\n  vertical: VerticalValue;\n  active: boolean;"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "return {\n    id: row.id,\n    name: row.name,\n    slug: row.slug,\n    customDomain: row.customDomain ?? null,\n    vertical: row.vertical,\n    tenantType: row.tenantType,\n    legalName: row.legalName ?? null,\n    taxId: row.taxId ?? null,\n    teamSize: row.teamSize ?? null,\n    address: row.address ?? null,\n    active: row.active,",
+  "oldString": "return {\n    id: row.id,\n    name: row.name,\n    slug: row.slug,\n    customDomain: row.customDomain ?? null,\n    vertical: row.vertical,\n    active: row.active,"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Ahora el `createTenant` (escribe los campos nuevos, normalizando vacío → null):
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "createTenant: (data: {\n      name: string;\n      slug: string;\n      vertical: VerticalValue;\n      modules: ModuleValue[];\n      tenantType: OnboardingTenantType;\n      legalName?: string | null;\n      taxId?: string | null;\n      teamSize?: string | null;\n      address?: string | null;\n    }) =>\n      db.transaction(async (tx) => {\n        const tenant = await tx.orm.public.Tenant.create({\n          name: data.name,\n          slug: data.slug,\n          vertical: data.vertical,\n          tenantType: data.tenantType,\n          legalName: data.legalName?.trim() ? data.legalName.trim() : null,\n          taxId: data.taxId?.trim() ? data.taxId.trim() : null,\n          teamSize: data.teamSize?.trim() ? data.teamSize.trim() : null,\n          address: data.address?.trim() ? data.address.trim() : null,\n        });",
+  "oldString": "createTenant: (data: {\n      name: string;\n      slug: string;\n      vertical: VerticalValue;\n      modules: ModuleValue[];\n    }) =>\n      db.transaction(async (tx) => {\n        const tenant = await tx.orm.public.Tenant.create({\n          name: data.name,\n          slug: data.slug,\n          vertical: data.vertical,\n        });"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+
+
+
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts",
+  "newString": "return {\n        id: tenant.id,\n        name: tenant.name,\n        slug: tenant.slug,\n        customDomain: tenant.customDomain ?? null,\n        vertical: tenant.vertical,\n        tenantType: tenant.tenantType,\n        legalName: tenant.legalName ?? null,\n        taxId: tenant.taxId ?? null,\n        teamSize: tenant.teamSize ?? null,\n        address: tenant.address ?? null,\n        active: tenant.active,\n        suspendedReason: tenant.suspendedReason ?? null,\n        suspendedAt: tenant.suspendedAt\n          ? toJsDate(tenant.suspendedAt).toISOString()\n          : null,\n        onboardingCompleted: tenant.onboardingCompleted,\n        onboardingProgress: computeOnboardingProgress(\n          tenant as unknown as TenantRowSource,\n        ),\n        city: tenant.city ?? null,",
+  "oldString": "return {\n        id: tenant.id,\n        name: tenant.name,\n        slug: tenant.slug,\n        customDomain: tenant.customDomain ?? null,\n        vertical: tenant.vertical,\n        active: tenant.active,\n        suspendedReason: tenant.suspendedReason ?? null,\n        suspendedAt: tenant.suspendedAt\n          ? toJsDate(tenant.suspendedAt).toISOString()\n          : null,\n        onboardingCompleted: tenant.onboardingCompleted,\n        onboardingProgress: computeOnboardingProgress(\n          tenant as unknown as TenantRowSource,\n        ),\n        city: tenant.city ?? null,"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Ahora la action de creación:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/actions.ts",
+  "newString": "const { name, slug, vertical, modules, tenantType, legalName, taxId, teamSize, address } =\n    validation.values;\n  const adminDb = createAdminDb();\n\n  if (await adminDb.slugExists(slug)) {\n    return {\n      status: \"error\",\n      errors: { slug: \"Ese slug ya está en uso.\" },\n      values: validation.values,\n    };\n  }\n\n  try {\n    await adminDb.createTenant({\n      name,\n      slug,\n      vertical,\n      modules,\n      tenantType,\n      legalName,\n      taxId,\n      teamSize,\n      address,\n    });\n  } catch (error) {\n    // Colisión de slug por carrera (constraint único en DB) u otro fallo\n    // del motor: la transacción ya revirtió todo.\n    const message =\n      error instanceof Error &&\n      (error.message.includes(\"unique\") || error.message.includes(\"Tenant_slug\"))\n        ? \"Ese slug ya está en uso.\"\n        : \"No se pudo crear el negocio. Intenta de nuevo.\";\n    console.error(\"[admin] createTenant failed:\", error);\n    return { status: \"error\", message, values: validation.values };\n  }\n\n  await audit(actor, {\n    action: \"CREATE_TENANT\",\n    targetTenantName: name,\n    metadata: { slug, vertical, modules, tenantType, taxId, teamSize },\n  });",
+  "oldString": "const { name, slug, vertical, modules } = validation.values;\n  const adminDb = createAdminDb();\n\n  if (await adminDb.slugExists(slug)) {\n    return {\n      status: \"error\",\n      errors: { slug: \"Ese slug ya está en uso.\" },\n      values: validation.values,\n    };\n  }\n\n  try {\n    await adminDb.createTenant({ name, slug, vertical, modules });\n  } catch (error) {\n    // Colisión de slug por carrera (constraint único en DB) u otro fallo\n    // del motor: la transacción ya revirtió todo.\n    const message =\n      error instanceof Error &&\n      (error.message.includes(\"unique\") || error.message.includes(\"Tenant_slug\"))\n        ? \"Ese slug ya está en uso.\"\n        : \"No se pudo crear el negocio. Intenta de nuevo.\";\n    console.error(\"[admin] createTenant failed:\", error);\n    return { status: \"error\", message, values: validation.values };\n  }\n\n  await audit(actor, {\n    action: \"CREATE_TENANT\",\n    targetTenantName: name,\n    metadata: { slug, vertical, modules },\n  });"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now the big one: `tenant-form.tsx` UI. Add:
+1. Imports: User icon, OnboardingTenantType/TeamSizeValue types, TEAM_SIZE_LABELS, getOnboardingModulePreset. Remove DEFAULT_MODULES_BY_VERTICAL import (no longer used).
+2. State for the new fields.
+3. Profile selector (two cards with hidden input).
+4. Company-conditional fields.
+5. Vertical onChange uses preset; tenantType change handler re-applies preset.
+
+Let me write the edits carefully.
+
+</details>
+
+Ahora la UI del form — perfil, campos condicionales y presets sincronizados:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "import { useEffect, useActionState, useState } from \"react\";\nimport { Building2, Check, Loader2, User, X } from \"lucide-react\";\nimport {\n  createTenantAction,\n  checkSlugAvailabilityAction,\n  type AdminFormState,\n} from \"../actions\";\nimport {\n  MODULE_LABELS,\n  MODULES,\n  VERTICAL_ICONS,\n  VERTICAL_LABELS,\n  VERTICALS,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";\nimport {\n  TEAM_SIZE_LABELS,\n  type OnboardingTenantType,\n  type TeamSizeValue,\n} from \"@/lib/onboarding/types\";\nimport { getOnboardingModulePreset } from \"@/lib/onboarding/presets\";",
+  "oldString": "import { useEffect, useActionState, useState } from \"react\";\nimport { Building2, Check, Loader2, X } from \"lucide-react\";\nimport {\n  createTenantAction,\n  checkSlugAvailabilityAction,\n  type AdminFormState,\n} from \"../actions\";\nimport {\n  DEFAULT_MODULES_BY_VERTICAL,\n  MODULE_LABELS,\n  MODULES,\n  VERTICAL_ICONS,\n  VERTICAL_LABELS,\n  VERTICALS,\n  type VerticalValue,\n} from \"@/lib/admin-catalogs\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "const [name, setName] = useState(state.values?.name ?? \"\");\n  const [slug, setSlug] = useState(state.values?.slug ?? \"\");\n  const [vertical, setVertical] = useState<VerticalValue | \"\">(\n    state.values?.vertical ?? \"\",\n  );\n  const [modules, setModules] = useState<ReadonlySet<string>>(\n    new Set(state.values?.modules ?? []),\n  );\n  // Perfil adaptativo del onboarding: Empresa (default) / Persona individual.\n  const [tenantType, setTenantType] = useState<OnboardingTenantType>(\n    state.values?.tenantType === \"INDIVIDUAL\" ? \"INDIVIDUAL\" : \"COMPANY\",\n  );\n  const [legalName, setLegalName] = useState(state.values?.legalName ?? \"\");\n  const [taxId, setTaxId] = useState(state.values?.taxId ?? \"\");\n  const [teamSize, setTeamSize] = useState<TeamSizeValue | \"\">(\n    state.values?.teamSize ?? \"\",\n  );\n  const [address, setAddress] = useState(state.values?.address ?? \"\");\n  // Si el CEO aún no tocó los módulos a mano, elegir vertical/perfil\n  // preselecciona la receta adaptativa (tenantType + vertical), igual que\n  // el wizard de onboarding del integrante.\n  const [modulesTouched, setModulesTouched] = useState(false);",
+  "oldString": "const [name, setName] = useState(state.values?.name ?? \"\");\n  const [slug, setSlug] = useState(state.values?.slug ?? \"\");\n  const [vertical, setVertical] = useState<VerticalValue | \"\">(\n    state.values?.vertical ?? \"\",\n  );\n  const [modules, setModules] = useState<ReadonlySet<string>>(\n    new Set(state.values?.modules ?? []),\n  );\n  // Si el CEO aún no tocó los módulos a mano, elegir vertical preselecciona\n  // la receta del catálogo (VERTICAL_RECIPES → DEFAULT_MODULES_BY_VERTICAL).\n  const [modulesTouched, setModulesTouched] = useState(false);"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "const toggleModule = (moduleName: string) => {\n    setModulesTouched(true);\n    setModules((current) => {\n      const next = new Set(current);\n      if (next.has(moduleName)) {\n        next.delete(moduleName);\n      } else {\n        next.add(moduleName);\n      }\n      return next;\n    });\n  };\n\n  // Receta adaptativa (misma regla que el wizard: INDIVIDUAL quita los\n  // módulos pesados de equipo). Solo actúa mientras el CEO no tocó módulos.\n  const applyPreset = (\n    nextTenantType: OnboardingTenantType,\n    nextVertical: VerticalValue | \"\",\n  ) => {\n    if (modulesTouched || !nextVertical) {\n      return;\n    }\n    setModules(\n      new Set(\n        getOnboardingModulePreset({\n          tenantType: nextTenantType,\n          vertical: nextVertical,\n        }),\n      ),\n    );\n  };\n\n  const changeTenantType = (next: OnboardingTenantType) => {\n    setTenantType(next);\n    applyPreset(next, vertical);\n  };",
+  "oldString": "const toggleModule = (moduleName: string) => {\n    setModulesTouched(true);\n    setModules((current) => {\n      const next = new Set(current);\n      if (next.has(moduleName)) {\n        next.delete(moduleName);\n      } else {\n        next.add(moduleName);\n      }\n      return next;\n    });\n  };"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Ahora el JSX — sección Perfil antes del nombre y los campos condicionales de Empresa:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "<form action={formAction} className=\"mt-5 space-y-4\" noValidate>\n          {/* Perfil del onboarding (Empresa / Persona individual) */}\n          <fieldset>\n            <legend className=\"text-sm font-medium text-slate-700\">\n              Perfil del negocio\n            </legend>\n            <p className=\"mt-0.5 text-xs text-slate-500\">\n              Define cómo se presenta el negocio en NEXUS; el integrante\n              confirma el resto en su onboarding.\n            </p>\n            <input type=\"hidden\" name=\"tenantType\" value={tenantType} />\n            <div className=\"mt-2 grid grid-cols-2 gap-2\">\n              <button\n                type=\"button\"\n                onClick={() => changeTenantType(\"COMPANY\")}\n                aria-pressed={tenantType === \"COMPANY\"}\n                aria-invalid={Boolean(errors.tenantType)}\n                className={[\n                  \"flex items-center gap-2.5 rounded-lg border px-3 py-2.5 text-sm font-medium transition\",\n                  tenantType === \"COMPANY\"\n                    ? \"border-indigo-500 bg-indigo-50 text-indigo-700\"\n                    : \"border-slate-200 text-slate-700 hover:border-slate-300 hover:bg-slate-50\",\n                ].join(\" \")}\n              >\n                <Building2 aria-hidden=\"true\" className=\"h-4 w-4 shrink-0\" />\n                Empresa\n              </button>\n              <button\n                type=\"button\"\n                onClick={() => changeTenantType(\"INDIVIDUAL\")}\n                aria-pressed={tenantType === \"INDIVIDUAL\"}\n                aria-invalid={Boolean(errors.tenantType)}\n                className={[\n                  \"flex items-center gap-2.5 rounded-lg border px-3 py-2.5 text-sm font-medium transition\",\n                  tenantType === \"INDIVIDUAL\"\n                    ? \"border-indigo-500 bg-indigo-50 text-indigo-700\"\n                    : \"border-slate-200 text-slate-700 hover:border-slate-300 hover:bg-slate-50\",\n                ].join(\" \")}\n              >\n                <User aria-hidden=\"true\" className=\"h-4 w-4 shrink-0\" />\n                Persona individual\n              </button>\n            </div>\n            {errors.tenantType ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                {errors.tenantType}\n              </p>\n            ) : null}\n          </fieldset>\n\n          {/* Nombre del negocio */}\n          <div>\n            <label\n              htmlFor=\"tenant-name\"\n              className=\"text-sm font-medium text-slate-700\"\n            >\n              Nombre\n            </label>\n            <input\n              id=\"tenant-name\"\n              name=\"name\"\n              type=\"text\"\n              value={name}\n              onChange={(event) => setName(event.target.value)}\n              placeholder={\n                tenantType === \"COMPANY\"\n                  ? \"Ej: Gimnasio Carlos\"\n                  : \"Ej: Ana Diseñadora\"\n              }\n              aria-invalid={Boolean(errors.name)}\n              className={[\n                \"mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                errors.name\n                  ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                  : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n              ].join(\" \")}\n            />\n            {errors.name ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                {errors.name}\n              </p>\n            ) : null}\n          </div>\n\n          {/* Razón social (solo Empresa, opcional) */}\n          {tenantType === \"COMPANY\" ? (\n            <div>\n              <label\n                htmlFor=\"tenant-legal-name\"\n                className=\"text-sm font-medium text-slate-700\"\n              >\n                Razón social{\" \"}\n                <span className=\"font-normal text-slate-400\">(opcional)</span>\n              </label>\n              <input\n                id=\"tenant-legal-name\"\n                name=\"legalName\"\n                type=\"text\"\n                value={legalName}\n                onChange={(event) => setLegalName(event.target.value)}\n                placeholder=\"Ej: Gimnasio Carlos S.A.S.\"\n                aria-invalid={Boolean(errors.legalName)}\n                className={[\n                  \"mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                  errors.legalName\n                    ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                    : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n                ].join(\" \")}\n              />\n              {errors.legalName ? (\n                <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                  {errors.legalName}\n                </p>\n              ) : null}\n            </div>\n          ) : null}\n\n          {/* NIT / RUT (opcional; quien lo omita lo completa en el onboarding) */}\n          <div>\n            <label\n              htmlFor=\"tenant-tax-id\"\n              className=\"text-sm font-medium text-slate-700\"\n            >\n              {tenantType === \"COMPANY\" ? \"NIT / RUT\" : \"Documento (CC / NIT)\"}{\" \"}\n              <span className=\"font-normal text-slate-400\">(opcional)</span>\n            </label>\n            <input\n              id=\"tenant-tax-id\"\n              name=\"taxId\"\n              type=\"text\"\n              value={taxId}\n              onChange={(event) => setTaxId(event.target.value)}\n              placeholder={\n                tenantType === \"COMPANY\" ? \"Ej: 901123456\" : \"Ej: 1036654321\"\n              }\n              aria-invalid={Boolean(errors.taxId)}\n              className={[\n                \"mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                errors.taxId\n                  ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                  : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n              ].join(\" \")}\n            />\n            {errors.taxId ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                {errors.taxId}\n              </p>\n            ) : null}\n          </div>\n\n          {/* Tamaño del equipo (solo Empresa, opcional) */}\n          {tenantType === \"COMPANY\" ? (\n            <div>\n              <label\n                htmlFor=\"tenant-team-size\"\n                className=\"text-sm font-medium text-slate-700\"\n              >\n                Equipo{\" \"}\n                <span className=\"font-normal text-slate-400\">(opcional)</span>\n              </label>\n              <select\n                id=\"tenant-team-size\"\n                name=\"teamSize\"\n                value={teamSize}\n                onChange={(event) =>\n                  setTeamSize(event.target.value as TeamSizeValue | \"\")\n                }\n                aria-invalid={Boolean(errors.teamSize)}\n                className={[\n                  \"mt-1 h-10 w-full appearance-none rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                  errors.teamSize\n                    ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                    : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n                ].join(\" \")}\n              >\n                <option value=\"\" disabled>\n                  Sin dato (se confirma en el onboarding)…\n                </option>\n                {Object.entries(TEAM_SIZE_LABELS).map(([value, label]) => (\n                  <option key={value} value={value}>\n                    {label}\n                  </option>\n                ))}\n              </select>\n              {errors.teamSize ? (\n                <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                  {errors.teamSize}\n                </p>\n              ) : null}\n            </div>\n          ) : null}\n\n          {/* Dirección / REMOTE (solo Empresa, opcional) */}\n          {tenantType === \"COMPANY\" ? (\n            <div>\n              <label\n                htmlFor=\"tenant-address\"\n                className=\"text-sm font-medium text-slate-700\"\n              >\n                Dirección{\" \"}\n                <span className=\"font-normal text-slate-400\">\n                  (opcional · \"REMOTE\" si no tiene sede)\n                </span>\n              </label>\n              <input\n                id=\"tenant-address\"\n                name=\"address\"\n                type=\"text\"\n                value={address}\n                onChange={(event) => setAddress(event.target.value)}\n                placeholder=\"Ej: Cra 15 # 82-52, Bogotá\"\n                aria-invalid={Boolean(errors.address)}\n                className={[\n                  \"mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                  errors.address\n                    ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                    : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n                ].join(\" \")}\n              />\n              {errors.address ? (\n                <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                  {errors.address}\n                </p>\n              ) : null}\n            </div>\n          ) : null}",
+  "oldString": "<form action={formAction} className=\"mt-5 space-y-4\" noValidate>\n          {/* Nombre del negocio */}\n          <div>\n            <label\n              htmlFor=\"tenant-name\"\n              className=\"text-sm font-medium text-slate-700\"\n            >\n              Nombre\n            </label>\n            <input\n              id=\"tenant-name\"\n              name=\"name\"\n              type=\"text\"\n              value={name}\n              onChange={(event) => setName(event.target.value)}\n              placeholder=\"Ej: Gimnasio Carlos\"\n              aria-invalid={Boolean(errors.name)}\n              className={[\n                \"mt-1 h-10 w-full rounded-lg border bg-white px-3 text-sm text-slate-900 transition focus:outline-2\",\n                errors.name\n                  ? \"border-rose-300 focus:border-rose-400 focus:outline-rose-500/30\"\n                  : \"border-slate-200 hover:border-slate-300 focus:border-indigo-400 focus:outline-indigo-500/30\",\n              ].join(\" \")}\n            />\n            {errors.name ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-rose-600\">\n                {errors.name}\n              </p>\n            ) : null}\n          </div>"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Ahora el onChange de vertical para usar la receta adaptativa:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "onChange={(event) => {\n                const next = event.target.value as VerticalValue | \"\";\n                setVertical(next);\n                applyPreset(tenantType, next);\n              }}",
+  "oldString": "onChange={(event) => {\n                const next = event.target.value as VerticalValue | \"\";\n                setVertical(next);\n                if (!modulesTouched && next) {\n                  setModules(new Set(DEFAULT_MODULES_BY_VERTICAL[next]));\n                }\n              }}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now the drawer: add profile rows in ResumenTab "Identidad y ubicación". Add "Perfil" InfoRow + conditional rows (Razón social, NIT/RUT, Equipo, Dirección). Import TEAM_SIZE_LABELS.
+
+</details>
+
+Ahora el drawer de detalle — mostrar el perfil en Resumen:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-drawer.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-drawer.tsx",
+  "newString": "import { getVerticalIcon } from \"@/lib/admin/vertical-icons\";\nimport { MODULE_LABELS, VERTICAL_LABELS } from \"@/lib/admin-catalogs\";\nimport { TEAM_SIZE_LABELS, type TeamSizeValue } from \"@/lib/onboarding/types\";\nimport { paymentMethodLabel } from \"@/lib/finance\";",
+  "oldString": "import { getVerticalIcon } from \"@/lib/admin/vertical-icons\";\nimport { MODULE_LABELS, VERTICAL_LABELS } from \"@/lib/admin-catalogs\";\nimport { paymentMethodLabel } from \"@/lib/finance\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-drawer.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-drawer.tsx",
+  "newString": "<dl className=\"mt-2 grid grid-cols-1 gap-1 text-sm sm:grid-cols-2\">\n          <InfoRow\n            label=\"Perfil\"\n            value={\n              detail.tenantType === \"INDIVIDUAL\"\n                ? \"Persona individual\"\n                : \"Empresa\"\n            }\n          />\n          <InfoRow label=\"Razón social\" value={detail.legalName} />\n          <InfoRow label=\"NIT / RUT\" value={detail.taxId} />\n          <InfoRow\n            label=\"Equipo\"\n            value={\n              detail.teamSize\n                ? (TEAM_SIZE_LABELS[detail.teamSize as TeamSizeValue] ??\n                  detail.teamSize)\n                : null\n            }\n          />\n          <InfoRow label=\"Dirección\" value={detail.address} />\n          <InfoRow label=\"Ciudad\" value={detail.city} />\n          <InfoRow\n            label=\"Dominio personalizado\"\n            value={detail.customDomain}\n          />\n          <InfoRow\n            label=\"Métodos de pago\"\n            value={\n              detail.paymentMethods.length > 0\n                ? detail.paymentMethods\n                    .map((method) => paymentMethodLabel(method))\n                    .join(\", \")\n                : null\n            }\n          />\n          <InfoRow\n            label=\"Onboarding\"\n            value={\n              detail.onboardingCompleted\n                ? \"Completo\"\n                : `Pendiente (${detail.onboardingProgress}%)`\n            }\n          />\n          <InfoRow label=\"Creado\" value={formatDateTime(detail.createdAtIso)} />\n          <InfoRow\n            label=\"Última actividad\"\n            value={detail.lastActivityLabel}\n          />\n        </dl>",
+  "oldString": "<dl className=\"mt-2 grid grid-cols-1 gap-1 text-sm sm:grid-cols-2\">\n          <InfoRow label=\"Ciudad\" value={detail.city} />\n          <InfoRow\n            label=\"Dominio personalizado\"\n            value={detail.customDomain}\n          />\n          <InfoRow\n            label=\"Métodos de pago\"\n            value={\n              detail.paymentMethods.length > 0\n                ? detail.paymentMethods\n                    .map((method) => paymentMethodLabel(method))\n                    .join(\", \")\n                : null\n            }\n          />\n          <InfoRow\n            label=\"Onboarding\"\n            value={\n              detail.onboardingCompleted\n                ? \"Completo\"\n                : `Pendiente (${detail.onboardingProgress}%)`\n            }\n          />\n          <InfoRow label=\"Creado\" value={formatDateTime(detail.createdAtIso)} />\n          <InfoRow\n            label=\"Última actividad\"\n            value={detail.lastActivityLabel}\n          />\n        </dl>"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Verifico tipos y lint:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; pnpm exec tsc --noEmit 2>&1 | rtk head -12; echo "---TSC"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; pnpm exec tsc --noEmit 2>&1 | rtk head -12; echo \"---TSC\"",
+  "timeout": 240000
+}
+```
+
+**Output:**
+```
+---TSC
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; pnpm eslint app/admin lib/admin-db.ts lib/onboarding 2>&1 | rtk head -12; echo "---ESLINT"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; pnpm eslint app/admin lib/admin-db.ts lib/onboarding 2>&1 | rtk head -12; echo \"---ESLINT\"",
+  "timeout": 240000
+}
+```
+
+**Output:**
+```
+
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx
+  233:15  warning  The attribute aria-invalid is not supported by the role button. This role is implicit on the element button  jsx-a11y/role-supports-aria-props
+  248:15  warning  The attribute aria-invalid is not supported by the role button. This role is implicit on the element button  jsx-a11y/role-supports-aria-props
+  422:31  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+  422:38  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+
+✖ 4 problems (2 errors, 2 warnings)
+
+---ESLINT
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Fix the 2 errors (unescaped quotes) and 2 warnings (aria-invalid on button role):
+
+1. Line 422: `"REMOTE" if no tiene sede` — the quotes in the JSX text. Fix: use `&quot;` or `'REMOTE'`... eslint react/no-unescaped-entities flags `"` in text. Change to `(opcional — "REMOTE" si no tiene sede)` → use `&quot;REMOTE&quot;` or Spanish quotes. I'll change to: `(opcional · "REMOTE" si no tiene sede)` → `(opcional — «REMOTE» si no tiene sede)` — Spanish guillemets avoid the rule? The rule targets `"` specifically. Guillemets are not ASCII quotes — should be fine. Actually react/no-unescaped-entities only checks for `>`, `"`, `'`, `}`. Guillemets » « are fine. Let me use `«REMOTE»`.
+
+2. aria-invalid on button role — remove from the two profile buttons (they're buttons; error display below suffices). Or add role="radiogroup"? Simplest: remove aria-invalid from the buttons.
+
+</details>
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "onClick={() => changeTenantType(\"COMPANY\")}\n                aria-pressed={tenantType === \"COMPANY\"}\n                className={[",
+  "oldString": "onClick={() => changeTenantType(\"COMPANY\")}\n                aria-pressed={tenantType === \"COMPANY\"}\n                aria-invalid={Boolean(errors.tenantType)}\n                className={["
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "onClick={() => changeTenantType(\"INDIVIDUAL\")}\n                aria-pressed={tenantType === \"INDIVIDUAL\"}\n                className={[",
+  "oldString": "onClick={() => changeTenantType(\"INDIVIDUAL\")}\n                aria-pressed={tenantType === \"INDIVIDUAL\"}\n                aria-invalid={Boolean(errors.tenantType)}\n                className={["
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/admin/_components/tenant-form.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx",
+  "newString": "(opcional · «REMOTE» si no tiene sede)",
+  "oldString": "(opcional · \"REMOTE\" si no tiene sede)"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; pnpm eslint app/admin lib/admin-db.ts lib/onboarding 2>&1 | rtk head -8; echo "---ESLINT"; pnpm exec tsc --noEmit 2>&1 | rtk head -5; echo "---TSC"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; pnpm eslint app/admin lib/admin-db.ts lib/onboarding 2>&1 | rtk head -8; echo \"---ESLINT\"; pnpm exec tsc --noEmit 2>&1 | rtk head -5; echo \"---TSC\"",
+  "timeout": 240000
+}
+```
+
+**Output:**
+```
+---ESLINT
+---TSC
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Both clean. Now let me verify:
+1. The export route (app/admin/export/route.ts) — does it break with new row fields? It uses TenantListRow, maps to CSV; tsc clean means no break.
+2. Test the form behavior live via the terminal-browser? That's heavy; the admin requires SuperAdmin session. Let me at least do a final build to make sure the full pipeline compiles (though tsc+eslint clean, build adds route-level checks).
+
+Actually, a full `pnpm build` while the user is actively using dev may interfere (same .next dir in dev server!). Earlier, running build while dev was running dirtyed dev state. I should NOT run pnpm build now (dev server is active and the user might be using the app — the log showed activity). tsc + eslint clean is sufficient verification for the incremental change; Next dev will hot-reload these changes fine.
+
+Wait, but there's one more thing to verify: that the dev server picked up the proxy change from earlier (it did — we tested 307s). For these new admin changes, dev hot-reloads modules. Fine.
+
+Let me also double-check the export route doesn't manually enumerate row fields in a way that now needs the new fields (it exports select columns — tsc would not catch missing CSV columns, but no TS break). Quick grep to be safe.
+
+</details>
+
+Limpio. Reviso que el export CSV no dependa de un set fijo de campos:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; rg -n "TenantListRow|tenantType|columns|header" app/admin/export/route.ts | rtk head -12
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; rg -n \"TenantListRow|tenantType|columns|header\" app/admin/export/route.ts | rtk head -12"
+}
+```
+
+**Output:**
+```
+2:import { headers } from "next/headers";
+3:import { createAdminDb, type TenantListRow } from "@/lib/admin-db";
+28:function toCsv(rows: TenantListRow[]): string {
+76:  const headerList = await headers();
+77:  const host = headerList.get("host") ?? "localhost:3000";
+97:        headerList.get("x-forwarded-for")?.split(",")[0]?.trim() ??
+98:        headerList.get("x-real-ip") ??
+100:      userAgent: headerList.get("user-agent"),
+111:    headers: {
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The export just serializes rows (no fixed column mapping visible at those lines). Let me check the toCsv function to see if it enumerates fields:
+
+Actually the grep didn't show columns; toCsv likely maps rows to arrays of fields. If it uses an explicit array of row keys, new fields just aren't exported (fine). No break either way; tsc passed.
+
+Everything is done. Let me also quickly sanity-check that the dev server is still serving /admin OK (it was earlier at 307 for signed-out; the user has a session presumably). And save memory + summarize.
+
+Actually — one more valuable check: the `TenantRowSource` cast in `computeOnboardingProgress(tenant as unknown as TenantRowSource)` — the detail tenant row has the new fields; the cast is fine.
+
+Also `listTenants` selects all fields (no .select()) so tenantType etc. reach buildTenantRow. Verified by tsc.
+
+Let me do a quick dev-server smoke test on /admin (signed out → 307) to make sure nothing exploded from the module changes, plus check the log for errors.
+
+</details>
+
+Export no se rompe (validado además por tsc). Smoke test del dev server (el usuario está trabajando, así que confirmo que no explotó nada):
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive; rtk curl -s -o /dev/null -w "admin -> %{http_code} loc=%{redirect_url}\n" --max-time 60 http://localhost:3000/admin; rtk rg -i "error|failed to compile" /tmp/opencode/nexus-dev.log | rtk tail -5; echo OK
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive; rtk curl -s -o /dev/null -w \"admin -> %{http_code} loc=%{redirect_url}\\n\" --max-time 60 http://localhost:3000/admin; rtk rg -i \"error|failed to compile\" /tmp/opencode/nexus-dev.log | rtk tail -5; echo OK",
+  "timeout": 90000
+}
+```
+
+**Output:**
+```
+admin -> 307 loc=http://localhost:3000/sign-in?redirect_url=http%3A%2F%2Flocalhost%3A3000%2Fadmin
+Error: aborted
+⨯ uncaughtException: Error: aborted
+⨯ uncaughtException:  Error: aborted
+OK
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+There are "uncaughtException: Error: aborted" in the dev log — these might be from my earlier curl status=000 moments (connection aborted mid-compile), or from the user's browser disconnects mid-stream. They're dev-server noise (Turbopack aborted requests), not compile errors — no "Failed to compile". /admin still 307 fine.
+
+These "Error: aborted" were flagged in earlier logs too (they correlate with my curls that got status=000 while the server was busy). Not a code issue.
+
+Now save to Engram (pattern/decision for the admin panel adaptation) and summarize to the user. Keep the summary crisp:
+- What was added: Perfil selector (Empresa/Persona), razón social, NIT/RUT, equipo, dirección/REMOTE — all optional prefills validated, defaults sync to the adaptive preset for modules (Empresa keep full recipe, Persona drops team-heavy).
+- DB layer createTenant writes the new fields; list/detail include them; drawer shows the profile.
+- Audit metadata includes the profile.
+- Verified: tsc + eslint clean; dev server OK.
+- Note: CEO fields are optional prefill; the integrante confirms/requireds in the wizard resume (nit/equipo/dirección required for Empresa there).
+- Mention where to test: admin → Nuevo negocio modal → Perfil section; drawer Resumen shows them.
+
+</details>
+
+El "Error: aborted" es ruido del dev server (requests cortados, incluye mis curls con status=000) — no hay errores de compilación. Guardo el registro y cierro:
+
+#### 🔧 Tool: engram_mem_save
+**Status:** completed
+
+**Input:**
+```json
+{
+  "content": "**What**: Adaptado el panel CEO (admin) a las opciones nuevas del onboarding adaptativo. El modal \"Nuevo negocio\" ahora captura Perfil (Empresa/Persona individual), razón social (solo empresa), NIT/RUT, equipo (solo empresa) y dirección «REMOTE» (solo empresa) — todos OPCIONALES como prefill; el wizard del integrante exige lo necesario según perfil.\n**Why**: El CEO crea tenants y debe poder preconfigurar el perfil adaptativo; los datos fluyen al tenant y el integrante completa en el resume.\n**Where**: app/admin/validators.ts (TenantFormValues + validación lenient reutilizando TAX_ID_PATTERN exportado desde lib/onboarding/validation.ts y TEAM_SIZES de lib/onboarding/types), lib/admin-db.ts (createTenant escribe tenantType/legalName/taxId/teamSize/address con vacío→null; TenantListRow/TenantDetail/TenantRowSource ampliados), app/admin/actions.ts (createTenantAction pasa campos + audit metadata), app/admin/_components/tenant-form.tsx (selector 2 botones aria-pressed + campos condicionales), tenant-drawer.tsx (Resumen muestra Perfil/Razón social/NIT/Equipo/Dirección).\n**Learned**: La preselección de módulos del form ahora usa getOnboardingModulePreset({tenantType, vertical}) (misma regla que el wizard: INDIVIDUAL quita team-heavy) en vez de DEFAULT_MODULES_BY_VERTICAL, solo mientras el CEO no tocó módulos (applyPreset guard). Validación CEO = formato si viene, nunca obligatoria (legalName 2-120, taxId pattern, address ≤120). eslint: en botones no usar aria-invalid (role button no lo soporta) y comillas ASCII en JSX → «guillemets».",
+  "project": "nexus",
+  "title": "Panel CEO adaptado al onboarding adaptativo (perfil Empresa/Persona)",
+  "topic_key": "admin/tenant-form-adaptativo",
+  "type": "decision"
+}
+```
+
+**Output:**
+```
+{"id":229,"judgment_required":false,"project":"nexus","project_path":"","project_source":"explicit_override","result":"Memory saved: \"Panel CEO adaptado al onboarding adaptativo (perfil Empresa/Persona)\" (decision)","review_after":"2027-04-08 23:45:18","state":"active","sync_id":"obs-514c3f165e2b8422"}
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-08 18:45:30*
+
+*[step-start part]*
+
+Listo. El panel CEO quedó adaptado a las opciones nuevas del onboarding.
+
+## Qué cambió
+
+**Modal "Nuevo negocio"** (admin · `tenant-form.tsx`) — ahora tiene, arriba de todo:
+- **Perfil del negocio**: dos tarjetas **Empresa / Persona individual** (default Empresa, igual que el contract).
+- Campos condicionales según perfil (todos **opcionales** — son prefill del CEO; el integrante confirma/exige lo demás en su wizard):
+  - **Razón social** (solo Empresa)
+  - **NIT / RUT** (ambos perfiles; el label cambia a "Documento (CC/NIT)" en Persona)
+  - **Equipo** (solo Empresa: Solista · 2–5 · 6–20 · 20+)
+  - **Dirección** (solo Empresa, con la convención «REMOTE» sin sede)
+- **Presets de módulos sincronizados**: la preselección por vertical ahora usa la **misma regla del wizard** (`getOnboardingModulePreset`). Si elegís "Persona individual", los módulos pesados de equipo (Orders, Inventario, Membresías, Billing) no se preseleccionan; en "Empresa" queda la receta completa.
+
+**Servidor** — `createTenant` escribe los 5 campos nuevos (vacío → `NULL`), el detalle/lista los exponen, y la **auditoría** del alta incluye el perfil (`tenantType`, `taxId`, `teamSize`).
+
+**Drawer de detalle** — la pestaña Resumen muestra el perfil completo: Perfil, Razón social, NIT/RUT, Equipo, Dirección.
+
+## Verificado
+- `tsc` + `eslint` limpios; dev server sigue OK (el `/admin` responde bien).
+- No corrí `pnpm build` a propósito: tu dev server está activo y un build encima ensucia su `.next` (fue parte del problema anterior).
+
+## Regla de negocio que apliqué
+Los campos del CEO son **prefill validado pero no obligatorio**: si el CEO crea una Empresa sin NIT/equipo/dirección, el integrante los completa en el wizard (ahí sí son requeridos según perfil). Si querés que el panel exija algo (ej. NIT obligatorio al crear una Empresa), se cambia en 2 líneas — decime.
+
+Para probar: `admin.localhost:3000` → **Nuevo negocio** → cargar una Empresa y una Persona para ver los defaults de módulos distintos, y abrir el drawer para ver el perfil.
 
 *[step-finish part]*
