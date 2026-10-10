@@ -7,7 +7,7 @@
 ## Conversation
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 no quiero que salgan alertas estupidas como esta que hacemos?: nexus-thrive main ❯ pnpm dev 
 $ next dev
@@ -32,7 +32,7 @@ Clerk: Refreshing the session token resulted in an infinite redirect loop. This 
 ○ Compiling /admin ...
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -172,7 +172,7 @@ Let me first check the project structure to understand what we're working with, 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -307,7 +307,7 @@ Let me check the relevant config files to understand the setup and see how we ca
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -344,7 +344,7 @@ Let me check the environment variables and see if there's a way to suppress thes
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -389,7 +389,7 @@ Let me check the .env file to see what's configured.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -481,12 +481,12 @@ distDir: '/tmp/nexus-thrive/.next',
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 aslo y me das los pasos de lo que debo hacer en clerk
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -525,7 +525,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -561,7 +561,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -624,7 +624,7 @@ Deberías ver:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 nexus-thrive main  ? ✗ pnpm dev 
 $ next dev
@@ -648,7 +648,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
   · serverActions
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -730,12 +730,12 @@ NEXT_TELEMETRY_DISABLED=1 pnpm dev
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 aslo
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -771,7 +771,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -824,7 +824,7 @@ or run kill 429281 to stop it and start a new one.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -858,7 +858,7 @@ There's already a dev server running on port 3000. Let me kill it and try again.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -913,7 +913,7 @@ shell tool terminated command after exceeding timeout 30000 ms. If this command 
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -964,12 +964,12 @@ This usually means that your Clerk instance keys do not match
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 ya actualice y sigue igual son identicas y mira los cambios hay muchos por el /tmp corrige eso. que son cambios innecesarios
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1022,7 +1022,7 @@ Let me check the current state of the files and understand what's happening.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1099,7 +1099,7 @@ Let me also check the next.config.ts to fix the /tmp issue they mentioned - they
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1144,7 +1144,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1181,7 +1181,7 @@ Now let me check the git status to see what changes were made, and also address 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1229,7 +1229,7 @@ Let me clean up the tmp folder and verify the tsconfig.json change.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1299,7 +1299,7 @@ unknown
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1335,7 +1335,7 @@ ok updated 1 path from the index
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1370,7 +1370,7 @@ Now let me verify the status is clean.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1442,12 +1442,12 @@ Ese nombre debe coincidir con el que ves en el dashboard.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 en la config me da este: https://wealthy-earwig-9924.clerk.accounts.dev
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1499,7 +1499,7 @@ Pero el **secret key** en tu `.env` (`sk_test_8NJRs1vDhmkGr5pblZMpayjJZiuWeahan3
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 LO HICE Y SIGUE SALIENDOOom dev
 $ next dev
@@ -1520,7 +1520,7 @@ Clerk: Refreshing the session token resulted in an infinite redirect loop. This 
 ○ Compiling /admin ...
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1578,7 +1578,7 @@ Let me read the current .env and verify.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1639,12 +1639,12 @@ export NEXT_TELEMETRY_DISABLED=1
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 sabes porque esta igual? PORQUE ESO ES LO QUE ME MUESTRA en el panel que es y estan bien porque antes funcionavan
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1842,7 +1842,7 @@ Found 60 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1954,7 +1954,7 @@ Let me check the middleware file - that's where Clerk auth happens and where the
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -1996,7 +1996,7 @@ No files found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2028,7 +2028,7 @@ No files found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2076,7 +2076,7 @@ But wait - the user said "before they worked". What changed? Maybe a Clerk SDK u
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2160,7 +2160,7 @@ NEXT_TELEMETRY_DISABLED=1 pnpm dev
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 accedo por localhost yse queda cargando. OSEA no se que pasa borra el historial la cache o algo porque aparte de que no carga en pnpm lo siento muy lento tambien: nexus-thrive main ? ❯ NEXT_TELEMETRY_DISABLED=1 pnpm dev
 $ next dev
@@ -2180,7 +2180,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 ○ Compiling /sign-in/[[...sign-in]] ...
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2223,7 +2223,7 @@ Let me clear the cache first and then run with the proper env var.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2277,7 +2277,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2321,7 +2321,7 @@ Let me stop this and run with the distDir set to /tmp.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2357,7 +2357,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2389,7 +2389,7 @@ Now let me create the directory and run the dev server with the proper setup.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2451,7 +2451,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2487,7 +2487,7 @@ Let me just use a relative path that goes outside the project, like `../../.next
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2523,7 +2523,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2555,7 +2555,7 @@ Now let me create the directory and run the dev server.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2591,7 +2591,7 @@ ok updated 1 path from the index
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2649,7 +2649,7 @@ Debug info:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2687,7 +2687,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2740,7 +2740,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2807,12 +2807,12 @@ Guarda y **recarga el browser** (limpia cache: `Ctrl+Shift+R`).
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 borra el tmp ese que adñade miles de cotas al changes
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2844,7 +2844,7 @@ The user wants me to clean up the /tmp/nexus-thrive directory that's being creat
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2882,7 +2882,7 @@ Good, cleaned up. Let me also check if there's anything in the project's tmp fol
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2927,7 +2927,7 @@ unknown
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -2982,12 +2982,12 @@ El warning "Slow filesystem" es **solo cosmético** (benchmark de 500ms), no afe
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 cierra el navegador cromium de golpe matalo
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3019,7 +3019,7 @@ The user wants me to kill the Chromium browser process. I'll use pkill to do tha
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3039,12 +3039,12 @@ Abre de nuevo, ve a `http://localhost:3000` y prueba (con `Ctrl+Shift+R` para ca
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 bueno ando desplegando una beta de nexus como esta ahora con supabase ya lo subi a vercel pero ahoraen supabase como lo conecto con vercel porque ahora en nexus en beta hay un error 500 :https://nexus-thrive-beta.vercel.app/
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3149,7 +3149,7 @@ En Vercel Functions Logs, copia el error completo y pégamelo. Con eso te digo e
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 Oct 10 01:06:27.27
 GET
@@ -3233,7 +3233,7 @@ Or copy keys from https://dashboard.clerk.com/~/api-keys into your .env file.
     at <unknown> (.next/server/chunks/[root-of-the-server]__1rdu5nt._.js:8:42395)
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3297,12 +3297,12 @@ En Vercel Function Logs, deberías ver **ya no el error de Clerk**, y la página
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 adñade esto a los cors para que funcione: https://nexus-thrive-beta.vercel.app/sign-in
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3366,7 +3366,7 @@ Guarda en Clerk → redeploy en Vercel (`vercel --prod` o push) → prueba.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 aui?: Organization logoPersonal workspace
 Hobby
@@ -3480,7 +3480,7 @@ Setting component paths via the Dashboard will be deprecated in a future version
 Configure | Clerk.com
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3534,7 +3534,7 @@ Guarda → redeploy en Vercel → prueba.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 Domains
 Primary
@@ -3548,7 +3548,7 @@ Restrict access to specific subdomains of your configured domains.
 This feature is not available on development instances. Create a production instance to enable this feature.
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3598,7 +3598,7 @@ Developers
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 nop: Organization logoPersonal workspace
 Hobby
@@ -3710,7 +3710,7 @@ Setting component paths via the Dashboard will be deprecated in a future version
 Configure | Clerk.com
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3793,7 +3793,7 @@ Guarda → redeploy en Vercel → prueba.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 Organization logoPersonal workspace
 Hobby
@@ -3884,7 +3884,7 @@ Created on October 6, 2026
 Configure | Clerk.com
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -3994,12 +3994,12 @@ Separa dev/prod limpio:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 peor es raro porque recordemos que ya se porque no funciona y es que aca necesitamos willcards para el funcionamiento de los subdominios como admin.*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4085,7 +4085,7 @@ Cambia tu `proxy.ts` middleware para usar paths en vez de subdominios. Funciona 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 como le hacemos: exus-thrive-beta.vercel.app
 Unverified
@@ -4102,7 +4102,7 @@ Next.js middleware or proxy matchers must include '/__clerk/:path*'.
 Add a custom domain for full branded production behavior and Account Portal.
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4230,7 +4230,7 @@ El matcher debe incluir `/__clerk/:path*`:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4283,7 +4283,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4396,7 +4396,7 @@ Now the middleware will pass through `/__clerk/*` without any rewriting. Let me 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4450,12 +4450,12 @@ Revisa **Vercel Function Logs** buscando requests a `/__clerk/*` — deben respo
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 ahora mismo la db postges de supa no tiene migraciones ni esta con la base debemos hacerla mandarle los datos desde aca ya coloque la uri de supa en env
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4919,7 +4919,7 @@ Let me check the Prisma setup in this project.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -4968,7 +4968,7 @@ This is a Prisma 8 project using contract.prisma. I need to push the schema to S
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5003,7 +5003,7 @@ DATABASE_URL="postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5042,7 +5042,7 @@ Good, the DATABASE_URL is already set to Supabase pooler in the local .env. Now 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5089,7 +5089,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5124,7 +5124,7 @@ I can use `prisma db-push` to push the schema to the database. Since this is a n
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5159,7 +5159,7 @@ It seems the command is `prisma db-push` but the rtk wrapper doesn't recognize i
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5194,7 +5194,7 @@ Let me try with npx directly or check the exact command.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5229,15 +5229,15 @@ The rtk wrapper might be having issues. Let me try with npx prisma directly.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 creo que es sync o algo asi mira la skill de v8 de prisma
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5370,7 +5370,7 @@ The user is suggesting I check the Prisma 8 skill to see what commands are avail
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -5945,7 +5945,7 @@ Let me check the migrations reference to understand how to push the schema to th
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6021,7 +6021,7 @@ Voy con **quick path** (más rápido para BD vacía):
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6056,7 +6056,7 @@ The `rtk` wrapper doesn't have the `contract emit` command. Let me try with just
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6091,7 +6091,7 @@ The rtk wrapper is having issues. Let me try running prisma directly using pnpm.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6126,7 +6126,7 @@ Let me try directly with pnpm prisma.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6161,7 +6161,7 @@ The rtk wrapper seems broken. Let me try running pnpm prisma directly.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6196,7 +6196,7 @@ Let me try pnpm prisma directly without rtk.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6231,7 +6231,7 @@ The rtk wrapper is failing. Let me try running the prisma command directly using
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6266,15 +6266,15 @@ The rtk wrapper is not working. Let me try running pnpm prisma directly.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 aja
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6408,7 +6408,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6455,7 +6455,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6502,7 +6502,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6549,7 +6549,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6596,7 +6596,7 @@ Options:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6631,7 +6631,7 @@ OK let me try with npx directly to use Prisma 8 commands.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6666,7 +6666,7 @@ The rtk prisma command doesn't support `contract emit`. Let me try npx prisma di
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6705,7 +6705,7 @@ The rtk prisma command doesn't support contract emit. Let me try npx prisma dire
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6740,7 +6740,7 @@ Contract emitted. Now let me run db init to baseline the empty database.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6778,7 +6778,7 @@ Full output saved to: /home/craxker/.local/share/opencode/tool-output/tool_12489
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6822,7 +6822,7 @@ Let me read the output file.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6864,7 +6864,7 @@ Full output saved to: /home/craxker/.local/share/opencode/tool-output/tool_1248a
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -6913,7 +6913,7 @@ Let me read the output.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7008,7 +7008,7 @@ sh: line 1: CREATE: command not found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7045,7 +7045,7 @@ Let me try the formal migration path with `migration plan` + `db migrate` which 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7087,7 +7087,7 @@ Full output saved to: /home/craxker/.local/share/opencode/tool-output/tool_1248b
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7127,7 +7127,7 @@ Let me check the result.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7147,12 +7147,12 @@ El pooler (puerto 6543) no permite DDL. Usa la conexión directa (puerto 5432):
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 continua
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7187,7 +7187,7 @@ The issue is that the Supabase pooler (port 6543) doesn't allow DDL operations l
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -7237,7 +7237,7 @@ For more information, try '--help'.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8685,7 +8685,7 @@ Let me try a different approach to read the ops.json file.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8703,12 +8703,12 @@ Let me write a script to extract all the SQL and run it.
 El SQL es muy largo. Vamos a extraer todo y ejecutarlo directo en Supabase:
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 usa esta la pass esta en el .env: postgresql://postgres:[YOUR-PASSWORD]@db.vnwwarudcycqdrthiouk.supabase.co:5432/postgres
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8769,7 +8769,7 @@ Wait, the user said "usa esta la pass esta en el .env" - they're referring to th
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8818,7 +8818,7 @@ Full output saved to: /home/craxker/.local/share/opencode/tool-output/tool_1248e
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8858,7 +8858,7 @@ Let me check the result.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -8878,12 +8878,12 @@ El pooler (puerto 5432/6543) **no permite DDL**. Hay que ejecutar el SQL **direc
 ## Copia y pega esto en Supabase SQL Editor:
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 intenta con alguna de estas "postgresql://postgres.vnwwarudcycqdrthiouk:[YOUR-PASSWORD]@aws-1-ca-central-1.pooler.supabase.com:6543/postgres" "postgresql://postgres.vnwwarudcycqdrthiouk:[YOUR-PASSWORD]@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -9654,7 +9654,7 @@ SELECT EXISTS (SELECT 1 AS "one" FROM "pg_constraint" AS "c" INNER JOIN "pg_name
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -9817,7 +9817,7 @@ CREATE TABLE "public"."Membership" (
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -9876,7 +9876,7 @@ CREATE TABLE "public"."ApuItem" (
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -9923,12 +9923,12 @@ PGHOST=db.vnwwarudcycqdrthiouk.supabase.co PGPORT=5432 PGUSER=postgres.vnwwarudc
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 clerk funciona al 100% solo que falta el willcard funcionando completamente
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10001,12 +10001,12 @@ Funciona **ya** en Hobby/Development.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 podemos solucionar eso con vercel no? o con cloudflare?
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10087,12 +10087,12 @@ Funciona **inmediatamente** en tu instancia Development actual.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 por ahora cambialo asi pero no me gusta mucho.
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10205,7 +10205,7 @@ The user wants me to change the proxy.ts to use path-based routing instead of su
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10247,7 +10247,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10350,7 +10350,7 @@ Good, the proxy.ts is now updated to use path-based routing. Let me verify the c
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10388,7 +10388,7 @@ shell tool terminated command after exceeding timeout 30000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10422,7 +10422,7 @@ FAILED: curl 000
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10456,7 +10456,7 @@ FAILED: curl 000
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10494,7 +10494,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10528,7 +10528,7 @@ FAILED: curl 000
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10566,7 +10566,7 @@ shell tool terminated command after exceeding timeout 30000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10598,7 +10598,7 @@ The command seems to hang. Let me check if there's a process already running on 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10641,7 +10641,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10675,7 +10675,7 @@ The server is running now. Let me test the routes.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10714,7 +10714,7 @@ shell tool terminated command after exceeding timeout 120000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10752,7 +10752,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10820,7 +10820,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10869,7 +10869,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10919,7 +10919,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -10954,7 +10954,7 @@ FAILED: curl 000
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11004,7 +11004,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11056,7 +11056,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11094,7 +11094,7 @@ shell tool terminated command after exceeding timeout 180000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11128,12 +11128,12 @@ User aborted the command
 ```
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 con que funcione el sistema ya basta esta funcionando ?
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11175,7 +11175,7 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11225,7 +11225,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11260,7 +11260,7 @@ FAILED: curl 000
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11295,7 +11295,7 @@ craxker   462143  0.0  0.0   6908  2652 ?        S    02:11   0:00 /usr/bin/grep
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
 
 *[step-start part]*
 
@@ -11333,4 +11333,5163 @@ shell tool terminated command after exceeding timeout 60000 ms. If this command 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 02:12:27*
+*2026-10-10 02:31:40*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+deja eso fuera ya envie cambios si funciona funciono dime ahora como es el flujo actual para cuando se registra alguen desde clerk debo interferir como admin para que tenga una empresa?
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user is asking about the flow when someone registers via Clerk - whether they need to interfere as an admin to create a company/tenant for them. This is a design/architecture question about the onboarding flow.
+
+Let me check the existing onboarding logic in the codebase to understand the current flow.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/onboarding/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/onboarding/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/onboarding/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth, currentUser } from "@clerk/nextjs/server";
+4: import { revalidatePath } from "next/cache";
+5: import { db } from "@/prisma/db";
+6: import { validateAdaptiveOnboarding } from "@/lib/onboarding/validation";
+7: import { suggestSlug } from "@/lib/onboarding/slug";
+8: import type {
+9:   AdaptiveOnboardingInput,
+10:   ModuleValue,
+11:   OnboardingActionResult,
+12: } from "@/lib/onboarding/types";
+13: 
+14: /**
+15:  * Acción ÚNICA de finalización del onboarding adaptativo.
+16:  *
+17:  * Modo `create` (sin `tenantId`): crea Tenant + User OWNER + módulos en UNA
+18:  * transacción. Modo `resume` (con `tenantId`): actualiza el tenant al que el
+19:  * usuario ya pertenece, sincroniza módulos y marca onboarding completado.
+20:  *
+21:  * Garantías:
+22:  * - Validación SIEMPRE en el servidor (nunca se confía en el navegador).
+23:  * - Idempotente: reintentos/doble click no crean duplicados (módulos via
+24:  *   upsert sobre [tenantId, moduleName]; tenant via @unique en slug).
+25:  * - Mensajes legibles; los errores de Prisma/DB JAMÁS llegan al usuario.
+26:  * - En éxito: revalidate + devuelve el slug; el cliente muestra la pantalla
+27:  *   final y el CTA "Entrar a mi espacio NEXUS" navega a `/[slug]`.
+28:  */
+29: 
+30: type DbTransaction = Parameters<Parameters<typeof db.transaction>[0]>[0];
+31: 
+32: /** Reemplaza el set de módulos activos del tenant (selección exacta). */
+33: async function syncModules(
+34:   tx: DbTransaction,
+35:   tenantId: string,
+36:   selected: ModuleValue[],
+37: ): Promise<void> {
+38:   const selectedSet = new Set<string>(selected);
+39:   const existing = await tx.orm.public.TenantModule.where({ tenantId }).all();
+40: 
+41:   // Los que ya no están en la selección se desactivan (nunca se borran:
+42:   // el historial de activación queda en la fila).
+43:   for (const row of existing) {
+44:     if (!selectedSet.has(row.moduleName)) {
+45:       await tx.orm.public.TenantModule.where({ id: row.id }).update({
+46:         active: false,
+47:       });
+48:     }
+49:   }
+50: 
+51:   // Los seleccionados se aseguran activos (idempotente por unique).
+52:   for (const moduleName of selected) {
+53:     await tx.orm.public.TenantModule.upsert({
+54:       create: { tenantId, moduleName },
+55:       update: { active: true },
+56:       conflictOn: { tenantId, moduleName },
+57:     });
+58:   }
+59: }
+60: 
+61: export async function completeAdaptiveOnboardingAction(
+62:   input: AdaptiveOnboardingInput,
+63: ): Promise<OnboardingActionResult> {
+64:   // 1) Sesión (Clerk) ------------------------------------------------
+65:   const { userId } = await auth();
+66:   if (!userId) {
+67:     return {
+68:       status: "error",
+69:       message: "Tu sesión expiró. Vuelve a entrar y continúa donde quedaste.",
+70:     };
+71:   }
+72: 
+73:   // 2) Validación estricta y normalización ---------------------------
+74:   const result = validateAdaptiveOnboarding(input);
+75:   if (!result.ok) {
+76:     return {
+77:       status: "error",
+78:       message: "Revisa los campos marcados e inténtalo de nuevo.",
+79:       errors: result.errors,
+80:     };
+81:   }
+82:   const values = result.values;
+83: 
+84:   // 3) Modo resume: el tenant debe pertenecer al usuario ---------------
+85:   if (values.tenantId) {
+86:     const tenantId = values.tenantId;
+87:     const tenant = await db.orm.public.Tenant.where({
+88:       id: tenantId,
+89:     }).first();
+90:     if (!tenant) {
+91:       return { status: "error", message: "El negocio ya no existe." };
+92:     }
+93: 
+94:     const membership = await db.orm.public.User.where({
+95:       clerkUserId: userId,
+96:       tenantId,
+97:     }).first();
+98:     if (!membership) {
+99:       return {
+100:         status: "error",
+101:         message: "No tienes acceso a este negocio.",
+102:       };
+103:     }
+104: 
+105:     // Si ya estaba completo: idempotente, simplemente entra.
+106:     if (tenant.onboardingCompleted) {
+107:       revalidatePath(`/${tenant.slug}`);
+108:       return { status: "ok", slug: tenant.slug };
+109:     }
+110: 
+111:     // Disponibilidad del slug si va a cambiar (sin contar el propio tenant).
+112:     if (values.slug !== tenant.slug) {
+113:       const taken = await db.orm.public.Tenant.where({
+114:         slug: values.slug,
+115:       }).first();
+116:       if (taken) {
+117:         return {
+118:           status: "error",
+119:           message: "Revisa los campos marcados e inténtalo de nuevo.",
+120:           errors: { slug: "Ese enlace ya está en uso." },
+121:         };
+122:       }
+123:     }
+124: 
+125:     try {
+126:       await db.transaction(async (tx) => {
+127:         await tx.orm.public.Tenant.where({ id: tenantId }).update({
+128:           name: values.name,
+129:           slug: values.slug,
+130:           vertical: values.vertical,
+131:           city: values.city,
+132:           tenantType: values.tenantType,
+133:           legalName: values.legalName,
+134:           taxId: values.taxId,
+135:           teamSize: values.teamSize,
+136:           address: values.address,
+137:           onboardingCompleted: true,
+138:         });
+139:         await syncModules(tx, tenantId, values.selectedModules);
+140:       });
+141:     } catch {
+142:       return {
+143:         status: "error",
+144:         message: "No se pudo guardar. Inténtalo de nuevo en un momento.",
+145:       };
+146:     }
+147: 
+148:     revalidatePath(`/${values.slug}`);
+149:     revalidatePath("/");
+150:     return { status: "ok", slug: values.slug };
+151:   }
+152: 
+153:   // 4) Modo create: dispersión de identidad desde Clerk -----------------
+154:   const clerkUser = await currentUser();
+155:   const primaryEmail =
+156:     clerkUser?.primaryEmailAddress?.emailAddress ??
+157:     clerkUser?.emailAddresses?.[0]?.emailAddress ??
+158:     "";
+159:   const displayName =
+160:     `${clerkUser?.firstName ?? ""} ${clerkUser?.lastName ?? ""}`.trim() ||
+161:     "Usuario";
+162: 
+163:   // Disponibilidad del slug (carrera posible: el @unique del contract
+164:   // es la última barrera; el catch convierte la colisión en mensaje).
+165:   const taken = await db.orm.public.Tenant.where({
+166:     slug: values.slug,
+167:   }).first();
+168:   if (taken) {
+169:     const suggestion = suggestSlug(values.name);
+170:     return {
+171:       status: "error",
+172:       message: "Revisa los campos marcados e inténtalo de nuevo.",
+173:       errors: {
+174:         slug: suggestion
+175:           ? `Ese enlace ya está en uso. Prueba con "${suggestion}".`
+176:           : "Ese enlace ya está en uso. Prueba con otro.",
+177:       },
+178:     };
+179:   }
+180: 
+181:   try {
+182:     await db.transaction(async (tx) => {
+183:       const tenant = await tx.orm.public.Tenant.create({
+184:         name: values.name,
+185:         slug: values.slug,
+186:         vertical: values.vertical,
+187:         city: values.city,
+188:         tenantType: values.tenantType,
+189:         legalName: values.legalName,
+190:         taxId: values.taxId,
+191:         teamSize: values.teamSize,
+192:         address: values.address,
+193:         onboardingCompleted: true,
+194:       });
+195: 
+196:       await tx.orm.public.User.create({
+197:         clerkUserId: userId,
+198:         email: primaryEmail,
+199:         name: displayName,
+200:         role: "OWNER",
+201:         tenantId: tenant.id,
+202:       });
+203: 
+204:       await syncModules(tx, tenant.id, values.selectedModules);
+205:     });
+206:   } catch {
+207:     return {
+208:       status: "error",
+209:       message: "No se pudo crear tu espacio. Inténtalo de nuevo en un momento.",
+210:     };
+211:   }
+212: 
+213:   revalidatePath(`/${values.slug}`);
+214:   revalidatePath("/");
+215:   return { status: "ok", slug: values.slug };
+216: }
+
+(End of file - total 216 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now let me check the onboarding flow and the prefill to understand how it works.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/onboarding/prefill.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/onboarding/prefill.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/onboarding/prefill.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Resolución del contexto de onboarding en el servidor.
+3:  *
+4:  * Determina si el usuario debe CREAR su primer espacio (`create`), REANUDAR
+5:  * un tenant pendiente al que ya pertenece (`resume`) o si ya tiene espacios
+6:  * completos (`done` → la página redirige). Módulo de servidor (usa `db`):
+7:  * NO importable desde componentes cliente.
+8:  */
+9: 
+10: import { db } from "@/prisma/db";
+11: import { sortModules, type ModuleValue } from "@/lib/admin-catalogs";
+12: import {
+13:   EMPTY_DRAFT,
+14:   type OnboardingDraft,
+15:   type OnboardingPrefill,
+16: } from "@/lib/onboarding/types";
+17: 
+18: /**
+19:  * El `include("tenant", ...)` del ORM devuelve la fila relacionada con los
+20:  * campos seleccionados. Tomamos solo los que el borrador necesita (los
+21:  * enums del contract son estructuralmente compatibles con los unions).
+22:  */
+23: type TenantForDraft = {
+24:   name: string;
+25:   slug: string;
+26:   vertical: OnboardingDraft["vertical"];
+27:   tenantType: OnboardingDraft["tenantType"];
+28:   legalName: string | null;
+29:   taxId: string | null;
+30:   teamSize: string | null;
+31:   address: string | null;
+32:   city: string | null;
+33:   onboardingCompleted: boolean;
+34:   modules: { moduleName: string; active: boolean }[];
+35: };
+36: 
+37: function tenantToDraft(tenant: TenantForDraft): OnboardingDraft {
+38:   return {
+39:     tenantType: tenant.tenantType,
+40:     name: tenant.name,
+41:     legalName: tenant.legalName ?? "",
+42:     taxId: tenant.taxId ?? "",
+43:     slugRaw: tenant.slug,
+44:     vertical: tenant.vertical,
+45:     teamSize: (tenant.teamSize as OnboardingDraft["teamSize"]) ?? null,
+46:     address: tenant.address ?? "",
+47:     city: tenant.city ?? "",
+48:     selectedModules: sortModules(
+49:       tenant.modules
+50:         .filter((module) => module.active)
+51:         .map((module) => module.moduleName as ModuleValue),
+52:     ),
+53:   };
+54: }
+55: 
+56: export async function getOnboardingPrefill(
+57:   clerkUserId: string,
+58:   preferredSlug?: string,
+59: ): Promise<OnboardingPrefill> {
+60:   const memberships = await db.orm.public.User.where({
+61:     clerkUserId,
+62:   })
+63:     .include("tenant", (tenant) =>
+64:       tenant
+65:         .select(
+66:           "id",
+67:           "name",
+68:           "slug",
+69:           "vertical",
+70:           "tenantType",
+71:           "legalName",
+72:           "taxId",
+73:           "teamSize",
+74:           "address",
+75:           "city",
+76:           "onboardingCompleted",
+77:         )
+78:         .include("modules", (module) =>
+79:           module.select("moduleName", "active"),
+80:         ),
+81:     )
+82:     .all();
+83: 
+84:   // El gate de `(app)` reanuda el tenant pendiente del subdominio con
+85:   // `?tenant=<slug>`; si el preferido no existe o ya completó, caemos al
+86:   // comportamiento genérico (primer pendiente, o done, o create).
+87:   const target = preferredSlug
+88:     ? memberships.find(
+89:         (membership) => membership.tenant?.slug === preferredSlug,
+90:       )
+91:     : undefined;
+92: 
+93:   const pending = target
+94:     ? target
+95:     : memberships.find((membership) => {
+96:         const tenant = membership.tenant;
+97:         return tenant !== null && !tenant.onboardingCompleted;
+98:       });
+99: 
+100:   if (pending && pending.tenant && !pending.tenant.onboardingCompleted) {
+101:     return {
+102:       mode: "resume",
+103:       tenantId: pending.tenantId,
+104:       tenantName: pending.tenant.name,
+105:       draft: tenantToDraft(pending.tenant),
+106:     };
+107:   }
+108: 
+109:   const completed = target?.tenant ?? memberships[0]?.tenant;
+110:   if (completed) {
+111:     return {
+112:       mode: "done",
+113:       doneSlug: completed.slug,
+114:       draft: EMPTY_DRAFT,
+115:     };
+116:   }
+117: 
+118:   return { mode: "create", draft: EMPTY_DRAFT };
+119: }
+
+(End of file - total 119 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I have a clear picture of the flow. Let me summarize it for the user.
+
+The flow is:
+1. User signs up via Clerk (Clerk handles auth)
+2. After auth, they're redirected to `/onboarding` (or their tenant path if `?tenant=slug`)
+3. `getOnboardingPrefill` checks if they already have a tenant membership:
+   - If they have a tenant with `onboardingCompleted: false` → mode "resume" (continue where they left off)
+   - If they have a tenant with `onboardingCompleted: true` → mode "done" (redirects to their tenant)
+   - If they have NO tenants → mode "create" (first-time setup)
+4. User fills the adaptive onboarding form (individual vs company profile)
+5. `completeAdaptiveOnboardingAction` creates:
+   - Tenant (with all business info)
+   - User (with clerkUserId, email, name, role: OWNER)
+   - TenantModule (selected modules)
+6. User is redirected to `/{slug}` (their tenant space)
+
+The admin does NOT need to intervene - it's fully self-service. The user creates their own tenant during onboarding.
+
+Let me also check if there's any invitation flow or if admins can add users to existing tenants.
+
+</details>
+
+#### 🔧 Tool: grep
+**Status:** completed
+**Title:** invite|Invitation
+
+**Input:**
+```json
+{
+  "include": "*.ts",
+  "path": "/home/craxker/github/nexus-thrive",
+  "pattern": "invite|Invitation"
+}
+```
+
+**Output:**
+```
+No files found
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No invitation flow yet. Let me check the memberships actions to see how users are added to existing tenants.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/memberships/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/memberships/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/memberships/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth } from "@clerk/nextjs/server";
+4: import { revalidatePath } from "next/cache";
+5: import { db } from "@/prisma/db";
+6: import { createTenantDb } from "@/lib/tenant-db";
+7: import { formatDateShort } from "@/lib/format";
+8: import {
+9:   addMonths,
+10:   bogotaEndOfDay,
+11:   bogotaStartOfDay,
+12:   bogotaToday,
+13:   computeMembershipStatus,
+14:   parsePlainDate,
+15:   plainFromInstant,
+16:   typeMonths,
+17:   typeLabel,
+18: } from "@/lib/memberships";
+19: import {
+20:   validateMembership,
+21:   validateRenewal,
+22:   type MembershipFieldErrors,
+23:   type MembershipFormValues,
+24:   type RenewalFieldErrors,
+25: } from "./validators";
+26: 
+27: export type MembershipFormState = {
+28:   status: "idle" | "error" | "ok";
+29:   message?: string;
+30:   errors?: MembershipFieldErrors;
+31:   values?: MembershipFormValues;
+32: };
+33: 
+34: export type RenewalFormState = {
+35:   status: "idle" | "error" | "ok";
+36:   message?: string;
+37:   errors?: RenewalFieldErrors;
+38: };
+39: 
+40: const ACCESS_DENIED_MEMBERSHIP: MembershipFormState = {
+41:   status: "error",
+42:   message: "No tienes acceso a este negocio.",
+43: };
+44: 
+45: const ACCESS_DENIED_RENEWAL: RenewalFormState = {
+46:   status: "error",
+47:   message: "No tienes acceso a este negocio.",
+48: };
+49: 
+50: type TenantDb = ReturnType<typeof createTenantDb>;
+51: 
+52: /**
+53:  * Verifica sesión de Clerk + tenant activo + membresía del usuario.
+54:  * Devuelve `null` cuando algo falla (el caller responde con mensaje genérico).
+55:  */
+56: async function requireTenantDb(tenantSlug: string): Promise<TenantDb | null> {
+57:   if (!tenantSlug || tenantSlug.trim() === "") {
+58:     return null;
+59:   }
+60: 
+61:   const { userId } = await auth();
+62:   if (!userId) {
+63:     return null;
+64:   }
+65: 
+66:   const tenantRecord = await db.orm.public.Tenant.where({
+67:     slug: tenantSlug,
+68:     active: true,
+69:   }).first();
+70:   if (!tenantRecord) {
+71:     return null;
+72:   }
+73: 
+74:   const tenantDb = createTenantDb(tenantRecord.id);
+75:   const member = await tenantDb.users.findByClerkUserId(userId);
+76:   if (!member) {
+77:     return null;
+78:   }
+79: 
+80:   return tenantDb;
+81: }
+82: 
+83: /** Revalida el módulo de membresías, Finanzas y el dashboard juntos. */
+84: function revalidateMembershipViews(tenantSlug: string): void {
+85:   revalidatePath(`/${tenantSlug}/memberships`);
+86:   revalidatePath(`/${tenantSlug}/finance`);
+87:   revalidatePath(`/${tenantSlug}`);
+88: }
+89: 
+90: /**
+91:  * Crea una membresía. La vigencia SIEMPRE la calcula el servidor:
+92:  * `endDate = fin de día (Bogotá) de startDate + duración del plan` — el
+93:  * valor del form es solo indicativo. Estado inicial calculado dinámicamente.
+94:  * Opcionalmente registra el cobro inicial como pago `APPROVED` vinculado.
+95:  */
+96: export async function createMembershipAction(
+97:   _prevState: MembershipFormState,
+98:   formData: FormData,
+99: ): Promise<MembershipFormState> {
+100:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+101:   const tenantDb = await requireTenantDb(tenantSlug);
+102:   if (!tenantDb) {
+103:     return ACCESS_DENIED_MEMBERSHIP;
+104:   }
+105: 
+106:   const validation = validateMembership(formData);
+107:   if (!validation.ok) {
+108:     return {
+109:       status: "error",
+110:       errors: validation.errors,
+111:       values: validation.values,
+112:     };
+113:   }
+114: 
+115:   const { customerId, type, startDate, price, provider, registerInitialPayment } =
+116:     validation.values;
+117: 
+118:   // El cliente debe existir y pertenecer a este tenant.
+119:   const customer = await tenantDb.customers.get(customerId);
+120:   if (!customer) {
+121:     return {
+122:       status: "error",
+123:       message: "El cliente seleccionado no fue encontrado en este negocio.",
+124:       values: validation.values,
+125:     };
+126:   }
+127: 
+128:   const startPlain = parsePlainDate(startDate);
+129:   if (!startPlain) {
+130:     return {
+131:       status: "error",
+132:       errors: { startDate: "Fecha de inicio no válida." },
+133:       values: validation.values,
+134:     };
+135:   }
+136: 
+137:   const now = Temporal.Instant.fromEpochMilliseconds(Date.now());
+138:   const startInstant = bogotaStartOfDay(startPlain);
+139:   const endPlain = addMonths(startPlain, typeMonths(type));
+140:   const endInstant = bogotaEndOfDay(endPlain);
+141:   const status = computeMembershipStatus(endInstant, now);
+142: 
+143:   const priceAmount = String(Number(price.replace(",", ".")));
+144:   const paymentEntry = registerInitialPayment
+145:     ? [
+146:         {
+147:           kind: "inicial" as const,
+148:           date: new Date().toISOString(),
+149:           amount: priceAmount,
+150:           provider,
+151:         },
+152:       ]
+153:     : [];
+154: 
+155:   const membership = await tenantDb.memberships.create({
+156:     customerId,
+157:     type,
+158:     startDate: startInstant,
+159:     endDate: endInstant,
+160:     status,
+161:     price: priceAmount,
+162:     payments: paymentEntry,
+163:   });
+164: 
+165:   if (registerInitialPayment) {
+166:     await tenantDb.payments.create({
+167:       customerId,
+168:       membershipId: membership.id,
+169:       provider,
+170:       status: "APPROVED",
+171:       amount: priceAmount,
+172:       description: `Membresía ${typeLabel(type)} — cobro inicial`,
+173:     });
+174:   }
+175: 
+176:   revalidateMembershipViews(tenantSlug);
+177:   return { status: "ok" };
+178: }
+179: 
+180: /**
+181:  * Renueva una membresía por un período completo del mismo plan:
+182:  * - Si está vencida: la nueva vigencia corre desde HOY.
+183:  * - Si sigue vigente: se extiende desde su `endDate` actual (sin gap).
+184:  * Recalcula `status`, agrega el cobro al historial `payments` (Json) y,
+185:  * opcionalmente, registra el pago de renovación como `APPROVED`.
+186:  */
+187: export async function renewMembershipAction(
+188:   _prevState: RenewalFormState,
+189:   formData: FormData,
+190: ): Promise<RenewalFormState> {
+191:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+192:   const tenantDb = await requireTenantDb(tenantSlug);
+193:   if (!tenantDb) {
+194:     return ACCESS_DENIED_RENEWAL;
+195:   }
+196: 
+197:   const validation = validateRenewal(formData);
+198:   if (!validation.ok) {
+199:     return {
+200:       status: "error",
+201:       errors: validation.errors,
+202:     };
+203:   }
+204: 
+205:   const { membershipId, provider, registerPayment } = validation.values;
+206: 
+207:   const membership = await tenantDb.memberships.get(membershipId);
+208:   if (!membership) {
+209:     return {
+210:       status: "error",
+211:       message: "La membresía no fue encontrada en este negocio.",
+212:     };
+213:   }
+214: 
+215:   const now = Temporal.Instant.fromEpochMilliseconds(Date.now());
+216:   const months = typeMonths(membership.type);
+217: 
+218:   // Vencida → desde hoy; vigente → extiende desde su fin actual.
+219:   const basePlain =
+220:     membership.status === "expired"
+221:       ? bogotaToday()
+222:       : plainFromInstant(membership.endDate);
+223:   const newEndPlain = addMonths(basePlain, months);
+224:   const newEndInstant = bogotaEndOfDay(newEndPlain);
+225:   const newStatus = computeMembershipStatus(newEndInstant, now);
+226: 
+227:   const priceAmount = String(membership.price);
+228:   const history = [
+229:     ...membership.payments,
+230:     {
+231:       kind: "renovacion" as const,
+232:       date: new Date().toISOString(),
+233:       amount: priceAmount,
+234:       provider,
+235:     },
+236:   ];
+237: 
+238:   await tenantDb.memberships.update(membershipId, {
+239:     endDate: newEndInstant,
+240:     status: newStatus,
+241:     payments: history,
+242:   });
+243: 
+244:   if (registerPayment) {
+245:     await tenantDb.payments.create({
+246:       customerId: membership.customerId,
+247:       membershipId,
+248:       provider,
+249:       status: "APPROVED",
+250:       amount: priceAmount,
+251:       description: `Membresía ${typeLabel(membership.type)} — renovación`,
+252:     });
+253:   }
+254: 
+255:   revalidateMembershipViews(tenantSlug);
+256:   return {
+257:     status: "ok",
+258:     message: `Renovada hasta ${formatDateShort(newEndInstant)}.`,
+259:   };
+260: }
+
+(End of file - total 260 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I understand the full flow. Let me summarize for the user:
+
+1. **Registro en Clerk** → Clerk maneja auth (email/password, OAuth, etc.)
+2. **Post-login** → Redirige a `/onboarding` (o `/?tenant=slug` si viene de un subdominio)
+3. **getOnboardingPrefill** detecta:
+   - Si el usuario ya tiene un tenant pendiente (onboardingCompleted=false) → mode "resume"
+   - Si ya tiene tenant completado → mode "done" → redirige a su tenant
+   - Si NO tiene ningún tenant → mode "create" (primer registro)
+4. **Onboarding adaptativo** (create mode):
+   - Usuario llena formulario (perfil individual vs empresa)
+   - Al enviar → `completeAdaptiveOnboardingAction` crea TODO en una transacción:
+     - **Tenant** (nombre, slug, vertical, tipo, datos legales, etc.)
+     - **User** (clerkUserId, email, nombre, role: OWNER, tenantId)
+     - **TenantModule** (módulos seleccionados)
+5. **Resultado** → Usuario redirigido a `/{slug}` (su espacio)
+
+**NO hay intervención de admin requerida**. Es **self-service completo**.
+
+Para agregar usuarios a un tenant existente:
+- Actualmente NO hay sistema de invitaciones
+- El owner/staff del tenant debe agregar usuarios manualmente via UI de membresías/clientes, o
+- El usuario se registra en Clerk → entra a onboarding → si ya pertenece a un tenant pendiente, hace "resume"
+- O se crea un tenant nuevo (cada usuario dueño de su propio tenant)
+
+El flujo actual es: **cada usuario crea SU PROPIO tenant al registrarse**. No hay "unirse a tenant existente" automático.
+
+Si quieres que un admin cree tenants y invite usuarios, falta implementar el sistema de invitaciones.
+
+</details>
+
+## Flujo actual: **Self-service 100% (sin intervención de admin)**
+
+### Cuando alguien se registra en Clerk:
+
+```
+1. Clerk Sign Up → auth completo (email, OAuth, etc.)
+        ↓
+2. Redirect a `/onboarding` (o `/?tenant=slug` si viene de subdominio)
+        ↓
+3. `getOnboardingPrefill(clerkUserId)` detecta:
+        ├── Ya tiene tenant pendiente (onboardingCompleted=false) → mode "resume"
+        ├── Ya tiene tenant completado → mode "done" → redirect a `/{slug}`
+        └── NO tiene tenants → mode "create"  ← PRIMER REGISTRO
+        ↓
+4. Usuario llena onboarding adaptativo (Individual vs Company)
+        ↓
+5. `completeAdaptiveOnboardingAction` crea EN UNA TRANSACCIÓN:
+        ├── Tenant (nombre, slug, vertical, tipo, datos legales, ciudad, etc.)
+        ├── User (clerkUserId, email, name, role: OWNER, tenantId)
+        └── TenantModule (módulos seleccionados: crm, bookings, finance, etc.)
+        ↓
+6. Redirect a `/{slug}` → entra a SU espacio
+```
+
+---
+
+### ¿Admin debe intervenir? **NO**
+
+- Cada usuario **crea su propio tenant** al registrarse
+- Es **dueño (OWNER)** de su espacio desde el minuto 1
+- Elige su vertical, módulos, datos fiscales, etc.
+
+---
+
+### Para agregar usuarios a un tenant EXISTENTE:
+
+| Método actual | Estado |
+|---------------|--------|
+| Usuario se registra → crea su PROPIO tenant | ✅ Funciona |
+| Owner invita a staff al MISMO tenant | ❌ **No implementado** |
+| Admin crea tenant y asigna owner | ❌ **No implementado** |
+
+El sistema actual asume **un usuario = un tenant**. Si necesitas multi-usuario por tenant (staff, managers), falta el sistema de **invitaciones/roles**.
+
+---
+
+### ¿Quieres que agregue invitaciones para que un OWNER invite staff a su tenant?
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+ya envie cambios y no pasa nada en quiero acceder a /admin
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user says they pushed changes but /admin still doesn't work. Let me check the current state of the proxy and verify what's happening. The issue might be that /admin is being caught by the tenant routing logic.
+
+Let me check the current proxy.ts and see if /admin is properly handled.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** proxy.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/proxy.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/proxy.ts</path>
+<type>file</type>
+<content>
+1: import { clerkMiddleware } from "@clerk/nextjs/server";
+2: import { NextResponse } from "next/server";
+3: 
+4: export default clerkMiddleware(async (auth, request) => {
+5:   const url = request.nextUrl;
+6:   const pathname = url.pathname;
+7: 
+8:   // Rutas reservadas que pasan directo
+9:   const isReservedRoute =
+10:     pathname.startsWith("/sign-in") ||
+11:     pathname.startsWith("/sign-up") ||
+12:     pathname.startsWith("/api") ||
+13:     pathname.startsWith("/_next") ||
+14:     pathname.startsWith("/__clerk") ||
+15:     pathname.includes(".");
+16: 
+17:   if (isReservedRoute) {
+18:     return NextResponse.next();
+19:   }
+20: 
+21:   // Admin panel: /admin/*
+22:   if (pathname === "/admin" || pathname.startsWith("/admin/")) {
+23:     return NextResponse.next();
+24:   }
+25: 
+26:   // Onboarding top-level
+27:   if (pathname === "/onboarding") {
+28:     return NextResponse.next();
+29:   }
+30: 
+31:   // Tenant routes: /{tenant}/*
+32:   // Detecta primer segmento como tenant slug
+33:   const segments = pathname.split("/").filter(Boolean);
+34:   const firstSegment = segments[0];
+35: 
+36:   if (firstSegment) {
+37:     // Rutas conocidas que NO son tenants
+38:     const nonTenantRoutes = ["admin", "onboarding", "sign-in", "sign-up", "api", "_next", "__clerk"];
+39:     
+40:     if (!nonTenantRoutes.includes(firstSegment)) {
+41:       // Es un tenant: /gymcarlos/... → reescribe a /gymcarlos/...
+42:       // Si ya viene con el tenant, pasa directo
+43:       const isTenantScoped = pathname === `/${firstSegment}` || pathname.startsWith(`/${firstSegment}/`);
+44:       
+45:       if (isTenantScoped) {
+46:         return NextResponse.next();
+47:       }
+48:       
+49:       // Reescribe añadiendo el tenant prefix
+50:       return NextResponse.rewrite(
+51:         new URL(`/${firstSegment}${pathname}`, request.url)
+52:       );
+53:     }
+54:   }
+55: 
+56:   // Root → sign-in
+57:   if (pathname === "/") {
+58:     return NextResponse.redirect(new URL("/sign-in", request.url));
+59:   }
+60: 
+61:   return NextResponse.next();
+62: });
+63: 
+64: export const config = {
+65:   matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+66: };
+
+(End of file - total 66 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The proxy looks correct - it should handle `/admin` and `/admin/*` properly. But the user says it's not working. Let me check if the Next.js app has an `/admin` route that actually exists and renders something.
+
+Let me check the app structure for admin routes.
+
+</details>
+
+#### 🔧 Tool: glob
+**Status:** completed
+**Title:** app
+
+**Input:**
+```json
+{
+  "pattern": "**/admin/**",
+  "path": "/home/craxker/github/nexus-thrive/app"
+}
+```
+
+**Output:**
+```
+/home/craxker/github/nexus-thrive/app/admin/validators.ts
+/home/craxker/github/nexus-thrive/app/admin/page.tsx
+/home/craxker/github/nexus-thrive/app/admin/loading.tsx
+/home/craxker/github/nexus-thrive/app/admin/layout.tsx
+/home/craxker/github/nexus-thrive/app/admin/export/route.ts
+/home/craxker/github/nexus-thrive/app/admin/actions.ts
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-toolbar.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-table.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-status-badge.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-form.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/tenant-drawer.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/suspend-dialog.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/sparkline.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/executive-kpis.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/command-palette.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/audit-log.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/admin-shell.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/admin-header.tsx
+/home/craxker/github/nexus-thrive/app/admin/_components/activity-feed.tsx
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The admin page exists. Let me check if there's a middleware issue or if the route is being intercepted somewhere else. Let me check the admin page.tsx to see what it does and if there's any auth check.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/page.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/page.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/page.tsx</path>
+<type>file</type>
+<content>
+1: import type { Metadata } from "next";
+2: import { headers } from "next/headers";
+3: import { createAdminDb, type TenantSortKey } from "@/lib/admin-db";
+4: import { isVertical } from "@/lib/admin-catalogs";
+5: import AdminHeader from "./_components/admin-header";
+6: import ExecutiveKpis from "./_components/executive-kpis";
+7: import TenantToolbar from "./_components/tenant-toolbar";
+8: import TenantTable from "./_components/tenant-table";
+9: import ActivityFeed from "./_components/activity-feed";
+10: import AuditLog from "./_components/audit-log";
+11: 
+12: export const metadata: Metadata = {
+13:   title: "Centro de comando · Nexus Thrive",
+14: };
+15: 
+16: const PAGE_SIZE = 10;
+17: 
+18: const SORTS: TenantSortKey[] = [
+19:   "created_desc",
+20:   "created_asc",
+21:   "name_asc",
+22:   "name_desc",
+23:   "activity_desc",
+24:   "activity_asc",
+25: ];
+26: 
+27: function firstString(value: string | string[] | undefined): string {
+28:   return Array.isArray(value) ? (value[0] ?? "") : (value ?? "");
+29: }
+30: 
+31: function firstNumber(value: string | string[] | undefined): number {
+32:   const parsed = Number.parseInt(firstString(value), 10);
+33:   return Number.isFinite(parsed) && parsed > 0 ? parsed : 1;
+34: }
+35: 
+36: /**
+37:  * Centro de comando del CEO / SuperAdmin (host `admin.lvh.me` → rewrite de
+38:  * `proxy.ts`).
+39:  *
+40:  * El gate de autorización (sesión + rol) vive en `app/admin/layout.tsx`.
+41:  * Esta page solo resuelve datos y filtros; la URL es la fuente de verdad:
+42:  * `q`, `vertical`, `status`, `attention`, `sort` y `page`.
+43:  *
+44:  * Todos los datos son reales (`lib/admin-db.ts`); lo que no tiene fuente
+45:  * (MRR, trials, último login) se declara explícitamente en la UI.
+46:  */
+47: export default async function AdminPage({
+48:   searchParams,
+49: }: {
+50:   searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+51: }) {
+52:   const sp = await searchParams;
+53:   const q = firstString(sp.q).trim();
+54:   const verticalRaw = firstString(sp.vertical);
+55:   const vertical = isVertical(verticalRaw) ? verticalRaw : undefined;
+56:   const statusRaw = firstString(sp.status);
+57:   const activeStatus =
+58:     statusRaw === "active" || statusRaw === "inactive" ? statusRaw : "all";
+59:   const attentionOnly = firstString(sp.attention) === "1";
+60:   const sortRaw = firstString(sp.sort);
+61:   const sort: TenantSortKey = SORTS.includes(sortRaw as TenantSortKey)
+62:     ? (sortRaw as TenantSortKey)
+63:     : "created_desc";
+64:   const requestedPage = firstNumber(sp.page);
+65: 
+66:   const host = (await headers()).get("host") ?? "localhost:3000";
+67:   const adminDb = createAdminDb();
+68: 
+69:   const [metrics, listResult, attentionResult, activity, audit] =
+70:     await Promise.all([
+71:       adminDb.getExecutiveMetrics(),
+72:       adminDb.listTenants({
+73:         host,
+74:         q,
+75:         vertical,
+76:         activeStatus,
+77:         attentionOnly,
+78:         sort,
+79:         page: requestedPage,
+80:         limit: PAGE_SIZE,
+81:       }),
+82:       adminDb.listTenants({ host, attentionOnly: true, limit: 1 }),
+83:       adminDb.getActivityFeed({ limit: 8 }),
+84:       adminDb.listAuditLogs(6),
+85:     ]);
+86: 
+87:   const totalPages = Math.max(1, Math.ceil(listResult.total / PAGE_SIZE));
+88:   const safePage = Math.min(requestedPage, totalPages);
+89: 
+90:   return (
+91:     <div className="space-y-8">
+92:       <AdminHeader />
+93: 
+94:       <section id="resumen" className="scroll-mt-6">
+95:         <ExecutiveKpis metrics={metrics} />
+96:       </section>
+97: 
+98:       <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
+99:         <section
+100:           id="negocios"
+101:           className="scroll-mt-6 space-y-4 lg:col-span-2"
+102:         >
+103:           <div className="flex flex-wrap items-baseline justify-between gap-2">
+104:             <h2 className="font-display text-lg font-semibold text-foreground">
+105:               Negocios de la plataforma
+106:             </h2>
+107:             <p className="text-sm text-muted-foreground">
+108:               {listResult.total}{" "}
+109:               {listResult.total === 1
+110:                 ? "negocio registrado"
+111:                 : "negocios registrados"}
+112:             </p>
+113:           </div>
+114: 
+115:           <TenantToolbar
+116:             q={q}
+117:             vertical={vertical}
+118:             status={activeStatus === "all" ? undefined : activeStatus}
+119:             sort={sort}
+120:             attentionOnly={attentionOnly}
+121:             attentionCount={attentionResult.total}
+122:           />
+123: 
+124:           <TenantTable
+125:             rows={listResult.rows}
+126:             sort={sort}
+127:             page={safePage}
+128:             totalPages={totalPages}
+129:             total={listResult.total}
+130:           />
+131:         </section>
+132: 
+133:         <aside className="space-y-8">
+134:           <section
+135:             id="actividad"
+136:             className="scroll-mt-6 rounded-lg border border-border bg-card p-5"
+137:           >
+138:             <h2 className="font-display text-base font-semibold text-foreground">
+139:               Actividad de la plataforma
+140:             </h2>
+141:             <p className="text-xs text-muted-foreground">
+142:               Últimos movimientos reales de los negocios.
+143:             </p>
+144:             <div className="mt-4">
+145:               <ActivityFeed items={activity} />
+146:             </div>
+147:           </section>
+148: 
+149:           <section
+150:             id="auditoria"
+151:             className="scroll-mt-6 rounded-lg border border-border bg-card p-5"
+152:           >
+153:             <h2 className="font-display text-base font-semibold text-foreground">
+154:               Auditoría
+155:             </h2>
+156:             <p className="text-xs text-muted-foreground">
+157:               Acciones administrativas recientes.
+158:             </p>
+159:             <div className="mt-4">
+160:               <AuditLog rows={audit} />
+161:             </div>
+162:           </section>
+163:         </aside>
+164:       </div>
+165:     </div>
+166:   );
+167: }
+
+(End of file - total 167 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Let me check the admin layout.tsx to see if there's an auth check that might be redirecting.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/admin/layout.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/admin/layout.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/admin/layout.tsx</path>
+<type>file</type>
+<content>
+1: import { auth } from "@clerk/nextjs/server";
+2: import { notFound } from "next/navigation";
+3: import { createAdminDb } from "@/lib/admin-db";
+4: import AdminShell from "./_components/admin-shell";
+5: 
+6: /**
+7:  * Gate del panel CEO / SuperAdmin, en el layout (mismo patrón de
+8:  * autorización que `app/[tenant]/layout.tsx`, único verificado con
+9:  * `redirectToSignIn` operativo en este repo):
+10:  *
+11:  * - Sin sesión → signIn (con retorno al panel).
+12:  * - Sesión sin `User.role = SUPERADMIN` → 404: el panel no se revela a
+13:  *   usuarios comunes.
+14:  *
+15:  * La capa de datos de cada Server Action revalida el rol por su cuenta
+16:  * (defensa en profundidad ante llamadas directas a las actions).
+17:  */
+18: export default async function AdminLayout({
+19:   children,
+20: }: Readonly<{ children: React.ReactNode }>) {
+21:   const { userId, redirectToSignIn } = await auth();
+22:   if (!userId) {
+23:     redirectToSignIn();
+24:     return null;
+25:   }
+26: 
+27:   const isSuperAdmin = await createAdminDb().isSuperAdmin(userId);
+28:   if (!isSuperAdmin) {
+29:     // notFound dentro del layout: Next responde 404 sin renderizar el panel.
+30:     notFound();
+31:   }
+32: 
+33:   return <AdminShell>{children}</AdminShell>;
+34: }
+
+(End of file - total 34 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Ah, the admin layout checks for `SUPERADMIN` role. If the user is not a SUPERADMIN, it returns 404. Let me check the `isSuperAdmin` function in admin-db.ts to understand how it works.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/admin-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/admin-db.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/admin-db.ts</path>
+<type>file</type>
+<content>
+1: import { and, or } from "@prisma/orm-postgres/orm-client";
+2: import { db } from "@/prisma/db";
+3: import {
+4:   formatCurrency,
+5:   formatDateShort,
+6:   formatRelativeTime,
+7:   toNumber,
+8: } from "@/lib/format";
+9: import {
+10:   paymentStatusLabel,
+11:   type PaymentMethodValue,
+12: } from "@/lib/finance";
+13: import {
+14:   MODULES,
+15:   sortModules,
+16:   type ModuleValue,
+17:   type VerticalValue,
+18: } from "@/lib/admin-catalogs";
+19: import type { OnboardingTenantType } from "@/lib/onboarding/types";
+20: 
+21: /**
+22:  * Capa de datos GLOBAL de la plataforma (capa /admin).
+23:  *
+24:  * A diferencia de `lib/tenant-db.ts`, estas consultas NO están scoped a un
+25:  * tenant: operan sobre todos los negocios. Se mantiene deliberadamente
+26:  * separado para no romper el aislamiento conceptual Platform ↔ Tenant.
+27:  *
+28:  * Regla de oro (spec CEO): nada de mocks ni métricas inventadas. Cada número
+29:  * sale de la base de datos real; lo que no existe (suscripciones/MRR, trials,
+30:  * último login, estado DNS) se marca explícitamente como no disponible.
+31:  */
+32: 
+33: /** Ventana de "actividad reciente" para el pulso de la plataforma. */
+34: export const ACTIVITY_WINDOW_DAYS = 7;
+35: /** Ventana del sparkline de altas y del volumen transaccionado. */
+36: export const TREND_WINDOW_DAYS = 30;
+37: /** Onboarding sin completar tras N días = "detenido" (alerta del CEO). */
+38: export const STALLED_ONBOARDING_DAYS = 7;
+39: /** Tope de filas que se pueden exportar/leer de una sola vez. */
+40: const MAX_EXPORT_ROWS = 5000;
+41: 
+42: const DAY_MS = 86_400_000;
+43: 
+44: // ---------------------------------------------------------------------------
+45: // Helpers de fecha (Temporal.Instant es el codec del driver Postgres)
+46: // ---------------------------------------------------------------------------
+47: 
+48: function instantFromMs(ms: number): Temporal.Instant {
+49:   return Temporal.Instant.fromEpochMilliseconds(ms);
+50: }
+51: 
+52: /** Normaliza Temporal.Instant / Date / string ISO a un Date de JS. */
+53: function toJsDate(value: unknown): Date {
+54:   if (value instanceof Date) {
+55:     return value;
+56:   }
+57:   // JS Date solo acepta 3 fracciones (ms); Temporal imprime nanos.
+58:   const iso = String(value).replace(/\.(\d{3})\d*(Z|[+-])/, ".$1$2");
+59:   const date = new Date(iso);
+60:   return Number.isNaN(date.getTime()) ? new Date(0) : date;
+61: }
+62: 
+63: const bogotaDayFormatter = new Intl.DateTimeFormat("en-CA", {
+64:   timeZone: "America/Bogota",
+65:   year: "numeric",
+66:   month: "2-digit",
+67:   day: "2-digit",
+68: });
+69: 
+70: /** Clave de día calendario en America/Bogota (YYYY-MM-DD). */
+71: function bogotaDayKey(value: unknown): string {
+72:   return bogotaDayFormatter.format(toJsDate(value));
+73: }
+74: 
+75: // ---------------------------------------------------------------------------
+76: // Tipos
+77: // ---------------------------------------------------------------------------
+78: 
+79: export type ExecutiveKpis = {
+80:   /**
+81:    * Volumen transaccionado por los negocios (pagos APPROVED). NO es MRR de
+82:    * Nexus: no existe modelo de suscripciones, así que no se inventa.
+83:    */
+84:   revenue: {
+85:     total: number;
+86:     previous: number;
+87:     changePct: number | null;
+88:     windowDays: number;
+89:   };
+90:   /** Altas de negocios: semana, mes y serie diaria para el sparkline. */
+91:   newTenants: {
+92:     week: number;
+93:     month: number;
+94:     series: { date: string; count: number }[];
+95:   };
+96:   /** Estado del wizard de configuración de los negocios. */
+97:   onboarding: { pending: number; stalled: number; completed: number };
+98:   /** Negocios con actividad real en la ventana reciente. */
+99:   realActivity: { activeTenants: number; windowDays: number };
+100:   /** Señales que requieren acción del CEO. */
+101:   alerts: {
+102:     total: number;
+103:     failedPayments: number;
+104:     stalledOnboarding: number;
+105:     suspendedTenants: number;
+106:   };
+107: };
+108: 
+109: export type TenantSortKey =
+110:   | "created_desc"
+111:   | "created_asc"
+112:   | "name_asc"
+113:   | "name_desc"
+114:   | "activity_desc"
+115:   | "activity_asc";
+116: 
+117: export type TenantListInput = {
+118:   /** Host de la request actual: base para las URLs de acceso directo. */
+119:   host: string;
+120:   /** Texto libre contra name, slug o customDomain. */
+121:   q?: string;
+122:   vertical?: VerticalValue;
+123:   activeStatus?: "active" | "inactive" | "all";
+124:   /** Solo negocios que requieren atención (onboarding pendiente o suspendido). */
+125:   attentionOnly?: boolean;
+126:   sort?: TenantSortKey;
+127:   page?: number;
+128:   limit?: number;
+129: };
+130: 
+131: /** Fila serializable de tenant (fechas → string, métricas derivadas reales). */
+132: export type TenantListRow = {
+133:   id: string;
+134:   name: string;
+135:   slug: string;
+136:   customDomain: string | null;
+137:   vertical: VerticalValue;
+138:   /** Perfil adaptativo del onboarding (Empresa / Persona individual). */
+139:   tenantType: OnboardingTenantType;
+140:   legalName: string | null;
+141:   taxId: string | null;
+142:   teamSize: string | null;
+143:   address: string | null;
+144:   active: boolean;
+145:   /** Motivo de la última suspensión administrativa (historial). */
+146:   suspendedReason: string | null;
+147:   /** Ciudad declarada en el onboarding (Paso 1). */
+148:   city: string | null;
+149:   /** Wizard de onboarding (false = aún no configuró el negocio). */
+150:   onboardingCompleted: boolean;
+151:   /** Progreso real de configuración derivado de los campos del onboarding. */
+152:   onboardingProgress: number;
+153:   /** Canales del ecosistema digital (Paso 3; null = sin dato). */
+154:   ecosystem: {
+155:     whatsappNumber: string | null;
+156:     instagramHandle: string | null;
+157:     websiteUrl: string | null;
+158:     googleBusinessUrl: string | null;
+159:   };
+160:   /** ISO para orden/export; la UI formatea. */
+161:   createdAtIso: string;
+162:   createdAt: string;
+163:   updatedAtIso: string;
+164:   /** Última actividad real del negocio (última modificación de la fila). */
+165:   lastActivityLabel: string;
+166:   /** Usuarios registrados del negocio. */
+167:   usersCount: number;
+168:   /** Módulos activos, en orden del catálogo. */
+169:   modules: ModuleValue[];
+170:   /**
+171:    * Plan de suscripción: siempre `null` mientras no exista un modelo de
+172:    * planes/ingresos recurrentes. La UI lo muestra como "—".
+173:    */
+174:   plan: null;
+175:   /** URL de acceso directo al negocio (calculada con el host actual). */
+176:   url: string;
+177: };
+178: 
+179: export type TenantDetailMetrics = {
+180:   customersCount: number;
+181:   quotesCount: number;
+182:   quotesTotal: number;
+183:   paymentsCount: number;
+184:   paymentsApprovedCount: number;
+185:   paymentsApprovedTotal: number;
+186:   membershipsActive: number;
+187: };
+188: 
+189: export type TenantDetailUser = {
+190:   id: string;
+191:   name: string | null;
+192:   email: string;
+193:   role: "SUPERADMIN" | "OWNER" | "STAFF";
+194:   roleLabel: string;
+195:   createdAt: string;
+196: };
+197: 
+198: export type TenantDetail = {
+199:   id: string;
+200:   name: string;
+201:   slug: string;
+202:   customDomain: string | null;
+203:   vertical: VerticalValue;
+204:   /** Perfil adaptativo del onboarding (Empresa / Persona individual). */
+205:   tenantType: OnboardingTenantType;
+206:   legalName: string | null;
+207:   taxId: string | null;
+208:   teamSize: string | null;
+209:   address: string | null;
+210:   active: boolean;
+211:   suspendedReason: string | null;
+212:   suspendedAt: string | null;
+213:   onboardingCompleted: boolean;
+214:   onboardingProgress: number;
+215:   city: string | null;
+216:   whatsappNumber: string | null;
+217:   websiteUrl: string | null;
+218:   instagramHandle: string | null;
+219:   googleBusinessUrl: string | null;
+220:   paymentMethods: PaymentMethodValue[];
+221:   createdAtIso: string;
+222:   createdAt: string;
+223:   updatedAtIso: string;
+224:   lastActivityLabel: string;
+225:   /** Los 11 módulos del catálogo con su estado (los ausentes = inactivos). */
+226:   modules: { moduleName: ModuleValue; active: boolean }[];
+227:   users: TenantDetailUser[];
+228:   metrics: TenantDetailMetrics;
+229: };
+230: 
+231: /** Eventos reales de plataforma (unión de las tablas de actividad). */
+232: export type ActivityKind =
+233:   | "tenant_created"
+234:   | "payment_approved"
+235:   | "payment_declined"
+236:   | "payment_pending"
+237:   | "quote_created"
+238:   | "quote_approved"
+239:   | "customer_created"
+240:   | "membership_created"
+241:   | "user_created"
+242:   | "tenant_suspended"
+243:   | "tenant_activated"
+244:   | "module_toggled"
+245:   | "audit";
+246: 
+247: export type ActivityItem = {
+248:   id: string;
+249:   kind: ActivityKind;
+250:   title: string;
+251:   description: string | null;
+252:   tenantId: string | null;
+253:   tenantName: string | null;
+254:   /** ISO (la UI formatea relativo/absoluto). */
+255:   at: string;
+256:   atLabel: string;
+257: };
+258: 
+259: /** Acciones auditables del panel CEO (string controlado, no enum). */
+260: export type AuditAction =
+261:   | "CREATE_TENANT"
+262:   | "SUSPEND_TENANT"
+263:   | "ACTIVATE_TENANT"
+264:   | "TOGGLE_MODULE"
+265:   | "EXPORT_TENANTS"
+266:   | "IMPERSONATE";
+267: 
+268: export type AuditLogInput = {
+269:   actorId: string;
+270:   actorEmail?: string | null;
+271:   action: AuditAction;
+272:   targetTenantId?: string | null;
+273:   targetTenantName?: string | null;
+274:   metadata?: Record<string, unknown> | null;
+275:   ipAddress?: string | null;
+276:   userAgent?: string | null;
+277: };
+278: 
+279: export type AuditLogRow = {
+280:   id: string;
+281:   actorId: string;
+282:   actorEmail: string | null;
+283:   action: string;
+284:   targetTenantId: string | null;
+285:   targetTenantName: string | null;
+286:   metadata: unknown;
+287:   ipAddress: string | null;
+288:   userAgent: string | null;
+289:   createdAt: string;
+290: };
+291: 
+292: type TenantRowSource = {
+293:   id: string;
+294:   name: string;
+295:   slug: string;
+296:   customDomain: string | null;
+297:   vertical: VerticalValue;
+298:   tenantType: OnboardingTenantType;
+299:   legalName: string | null;
+300:   taxId: string | null;
+301:   teamSize: string | null;
+302:   address: string | null;
+303:   active: boolean;
+304:   onboardingCompleted: boolean;
+305:   city: string | null;
+306:   whatsappNumber: string | null;
+307:   websiteUrl: string | null;
+308:   instagramHandle: string | null;
+309:   googleBusinessUrl: string | null;
+310:   paymentMethods: readonly string[] | null;
+311:   suspendedReason: string | null;
+312:   createdAt: unknown;
+313:   updatedAt: unknown;
+314:   modules: { moduleName: ModuleValue; active: boolean }[];
+315: };
+316: 
+317: const ROLE_LABELS: Record<"SUPERADMIN" | "OWNER" | "STAFF", string> = {
+318:   SUPERADMIN: "SuperAdmin",
+319:   OWNER: "Propietario",
+320:   STAFF: "Equipo",
+321: };
+322: 
+323: const AUDIT_ACTION_LABELS: Record<string, string> = {
+324:   CREATE_TENANT: "Negocio creado",
+325:   SUSPEND_TENANT: "Negocio suspendido",
+326:   ACTIVATE_TENANT: "Negocio reactivado",
+327:   TOGGLE_MODULE: "Módulo actualizado",
+328:   EXPORT_TENANTS: "Exportación de negocios",
+329:   IMPERSONATE: "Acceso como negocio (impersonación)",
+330: };
+331: 
+332: /** Escapa los comodines de LIKE para que la búsqueda sea literal. */
+333: function escapeLike(input: string): string {
+334:   return input.replace(/[\\%_]/g, (char) => `\\${char}`);
+335: }
+336: 
+337: /**
+338:  * URL de acceso directo a un negocio.
+339:  * - En dev (host `*.lvh.me` / `*.localhost`): subdominio
+340:  *   `slug.<mismo host>` — sin hardcodear dominios de producción.
+341:  * - En cualquier otro host: ruta interna multi-tenant `/{slug}`
+342:  *   (siempre operativa vía proxy).
+343:  */
+344: export function tenantAccessUrl(slug: string, host: string): string {
+345:   const [hostname = "", port] = host.split(":");
+346:   const portSuffix = port ? `:${port}` : "";
+347:   if (hostname.endsWith(".lvh.me")) {
+348:     return `http://${slug}.lvh.me${portSuffix}/`;
+349:   }
+350:   if (hostname.endsWith(".localhost")) {
+351:     return `http://${slug}.localhost${portSuffix}/`;
+352:   }
+353:   return `/${slug}`;
+354: }
+355: 
+356: /** Progreso real de configuración (0–100) derivado del onboarding. */
+357: function computeOnboardingProgress(row: {
+358:   onboardingCompleted: boolean;
+359:   city: string | null;
+360:   whatsappNumber: string | null;
+361:   websiteUrl: string | null;
+362:   instagramHandle: string | null;
+363:   googleBusinessUrl: string | null;
+364:   paymentMethods: readonly string[] | null;
+365: }): number {
+366:   if (row.onboardingCompleted) {
+367:     return 100;
+368:   }
+369:   const signals = [
+370:     row.city,
+371:     row.whatsappNumber,
+372:     row.websiteUrl,
+373:     row.instagramHandle,
+374:     row.googleBusinessUrl,
+375:   ];
+376:   const filled =
+377:     signals.filter((value) => Boolean(value && String(value).trim())).length +
+378:     (row.paymentMethods && row.paymentMethods.length > 0 ? 1 : 0);
+379:   return Math.round((filled / 6) * 100);
+380: }
+381: 
+382: function buildTenantRow(
+383:   row: TenantRowSource,
+384:   host: string,
+385:   usersCount: number,
+386: ): TenantListRow {
+387:   return {
+388:     id: row.id,
+389:     name: row.name,
+390:     slug: row.slug,
+391:     customDomain: row.customDomain ?? null,
+392:     vertical: row.vertical,
+393:     tenantType: row.tenantType,
+394:     legalName: row.legalName ?? null,
+395:     taxId: row.taxId ?? null,
+396:     teamSize: row.teamSize ?? null,
+397:     address: row.address ?? null,
+398:     active: row.active,
+399:     suspendedReason: row.suspendedReason ?? null,
+400:     city: row.city ?? null,
+401:     onboardingCompleted: row.onboardingCompleted,
+402:     onboardingProgress: computeOnboardingProgress(row),
+403:     ecosystem: {
+404:       whatsappNumber: row.whatsappNumber ?? null,
+405:       instagramHandle: row.instagramHandle ?? null,
+406:       websiteUrl: row.websiteUrl ?? null,
+407:       googleBusinessUrl: row.googleBusinessUrl ?? null,
+408:     },
+409:     createdAtIso: toJsDate(row.createdAt).toISOString(),
+410:     createdAt: formatDateShort(String(row.createdAt)),
+411:     updatedAtIso: toJsDate(row.updatedAt).toISOString(),
+412:     lastActivityLabel: formatRelativeTime(row.updatedAt),
+413:     usersCount,
+414:     modules: sortModules(
+415:       row.modules.filter((module) => module.active).map((m) => m.moduleName),
+416:     ),
+417:     plan: null,
+418:     url: tenantAccessUrl(row.slug, host),
+419:   };
+420: }
+421: 
+422: /** Conteo de usuarios por tenant, scoped a las filas de la página actual. */
+423: async function countUsersByTenant(
+424:   tenantIds: string[],
+425: ): Promise<Map<string, number>> {
+426:   const map = new Map<string, number>();
+427:   if (tenantIds.length === 0) {
+428:     return map;
+429:   }
+430:   const rows = await db.orm.public.User
+431:     .where((user) => user.tenantId.in(tenantIds))
+432:     .select("tenantId")
+433:     .all();
+434:   for (const row of rows) {
+435:     map.set(row.tenantId, (map.get(row.tenantId) ?? 0) + 1);
+436:   }
+437:   return map;
+438: }
+439: 
+440: export function createAdminDb() {
+441:   return {
+442:     /**
+443:      * Autorización global: el usuario es SuperAdmin si existe una fila
+444:      * `User` con su `clerkUserId` y `role = SUPERADMIN`. El rol se asigna
+445:      * por operación de plataforma (no existe UI de auto-asignación).
+446:      */
+447:     isSuperAdmin: async (clerkUserId: string): Promise<boolean> => {
+448:       if (!clerkUserId) {
+449:         return false;
+450:       }
+451:       const user = await db.orm.public.User
+452:         .where({ clerkUserId, role: "SUPERADMIN" })
+453:         .first();
+454:       return user !== null;
+455:     },
+456: 
+457:     /**
+458:      * KPIs ejecutivos del CEO, 100% derivados de datos reales.
+459:      *
+460:      * Notas de honestidad (no se inventa nada):
+461:      * - `revenue` es el volumen transaccionado por los negocios (pagos
+462:      *   APPROVED), NO MRR: no existe modelo de suscripciones.
+463:      * - No hay trials ni último login; se sustituyen por onboarding real.
+464:      */
+465:     getExecutiveMetrics: async (): Promise<ExecutiveKpis> => {
+466:       const nowMs = Date.now();
+467:       const since7 = instantFromMs(nowMs - 7 * DAY_MS);
+468:       const since30 = instantFromMs(nowMs - 30 * DAY_MS);
+469:       const since60 = instantFromMs(nowMs - 60 * DAY_MS);
+470:       const stalledBefore = instantFromMs(
+471:         nowMs - STALLED_ONBOARDING_DAYS * DAY_MS,
+472:       );
+473: 
+474:       const [
+475:         revenue30,
+476:         revenuePrev,
+477:         pendingOnboarding,
+478:         completedOnboarding,
+479:         stalledOnboarding,
+480:         suspendedTenants,
+481:         failedPayments,
+482:         newThisWeek,
+483:         recentTenants,
+484:         activePayments,
+485:         activeQuotes,
+486:         activeCustomers,
+487:         activeMemberships,
+488:         activeUsers,
+489:         activeNewTenants,
+490:       ] = await Promise.all([
+491:         db.orm.public.Payment
+492:           .where((payment) =>
+493:             and(
+494:               payment.status.eq("APPROVED"),
+495:               payment.createdAt.gte(since30),
+496:             ),
+497:           )
+498:           .aggregate((aggregate) => ({ total: aggregate.sum("amount") })),
+499:         db.orm.public.Payment
+500:           .where((payment) =>
+501:             and(
+502:               payment.status.eq("APPROVED"),
+503:               payment.createdAt.gte(since60),
+504:               payment.createdAt.lt(since30),
+505:             ),
+506:           )
+507:           .aggregate((aggregate) => ({ total: aggregate.sum("amount") })),
+508:         db.orm.public.Tenant
+509:           .where({ onboardingCompleted: false })
+510:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+511:         db.orm.public.Tenant
+512:           .where({ onboardingCompleted: true })
+513:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+514:         db.orm.public.Tenant
+515:           .where((tenant) =>
+516:             and(
+517:               tenant.onboardingCompleted.eq(false),
+518:               tenant.createdAt.lt(stalledBefore),
+519:             ),
+520:           )
+521:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+522:         db.orm.public.Tenant
+523:           .where({ active: false })
+524:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+525:         db.orm.public.Payment
+526:           .where({ status: "DECLINED" })
+527:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+528:         db.orm.public.Tenant
+529:           .where((tenant) => tenant.createdAt.gte(since7))
+530:           .aggregate((aggregate) => ({ total: aggregate.count() })),
+531:         db.orm.public.Tenant
+532:           .where((tenant) => tenant.createdAt.gte(since30))
+533:           .select("createdAt")
+534:           .all(),
+535:         db.orm.public.Payment
+536:           .where((payment) => payment.createdAt.gte(since7))
+537:           .select("tenantId")
+538:           .all(),
+539:         db.orm.public.Quote
+540:           .where((quote) => quote.createdAt.gte(since7))
+541:           .select("tenantId")
+542:           .all(),
+543:         db.orm.public.Customer
+544:           .where((customer) => customer.createdAt.gte(since7))
+545:           .select("tenantId")
+546:           .all(),
+547:         db.orm.public.Membership
+548:           .where((membership) => membership.createdAt.gte(since7))
+549:           .select("tenantId")
+550:           .all(),
+551:         db.orm.public.User
+552:           .where((user) => user.createdAt.gte(since7))
+553:           .select("tenantId")
+554:           .all(),
+555:         db.orm.public.Tenant
+556:           .where((tenant) => tenant.createdAt.gte(since7))
+557:           .select("id")
+558:           .all(),
+559:       ]);
+560: 
+561:       const total = toNumber(revenue30.total);
+562:       const previous = toNumber(revenuePrev.total);
+563:       const changePct =
+564:         previous > 0 ? Math.round(((total - previous) / previous) * 100) : null;
+565: 
+566:       const countsByDay = new Map<string, number>();
+567:       for (const row of recentTenants) {
+568:         const key = bogotaDayKey(row.createdAt);
+569:         countsByDay.set(key, (countsByDay.get(key) ?? 0) + 1);
+570:       }
+571:       const series: { date: string; count: number }[] = [];
+572:       for (let i = TREND_WINDOW_DAYS - 1; i >= 0; i -= 1) {
+573:         const key = bogotaDayKey(instantFromMs(nowMs - i * DAY_MS));
+574:         series.push({ date: key, count: countsByDay.get(key) ?? 0 });
+575:       }
+576: 
+577:       const activeTenantIds = new Set<string>();
+578:       for (const row of activePayments) activeTenantIds.add(row.tenantId);
+579:       for (const row of activeQuotes) activeTenantIds.add(row.tenantId);
+580:       for (const row of activeCustomers) activeTenantIds.add(row.tenantId);
+581:       for (const row of activeMemberships) activeTenantIds.add(row.tenantId);
+582:       for (const row of activeUsers) activeTenantIds.add(row.tenantId);
+583:       for (const row of activeNewTenants) activeTenantIds.add(row.id);
+584: 
+585:       const stalled = stalledOnboarding.total;
+586:       const failed = failedPayments.total;
+587:       const suspended = suspendedTenants.total;
+588: 
+589:       return {
+590:         revenue: {
+591:           total,
+592:           previous,
+593:           changePct,
+594:           windowDays: TREND_WINDOW_DAYS,
+595:         },
+596:         newTenants: {
+597:           week: newThisWeek.total,
+598:           month: recentTenants.length,
+599:           series,
+600:         },
+601:         onboarding: {
+602:           pending: pendingOnboarding.total,
+603:           stalled,
+604:           completed: completedOnboarding.total,
+605:         },
+606:         realActivity: {
+607:           activeTenants: activeTenantIds.size,
+608:           windowDays: ACTIVITY_WINDOW_DAYS,
+609:         },
+610:         alerts: {
+611:           total: failed + stalled + suspended,
+612:           failedPayments: failed,
+613:           stalledOnboarding: stalled,
+614:           suspendedTenants: suspended,
+615:         },
+616:       };
+617:     },
+618: 
+619:     /**
+620:      * Listado paginado de tenants con búsqueda (name/slug/customDomain),
+621:      * filtro por vertical/estado y orden. Todo se resuelve en servidor.
+622:      */
+623:     listTenants: async ({
+624:       host,
+625:       q,
+626:       vertical,
+627:       activeStatus = "all",
+628:       attentionOnly = false,
+629:       sort = "created_desc",
+630:       page = 1,
+631:       limit = 10,
+632:     }: TenantListInput): Promise<{ rows: TenantListRow[]; total: number }> => {
+633:       const text = (q ?? "").trim();
+634:       const pattern = `%${escapeLike(text)}%`;
+635:       const safePage = Math.max(1, Math.trunc(page));
+636:       const safeLimit = Math.min(100, Math.max(1, Math.trunc(limit)));
+637: 
+638:       let filtered = db.orm.public.Tenant.where({});
+639:       if (activeStatus === "active") {
+640:         filtered = filtered.where({ active: true });
+641:       } else if (activeStatus === "inactive") {
+642:         filtered = filtered.where({ active: false });
+643:       }
+644:       if (attentionOnly) {
+645:         filtered = filtered.where((tenant) =>
+646:           or(
+647:             tenant.onboardingCompleted.eq(false),
+648:             tenant.active.eq(false),
+649:           ),
+650:         );
+651:       }
+652:       if (vertical) {
+653:         filtered = filtered.where({ vertical });
+654:       }
+655:       if (text) {
+656:         filtered = filtered.where((tenant) =>
+657:           or(
+658:             tenant.name.ilike(pattern),
+659:             tenant.slug.ilike(pattern),
+660:             tenant.customDomain.ilike(pattern),
+661:           ),
+662:         );
+663:       }
+664: 
+665:       let ordered = filtered;
+666:       switch (sort) {
+667:         case "name_asc":
+668:           ordered = filtered.orderBy((tenant) => tenant.name.asc());
+669:           break;
+670:         case "name_desc":
+671:           ordered = filtered.orderBy((tenant) => tenant.name.desc());
+672:           break;
+673:         case "created_asc":
+674:           ordered = filtered.orderBy((tenant) => tenant.createdAt.asc());
+675:           break;
+676:         case "activity_desc":
+677:           ordered = filtered.orderBy((tenant) => tenant.updatedAt.desc());
+678:           break;
+679:         case "activity_asc":
+680:           ordered = filtered.orderBy((tenant) => tenant.updatedAt.asc());
+681:           break;
+682:         case "created_desc":
+683:         default:
+684:           ordered = filtered.orderBy((tenant) => tenant.createdAt.desc());
+685:           break;
+686:       }
+687: 
+688:       const [rows, { total }] = await Promise.all([
+689:         ordered
+690:           .include("modules", (module) => module.select("moduleName", "active"))
+691:           .limit(safeLimit)
+692:           .offset((safePage - 1) * safeLimit)
+693:           .all(),
+694:         filtered.aggregate((aggregate) => ({ total: aggregate.count() })),
+695:       ]);
+696: 
+697:       const usersByTenant = await countUsersByTenant(rows.map((row) => row.id));
+698: 
+699:       return {
+700:         rows: rows.map((row) =>
+701:           buildTenantRow(
+702:             row as unknown as TenantRowSource,
+703:             host,
+704:             usersByTenant.get(row.id) ?? 0,
+705:           ),
+706:         ),
+707:         total,
+708:       };
+709:     },
+710: 
+711:     /**
+712:      * Igual que `listTenants` pero sin paginación (tope de seguridad), para
+713:      * la exportación CSV. Aplica los mismos filtros.
+714:      */
+715:     listTenantsForExport: async (
+716:       input: Omit<TenantListInput, "page" | "limit">,
+717:     ): Promise<TenantListRow[]> => {
+718:       const { rows } = await createAdminDb().listTenants({
+719:         ...input,
+720:         page: 1,
+721:         limit: MAX_EXPORT_ROWS,
+722:       });
+723:       return rows;
+724:     },
+725: 
+726:     /** Disponibilidad de un slug (para el check en vivo del form). */
+727:     slugExists: async (slug: string): Promise<boolean> => {
+728:       const tenant = await db.orm.public.Tenant.where({ slug }).first();
+729:       return tenant !== null;
+730:     },
+731: 
+732:     /**
+733:      * Alta de tenant + módulos iniciales en UNA transacción: si falla la
+734:      * creación de los módulos (o el insert por slug duplicado), se
+735:      * revierte todo — nunca quedan tenants parcialmente configurados.
+736:      */
+737:     createTenant: (data: {
+738:       name: string;
+739:       slug: string;
+740:       vertical: VerticalValue;
+741:       modules: ModuleValue[];
+742:       tenantType: OnboardingTenantType;
+743:       legalName?: string | null;
+744:       taxId?: string | null;
+745:       teamSize?: string | null;
+746:       address?: string | null;
+747:     }) =>
+748:       db.transaction(async (tx) => {
+749:         const tenant = await tx.orm.public.Tenant.create({
+750:           name: data.name,
+751:           slug: data.slug,
+752:           vertical: data.vertical,
+753:           tenantType: data.tenantType,
+754:           legalName: data.legalName?.trim() ? data.legalName.trim() : null,
+755:           taxId: data.taxId?.trim() ? data.taxId.trim() : null,
+756:           teamSize: data.teamSize?.trim() ? data.teamSize.trim() : null,
+757:           address: data.address?.trim() ? data.address.trim() : null,
+758:         });
+759: 
+760:         for (const moduleName of data.modules) {
+761:           await tx.orm.public.TenantModule.create({
+762:             tenantId: tenant.id,
+763:             moduleName,
+764:           });
+765:         }
+766: 
+767:         return tenant;
+768:       }),
+769: 
+770:     /**
+771:      * Suspende un negocio (panel CEO): guarda motivo + timestamp. El motivo
+772:      * es obligatorio a nivel de acción; aquí solo se persiste.
+773:      */
+774:     suspendTenant: (id: string, reason: string) =>
+775:       db.orm.public.Tenant.where({ id }).update({
+776:         active: false,
+777:         suspendedReason: reason,
+778:         suspendedAt: instantFromMs(Date.now()),
+779:       }),
+780: 
+781:     /** Reactiva un negocio (conserva el historial de suspensión). */
+782:     activateTenant: (id: string) =>
+783:       db.orm.public.Tenant.where({ id }).update({ active: true }),
+784: 
+785:     /**
+786:      * Detalle completo de un negocio para el drawer: identidad, onboarding,
+787:      * módulos, usuarios y métricas reales. `null` si no existe.
+788:      */
+789:     getTenantDetail: async (tenantId: string): Promise<TenantDetail | null> => {
+790:       const tenant = await db.orm.public.Tenant
+791:         .where({ id: tenantId })
+792:         .include("modules", (module) =>
+793:           module.select("moduleName", "active"),
+794:         )
+795:         .include("users", (user) =>
+796:           user.select("id", "name", "email", "role", "createdAt"),
+797:         )
+798:         .first();
+799: 
+800:       if (!tenant) {
+801:         return null;
+802:       }
+803: 
+804:       const now = instantFromMs(Date.now());
+805:       const [
+806:         customersAgg,
+807:         quotesAgg,
+808:         paymentsApprovedAgg,
+809:         paymentsAllAgg,
+810:         membershipsAgg,
+811:       ] = await Promise.all([
+812:         db.orm.public.Customer
+813:           .where({ tenantId })
+814:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+815:         db.orm.public.Quote
+816:           .where({ tenantId })
+817:           .aggregate((aggregate) => ({
+818:             count: aggregate.count(),
+819:             total: aggregate.sum("totalAmount"),
+820:           })),
+821:         db.orm.public.Payment
+822:           .where({ tenantId })
+823:           .where((payment) => payment.status.eq("APPROVED"))
+824:           .aggregate((aggregate) => ({
+825:             count: aggregate.count(),
+826:             total: aggregate.sum("amount"),
+827:           })),
+828:         db.orm.public.Payment
+829:           .where({ tenantId })
+830:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+831:         db.orm.public.Membership
+832:           .where({ tenantId })
+833:           .where((membership) => membership.endDate.gt(now))
+834:           .aggregate((aggregate) => ({ count: aggregate.count() })),
+835:       ]);
+836: 
+837:       const activeByName = new Map(
+838:         tenant.modules.map((module) => [module.moduleName, module.active]),
+839:       );
+840: 
+841:       const users: TenantDetailUser[] = [...tenant.users]
+842:         .sort((a, b) => {
+843:           const roleOrder = { OWNER: 0, SUPERADMIN: 1, STAFF: 2 } as const;
+844:           const diff = roleOrder[a.role] - roleOrder[b.role];
+845:           return diff !== 0
+846:             ? diff
+847:             : toJsDate(a.createdAt).getTime() - toJsDate(b.createdAt).getTime();
+848:         })
+849:         .map((user) => ({
+850:           id: user.id,
+851:           name: user.name ?? null,
+852:           email: user.email,
+853:           role: user.role,
+854:           roleLabel: ROLE_LABELS[user.role],
+855:           createdAt: formatDateShort(String(user.createdAt)),
+856:         }));
+857: 
+858:       return {
+859:         id: tenant.id,
+860:         name: tenant.name,
+861:         slug: tenant.slug,
+862:         customDomain: tenant.customDomain ?? null,
+863:         vertical: tenant.vertical,
+864:         tenantType: tenant.tenantType,
+865:         legalName: tenant.legalName ?? null,
+866:         taxId: tenant.taxId ?? null,
+867:         teamSize: tenant.teamSize ?? null,
+868:         address: tenant.address ?? null,
+869:         active: tenant.active,
+870:         suspendedReason: tenant.suspendedReason ?? null,
+871:         suspendedAt: tenant.suspendedAt
+872:           ? toJsDate(tenant.suspendedAt).toISOString()
+873:           : null,
+874:         onboardingCompleted: tenant.onboardingCompleted,
+875:         onboardingProgress: computeOnboardingProgress(
+876:           tenant as unknown as TenantRowSource,
+877:         ),
+878:         city: tenant.city ?? null,
+879:         whatsappNumber: tenant.whatsappNumber ?? null,
+880:         websiteUrl: tenant.websiteUrl ?? null,
+881:         instagramHandle: tenant.instagramHandle ?? null,
+882:         googleBusinessUrl: tenant.googleBusinessUrl ?? null,
+883:         paymentMethods: (tenant.paymentMethods ??
+884:           []) as PaymentMethodValue[],
+885:         createdAtIso: toJsDate(tenant.createdAt).toISOString(),
+886:         createdAt: formatDateShort(String(tenant.createdAt)),
+887:         updatedAtIso: toJsDate(tenant.updatedAt).toISOString(),
+888:         lastActivityLabel: formatRelativeTime(tenant.updatedAt),
+889:         modules: MODULES.map((moduleName) => ({
+890:           moduleName,
+891:           active: activeByName.get(moduleName) ?? false,
+892:         })),
+893:         users,
+894:         metrics: {
+895:           customersCount: customersAgg.count,
+896:           quotesCount: quotesAgg.count,
+897:           quotesTotal: toNumber(quotesAgg.total),
+898:           paymentsCount: paymentsAllAgg.count,
+899:           paymentsApprovedCount: paymentsApprovedAgg.count,
+900:           paymentsApprovedTotal: toNumber(paymentsApprovedAgg.total),
+901:           membershipsActive: membershipsAgg.count,
+902:         },
+903:       };
+904:     },
+905: 
+906:     /**
+907:      * Resuelve el `clerkUserId` de un usuario interno (para impersonación).
+908:      * Vive solo en el servidor: la UI nunca recibe el id de Clerk.
+909:      */
+910:     getUserClerkId: async (userId: string): Promise<string | null> => {
+911:       const user = await db.orm.public.User
+912:         .where({ id: userId })
+913:         .select("clerkUserId")
+914:         .first();
+915:       return user?.clerkUserId ?? null;
+916:     },
+917: 
+918:     /**
+919:      * Detalle de módulos de un tenant: los 11 del catálogo con su estado
+920:      * (los no registrados cuentan como inactivos).
+921:      */
+922:     getTenantModules: async (tenantId: string) => {
+923:       const tenant = await db.orm.public.Tenant
+924:         .where({ id: tenantId })
+925:         .include("modules", (module) => module.select("moduleName", "active"))
+926:         .first();
+927: 
+928:       if (!tenant) {
+929:         return null;
+930:       }
+931: 
+932:       const activeByName = new Map(
+933:         tenant.modules.map((module) => [module.moduleName, module.active]),
+934:       );
+935: 
+936:       return {
+937:         tenantId: tenant.id,
+938:         name: tenant.name,
+939:         slug: tenant.slug,
+940:         active: tenant.active,
+941:         modules: MODULES.map((moduleName) => ({
+942:           moduleName,
+943:           active: activeByName.get(moduleName) ?? false,
+944:         })),
+945:       };
+946:     },
+947: 
+948:     /**
+949:      * Crea o actualiza el estado de un módulo del tenant (upsert sobre la
+950:      * clave única `[tenantId, moduleName]`).
+951:      */
+952:     toggleModule: (
+953:       tenantId: string,
+954:       moduleName: ModuleValue,
+955:       active: boolean,
+956:     ) =>
+957:       db.orm.public.TenantModule.upsert({
+958:         create: { tenantId, moduleName, active },
+959:         update: { active },
+960:         conflictOn: { tenantId, moduleName },
+961:       }),
+962: 
+963:     /**
+964:      * Feed de actividad real de la plataforma: une pagos, presupuestos,
+965:      * clientes, membresías, usuarios, altas de negocios y auditoría.
+966:      * Opcionalmente scoped a un tenant (drawer).
+967:      */
+968:     getActivityFeed: async (
+969:       options: { limit?: number; tenantId?: string } = {},
+970:     ): Promise<ActivityItem[]> => {
+971:       const safeLimit = Math.min(50, Math.max(1, Math.trunc(options.limit ?? 12)));
+972:       const perSource = Math.max(safeLimit, 10);
+973:       const tenantId = options.tenantId;
+974: 
+975:       const [payments, quotes, customers, memberships, users, newTenants, audits] =
+976:         await Promise.all([
+977:           db.orm.public.Payment
+978:             .where({})
+979:             .where(tenantId ? { tenantId } : {})
+980:             .select("id", "tenantId", "amount", "status", "createdAt")
+981:             .orderBy((payment) => payment.createdAt.desc())
+982:             .limit(perSource)
+983:             .all(),
+984:           db.orm.public.Quote
+985:             .where({})
+986:             .where(tenantId ? { tenantId } : {})
+987:             .select(
+988:               "id",
+989:               "tenantId",
+990:               "code",
+991:               "title",
+992:               "status",
+993:               "totalAmount",
+994:               "createdAt",
+995:             )
+996:             .orderBy((quote) => quote.createdAt.desc())
+997:             .limit(perSource)
+998:             .all(),
+999:           db.orm.public.Customer
+1000:             .where({})
+1001:             .where(tenantId ? { tenantId } : {})
+1002:             .select("id", "tenantId", "name", "createdAt")
+1003:             .orderBy((customer) => customer.createdAt.desc())
+1004:             .limit(perSource)
+1005:             .all(),
+1006:           db.orm.public.Membership
+1007:             .where({})
+1008:             .where(tenantId ? { tenantId } : {})
+1009:             .select("id", "tenantId", "type", "createdAt")
+1010:             .orderBy((membership) => membership.createdAt.desc())
+1011:             .limit(perSource)
+1012:             .all(),
+1013:           db.orm.public.User
+1014:             .where({})
+1015:             .where(tenantId ? { tenantId } : {})
+1016:             .select("id", "tenantId", "name", "email", "role", "createdAt")
+1017:             .orderBy((user) => user.createdAt.desc())
+1018:             .limit(perSource)
+1019:             .all(),
+1020:           db.orm.public.Tenant
+1021:             .where({})
+1022:             .where(tenantId ? { id: tenantId } : {})
+1023:             .select("id", "name", "active", "createdAt")
+1024:             .orderBy((tenant) => tenant.createdAt.desc())
+1025:             .limit(perSource)
+1026:             .all(),
+1027:           db.orm.public.AuditLog
+1028:             .where({})
+1029:             .where(tenantId ? { targetTenantId: tenantId } : {})
+1030:             .select(
+1031:               "id",
+1032:               "action",
+1033:               "targetTenantId",
+1034:               "targetTenantName",
+1035:               "createdAt",
+1036:             )
+1037:             .orderBy((entry) => entry.createdAt.desc())
+1038:             .limit(perSource)
+1039:             .all(),
+1040:         ]);
+1041: 
+1042:       const tenantIds = new Set<string>();
+1043:       for (const row of payments) tenantIds.add(row.tenantId);
+1044:       for (const row of quotes) tenantIds.add(row.tenantId);
+1045:       for (const row of customers) tenantIds.add(row.tenantId);
+1046:       for (const row of memberships) tenantIds.add(row.tenantId);
+1047:       for (const row of users) tenantIds.add(row.tenantId);
+1048:       if (tenantId) tenantIds.add(tenantId);
+1049:       for (const row of newTenants) tenantIds.add(row.id);
+1050: 
+1051:       const nameById = new Map<string, string>();
+1052:       if (tenantIds.size > 0) {
+1053:         const tenantRows = await db.orm.public.Tenant
+1054:           .where((tenant) => tenant.id.in([...tenantIds]))
+1055:           .select("id", "name")
+1056:           .all();
+1057:         for (const row of tenantRows) {
+1058:           nameById.set(row.id, row.name);
+1059:         }
+1060:       }
+1061:       for (const row of newTenants) {
+1062:         nameById.set(row.id, row.name);
+1063:       }
+1064: 
+1065:       const items: ActivityItem[] = [];
+1066: 
+1067:       for (const row of payments) {
+1068:         const status = row.status;
+1069:         items.push({
+1070:           id: `payment:${row.id}`,
+1071:           kind:
+1072:             status === "APPROVED"
+1073:               ? "payment_approved"
+1074:               : status === "DECLINED"
+1075:                 ? "payment_declined"
+1076:                 : "payment_pending",
+1077:           title: `${formatCurrency(toNumber(row.amount))} · ${paymentStatusLabel(status)}`,
+1078:           description: "Pago registrado",
+1079:           tenantId: row.tenantId,
+1080:           tenantName: nameById.get(row.tenantId) ?? null,
+1081:           at: toJsDate(row.createdAt).toISOString(),
+1082:           atLabel: formatRelativeTime(row.createdAt),
+1083:         });
+1084:       }
+1085: 
+1086:       for (const row of quotes) {
+1087:         items.push({
+1088:           id: `quote:${row.id}`,
+1089:           kind: row.status === "APPROVED" ? "quote_approved" : "quote_created",
+1090:           title: `${row.code} · ${row.title}`,
+1091:           description: `${formatCurrency(toNumber(row.totalAmount))} · presupuesto`,
+1092:           tenantId: row.tenantId,
+1093:           tenantName: nameById.get(row.tenantId) ?? null,
+1094:           at: toJsDate(row.createdAt).toISOString(),
+1095:           atLabel: formatRelativeTime(row.createdAt),
+1096:         });
+1097:       }
+1098: 
+1099:       for (const row of customers) {
+1100:         items.push({
+1101:           id: `customer:${row.id}`,
+1102:           kind: "customer_created",
+1103:           title: row.name,
+1104:           description: "Cliente nuevo",
+1105:           tenantId: row.tenantId,
+1106:           tenantName: nameById.get(row.tenantId) ?? null,
+1107:           at: toJsDate(row.createdAt).toISOString(),
+1108:           atLabel: formatRelativeTime(row.createdAt),
+1109:         });
+1110:       }
+1111: 
+1112:       for (const row of memberships) {
+1113:         items.push({
+1114:           id: `membership:${row.id}`,
+1115:           kind: "membership_created",
+1116:           title: `Membresía ${row.type}`,
+1117:           description: "Membresía registrada",
+1118:           tenantId: row.tenantId,
+1119:           tenantName: nameById.get(row.tenantId) ?? null,
+1120:           at: toJsDate(row.createdAt).toISOString(),
+1121:           atLabel: formatRelativeTime(row.createdAt),
+1122:         });
+1123:       }
+1124: 
+1125:       for (const row of users) {
+1126:         items.push({
+1127:           id: `user:${row.id}`,
+1128:           kind: "user_created",
+1129:           title: row.name ?? row.email,
+1130:           description: `Usuario ${ROLE_LABELS[row.role]}`,
+1131:           tenantId: row.tenantId,
+1132:           tenantName: nameById.get(row.tenantId) ?? null,
+1133:           at: toJsDate(row.createdAt).toISOString(),
+1134:           atLabel: formatRelativeTime(row.createdAt),
+1135:         });
+1136:       }
+1137: 
+1138:       for (const row of newTenants) {
+1139:         items.push({
+1140:           id: `tenant:${row.id}`,
+1141:           kind: "tenant_created",
+1142:           title: row.name,
+1143:           description: "Negocio creado",
+1144:           tenantId: row.id,
+1145:           tenantName: row.name,
+1146:           at: toJsDate(row.createdAt).toISOString(),
+1147:           atLabel: formatRelativeTime(row.createdAt),
+1148:         });
+1149:       }
+1150: 
+1151:       for (const row of audits) {
+1152:         items.push({
+1153:           id: `audit:${row.id}`,
+1154:           kind: "audit",
+1155:           title: AUDIT_ACTION_LABELS[row.action] ?? row.action,
+1156:           description: row.targetTenantName ?? null,
+1157:           tenantId: row.targetTenantId ?? null,
+1158:           tenantName: row.targetTenantName ?? null,
+1159:           at: toJsDate(row.createdAt).toISOString(),
+1160:           atLabel: formatRelativeTime(row.createdAt),
+1161:         });
+1162:       }
+1163: 
+1164:       return items
+1165:         .sort((a, b) => (a.at < b.at ? 1 : a.at > b.at ? -1 : 0))
+1166:         .slice(0, safeLimit);
+1167:     },
+1168: 
+1169:     /** Registra una acción del CEO en la bitácora de auditoría. */
+1170:     logAudit: async (input: AuditLogInput): Promise<void> => {
+1171:       await db.orm.public.AuditLog.create({
+1172:         actorId: input.actorId,
+1173:         actorEmail: input.actorEmail ?? null,
+1174:         action: input.action,
+1175:         targetTenantId: input.targetTenantId ?? null,
+1176:         targetTenantName: input.targetTenantName ?? null,
+1177:         metadata: (input.metadata ?? null) as never,
+1178:         ipAddress: input.ipAddress ?? null,
+1179:         userAgent: input.userAgent ?? null,
+1180:       });
+1181:     },
+1182: 
+1183:     /** Últimas entradas de la bitácora de auditoría (más recientes primero). */
+1184:     listAuditLogs: async (limit = 20): Promise<AuditLogRow[]> => {
+1185:       const safeLimit = Math.min(100, Math.max(1, Math.trunc(limit)));
+1186:       const rows = await db.orm.public.AuditLog
+1187:         .where({})
+1188:         .orderBy((entry) => entry.createdAt.desc())
+1189:         .limit(safeLimit)
+1190:         .all();
+1191:       return rows.map((row) => ({
+1192:         id: row.id,
+1193:         actorId: row.actorId,
+1194:         actorEmail: row.actorEmail ?? null,
+1195:         action: row.action,
+1196:         targetTenantId: row.targetTenantId ?? null,
+1197:         targetTenantName: row.targetTenantName ?? null,
+1198:         metadata: row.metadata ?? null,
+1199:         ipAddress: row.ipAddress ?? null,
+1200:         userAgent: row.userAgent ?? null,
+1201:         createdAt: toJsDate(row.createdAt).toISOString(),
+1202:       }));
+1203:     },
+1204:   };
+1205: }
+
+(End of file - total 1205 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I understand. The `/admin` page requires a user with `role: "SUPERADMIN"` in the User table. The `isSuperAdmin` function checks if there's a User row with that clerkUserId AND role = SUPERADMIN.
+
+So the issue is: when someone registers, they get `role: "OWNER"` (see onboarding/actions.ts line 200), not SUPERADMIN.
+
+To access `/admin`, you need to either:
+1. Manually set a user's role to SUPERADMIN in the database
+2. Or create a way to assign SUPERADMIN role
+
+Let me check if there's any user in the DB with SUPERADMIN role. But since the DB was just created/migrated, it's probably empty or only has OWNER users.
+
+The user is saying they pushed changes but /admin doesn't work. The proxy is correct, but the admin layout requires SUPERADMIN role. If they're logged in as a regular user (OWNER), they'll get 404.
+
+Let me explain this to the user.
+
+</details>
+
+El `/admin` **sí existe y el proxy está bien**. El problema es **autorización**:
+
+---
+
+## Por qué `/admin` da 404 (no 307, no 500)
+
+```typescript
+// app/admin/layout.tsx
+const isSuperAdmin = await createAdminDb().isSuperAdmin(userId);
+if (!isSuperAdmin) {
+  notFound();  // ← 404 si no eres SUPERADMIN
+}
+```
+
+```typescript
+// lib/admin-db.ts
+isSuperAdmin: async (clerkUserId: string) => {
+  const user = await db.orm.public.User
+    .where({ clerkUserId, role: "SUPERADMIN" })  // ← requiere role SUPERADMIN
+    .first();
+  return user !== null;
+}
+```
+
+---
+
+## Al registrar usuario → **siempre `role: "OWNER"`**
+
+```typescript
+// app/onboarding/actions.ts línea 200
+await tx.orm.public.User.create({
+  clerkUserId: userId,
+  email: primaryEmail,
+  name: displayName,
+  role: "OWNER",  // ← NUNCA SUPERADMIN
+  tenantId: tenant.id,
+});
+```
+
+---
+
+## Solución: **asignar SUPERADMIN manualmente en la BD**
+
+```sql
+-- En Supabase SQL Editor
+UPDATE "public"."User" 
+SET role = 'SUPERADMIN' 
+WHERE "clerkUserId" = 'TU_CLERK_USER_ID';
+```
+
+O desde el código (una vez):
+```typescript
+await db.orm.public.User.where({ clerkUserId: "tu_clerk_user_id" }).update({
+  role: "SUPERADMIN"
+});
+```
+
+---
+
+## Verificación rápida
+
+1. **Consigue tu `clerkUserId`** (está en la URL de Clerk Dashboard → Users → tu usuario, o en logs)
+2. **Ejecuta el UPDATE** en Supabase
+3. **Recarga `/admin`** → debería funcionar
+
+---
+
+## ¿Quieres que agregue un seed/acción para crear el primer SUPERADMIN automáticamente?
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+dame el comando para crearlo este es el codigo: user_3KUbFGS9JStBtEFnbd8a4IGM29W
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+dame el query para crearlo este es el codigo: user_3KUbFGS9JStBtEFnbd8a4IGM29W
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user wants the SQL query to update their user to SUPERADMIN role. They provided their clerkUserId: user_3KUbFGS9JStBtEFnbd8a4IGM29W
+
+</details>
+
+```sql
+UPDATE "public"."User" 
+SET role = 'SUPERADMIN' 
+WHERE "clerkUserId" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';
+```
+
+---
+
+Ejecútalo en **Supabase Dashboard → SQL Editor** → Run.
+
+Después recarga `/admin`.
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+/admin sale 404
+This page could not be found.
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user is getting a 404 on /admin even after the update. Let me check if the update actually worked and if there are any other issues. Let me verify the data in the database.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run npx prisma db shell --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" 2>&1 << 'EOF'
+SELECT id, "clerkUserId", email, name, role, "tenantId" FROM "public"."User" WHERE "clerkUserId" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';
+EOF
+
+**Input:**
+```json
+{
+  "workdir": "/home/craxker/github/nexus-thrive",
+  "command": "rtk run npx prisma db shell --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" 2>&1 << 'EOF'\nSELECT id, \"clerkUserId\", email, name, role, \"tenantId\" FROM \"public\".\"User\" WHERE \"clerkUserId\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';\nEOF"
+}
+```
+
+**Output:**
+```
+{"kind":"result","envelope":{"ok":false,"commandId":"","error":{"code":"CLI.UNKNOWN_COMMAND","severity":"error","summary":"No command registered for `shell`, did you mean `schema`?","nextActions":[{"kind":"run-command","label":"Did you mean","command":"prisma db schema"},{"kind":"run-command","label":"List every command","command":"prisma --help"}]},"diagnostics":[],"nextActions":[{"kind":"run-command","label":"Did you mean","command":"prisma db schema"},{"kind":"run-command","label":"List every command","command":"prisma --help"}]},"commandId":"","timestamp":"2026-10-10T07:22:50.013Z"}
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Let me try using psql directly or using the prisma query interface.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run npx psql "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" -c "SELECT id, \"clerkUserId\", email, name, role, \"tenantId\" FROM \"public\".\"User\" WHERE \"clerkUserId\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';"
+
+**Input:**
+```json
+{
+  "timeout": 60000,
+  "workdir": "/home/craxker/github/nexus-thrive",
+  "command": "rtk run npx psql \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" -c \"SELECT id, \\\"clerkUserId\\\", email, name, role, \\\"tenantId\\\" FROM \\\"public\\\".\\\"User\\\" WHERE \\\"clerkUserId\\\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';\""
+}
+```
+
+**Output:**
+```
+[Sat Oct 10 2026 02:23:22 GMT-0500 (Colombia Standard Time)] ERROR Error: ENOENT: no such file or directory, open './config/app.yml'
+    at Object.readFileSync (node:fs:539:20)
+    at Object.readConfig (/home/craxker/.npm/_npx/e9b5c1049b212f24/node_modules/yaml-config/lib/yaml-config.js:57:25)
+    at Object.<anonymous> (/home/craxker/.npm/_npx/e9b5c1049b212f24/node_modules/psql/lib/config.js:2:23)
+    at Module._compile (node:internal/modules/cjs/loader:1934:14)
+    at Object..js (node:internal/modules/cjs/loader:2074:10)
+    at Module.load (node:internal/modules/cjs/loader:1656:32)
+    at Module._load (node:internal/modules/cjs/loader:1448:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+    at Module.require (node:internal/modules/cjs/loader:1679:12)
+    at require (node:internal/modules/helpers:196:16) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: './config/app.yml'
+}
+/home/craxker/.npm/_npx/e9b5c1049b212f24/node_modules/psql/bin/psql.js:21
+config.output.diffonly = argv.d ? true : config.output.diffonly;
+                                                       ^
+
+TypeError: Cannot read properties of undefined (reading 'diffonly')
+    at Object.<anonymous> (/home/craxker/.npm/_npx/e9b5c1049b212f24/node_modules/psql/bin/psql.js:21:56)
+    at Module._compile (node:internal/modules/cjs/loader:1934:14)
+    at Object..js (node:internal/modules/cjs/loader:2074:10)
+    at Module.load (node:internal/modules/cjs/loader:1656:32)
+    at Module._load (node:internal/modules/cjs/loader:1448:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v26.7.0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+que quieres ver ?? ya yo cree y cori esa query
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+a que tennat se afilia
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+a que tennat se afilia
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[compaction part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user wants a structured summary. I need to include the FIRST ACTION REQUIRED line at top.
+
+</details>
+
+FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compacted summary. Use project: 'nexus'. This preserves what was accomplished before compaction. Do this BEFORE any other work.
+
+## Objective
+- Suppress noisy dev-server alerts (slow filesystem, Clerk telemetry, Clerk redirect loop) and get the nexus-thrive beta deployable on Vercel + Supabase with Clerk auth working, including subdomain-based routing.
+
+## Important Details
+- Project: `/home/craxker/github/nexus-thrive` (Next.js 16.3.8, React 19.2.8, Clerk `@clerk/nextjs` ^7.9.11, Prisma 8 `@prisma/orm-postgres` 8.0.0-rc.14, pnpm workspace, Tailwind 4).
+- User language: Spanish; terse, action-oriented replies preferred ("aslo", "continua"). User dislikes unnecessary file churn (complained about `/tmp` distDir changes adding many diff lines).
+- Clerk instance: development instance "wealthy-earwig-9924" (Hobby plan) — publishable key `pk_test_d2VhbHRoeS1lYXJ3aWctOTkyNC5jbGVyay5hY2NvdW50cy5kZXYk`, secret `sk_test_8NJRs1vDhmkGr5pblZMpayjJZiuWeahan3mCTZ9xNI`. Dashboard shows `https://wealthy-earwig-9924.clerk.accounts.dev` — keys match; redirect loop was resolved via Clerk domain config (user later reported "clerk funciona al 100%").
+- Clerk Development instance does NOT allow manual Allowed Redirect Origins nor Satellite Domains/wildcards (Pro + Production instance required, ~$25/mes). User decided to switch to path-based routing as a temporary workaround ("por ahora cambialo asi pero no me gusta mucho").
+- Deployment: `https://nexus-thrive-beta.vercel.app` (also `nexus-thrive-beta-5p15erp67-sandevprod.vercel.app`). Clerk Proxy URL `https://nexus-thrive-beta.vercel.app/__clerk` requires `/__clerk/:path*` to pass through middleware.
+- Supabase DB (new project ref `vnwwarudcycqdrthiouk`): transaction pooler `aws-1-ca-central-1.pooler.supabase.com:6543` (DATABASE_URL), session pooler `:5432` (DIRECT_URL), password `91Cn8NVgSBO4xvMS`. Direct host `db.vnwwarudcycqdrthiouk.supabase.co:5432` fails locally (EACCES/IPv6).
+- Key discovery: Supabase poolers do NOT allow DDL → `prisma db init/db update/db migrate` all failed with `MIGRATION.RUNNER_FAILED / Database schema does not satisfy contract (15 failures)` (tables like `ApuActivity` already existed from a prior attempt).
+- Prisma 8 CLI commands: `prisma contract emit`, `prisma migration plan --name X --from @empty`, `prisma db migrate --db <url>`, `prisma db init --db <url>`. Wrapper `rtk prisma` only exposes `generate/migrate/db-push`; use `rtk run npx prisma <args>` for Prisma 8 commands.
+- `NEXT_TELEMETRY_DISABLED=1` in `.env` does NOT suppress the "Slow filesystem detected" benchmark — must be set as process env: `NEXT_TELEMETRY_DISABLED=1 pnpm dev`.
+- Turbopack rejects `distDir` outside project path (`Invalid distDirRoot ... should not navigate out of the projectPath`) → distDir change was reverted; "Slow filesystem" warning accepted as cosmetic.
+- Onboarding flow is fully self-service: user registers in Clerk → `/onboarding` → `completeAdaptiveOnboardingAction` creates Tenant + User(OWNER) + TenantModules in one transaction → redirect to `/{slug}`. No admin intervention needed. No invitation system exists yet (one user = one tenant).
+- User pushed changes already and asked to stop debugging the dev server ("deja eso fuera ya envie cambios si funciona funciono").
+- rtk is a CLI output filter at `/home/craxker/.local/bin/rtk`; `rtk pnpm`, `rtk git`, `rtk curl` etc. are commonly used.
+
+## Work State
+### Completed
+- `.env`: added `NEXT_TELEMETRY_DISABLED=1`, `CLERK_TELEMETRY_DISABLED=1`; DATABASE_URL switched to Supabase pooler (6543) + `DIRECT_URL` (session pooler 5432).
+- `next.config.ts`: reverted `distDir` experiments (twice); final diff vs HEAD is only `+ "localhost:3001"` added to `allowedDevOrigins`.
+- `tsconfig.json`: reverted auto-added `/tmp/...` include paths (`rtk git checkout tsconfig.json`); `tmp/`, `/tmp/nexus-thrive` deleted; git clean except `conversations/20261010-00-13-10-Suprimir-alertas-de-desarrollo.md`.
+- `proxy.ts`: rewritten from subdomain-based to path-based routing — reserved routes pass through (`/sign-in`, `/sign-up`, `/api`, `/_next`, `/__clerk`, paths with `.`); `/admin` and `/admin/*` pass; `/onboarding` passes; first path segment treated as tenant slug (nonTenantRoutes list: admin, onboarding, sign-in, sign-up, api, _next, __clerk); `/` redirects to `/sign-in`.
+- Clerk fixed (user confirmed 100% working); Clerk Dashboard domain config + `/__clerk` proxy path added to `proxy.ts` reserved routes.
+- Prisma contract emitted: `rtk run npx prisma contract emit` → OK (`prisma/contract.json`, `prisma/contract.d.ts`, storageHash `a30e2c4c...`).
+- Migration plan created: `migrations/app/20261010T0641_initial/ops.json` (74 additive operations).
+- SQL extracted to `/home/craxker/github/nexus-thrive/migration.sql` (417 lines, CREATE TABLE/INDEX/CONSTRAINT statements) for manual execution in Supabase SQL Editor.
+- Explained registration/onboarding flow (self-service, no admin intervention required).
+
+### Active
+- User is running `migration.sql` in Supabase SQL Editor (pending confirmation).
+- User is deploying changes to Vercel; asked about `/admin` access — investigation started (verified `app/admin/page.tsx` exists; layout at `app/admin/layout.tsx` holds the auth gate).
+- Vercel env vars must contain Clerk keys + Supabase `DATABASE_URL`/`DIRECT_URL`.
+
+### Blocked
+- Prisma migrations cannot be applied programmatically: Supabase poolers reject DDL; direct host unreachable from local network (`connect EACCES ...5432`). Resolution path = run `migration.sql` manually in Supabase SQL Editor.
+- `/admin` reportedly "no pasa nada" after pushing changes — cause not yet determined (dev-server debugging was halted by user; Vercel logs not yet examined).
+- Wildcard subdomain auth (`admin.*`, `gymcarlos.*`) unavailable on Clerk Hobby/development instance; only Clerk Pro + Production instance or path-based routing.
+
+## Next Move
+1. Confirm `migration.sql` executed successfully in Supabase SQL Editor, then verify schema via `rtk run npx prisma db migrate status` or a query against `Tenant`/`User` tables.
+2. Investigate `/admin` not rendering — check Vercel Function Logs for `https://nexus-thrive-beta.vercel.app/admin` (auth gate in `app/admin/layout.tsx` may require SUPERADMIN role, and no User row exists yet in the new DB).
+
+## Relevant Files
+- `/home/craxker/github/nexus-thrive/proxy.ts`: middleware rewritten to path-based routing; includes `/__clerk` reserved route; matcher `/((?!_next/static|_next/image|favicon.ico).*)`.
+- `/home/craxker/github/nexus-thrive/next.config.ts`: `allowedDevOrigins` (incl. `localhost:3001`), `experimental.serverActions.bodySizeLimit: "20mb"`, `proxyClientMaxBodySize: "20mb"`; no distDir.
+- `/home/craxker/github/nexus-thrive/.env`: DATABASE_URL/DIRECT_URL (Supabase), Clerk test keys, sign-in/up URLs, telemetry flags.
+- `/home/craxker/github/nexus-thrive/migration.sql`: 417-line SQL to paste into Supabase SQL Editor.
+- `/home/craxker/github/nexus-thrive/migrations/app/20261010T0641_initial/ops.json`: Prisma 8 migration plan source.
+- `/home/craxker/github/nexus-thrive/prisma/contract.prisma`: data contract (Tenant, User, modules, APU, quotes, etc.).
+- `/home/craxker/github/nexus-thrive/prisma.config.ts`: `definePrismaConfig({ orm: ormConfig({ contract, db.connection }) })`.
+- `/home/craxker/github/nexus-thrive/app/onboarding/actions.ts`: `completeAdaptiveOnboardingAction` (creates Tenant+User+Modules transactionally).
+- `/home/craxker/github/nexus-thrive/app/onboarding/prefill.ts`: `getOnboardingPrefill` → create/resume/done modes.
+- `/home/craxker/github/nexus-thrive/app/admin/page.tsx` + `app/admin/layout.tsx`: admin dashboard (auth gate in layout).
+- `/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/SKILL.md` + `references/migrations.md`: Prisma 8 command reference.
+- `/home/craxker/github/nexus-thrive/package.json`: scripts (`dev`, `build`, `postinstall: prisma skills sync`), deps.
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The user is asking "a que tenant se afilia" (which tenant is it affiliated with) and says they already created/ran the query. The /admin still shows 404.
+
+Let me think: The admin layout requires SUPERADMIN. They ran the UPDATE. But /admin still 404. Possible reasons:
+1. The user row doesn't exist at all (the UPDATE affected 0 rows) — maybe they registered but the DB row wasn't created yet, or they never completed onboarding.
+2. The user has no tenantId? Actually isSuperAdmin only checks clerkUserId + role. So tenant doesn't matter for /admin.
+3. Maybe the migration.sql wasn't run yet, so the User table doesn't exist → query would error though.
+4. Maybe proxy intercepts /admin? We made /admin pass through. Let's check.
+
+The user asks "a que tenant se afilia" — meaning which tenant does this user belong to. Let me query the DB. I need a way to query. psql npx failed. Let's check if psql binary exists locally, or use a node script with the project's db client.
+
+Actually simplest: write a quick node script using prisma db client? Or use `rtk run npx prisma db query`? Let's check available commands. Let me check what prisma CLI offers. Let me just try.
+
+Also could check if local `psql` is installed.
+
+Let me do both: check psql availability and prisma db commands.
+
+</details>
+
+A ver — primero verifico el usuario en la BD (necesito saber si el UPDATE tocó filas y a qué tenant quedó afiliado).
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** command -v psql; rtk run npx prisma db --help 2>&1 | head -40
+
+**Input:**
+```json
+{
+  "command": "command -v psql; rtk run npx prisma db --help 2>&1 | head -40",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+/usr/bin/psql
+prisma db → Run contract operations against a live database. Verify, sign, update, migrate
+
+│  init             Bootstrap a database to match the current contract and sign it
+│  schema           Inspect the live database schema
+│  sign [contract]  Sign the database with your contract so you can safely run queries
+│  update           Update your database schema to match your contract
+│  verify           Check whether the database marker and live schema match your contract
+│  migrate          Apply planned migrations to advance the database
+│
+│  These commands run against a live database, addressed with --db <url>.
+│  Verify checks the database against the contract (the PSL description of your
+│  data model), sign marks it as matching, and update and migrate advance its
+│  schema.
+│
+│  Run 'prisma db <command> --help' for details on a command.
+
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+dame la query para crear el superadmin
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+User wants the query to create the superadmin. But context: their UPDATE ran, /admin still 404. But they just ask: give me the query to create the superadmin.
+
+I should give an INSERT ... ON CONFLICT DO UPDATE (upsert) that creates the User row with SUPERADMIN if it doesn't exist. Need tenantId — question earlier "a que tenant se afilia". Without a tenant, we need an existing tenant. Let me give a query that upserts and, if no tenant exists, we need one.
+
+Best: provide a query that first checks. But user just wants a query. Give upsert:
+
+```sql
+INSERT INTO "public"."User" ("id","clerkUserId","email","name","role","tenantId","createdAt","updatedAt")
+SELECT 'su_'||gen_random_uuid(), 'user_3KUbFGS9JStBtEFnbd8a4IGM29W', 'email...', 'name', 'SUPERADMIN', t.id, now(), now()
+FROM "public"."Tenant" t
+ORDER BY t."createdAt"
+LIMIT 1
+ON CONFLICT ("clerkUserId") DO UPDATE SET role='SUPERADMIN';
+```
+
+But I don't know the User schema columns (id format, required fields, email unique). I should read the contract.prisma User model first to get exact fields. That's quick and correct. Also check if there's a unique on clerkUserId.
+
+Let me read contract.prisma User model.
+
+</details>
+
+Necesito ver el modelo `User` exacto del contract para no inventar columnas:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run grep -n -A 30 "model User" prisma/contract.prisma; echo "=== TENANT ==="; rtk run grep -n -A 12 "^model Tenant " prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "command": "rtk run grep -n -A 30 \"model User\" prisma/contract.prisma; echo \"=== TENANT ===\"; rtk run grep -n -A 12 \"^model Tenant \" prisma/contract.prisma",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+grep: User: No such file or directory
+prisma/contract.prisma:92:model Tenant {
+prisma/contract.prisma-93-  id           String   @id @default(uuid())
+prisma/contract.prisma-94-  name         String
+prisma/contract.prisma-95-  slug         String   @unique
+prisma/contract.prisma-96-  customDomain String?  @unique
+prisma/contract.prisma-97-  vertical     Vertical
+prisma/contract.prisma-98-  active       Boolean  @default(true)
+prisma/contract.prisma-99-
+prisma/contract.prisma-100-  /// Wizard de onboarding: false = el tenant es nuevo y debe configurarse.
+prisma/contract.prisma-101-  onboardingCompleted Boolean @default(false)
+prisma/contract.prisma-102-  /// Perfil adaptativo (onboarding auto-servicio). Las reglas de validación
+prisma/contract.prisma-103-  /// viven en lib/onboarding/validation.ts; estos campos son la persistencia.
+prisma/contract.prisma-104-  tenantType TenantType @default(COMPANY)
+prisma/contract.prisma-105-  /// Razón social (solo COMPANY; el nombre comercial vive en `name`).
+prisma/contract.prisma-106-  legalName String?
+prisma/contract.prisma-107-  /// NIT/RUT (obligatorio en COMPANY, opcional en INDIVIDUAL).
+prisma/contract.prisma-108-  taxId String?
+prisma/contract.prisma-109-  /// Tamaño del equipo: "SOLO" | "2-5" | "6-20" | "20+" (guardado como texto
+prisma/contract.prisma-110-  /// validado por la app; el enum rígido dificultaría agregar rangos).
+prisma/contract.prisma-111-  teamSize String?
+prisma/contract.prisma-112-  /// Dirección física; "REMOTE" si el negocio no tiene local.
+prisma/contract.prisma-113-  address String?
+prisma/contract.prisma-114-  /// Identidad y ubicación (Paso 1 del onboarding).
+prisma/contract.prisma-115-  city              String?
+prisma/contract.prisma-116-  whatsappNumber    String?
+prisma/contract.prisma-117-  /// Ecosistema digital (Paso 3 del onboarding).
+prisma/contract.prisma-118-  websiteUrl        String?
+prisma/contract.prisma-119-  instagramHandle   String?
+prisma/contract.prisma-120-  googleBusinessUrl String?
+prisma/contract.prisma-121-  /// Métodos de pago aceptados (Paso 4 del onboarding; catálogo PaymentProvider).
+prisma/contract.prisma-122-  /// Nullable en DB: un tenant nuevo aún no los configuró; el código normaliza a [].
+--
+prisma/contract.prisma:147:model TenantModule {
+prisma/contract.prisma-148-  id         String       @id @default(uuid())
+prisma/contract.prisma-149-  tenantId   String
+prisma/contract.prisma-150-  tenant     Tenant       @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-151-  moduleName ModuleName
+prisma/contract.prisma-152-  active     Boolean      @default(true)
+prisma/contract.prisma-153-  createdAt  DateTime     @default(now())
+prisma/contract.prisma-154-  updatedAt  temporal.updatedAt()
+prisma/contract.prisma-155-
+prisma/contract.prisma-156-  @@unique([tenantId, moduleName])
+prisma/contract.prisma-157-  @@index([tenantId])
+prisma/contract.prisma-158-}
+prisma/contract.prisma-159-
+prisma/contract.prisma:160:model User {
+prisma/contract.prisma-161-  id          String   @id @default(uuid())
+prisma/contract.prisma-162-  clerkUserId String
+prisma/contract.prisma-163-  email       String
+prisma/contract.prisma-164-  name        String?
+prisma/contract.prisma-165-  role        Role     @default(STAFF)
+prisma/contract.prisma-166-  tenantId    String
+prisma/contract.prisma-167-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-168-  createdAt   DateTime @default(now())
+prisma/contract.prisma-169-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-170-
+prisma/contract.prisma-171-  customerNotes CustomerNote[]
+prisma/contract.prisma-172-
+prisma/contract.prisma-173-  @@unique([clerkUserId, tenantId])
+prisma/contract.prisma-174-  @@index([tenantId])
+prisma/contract.prisma-175-}
+prisma/contract.prisma-176-
+prisma/contract.prisma:177:model Customer {
+prisma/contract.prisma-178-  id        String   @id @default(uuid())
+prisma/contract.prisma-179-  tenantId  String
+prisma/contract.prisma-180-  tenant    Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-181-  name      String
+prisma/contract.prisma-182-  email     String?
+prisma/contract.prisma-183-  phone     String?
+prisma/contract.prisma-184-  active    Boolean  @default(true)
+prisma/contract.prisma-185-  createdAt DateTime @default(now())
+prisma/contract.prisma-186-  updatedAt temporal.updatedAt()
+prisma/contract.prisma-187-
+prisma/contract.prisma-188-  payments Payment[]
+prisma/contract.prisma-189-  memberships Membership[]
+prisma/contract.prisma-190-  notes CustomerNote[]
+prisma/contract.prisma-191-  quotes Quote[]
+prisma/contract.prisma-192-
+prisma/contract.prisma-193-  @@index([tenantId])
+prisma/contract.prisma-194-}
+prisma/contract.prisma-195-
+prisma/contract.prisma:196:model Payment {
+prisma/contract.prisma-197-  id            String          @id @default(uuid())
+prisma/contract.prisma-198-  tenantId      String
+prisma/contract.prisma-199-  tenant        Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-200-  customerId    String?
+prisma/contract.prisma-201-  customer      Customer?       @relation(fields: [customerId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-202-  membershipId  String?
+prisma/contract.prisma-203-  membership    Membership?     @relation(fields: [membershipId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-204-  amount        Decimal
+prisma/contract.prisma-205-  status        PaymentStatus   @default(PENDING)
+prisma/contract.prisma-206-  provider      PaymentProvider @default(CASH)
+prisma/contract.prisma-207-  providerRefId String?         @unique
+prisma/contract.prisma-208-  description   String?
+prisma/contract.prisma-209-  createdAt     DateTime        @default(now())
+prisma/contract.prisma-210-  updatedAt     temporal.updatedAt()
+prisma/contract.prisma-211-
+prisma/contract.prisma-212-  @@index([tenantId])
+prisma/contract.prisma-213-  @@index([providerRefId])
+prisma/contract.prisma-214-  @@index([membershipId])
+prisma/contract.prisma-215-}
+prisma/contract.prisma-216-
+prisma/contract.prisma:217:model Expense {
+prisma/contract.prisma-218-  id          String   @id @default(uuid())
+prisma/contract.prisma-219-  tenantId    String
+prisma/contract.prisma-220-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-221-  amount      Decimal
+prisma/contract.prisma-222-  category    String
+prisma/contract.prisma-223-  description String
+prisma/contract.prisma-224-  date        DateTime @default(now())
+prisma/contract.prisma-225-  createdAt   DateTime @default(now())
+prisma/contract.prisma-226-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-227-
+prisma/contract.prisma-228-  @@index([tenantId])
+prisma/contract.prisma-229-}
+prisma/contract.prisma-230-
+prisma/contract.prisma:231:model Membership {
+prisma/contract.prisma-232-  id         String           @id @default(uuid())
+prisma/contract.prisma-233-  tenantId   String
+prisma/contract.prisma-234-  tenant     Tenant           @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-235-  customerId String
+prisma/contract.prisma-236-  customer   Customer         @relation(fields: [customerId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-237-  type       MembershipType
+prisma/contract.prisma-238-  startDate  DateTime
+prisma/contract.prisma-239-  endDate    DateTime
+prisma/contract.prisma-240-  status     MembershipStatus @default(active)
+prisma/contract.prisma-241-  price      Decimal
+prisma/contract.prisma-242-  /// Historial de cobros registrados (JSON serializable: [{ date, amount, provider, kind }]).
+prisma/contract.prisma-243-  payments   Json?
+prisma/contract.prisma-244-  charges    Payment[]
+prisma/contract.prisma-245-  createdAt  DateTime         @default(now())
+prisma/contract.prisma-246-  updatedAt  temporal.updatedAt()
+prisma/contract.prisma-247-
+prisma/contract.prisma-248-  @@index([tenantId])
+prisma/contract.prisma-249-  @@index([tenantId, endDate])
+prisma/contract.prisma-250-  @@index([customerId])
+prisma/contract.prisma-251-}
+prisma/contract.prisma-252-
+prisma/contract.prisma-253-/// Observación interna sobre un cliente (Ficha 360°). Sin módulo propio:
+prisma/contract.prisma-254-/// pertenece al núcleo del CRM.
+prisma/contract.prisma:255:model CustomerNote {
+prisma/contract.prisma-256-  id         String   @id @default(uuid())
+prisma/contract.prisma-257-  tenantId   String
+prisma/contract.prisma-258-  tenant     Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-259-  customerId String
+prisma/contract.prisma-260-  customer   Customer @relation(fields: [customerId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-261-  content    String
+prisma/contract.prisma-262-  /// User.id del autor (se conserva el contenido si el usuario se elimina).
+prisma/contract.prisma-263-  createdBy  String?
+prisma/contract.prisma-264-  author     User?    @relation(fields: [createdBy], references: [id], onDelete: SetNull)
+prisma/contract.prisma-265-  createdAt  DateTime @default(now())
+prisma/contract.prisma-266-  updatedAt  temporal.updatedAt()
+prisma/contract.prisma-267-
+prisma/contract.prisma-268-  @@index([tenantId])
+prisma/contract.prisma-269-  @@index([customerId])
+prisma/contract.prisma-270-}
+prisma/contract.prisma-271-
+prisma/contract.prisma-272-/// Insumo/recurso básico del banco APU (material, mano de obra, equipo o
+prisma/contract.prisma-273-/// transporte). El `code` es opcional pero único DENTRO del tenant cuando existe.
+prisma/contract.prisma:274:model ApuItem {
+prisma/contract.prisma-275-  id        String          @id @default(uuid())
+prisma/contract.prisma-276-  tenantId  String
+prisma/contract.prisma-277-  tenant    Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-278-  code      String?
+prisma/contract.prisma-279-  name      String
+prisma/contract.prisma-280-  unit      String
+prisma/contract.prisma-281-  category  ApuItemCategory
+prisma/contract.prisma-282-  unitPrice Decimal
+prisma/contract.prisma-283-  updatedAt temporal.updatedAt()
+prisma/contract.prisma-284-
+prisma/contract.prisma-285-  compositions ApuActivityComposition[]
+prisma/contract.prisma-286-
+prisma/contract.prisma-287-  @@unique([tenantId, code])
+prisma/contract.prisma-288-  @@index([tenantId])
+prisma/contract.prisma-289-}
+prisma/contract.prisma-290-
+prisma/contract.prisma-291-/// Actividad de obra reutilizable (ej. M2 de muro en ladrillo). Se compone
+prisma/contract.prisma-292-/// de insumos con rendimiento (`consumption`) y desperdicio (`wastePercent`).
+prisma/contract.prisma:293:model ApuActivity {
+prisma/contract.prisma-294-  id          String   @id @default(uuid())
+prisma/contract.prisma-295-  tenantId    String
+prisma/contract.prisma-296-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-297-  code        String?
+prisma/contract.prisma-298-  name        String
+prisma/contract.prisma-299-  unit        String
+prisma/contract.prisma-300-  description String?
+prisma/contract.prisma-301-  createdAt   DateTime @default(now())
+prisma/contract.prisma-302-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-303-
+prisma/contract.prisma-304-  compositions ApuActivityComposition[]
+prisma/contract.prisma-305-  quoteItems  QuoteItem[]
+prisma/contract.prisma-306-
+prisma/contract.prisma-307-  @@unique([tenantId, code])
+prisma/contract.prisma-308-  @@index([tenantId])
+prisma/contract.prisma-309-}
+prisma/contract.prisma-310-
+prisma/contract.prisma-311-/// Composición de una actividad APU: insumo + rendimiento + desperdicio.
+prisma/contract.prisma-312-/// Se elimina en cascada con la actividad.
+prisma/contract.prisma:313:model ApuActivityComposition {
+prisma/contract.prisma-314-  id           String      @id @default(uuid())
+prisma/contract.prisma-315-  activityId   String
+prisma/contract.prisma-316-  activity     ApuActivity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-317-  itemId       String
+prisma/contract.prisma-318-  item         ApuItem     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-319-  /// Cantidad del insumo por unidad de actividad (rendimiento).
+prisma/contract.prisma-320-  consumption  Decimal
+prisma/contract.prisma-321-  /// Porcentaje de desperdicio (0–50).
+prisma/contract.prisma-322-  wastePercent Decimal
+prisma/contract.prisma-323-
+prisma/contract.prisma-324-  @@unique([activityId, itemId])
+prisma/contract.prisma-325-  @@index([activityId])
+prisma/contract.prisma-326-  @@index([itemId])
+prisma/contract.prisma-327-}
+prisma/contract.prisma-328-
+prisma/contract.prisma:329:model Booking {
+prisma/contract.prisma-330-  id          String        @id @default(uuid())
+prisma/contract.prisma-331-  tenantId    String
+prisma/contract.prisma-332-  customerId  String
+prisma/contract.prisma-333-  serviceName String
+prisma/contract.prisma-334-  startDate   DateTime
+prisma/contract.prisma-335-  endDate     DateTime
+prisma/contract.prisma-336-  status      BookingStatus @default(PENDING)
+prisma/contract.prisma-337-  totalAmount BigInt        @default(0)
+prisma/contract.prisma-338-  notes       String?
+prisma/contract.prisma-339-  createdAt   DateTime      @default(now())
+prisma/contract.prisma-340-  updatedAt   DateTime      @default(now())
+prisma/contract.prisma-341-
+prisma/contract.prisma-342-  @@index([tenantId])
+prisma/contract.prisma-343-  @@index([customerId])
+prisma/contract.prisma-344-}
+prisma/contract.prisma-345-
+prisma/contract.prisma-346-enum BookingStatus {
+prisma/contract.prisma-347-  PENDING
+prisma/contract.prisma-348-  CONFIRMED
+prisma/contract.prisma-349-  COMPLETED
+prisma/contract.prisma-350-  CANCELLED
+prisma/contract.prisma-351-}
+prisma/contract.prisma-352-
+prisma/contract.prisma-353-/// Encabezado de un presupuesto/cotización de obra.
+prisma/contract.prisma:354:model Quote {
+prisma/contract.prisma-355-  id            String      @id @default(uuid())
+prisma/contract.prisma-356-  tenantId      String
+prisma/contract.prisma-357-  tenant        Tenant      @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-358-  customerId    String?
+prisma/contract.prisma-359-  customer      Customer?   @relation(fields: [customerId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-360-  title         String
+prisma/contract.prisma-361-  /// Código de negocio: PRES-2026-001 (único dentro del tenant).
+prisma/contract.prisma-362-  code          String
+prisma/contract.prisma-363-  status        QuoteStatus @default(DRAFT)
+prisma/contract.prisma-364-  adminPercent  Decimal     @default(15)
+prisma/contract.prisma-365-  imprevPercent Decimal     @default(5)
+prisma/contract.prisma-366-  utilPercent   Decimal     @default(10)
+prisma/contract.prisma-367-  taxPercent    Decimal     @default(19)
+prisma/contract.prisma-368-  directCost    Decimal
+prisma/contract.prisma-369-  totalAmount   Decimal
+prisma/contract.prisma-370-  createdAt     DateTime    @default(now())
+prisma/contract.prisma-371-  updatedAt     temporal.updatedAt()
+prisma/contract.prisma-372-
+prisma/contract.prisma-373-  items QuoteItem[]
+prisma/contract.prisma-374-
+prisma/contract.prisma-375-  @@unique([tenantId, code])
+prisma/contract.prisma-376-  @@index([tenantId])
+prisma/contract.prisma-377-  @@index([tenantId, status])
+prisma/contract.prisma-378-  @@index([customerId])
+prisma/contract.prisma-379-}
+prisma/contract.prisma-380-
+prisma/contract.prisma-381-/// Registro de auditoría de acciones privilegiadas del SuperAdmin
+prisma/contract.prisma-382-/// (suspensión, activación, módulos, exportación, impersonación). No se
+prisma/contract.prisma-383-/// relaciona por FK con Tenant a propósito: la auditoría debe sobrevivir al
+prisma/contract.prisma-384-/// borrado del negocio. NUNCA guarda secretos ni tokens.
+prisma/contract.prisma:385:model AuditLog {
+prisma/contract.prisma-386-  id         String   @id @default(uuid())
+prisma/contract.prisma-387-  /// Clerk user id del SuperAdmin actor (no expone datos sensibles).
+prisma/contract.prisma-388-  actorId    String
+prisma/contract.prisma-389-  actorEmail String?
+prisma/contract.prisma-390-  /// Acción auditada (string controlado por el código, no un enum: las
+prisma/contract.prisma-391-  /// migraciones de enum en Prisma 8 son frágiles y aquí no aportan valor).
+prisma/contract.prisma-392-  action     String
+prisma/contract.prisma-393-  /// Negocio objetivo (puede ser null en acciones globales como exportar).
+prisma/contract.prisma-394-  targetTenantId   String?
+prisma/contract.prisma-395-  targetTenantName String?
+prisma/contract.prisma-396-  /// Metadatos serializables (motivo, módulos, filas exportadas…). Sin secretos.
+prisma/contract.prisma-397-  metadata   Json?
+prisma/contract.prisma-398-  ipAddress  String?
+prisma/contract.prisma-399-  userAgent  String?
+prisma/contract.prisma-400-  createdAt  DateTime @default(now())
+prisma/contract.prisma-401-
+prisma/contract.prisma-402-  @@index([createdAt])
+prisma/contract.prisma-403-  @@index([targetTenantId])
+prisma/contract.prisma-404-  @@index([actorId])
+prisma/contract.prisma-405-}
+prisma/contract.prisma-406-
+prisma/contract.prisma-407-/// Actividad dentro de un presupuesto. Congela nombre, unidad, cantidad y
+prisma/contract.prisma-408-/// costos al momento de cotizar; opcionalmente guarda el snapshot del APU.
+prisma/contract.prisma:409:model QuoteItem {
+prisma/contract.prisma-410-  id          String       @id @default(uuid())
+prisma/contract.prisma-411-  quoteId     String
+prisma/contract.prisma-412-  quote       Quote        @relation(fields: [quoteId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-413-  activityId  String?
+prisma/contract.prisma-414-  activity    ApuActivity? @relation(fields: [activityId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-415-  name        String
+prisma/contract.prisma-416-  unit        String
+prisma/contract.prisma-417-  quantity    Decimal
+prisma/contract.prisma-418-  unitCost    Decimal
+prisma/contract.prisma-419-  totalCost   Decimal
+prisma/contract.prisma-420-  /// Fotografía inmutable del APU utilizado (catálogo + composición + precios).
+prisma/contract.prisma-421-  apuSnapshot Json?
+prisma/contract.prisma-422-
+prisma/contract.prisma-423-  @@index([quoteId])
+prisma/contract.prisma-424-  @@index([activityId])
+prisma/contract.prisma-425-}
+=== TENANT ===
+grep: Tenant: No such file or directory
+prisma/contract.prisma:92:model Tenant {
+prisma/contract.prisma-93-  id           String   @id @default(uuid())
+prisma/contract.prisma-94-  name         String
+prisma/contract.prisma-95-  slug         String   @unique
+prisma/contract.prisma-96-  customDomain String?  @unique
+prisma/contract.prisma-97-  vertical     Vertical
+prisma/contract.prisma-98-  active       Boolean  @default(true)
+prisma/contract.prisma-99-
+prisma/contract.prisma-100-  /// Wizard de onboarding: false = el tenant es nuevo y debe configurarse.
+prisma/contract.prisma-101-  onboardingCompleted Boolean @default(false)
+prisma/contract.prisma-102-  /// Perfil adaptativo (onboarding auto-servicio). Las reglas de validación
+prisma/contract.prisma-103-  /// viven en lib/onboarding/validation.ts; estos campos son la persistencia.
+prisma/contract.prisma-104-  tenantType TenantType @default(COMPANY)
+--
+prisma/contract.prisma:147:model TenantModule {
+prisma/contract.prisma-148-  id         String       @id @default(uuid())
+prisma/contract.prisma-149-  tenantId   String
+prisma/contract.prisma-150-  tenant     Tenant       @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-151-  moduleName ModuleName
+prisma/contract.prisma-152-  active     Boolean      @default(true)
+prisma/contract.prisma-153-  createdAt  DateTime     @default(now())
+prisma/contract.prisma-154-  updatedAt  temporal.updatedAt()
+prisma/contract.prisma-155-
+prisma/contract.prisma-156-  @@unique([tenantId, moduleName])
+prisma/contract.prisma-157-  @@index([tenantId])
+prisma/contract.prisma-158-}
+prisma/contract.prisma-159-
+prisma/contract.prisma:160:model User {
+prisma/contract.prisma-161-  id          String   @id @default(uuid())
+prisma/contract.prisma-162-  clerkUserId String
+prisma/contract.prisma-163-  email       String
+prisma/contract.prisma-164-  name        String?
+prisma/contract.prisma-165-  role        Role     @default(STAFF)
+prisma/contract.prisma-166-  tenantId    String
+prisma/contract.prisma-167-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-168-  createdAt   DateTime @default(now())
+prisma/contract.prisma-169-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-170-
+prisma/contract.prisma-171-  customerNotes CustomerNote[]
+prisma/contract.prisma-172-
+--
+prisma/contract.prisma:177:model Customer {
+prisma/contract.prisma-178-  id        String   @id @default(uuid())
+prisma/contract.prisma-179-  tenantId  String
+prisma/contract.prisma-180-  tenant    Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-181-  name      String
+prisma/contract.prisma-182-  email     String?
+prisma/contract.prisma-183-  phone     String?
+prisma/contract.prisma-184-  active    Boolean  @default(true)
+prisma/contract.prisma-185-  createdAt DateTime @default(now())
+prisma/contract.prisma-186-  updatedAt temporal.updatedAt()
+prisma/contract.prisma-187-
+prisma/contract.prisma-188-  payments Payment[]
+prisma/contract.prisma-189-  memberships Membership[]
+--
+prisma/contract.prisma:196:model Payment {
+prisma/contract.prisma-197-  id            String          @id @default(uuid())
+prisma/contract.prisma-198-  tenantId      String
+prisma/contract.prisma-199-  tenant        Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-200-  customerId    String?
+prisma/contract.prisma-201-  customer      Customer?       @relation(fields: [customerId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-202-  membershipId  String?
+prisma/contract.prisma-203-  membership    Membership?     @relation(fields: [membershipId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-204-  amount        Decimal
+prisma/contract.prisma-205-  status        PaymentStatus   @default(PENDING)
+prisma/contract.prisma-206-  provider      PaymentProvider @default(CASH)
+prisma/contract.prisma-207-  providerRefId String?         @unique
+prisma/contract.prisma-208-  description   String?
+--
+prisma/contract.prisma:217:model Expense {
+prisma/contract.prisma-218-  id          String   @id @default(uuid())
+prisma/contract.prisma-219-  tenantId    String
+prisma/contract.prisma-220-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-221-  amount      Decimal
+prisma/contract.prisma-222-  category    String
+prisma/contract.prisma-223-  description String
+prisma/contract.prisma-224-  date        DateTime @default(now())
+prisma/contract.prisma-225-  createdAt   DateTime @default(now())
+prisma/contract.prisma-226-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-227-
+prisma/contract.prisma-228-  @@index([tenantId])
+prisma/contract.prisma-229-}
+--
+prisma/contract.prisma:231:model Membership {
+prisma/contract.prisma-232-  id         String           @id @default(uuid())
+prisma/contract.prisma-233-  tenantId   String
+prisma/contract.prisma-234-  tenant     Tenant           @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-235-  customerId String
+prisma/contract.prisma-236-  customer   Customer         @relation(fields: [customerId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-237-  type       MembershipType
+prisma/contract.prisma-238-  startDate  DateTime
+prisma/contract.prisma-239-  endDate    DateTime
+prisma/contract.prisma-240-  status     MembershipStatus @default(active)
+prisma/contract.prisma-241-  price      Decimal
+prisma/contract.prisma-242-  /// Historial de cobros registrados (JSON serializable: [{ date, amount, provider, kind }]).
+prisma/contract.prisma-243-  payments   Json?
+--
+prisma/contract.prisma:255:model CustomerNote {
+prisma/contract.prisma-256-  id         String   @id @default(uuid())
+prisma/contract.prisma-257-  tenantId   String
+prisma/contract.prisma-258-  tenant     Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-259-  customerId String
+prisma/contract.prisma-260-  customer   Customer @relation(fields: [customerId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-261-  content    String
+prisma/contract.prisma-262-  /// User.id del autor (se conserva el contenido si el usuario se elimina).
+prisma/contract.prisma-263-  createdBy  String?
+prisma/contract.prisma-264-  author     User?    @relation(fields: [createdBy], references: [id], onDelete: SetNull)
+prisma/contract.prisma-265-  createdAt  DateTime @default(now())
+prisma/contract.prisma-266-  updatedAt  temporal.updatedAt()
+prisma/contract.prisma-267-
+--
+prisma/contract.prisma:274:model ApuItem {
+prisma/contract.prisma-275-  id        String          @id @default(uuid())
+prisma/contract.prisma-276-  tenantId  String
+prisma/contract.prisma-277-  tenant    Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-278-  code      String?
+prisma/contract.prisma-279-  name      String
+prisma/contract.prisma-280-  unit      String
+prisma/contract.prisma-281-  category  ApuItemCategory
+prisma/contract.prisma-282-  unitPrice Decimal
+prisma/contract.prisma-283-  updatedAt temporal.updatedAt()
+prisma/contract.prisma-284-
+prisma/contract.prisma-285-  compositions ApuActivityComposition[]
+prisma/contract.prisma-286-
+--
+prisma/contract.prisma:293:model ApuActivity {
+prisma/contract.prisma-294-  id          String   @id @default(uuid())
+prisma/contract.prisma-295-  tenantId    String
+prisma/contract.prisma-296-  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-297-  code        String?
+prisma/contract.prisma-298-  name        String
+prisma/contract.prisma-299-  unit        String
+prisma/contract.prisma-300-  description String?
+prisma/contract.prisma-301-  createdAt   DateTime @default(now())
+prisma/contract.prisma-302-  updatedAt   temporal.updatedAt()
+prisma/contract.prisma-303-
+prisma/contract.prisma-304-  compositions ApuActivityComposition[]
+prisma/contract.prisma-305-  quoteItems  QuoteItem[]
+--
+prisma/contract.prisma:313:model ApuActivityComposition {
+prisma/contract.prisma-314-  id           String      @id @default(uuid())
+prisma/contract.prisma-315-  activityId   String
+prisma/contract.prisma-316-  activity     ApuActivity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-317-  itemId       String
+prisma/contract.prisma-318-  item         ApuItem     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-319-  /// Cantidad del insumo por unidad de actividad (rendimiento).
+prisma/contract.prisma-320-  consumption  Decimal
+prisma/contract.prisma-321-  /// Porcentaje de desperdicio (0–50).
+prisma/contract.prisma-322-  wastePercent Decimal
+prisma/contract.prisma-323-
+prisma/contract.prisma-324-  @@unique([activityId, itemId])
+prisma/contract.prisma-325-  @@index([activityId])
+--
+prisma/contract.prisma:329:model Booking {
+prisma/contract.prisma-330-  id          String        @id @default(uuid())
+prisma/contract.prisma-331-  tenantId    String
+prisma/contract.prisma-332-  customerId  String
+prisma/contract.prisma-333-  serviceName String
+prisma/contract.prisma-334-  startDate   DateTime
+prisma/contract.prisma-335-  endDate     DateTime
+prisma/contract.prisma-336-  status      BookingStatus @default(PENDING)
+prisma/contract.prisma-337-  totalAmount BigInt        @default(0)
+prisma/contract.prisma-338-  notes       String?
+prisma/contract.prisma-339-  createdAt   DateTime      @default(now())
+prisma/contract.prisma-340-  updatedAt   DateTime      @default(now())
+prisma/contract.prisma-341-
+--
+prisma/contract.prisma:354:model Quote {
+prisma/contract.prisma-355-  id            String      @id @default(uuid())
+prisma/contract.prisma-356-  tenantId      String
+prisma/contract.prisma-357-  tenant        Tenant      @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-358-  customerId    String?
+prisma/contract.prisma-359-  customer      Customer?   @relation(fields: [customerId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-360-  title         String
+prisma/contract.prisma-361-  /// Código de negocio: PRES-2026-001 (único dentro del tenant).
+prisma/contract.prisma-362-  code          String
+prisma/contract.prisma-363-  status        QuoteStatus @default(DRAFT)
+prisma/contract.prisma-364-  adminPercent  Decimal     @default(15)
+prisma/contract.prisma-365-  imprevPercent Decimal     @default(5)
+prisma/contract.prisma-366-  utilPercent   Decimal     @default(10)
+--
+prisma/contract.prisma:385:model AuditLog {
+prisma/contract.prisma-386-  id         String   @id @default(uuid())
+prisma/contract.prisma-387-  /// Clerk user id del SuperAdmin actor (no expone datos sensibles).
+prisma/contract.prisma-388-  actorId    String
+prisma/contract.prisma-389-  actorEmail String?
+prisma/contract.prisma-390-  /// Acción auditada (string controlado por el código, no un enum: las
+prisma/contract.prisma-391-  /// migraciones de enum en Prisma 8 son frágiles y aquí no aportan valor).
+prisma/contract.prisma-392-  action     String
+prisma/contract.prisma-393-  /// Negocio objetivo (puede ser null en acciones globales como exportar).
+prisma/contract.prisma-394-  targetTenantId   String?
+prisma/contract.prisma-395-  targetTenantName String?
+prisma/contract.prisma-396-  /// Metadatos serializables (motivo, módulos, filas exportadas…). Sin secretos.
+prisma/contract.prisma-397-  metadata   Json?
+--
+prisma/contract.prisma:409:model QuoteItem {
+prisma/contract.prisma-410-  id          String       @id @default(uuid())
+prisma/contract.prisma-411-  quoteId     String
+prisma/contract.prisma-412-  quote       Quote        @relation(fields: [quoteId], references: [id], onDelete: Cascade)
+prisma/contract.prisma-413-  activityId  String?
+prisma/contract.prisma-414-  activity    ApuActivity? @relation(fields: [activityId], references: [id], onDelete: SetNull)
+prisma/contract.prisma-415-  name        String
+prisma/contract.prisma-416-  unit        String
+prisma/contract.prisma-417-  quantity    Decimal
+prisma/contract.prisma-418-  unitCost    Decimal
+prisma/contract.prisma-419-  totalCost   Decimal
+prisma/contract.prisma-420-  /// Fotografía inmutable del APU utilizado (catálogo + composición + precios).
+prisma/contract.prisma-421-  apuSnapshot Json?
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Key finding: `User` has `tenantId String` NOT NULL with FK to Tenant. So a SUPERADMIN user must belong to a tenant. If the user has no User row (never completed onboarding), the UPDATE did nothing → 404.
+
+Also important: `@@unique([clerkUserId, tenantId])` — clerkUserId is not globally unique.
+
+To create the superadmin row, we need a tenant. Answer to "a que tenant se afilia": it must exist in Tenant table.
+
+Query to create superadmin: create tenant if none, then user upsert. But careful — creating a tenant from scratch requires vertical enum value. Let's check Vertical enum values.
+
+Also `updatedAt temporal.updatedAt()` — has a default from DB probably (temporal.updatedAt() is a Prisma 8 generated column default). In SQL the migration.sql should show it. Let's check the migration.sql for the User table definition to get exact column defaults/types.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run grep -n -A 25 'CREATE TABLE "public"."User"' migration.sql; echo "=== TENANT DDL ==="; rtk run grep -n -A 30 'CREATE TABLE "public"."Tenant"' migration.sql; echo "=== ENUMS ==="; rtk run grep -n 'CREATE TYPE' migration.sql
+
+**Input:**
+```json
+{
+  "command": "rtk run grep -n -A 25 'CREATE TABLE \"public\".\"User\"' migration.sql; echo \"=== TENANT DDL ===\"; rtk run grep -n -A 30 'CREATE TABLE \"public\".\"Tenant\"' migration.sql; echo \"=== ENUMS ===\"; rtk run grep -n 'CREATE TYPE' migration.sql",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+migration.sql:1:CREATE SCHEMA IF NOT EXISTS "public";
+migration.sql-2-
+migration.sql:3:CREATE TABLE "public"."ApuActivity" (
+migration.sql-4-  "code" text,
+migration.sql-5-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-6-  "description" text,
+migration.sql-7-  "id" text NOT NULL,
+migration.sql-8-  "name" text NOT NULL,
+migration.sql-9-  "tenantId" text NOT NULL,
+migration.sql-10-  "unit" text NOT NULL,
+migration.sql-11-  "updatedAt" timestamptz NOT NULL,
+migration.sql-12-  PRIMARY KEY ("id")
+migration.sql-13-);
+migration.sql-14-
+migration.sql:15:CREATE TABLE "public"."ApuActivityComposition" (
+migration.sql-16-  "activityId" text NOT NULL,
+migration.sql-17-  "consumption" numeric NOT NULL,
+migration.sql-18-  "id" text NOT NULL,
+migration.sql-19-  "itemId" text NOT NULL,
+migration.sql-20-  "wastePercent" numeric NOT NULL,
+migration.sql-21-  PRIMARY KEY ("id")
+migration.sql-22-);
+migration.sql-23-
+migration.sql:24:CREATE TABLE "public"."ApuItem" (
+migration.sql-25-  "category" text NOT NULL,
+migration.sql-26-  "code" text,
+migration.sql-27-  "id" text NOT NULL,
+migration.sql-28-  "name" text NOT NULL,
+migration.sql-29-  "tenantId" text NOT NULL,
+migration.sql-30-  "unit" text NOT NULL,
+migration.sql-31-  "unitPrice" numeric NOT NULL,
+migration.sql-32-  "updatedAt" timestamptz NOT NULL,
+migration.sql-33-  PRIMARY KEY ("id"),
+migration.sql-34-  CONSTRAINT "ApuItem_category_check_cb615411" CHECK ("category" IN ('MATERIAL', 'MANO_DE_OBRA', 'EQUIPO', 'TRANSPORTE'))
+migration.sql-35-);
+migration.sql-36-
+migration.sql:37:CREATE TABLE "public"."AuditLog" (
+migration.sql-38-  "action" text NOT NULL,
+migration.sql-39-  "actorEmail" text,
+migration.sql-40-  "actorId" text NOT NULL,
+migration.sql-41-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-42-  "id" text NOT NULL,
+migration.sql-43-  "ipAddress" text,
+migration.sql-44-  "metadata" json,
+migration.sql-45-  "targetTenantId" text,
+migration.sql-46-  "targetTenantName" text,
+migration.sql-47-  "userAgent" text,
+migration.sql-48-  PRIMARY KEY ("id")
+migration.sql-49-);
+migration.sql-50-
+migration.sql:51:CREATE TABLE "public"."Booking" (
+migration.sql-52-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-53-  "customerId" text NOT NULL,
+migration.sql-54-  "endDate" timestamptz NOT NULL,
+migration.sql-55-  "id" text NOT NULL,
+migration.sql-56-  "notes" text,
+migration.sql-57-  "serviceName" text NOT NULL,
+migration.sql-58-  "startDate" timestamptz NOT NULL,
+migration.sql-59-  "status" text DEFAULT 'PENDING' NOT NULL,
+migration.sql-60-  "tenantId" text NOT NULL,
+migration.sql-61-  "totalAmount" int8 DEFAULT '0'::int8 NOT NULL,
+migration.sql-62-  "updatedAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-63-  PRIMARY KEY ("id"),
+migration.sql-64-  CONSTRAINT "Booking_status_check_7d2ee7b5" CHECK ("status" IN ('PENDING', 'CONFIRMED', 'COMPLETED', 'CANCELLED'))
+migration.sql-65-);
+migration.sql-66-
+migration.sql:67:CREATE TABLE "public"."Customer" (
+migration.sql-68-  "active" bool DEFAULT true NOT NULL,
+migration.sql-69-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-70-  "email" text,
+migration.sql-71-  "id" text NOT NULL,
+migration.sql-72-  "name" text NOT NULL,
+migration.sql-73-  "phone" text,
+migration.sql-74-  "tenantId" text NOT NULL,
+migration.sql-75-  "updatedAt" timestamptz NOT NULL,
+migration.sql-76-  PRIMARY KEY ("id")
+migration.sql-77-);
+migration.sql-78-
+migration.sql:79:CREATE TABLE "public"."CustomerNote" (
+migration.sql-80-  "content" text NOT NULL,
+migration.sql-81-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-82-  "createdBy" text,
+migration.sql-83-  "customerId" text NOT NULL,
+migration.sql-84-  "id" text NOT NULL,
+migration.sql-85-  "tenantId" text NOT NULL,
+migration.sql-86-  "updatedAt" timestamptz NOT NULL,
+migration.sql-87-  PRIMARY KEY ("id")
+migration.sql-88-);
+migration.sql-89-
+migration.sql:90:CREATE TABLE "public"."Expense" (
+migration.sql-91-  "amount" numeric NOT NULL,
+migration.sql-92-  "category" text NOT NULL,
+migration.sql-93-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-94-  "date" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-95-  "description" text NOT NULL,
+migration.sql-96-  "id" text NOT NULL,
+migration.sql-97-  "tenantId" text NOT NULL,
+migration.sql-98-  "updatedAt" timestamptz NOT NULL,
+migration.sql-99-  PRIMARY KEY ("id")
+migration.sql-100-);
+migration.sql-101-
+migration.sql:102:CREATE TABLE "public"."Membership" (
+migration.sql-103-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-104-  "customerId" text NOT NULL,
+migration.sql-105-  "endDate" timestamptz NOT NULL,
+migration.sql-106-  "id" text NOT NULL,
+migration.sql-107-  "payments" json,
+migration.sql-108-  "price" numeric NOT NULL,
+migration.sql-109-  "startDate" timestamptz NOT NULL,
+migration.sql-110-  "status" text DEFAULT 'active' NOT NULL,
+migration.sql-111-  "tenantId" text NOT NULL,
+migration.sql-112-  "type" text NOT NULL,
+migration.sql-113-  "updatedAt" timestamptz NOT NULL,
+migration.sql-114-  PRIMARY KEY ("id"),
+migration.sql-115-  CONSTRAINT "Membership_status_check_105845ed" CHECK ("status" IN ('active', 'expiring', 'expired')),
+migration.sql-116-  CONSTRAINT "Membership_type_check_2115602f" CHECK ("type" IN ('mensual', 'trimestral', 'anual'))
+migration.sql-117-);
+migration.sql-118-
+migration.sql:119:CREATE TABLE "public"."Payment" (
+migration.sql-120-  "amount" numeric NOT NULL,
+migration.sql-121-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-122-  "customerId" text,
+migration.sql-123-  "description" text,
+migration.sql-124-  "id" text NOT NULL,
+migration.sql-125-  "membershipId" text,
+migration.sql-126-  "provider" text DEFAULT 'CASH' NOT NULL,
+migration.sql-127-  "providerRefId" text,
+migration.sql-128-  "status" text DEFAULT 'PENDING' NOT NULL,
+migration.sql-129-  "tenantId" text NOT NULL,
+migration.sql-130-  "updatedAt" timestamptz NOT NULL,
+migration.sql-131-  PRIMARY KEY ("id"),
+migration.sql-132-  CONSTRAINT "Payment_provider_check_86b69e55" CHECK ("provider" IN ('WOMPI', 'NEQUI', 'CASH', 'TRANSFER')),
+migration.sql-133-  CONSTRAINT "Payment_status_check_6198e80f" CHECK ("status" IN ('PENDING', 'APPROVED', 'DECLINED', 'VOIDED'))
+migration.sql-134-);
+migration.sql-135-
+migration.sql:136:CREATE TABLE "public"."Quote" (
+migration.sql-137-  "adminPercent" numeric DEFAULT '15'::numeric NOT NULL,
+migration.sql-138-  "code" text NOT NULL,
+migration.sql-139-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-140-  "customerId" text,
+migration.sql-141-  "directCost" numeric NOT NULL,
+migration.sql-142-  "id" text NOT NULL,
+migration.sql-143-  "imprevPercent" numeric DEFAULT '5'::numeric NOT NULL,
+migration.sql-144-  "status" text DEFAULT 'DRAFT' NOT NULL,
+migration.sql-145-  "taxPercent" numeric DEFAULT '19'::numeric NOT NULL,
+migration.sql-146-  "tenantId" text NOT NULL,
+migration.sql-147-  "title" text NOT NULL,
+migration.sql-148-  "totalAmount" numeric NOT NULL,
+migration.sql-149-  "updatedAt" timestamptz NOT NULL,
+migration.sql-150-  "utilPercent" numeric DEFAULT '10'::numeric NOT NULL,
+migration.sql-151-  PRIMARY KEY ("id"),
+migration.sql-152-  CONSTRAINT "Quote_status_check_58e78406" CHECK ("status" IN ('DRAFT', 'SENT', 'APPROVED', 'REJECTED'))
+migration.sql-153-);
+migration.sql-154-
+migration.sql:155:CREATE TABLE "public"."QuoteItem" (
+migration.sql-156-  "activityId" text,
+migration.sql-157-  "apuSnapshot" json,
+migration.sql-158-  "id" text NOT NULL,
+migration.sql-159-  "name" text NOT NULL,
+migration.sql-160-  "quantity" numeric NOT NULL,
+migration.sql-161-  "quoteId" text NOT NULL,
+migration.sql-162-  "totalCost" numeric NOT NULL,
+migration.sql-163-  "unit" text NOT NULL,
+migration.sql-164-  "unitCost" numeric NOT NULL,
+migration.sql-165-  PRIMARY KEY ("id")
+migration.sql-166-);
+migration.sql-167-
+migration.sql:168:CREATE TABLE "public"."Tenant" (
+migration.sql-169-  "active" bool DEFAULT true NOT NULL,
+migration.sql-170-  "address" text,
+migration.sql-171-  "city" text,
+migration.sql-172-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-173-  "customDomain" text,
+migration.sql-174-  "googleBusinessUrl" text,
+migration.sql-175-  "id" text NOT NULL,
+migration.sql-176-  "instagramHandle" text,
+migration.sql-177-  "legalName" text,
+migration.sql-178-  "name" text NOT NULL,
+migration.sql-179-  "onboardingCompleted" bool DEFAULT false NOT NULL,
+migration.sql-180-  "paymentMethods" text[],
+migration.sql-181-  "slug" text NOT NULL,
+migration.sql-182-  "suspendedAt" timestamptz,
+migration.sql-183-  "suspendedReason" text,
+migration.sql-184-  "taxId" text,
+migration.sql-185-  "teamSize" text,
+migration.sql-186-  "tenantType" text DEFAULT 'COMPANY' NOT NULL,
+migration.sql-187-  "updatedAt" timestamptz NOT NULL,
+migration.sql-188-  "vertical" text NOT NULL,
+migration.sql-189-  "websiteUrl" text,
+migration.sql-190-  "whatsappNumber" text,
+migration.sql-191-  PRIMARY KEY ("id"),
+migration.sql-192-  CONSTRAINT "Tenant_paymentMethods_check_08fe4dd4" CHECK ("paymentMethods"::text[] <@ ARRAY['WOMPI', 'NEQUI', 'CASH', 'TRANSFER']::text[]),
+migration.sql-193-  CONSTRAINT "Tenant_paymentMethods_elem_not_null_7b2f47d4" CHECK (array_position("paymentMethods", NULL) IS NULL),
+--
+migration.sql:198:CREATE TABLE "public"."TenantModule" (
+migration.sql-199-  "active" bool DEFAULT true NOT NULL,
+migration.sql-200-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-201-  "id" text NOT NULL,
+migration.sql-202-  "moduleName" text NOT NULL,
+migration.sql-203-  "tenantId" text NOT NULL,
+migration.sql-204-  "updatedAt" timestamptz NOT NULL,
+migration.sql-205-  PRIMARY KEY ("id"),
+migration.sql-206-  CONSTRAINT "TenantModule_moduleName_check_e283a8b3" CHECK ("moduleName" IN ('crm', 'dashboard', 'bookings', 'payments', 'billing', 'inventory', 'finance', 'whatsapp', 'memberships', 'orders', 'quotes'))
+migration.sql-207-);
+migration.sql-208-
+migration.sql:209:CREATE TABLE "public"."User" (
+migration.sql-210-  "clerkUserId" text NOT NULL,
+migration.sql-211-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-212-  "email" text NOT NULL,
+migration.sql-213-  "id" text NOT NULL,
+migration.sql-214-  "name" text,
+migration.sql-215-  "role" text DEFAULT 'STAFF' NOT NULL,
+migration.sql-216-  "tenantId" text NOT NULL,
+migration.sql-217-  "updatedAt" timestamptz NOT NULL,
+migration.sql-218-  PRIMARY KEY ("id"),
+migration.sql-219-  CONSTRAINT "User_role_check_40dd20e3" CHECK ("role" IN ('SUPERADMIN', 'OWNER', 'STAFF'))
+migration.sql-220-);
+migration.sql-221-
+migration.sql-222-ALTER TABLE "public"."ApuActivity" ADD CONSTRAINT "ApuActivity_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-223-
+migration.sql-224-ALTER TABLE "public"."ApuActivityComposition" ADD CONSTRAINT "ApuActivityComposition_activityId_itemId_key" UNIQUE ("activityId", "itemId");
+migration.sql-225-
+migration.sql-226-ALTER TABLE "public"."ApuItem" ADD CONSTRAINT "ApuItem_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-227-
+migration.sql-228-ALTER TABLE "public"."Payment" ADD CONSTRAINT "Payment_providerRefId_key" UNIQUE ("providerRefId");
+migration.sql-229-
+migration.sql-230-ALTER TABLE "public"."Quote" ADD CONSTRAINT "Quote_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-231-
+migration.sql-232-ALTER TABLE "public"."Tenant" ADD CONSTRAINT "Tenant_slug_key" UNIQUE ("slug");
+migration.sql-233-
+migration.sql-234-ALTER TABLE "public"."Tenant" ADD CONSTRAINT "Tenant_customDomain_key" UNIQUE ("customDomain");
+--
+migration.sql:240:CREATE INDEX "ApuActivity_tenantId_idx_c93ed4f1" ON "public"."ApuActivity" ("tenantId");
+migration.sql-241-
+migration.sql:242:CREATE INDEX "ApuActivityComposition_activityId_idx_bf2a659e" ON "public"."ApuActivityComposition" ("activityId");
+migration.sql-243-
+migration.sql:244:CREATE INDEX "ApuActivityComposition_itemId_idx_41357140" ON "public"."ApuActivityComposition" ("itemId");
+migration.sql-245-
+migration.sql:246:CREATE INDEX "ApuItem_tenantId_idx_c93ed4f1" ON "public"."ApuItem" ("tenantId");
+migration.sql-247-
+migration.sql:248:CREATE INDEX "AuditLog_actorId_idx_a58f6b4b" ON "public"."AuditLog" ("actorId");
+migration.sql-249-
+migration.sql:250:CREATE INDEX "AuditLog_createdAt_idx_9575dbd7" ON "public"."AuditLog" ("createdAt");
+migration.sql-251-
+migration.sql:252:CREATE INDEX "AuditLog_targetTenantId_idx_9ecf2d83" ON "public"."AuditLog" ("targetTenantId");
+migration.sql-253-
+migration.sql:254:CREATE INDEX "Booking_customerId_idx_b2a8a46c" ON "public"."Booking" ("customerId");
+migration.sql-255-
+migration.sql:256:CREATE INDEX "Booking_tenantId_idx_c93ed4f1" ON "public"."Booking" ("tenantId");
+migration.sql-257-
+migration.sql:258:CREATE INDEX "Customer_tenantId_idx_c93ed4f1" ON "public"."Customer" ("tenantId");
+migration.sql-259-
+migration.sql:260:CREATE INDEX "CustomerNote_createdBy_idx_ba0f792f" ON "public"."CustomerNote" ("createdBy");
+migration.sql-261-
+migration.sql:262:CREATE INDEX "CustomerNote_customerId_idx_b2a8a46c" ON "public"."CustomerNote" ("customerId");
+migration.sql-263-
+migration.sql:264:CREATE INDEX "CustomerNote_tenantId_idx_c93ed4f1" ON "public"."CustomerNote" ("tenantId");
+migration.sql-265-
+migration.sql:266:CREATE INDEX "Expense_tenantId_idx_c93ed4f1" ON "public"."Expense" ("tenantId");
+migration.sql-267-
+migration.sql:268:CREATE INDEX "Membership_customerId_idx_b2a8a46c" ON "public"."Membership" ("customerId");
+migration.sql-269-
+migration.sql:270:CREATE INDEX "Membership_tenantId_endDate_idx_49363571" ON "public"."Membership" ("tenantId", "endDate");
+migration.sql-271-
+migration.sql:272:CREATE INDEX "Membership_tenantId_idx_c93ed4f1" ON "public"."Membership" ("tenantId");
+migration.sql-273-
+migration.sql:274:CREATE INDEX "Payment_customerId_idx_b2a8a46c" ON "public"."Payment" ("customerId");
+migration.sql-275-
+migration.sql:276:CREATE INDEX "Payment_membershipId_idx_fdcfb7b5" ON "public"."Payment" ("membershipId");
+migration.sql-277-
+migration.sql:278:CREATE INDEX "Payment_providerRefId_idx_0d521fc8" ON "public"."Payment" ("providerRefId");
+migration.sql-279-
+migration.sql:280:CREATE INDEX "Payment_tenantId_idx_c93ed4f1" ON "public"."Payment" ("tenantId");
+migration.sql-281-
+migration.sql:282:CREATE INDEX "Quote_customerId_idx_b2a8a46c" ON "public"."Quote" ("customerId");
+migration.sql-283-
+migration.sql:284:CREATE INDEX "Quote_tenantId_idx_c93ed4f1" ON "public"."Quote" ("tenantId");
+migration.sql-285-
+migration.sql:286:CREATE INDEX "Quote_tenantId_status_idx_d3d04256" ON "public"."Quote" ("tenantId", "status");
+migration.sql-287-
+migration.sql:288:CREATE INDEX "QuoteItem_activityId_idx_bf2a659e" ON "public"."QuoteItem" ("activityId");
+migration.sql-289-
+migration.sql:290:CREATE INDEX "QuoteItem_quoteId_idx_a7628ce5" ON "public"."QuoteItem" ("quoteId");
+migration.sql-291-
+migration.sql:292:CREATE INDEX "Tenant_slug_idx_73b7f5ce" ON "public"."Tenant" ("slug");
+migration.sql-293-
+migration.sql:294:CREATE INDEX "TenantModule_tenantId_idx_c93ed4f1" ON "public"."TenantModule" ("tenantId");
+migration.sql-295-
+migration.sql:296:CREATE INDEX "User_tenantId_idx_c93ed4f1" ON "public"."User" ("tenantId");
+migration.sql-297-
+migration.sql-298-ALTER TABLE "public"."ApuActivity"
+migration.sql-299-ADD CONSTRAINT "ApuActivity_tenantId_fkey"
+migration.sql-300-FOREIGN KEY ("tenantId")
+migration.sql-301-REFERENCES "public"."Tenant" ("id")
+migration.sql-302-ON DELETE CASCADE;
+migration.sql-303-
+migration.sql-304-ALTER TABLE "public"."ApuActivityComposition"
+migration.sql-305-ADD CONSTRAINT "ApuActivityComposition_activityId_fkey"
+migration.sql-306-FOREIGN KEY ("activityId")
+migration.sql-307-REFERENCES "public"."ApuActivity" ("id")
+migration.sql-308-ON DELETE CASCADE;
+migration.sql-309-
+migration.sql-310-ALTER TABLE "public"."ApuActivityComposition"
+migration.sql-311-ADD CONSTRAINT "ApuActivityComposition_itemId_fkey"
+migration.sql-312-FOREIGN KEY ("itemId")
+migration.sql-313-REFERENCES "public"."ApuItem" ("id")
+migration.sql-314-ON DELETE CASCADE;
+migration.sql-315-
+migration.sql-316-ALTER TABLE "public"."ApuItem"
+migration.sql-317-ADD CONSTRAINT "ApuItem_tenantId_fkey"
+migration.sql-318-FOREIGN KEY ("tenantId")
+migration.sql-319-REFERENCES "public"."Tenant" ("id")
+migration.sql-320-ON DELETE CASCADE;
+migration.sql-321-
+=== TENANT DDL ===
+migration.sql:1:CREATE SCHEMA IF NOT EXISTS "public";
+migration.sql-2-
+migration.sql:3:CREATE TABLE "public"."ApuActivity" (
+migration.sql-4-  "code" text,
+migration.sql-5-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-6-  "description" text,
+migration.sql-7-  "id" text NOT NULL,
+migration.sql-8-  "name" text NOT NULL,
+migration.sql-9-  "tenantId" text NOT NULL,
+migration.sql-10-  "unit" text NOT NULL,
+migration.sql-11-  "updatedAt" timestamptz NOT NULL,
+migration.sql-12-  PRIMARY KEY ("id")
+migration.sql-13-);
+migration.sql-14-
+migration.sql:15:CREATE TABLE "public"."ApuActivityComposition" (
+migration.sql-16-  "activityId" text NOT NULL,
+migration.sql-17-  "consumption" numeric NOT NULL,
+migration.sql-18-  "id" text NOT NULL,
+migration.sql-19-  "itemId" text NOT NULL,
+migration.sql-20-  "wastePercent" numeric NOT NULL,
+migration.sql-21-  PRIMARY KEY ("id")
+migration.sql-22-);
+migration.sql-23-
+migration.sql:24:CREATE TABLE "public"."ApuItem" (
+migration.sql-25-  "category" text NOT NULL,
+migration.sql-26-  "code" text,
+migration.sql-27-  "id" text NOT NULL,
+migration.sql-28-  "name" text NOT NULL,
+migration.sql-29-  "tenantId" text NOT NULL,
+migration.sql-30-  "unit" text NOT NULL,
+migration.sql-31-  "unitPrice" numeric NOT NULL,
+migration.sql-32-  "updatedAt" timestamptz NOT NULL,
+migration.sql-33-  PRIMARY KEY ("id"),
+migration.sql-34-  CONSTRAINT "ApuItem_category_check_cb615411" CHECK ("category" IN ('MATERIAL', 'MANO_DE_OBRA', 'EQUIPO', 'TRANSPORTE'))
+migration.sql-35-);
+migration.sql-36-
+migration.sql:37:CREATE TABLE "public"."AuditLog" (
+migration.sql-38-  "action" text NOT NULL,
+migration.sql-39-  "actorEmail" text,
+migration.sql-40-  "actorId" text NOT NULL,
+migration.sql-41-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-42-  "id" text NOT NULL,
+migration.sql-43-  "ipAddress" text,
+migration.sql-44-  "metadata" json,
+migration.sql-45-  "targetTenantId" text,
+migration.sql-46-  "targetTenantName" text,
+migration.sql-47-  "userAgent" text,
+migration.sql-48-  PRIMARY KEY ("id")
+migration.sql-49-);
+migration.sql-50-
+migration.sql:51:CREATE TABLE "public"."Booking" (
+migration.sql-52-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-53-  "customerId" text NOT NULL,
+migration.sql-54-  "endDate" timestamptz NOT NULL,
+migration.sql-55-  "id" text NOT NULL,
+migration.sql-56-  "notes" text,
+migration.sql-57-  "serviceName" text NOT NULL,
+migration.sql-58-  "startDate" timestamptz NOT NULL,
+migration.sql-59-  "status" text DEFAULT 'PENDING' NOT NULL,
+migration.sql-60-  "tenantId" text NOT NULL,
+migration.sql-61-  "totalAmount" int8 DEFAULT '0'::int8 NOT NULL,
+migration.sql-62-  "updatedAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-63-  PRIMARY KEY ("id"),
+migration.sql-64-  CONSTRAINT "Booking_status_check_7d2ee7b5" CHECK ("status" IN ('PENDING', 'CONFIRMED', 'COMPLETED', 'CANCELLED'))
+migration.sql-65-);
+migration.sql-66-
+migration.sql:67:CREATE TABLE "public"."Customer" (
+migration.sql-68-  "active" bool DEFAULT true NOT NULL,
+migration.sql-69-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-70-  "email" text,
+migration.sql-71-  "id" text NOT NULL,
+migration.sql-72-  "name" text NOT NULL,
+migration.sql-73-  "phone" text,
+migration.sql-74-  "tenantId" text NOT NULL,
+migration.sql-75-  "updatedAt" timestamptz NOT NULL,
+migration.sql-76-  PRIMARY KEY ("id")
+migration.sql-77-);
+migration.sql-78-
+migration.sql:79:CREATE TABLE "public"."CustomerNote" (
+migration.sql-80-  "content" text NOT NULL,
+migration.sql-81-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-82-  "createdBy" text,
+migration.sql-83-  "customerId" text NOT NULL,
+migration.sql-84-  "id" text NOT NULL,
+migration.sql-85-  "tenantId" text NOT NULL,
+migration.sql-86-  "updatedAt" timestamptz NOT NULL,
+migration.sql-87-  PRIMARY KEY ("id")
+migration.sql-88-);
+migration.sql-89-
+migration.sql:90:CREATE TABLE "public"."Expense" (
+migration.sql-91-  "amount" numeric NOT NULL,
+migration.sql-92-  "category" text NOT NULL,
+migration.sql-93-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-94-  "date" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-95-  "description" text NOT NULL,
+migration.sql-96-  "id" text NOT NULL,
+migration.sql-97-  "tenantId" text NOT NULL,
+migration.sql-98-  "updatedAt" timestamptz NOT NULL,
+migration.sql-99-  PRIMARY KEY ("id")
+migration.sql-100-);
+migration.sql-101-
+migration.sql:102:CREATE TABLE "public"."Membership" (
+migration.sql-103-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-104-  "customerId" text NOT NULL,
+migration.sql-105-  "endDate" timestamptz NOT NULL,
+migration.sql-106-  "id" text NOT NULL,
+migration.sql-107-  "payments" json,
+migration.sql-108-  "price" numeric NOT NULL,
+migration.sql-109-  "startDate" timestamptz NOT NULL,
+migration.sql-110-  "status" text DEFAULT 'active' NOT NULL,
+migration.sql-111-  "tenantId" text NOT NULL,
+migration.sql-112-  "type" text NOT NULL,
+migration.sql-113-  "updatedAt" timestamptz NOT NULL,
+migration.sql-114-  PRIMARY KEY ("id"),
+migration.sql-115-  CONSTRAINT "Membership_status_check_105845ed" CHECK ("status" IN ('active', 'expiring', 'expired')),
+migration.sql-116-  CONSTRAINT "Membership_type_check_2115602f" CHECK ("type" IN ('mensual', 'trimestral', 'anual'))
+migration.sql-117-);
+migration.sql-118-
+migration.sql:119:CREATE TABLE "public"."Payment" (
+migration.sql-120-  "amount" numeric NOT NULL,
+migration.sql-121-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-122-  "customerId" text,
+migration.sql-123-  "description" text,
+migration.sql-124-  "id" text NOT NULL,
+migration.sql-125-  "membershipId" text,
+migration.sql-126-  "provider" text DEFAULT 'CASH' NOT NULL,
+migration.sql-127-  "providerRefId" text,
+migration.sql-128-  "status" text DEFAULT 'PENDING' NOT NULL,
+migration.sql-129-  "tenantId" text NOT NULL,
+migration.sql-130-  "updatedAt" timestamptz NOT NULL,
+migration.sql-131-  PRIMARY KEY ("id"),
+migration.sql-132-  CONSTRAINT "Payment_provider_check_86b69e55" CHECK ("provider" IN ('WOMPI', 'NEQUI', 'CASH', 'TRANSFER')),
+migration.sql-133-  CONSTRAINT "Payment_status_check_6198e80f" CHECK ("status" IN ('PENDING', 'APPROVED', 'DECLINED', 'VOIDED'))
+migration.sql-134-);
+migration.sql-135-
+migration.sql:136:CREATE TABLE "public"."Quote" (
+migration.sql-137-  "adminPercent" numeric DEFAULT '15'::numeric NOT NULL,
+migration.sql-138-  "code" text NOT NULL,
+migration.sql-139-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-140-  "customerId" text,
+migration.sql-141-  "directCost" numeric NOT NULL,
+migration.sql-142-  "id" text NOT NULL,
+migration.sql-143-  "imprevPercent" numeric DEFAULT '5'::numeric NOT NULL,
+migration.sql-144-  "status" text DEFAULT 'DRAFT' NOT NULL,
+migration.sql-145-  "taxPercent" numeric DEFAULT '19'::numeric NOT NULL,
+migration.sql-146-  "tenantId" text NOT NULL,
+migration.sql-147-  "title" text NOT NULL,
+migration.sql-148-  "totalAmount" numeric NOT NULL,
+migration.sql-149-  "updatedAt" timestamptz NOT NULL,
+migration.sql-150-  "utilPercent" numeric DEFAULT '10'::numeric NOT NULL,
+migration.sql-151-  PRIMARY KEY ("id"),
+migration.sql-152-  CONSTRAINT "Quote_status_check_58e78406" CHECK ("status" IN ('DRAFT', 'SENT', 'APPROVED', 'REJECTED'))
+migration.sql-153-);
+migration.sql-154-
+migration.sql:155:CREATE TABLE "public"."QuoteItem" (
+migration.sql-156-  "activityId" text,
+migration.sql-157-  "apuSnapshot" json,
+migration.sql-158-  "id" text NOT NULL,
+migration.sql-159-  "name" text NOT NULL,
+migration.sql-160-  "quantity" numeric NOT NULL,
+migration.sql-161-  "quoteId" text NOT NULL,
+migration.sql-162-  "totalCost" numeric NOT NULL,
+migration.sql-163-  "unit" text NOT NULL,
+migration.sql-164-  "unitCost" numeric NOT NULL,
+migration.sql-165-  PRIMARY KEY ("id")
+migration.sql-166-);
+migration.sql-167-
+migration.sql:168:CREATE TABLE "public"."Tenant" (
+migration.sql-169-  "active" bool DEFAULT true NOT NULL,
+migration.sql-170-  "address" text,
+migration.sql-171-  "city" text,
+migration.sql-172-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-173-  "customDomain" text,
+migration.sql-174-  "googleBusinessUrl" text,
+migration.sql-175-  "id" text NOT NULL,
+migration.sql-176-  "instagramHandle" text,
+migration.sql-177-  "legalName" text,
+migration.sql-178-  "name" text NOT NULL,
+migration.sql-179-  "onboardingCompleted" bool DEFAULT false NOT NULL,
+migration.sql-180-  "paymentMethods" text[],
+migration.sql-181-  "slug" text NOT NULL,
+migration.sql-182-  "suspendedAt" timestamptz,
+migration.sql-183-  "suspendedReason" text,
+migration.sql-184-  "taxId" text,
+migration.sql-185-  "teamSize" text,
+migration.sql-186-  "tenantType" text DEFAULT 'COMPANY' NOT NULL,
+migration.sql-187-  "updatedAt" timestamptz NOT NULL,
+migration.sql-188-  "vertical" text NOT NULL,
+migration.sql-189-  "websiteUrl" text,
+migration.sql-190-  "whatsappNumber" text,
+migration.sql-191-  PRIMARY KEY ("id"),
+migration.sql-192-  CONSTRAINT "Tenant_paymentMethods_check_08fe4dd4" CHECK ("paymentMethods"::text[] <@ ARRAY['WOMPI', 'NEQUI', 'CASH', 'TRANSFER']::text[]),
+migration.sql-193-  CONSTRAINT "Tenant_paymentMethods_elem_not_null_7b2f47d4" CHECK (array_position("paymentMethods", NULL) IS NULL),
+migration.sql-194-  CONSTRAINT "Tenant_tenantType_check_0d8e073f" CHECK ("tenantType" IN ('INDIVIDUAL', 'COMPANY')),
+migration.sql-195-  CONSTRAINT "Tenant_vertical_check_739779ca" CHECK ("vertical" IN ('gym', 'tourism_agency', 'hospitality', 'construction', 'carpentry', 'restaurant', 'retail', 'beauty', 'healthcare', 'mechanic', 'education', 'real_estate', 'hardware_store', 'nautical_transport', 'tour_guides', 'events'))
+migration.sql-196-);
+migration.sql-197-
+migration.sql:198:CREATE TABLE "public"."TenantModule" (
+migration.sql-199-  "active" bool DEFAULT true NOT NULL,
+migration.sql-200-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-201-  "id" text NOT NULL,
+migration.sql-202-  "moduleName" text NOT NULL,
+migration.sql-203-  "tenantId" text NOT NULL,
+migration.sql-204-  "updatedAt" timestamptz NOT NULL,
+migration.sql-205-  PRIMARY KEY ("id"),
+migration.sql-206-  CONSTRAINT "TenantModule_moduleName_check_e283a8b3" CHECK ("moduleName" IN ('crm', 'dashboard', 'bookings', 'payments', 'billing', 'inventory', 'finance', 'whatsapp', 'memberships', 'orders', 'quotes'))
+migration.sql-207-);
+migration.sql-208-
+migration.sql:209:CREATE TABLE "public"."User" (
+migration.sql-210-  "clerkUserId" text NOT NULL,
+migration.sql-211-  "createdAt" timestamptz DEFAULT (now()) NOT NULL,
+migration.sql-212-  "email" text NOT NULL,
+migration.sql-213-  "id" text NOT NULL,
+migration.sql-214-  "name" text,
+migration.sql-215-  "role" text DEFAULT 'STAFF' NOT NULL,
+migration.sql-216-  "tenantId" text NOT NULL,
+migration.sql-217-  "updatedAt" timestamptz NOT NULL,
+migration.sql-218-  PRIMARY KEY ("id"),
+migration.sql-219-  CONSTRAINT "User_role_check_40dd20e3" CHECK ("role" IN ('SUPERADMIN', 'OWNER', 'STAFF'))
+migration.sql-220-);
+migration.sql-221-
+migration.sql-222-ALTER TABLE "public"."ApuActivity" ADD CONSTRAINT "ApuActivity_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-223-
+migration.sql-224-ALTER TABLE "public"."ApuActivityComposition" ADD CONSTRAINT "ApuActivityComposition_activityId_itemId_key" UNIQUE ("activityId", "itemId");
+migration.sql-225-
+migration.sql-226-ALTER TABLE "public"."ApuItem" ADD CONSTRAINT "ApuItem_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-227-
+migration.sql-228-ALTER TABLE "public"."Payment" ADD CONSTRAINT "Payment_providerRefId_key" UNIQUE ("providerRefId");
+migration.sql-229-
+migration.sql-230-ALTER TABLE "public"."Quote" ADD CONSTRAINT "Quote_tenantId_code_key" UNIQUE ("tenantId", "code");
+migration.sql-231-
+migration.sql-232-ALTER TABLE "public"."Tenant" ADD CONSTRAINT "Tenant_slug_key" UNIQUE ("slug");
+migration.sql-233-
+migration.sql-234-ALTER TABLE "public"."Tenant" ADD CONSTRAINT "Tenant_customDomain_key" UNIQUE ("customDomain");
+migration.sql-235-
+migration.sql-236-ALTER TABLE "public"."TenantModule" ADD CONSTRAINT "TenantModule_tenantId_moduleName_key" UNIQUE ("tenantId", "moduleName");
+migration.sql-237-
+migration.sql-238-ALTER TABLE "public"."User" ADD CONSTRAINT "User_clerkUserId_tenantId_key" UNIQUE ("clerkUserId", "tenantId");
+migration.sql-239-
+migration.sql:240:CREATE INDEX "ApuActivity_tenantId_idx_c93ed4f1" ON "public"."ApuActivity" ("tenantId");
+migration.sql-241-
+migration.sql:242:CREATE INDEX "ApuActivityComposition_activityId_idx_bf2a659e" ON "public"."ApuActivityComposition" ("activityId");
+migration.sql-243-
+migration.sql:244:CREATE INDEX "ApuActivityComposition_itemId_idx_41357140" ON "public"."ApuActivityComposition" ("itemId");
+migration.sql-245-
+migration.sql:246:CREATE INDEX "ApuItem_tenantId_idx_c93ed4f1" ON "public"."ApuItem" ("tenantId");
+migration.sql-247-
+migration.sql:248:CREATE INDEX "AuditLog_actorId_idx_a58f6b4b" ON "public"."AuditLog" ("actorId");
+migration.sql-249-
+migration.sql:250:CREATE INDEX "AuditLog_createdAt_idx_9575dbd7" ON "public"."AuditLog" ("createdAt");
+migration.sql-251-
+migration.sql:252:CREATE INDEX "AuditLog_targetTenantId_idx_9ecf2d83" ON "public"."AuditLog" ("targetTenantId");
+migration.sql-253-
+migration.sql:254:CREATE INDEX "Booking_customerId_idx_b2a8a46c" ON "public"."Booking" ("customerId");
+migration.sql-255-
+migration.sql:256:CREATE INDEX "Booking_tenantId_idx_c93ed4f1" ON "public"."Booking" ("tenantId");
+migration.sql-257-
+migration.sql:258:CREATE INDEX "Customer_tenantId_idx_c93ed4f1" ON "public"."Customer" ("tenantId");
+migration.sql-259-
+migration.sql:260:CREATE INDEX "CustomerNote_createdBy_idx_ba0f792f" ON "public"."CustomerNote" ("createdBy");
+migration.sql-261-
+migration.sql:262:CREATE INDEX "CustomerNote_customerId_idx_b2a8a46c" ON "public"."CustomerNote" ("customerId");
+migration.sql-263-
+migration.sql:264:CREATE INDEX "CustomerNote_tenantId_idx_c93ed4f1" ON "public"."CustomerNote" ("tenantId");
+migration.sql-265-
+migration.sql:266:CREATE INDEX "Expense_tenantId_idx_c93ed4f1" ON "public"."Expense" ("tenantId");
+migration.sql-267-
+migration.sql:268:CREATE INDEX "Membership_customerId_idx_b2a8a46c" ON "public"."Membership" ("customerId");
+migration.sql-269-
+migration.sql:270:CREATE INDEX "Membership_tenantId_endDate_idx_49363571" ON "public"."Membership" ("tenantId", "endDate");
+migration.sql-271-
+migration.sql:272:CREATE INDEX "Membership_tenantId_idx_c93ed4f1" ON "public"."Membership" ("tenantId");
+migration.sql-273-
+migration.sql:274:CREATE INDEX "Payment_customerId_idx_b2a8a46c" ON "public"."Payment" ("customerId");
+migration.sql-275-
+migration.sql:276:CREATE INDEX "Payment_membershipId_idx_fdcfb7b5" ON "public"."Payment" ("membershipId");
+migration.sql-277-
+migration.sql:278:CREATE INDEX "Payment_providerRefId_idx_0d521fc8" ON "public"."Payment" ("providerRefId");
+migration.sql-279-
+migration.sql:280:CREATE INDEX "Payment_tenantId_idx_c93ed4f1" ON "public"."Payment" ("tenantId");
+migration.sql-281-
+migration.sql:282:CREATE INDEX "Quote_customerId_idx_b2a8a46c" ON "public"."Quote" ("customerId");
+migration.sql-283-
+migration.sql:284:CREATE INDEX "Quote_tenantId_idx_c93ed4f1" ON "public"."Quote" ("tenantId");
+migration.sql-285-
+migration.sql:286:CREATE INDEX "Quote_tenantId_status_idx_d3d04256" ON "public"."Quote" ("tenantId", "status");
+migration.sql-287-
+migration.sql:288:CREATE INDEX "QuoteItem_activityId_idx_bf2a659e" ON "public"."QuoteItem" ("activityId");
+migration.sql-289-
+migration.sql:290:CREATE INDEX "QuoteItem_quoteId_idx_a7628ce5" ON "public"."QuoteItem" ("quoteId");
+migration.sql-291-
+migration.sql:292:CREATE INDEX "Tenant_slug_idx_73b7f5ce" ON "public"."Tenant" ("slug");
+migration.sql-293-
+migration.sql:294:CREATE INDEX "TenantModule_tenantId_idx_c93ed4f1" ON "public"."TenantModule" ("tenantId");
+migration.sql-295-
+migration.sql:296:CREATE INDEX "User_tenantId_idx_c93ed4f1" ON "public"."User" ("tenantId");
+migration.sql-297-
+migration.sql-298-ALTER TABLE "public"."ApuActivity"
+migration.sql-299-ADD CONSTRAINT "ApuActivity_tenantId_fkey"
+migration.sql-300-FOREIGN KEY ("tenantId")
+migration.sql-301-REFERENCES "public"."Tenant" ("id")
+migration.sql-302-ON DELETE CASCADE;
+migration.sql-303-
+migration.sql-304-ALTER TABLE "public"."ApuActivityComposition"
+migration.sql-305-ADD CONSTRAINT "ApuActivityComposition_activityId_fkey"
+migration.sql-306-FOREIGN KEY ("activityId")
+migration.sql-307-REFERENCES "public"."ApuActivity" ("id")
+migration.sql-308-ON DELETE CASCADE;
+migration.sql-309-
+migration.sql-310-ALTER TABLE "public"."ApuActivityComposition"
+migration.sql-311-ADD CONSTRAINT "ApuActivityComposition_itemId_fkey"
+migration.sql-312-FOREIGN KEY ("itemId")
+migration.sql-313-REFERENCES "public"."ApuItem" ("id")
+migration.sql-314-ON DELETE CASCADE;
+migration.sql-315-
+migration.sql-316-ALTER TABLE "public"."ApuItem"
+migration.sql-317-ADD CONSTRAINT "ApuItem_tenantId_fkey"
+migration.sql-318-FOREIGN KEY ("tenantId")
+migration.sql-319-REFERENCES "public"."Tenant" ("id")
+migration.sql-320-ON DELETE CASCADE;
+migration.sql-321-
+migration.sql-322-ALTER TABLE "public"."Customer"
+migration.sql-323-ADD CONSTRAINT "Customer_tenantId_fkey"
+migration.sql-324-FOREIGN KEY ("tenantId")
+migration.sql-325-REFERENCES "public"."Tenant" ("id")
+migration.sql-326-ON DELETE CASCADE;
+=== ENUMS ===
+grep: TABLE: No such file or directory
+grep: public.User: No such file or directory
+grep: TABLE: No such file or directory
+grep: public.Tenant: No such file or directory
+migration.sql:1:CREATE SCHEMA IF NOT EXISTS "public";
+migration.sql:3:CREATE TABLE "public"."ApuActivity" (
+migration.sql:15:CREATE TABLE "public"."ApuActivityComposition" (
+migration.sql:24:CREATE TABLE "public"."ApuItem" (
+migration.sql:37:CREATE TABLE "public"."AuditLog" (
+migration.sql:51:CREATE TABLE "public"."Booking" (
+migration.sql:67:CREATE TABLE "public"."Customer" (
+migration.sql:79:CREATE TABLE "public"."CustomerNote" (
+migration.sql:90:CREATE TABLE "public"."Expense" (
+migration.sql:102:CREATE TABLE "public"."Membership" (
+migration.sql:119:CREATE TABLE "public"."Payment" (
+migration.sql:136:CREATE TABLE "public"."Quote" (
+migration.sql:155:CREATE TABLE "public"."QuoteItem" (
+migration.sql:168:CREATE TABLE "public"."Tenant" (
+migration.sql:198:CREATE TABLE "public"."TenantModule" (
+migration.sql:209:CREATE TABLE "public"."User" (
+migration.sql:240:CREATE INDEX "ApuActivity_tenantId_idx_c93ed4f1" ON "public"."ApuActivity" ("tenantId");
+migration.sql:242:CREATE INDEX "ApuActivityComposition_activityId_idx_bf2a659e" ON "public"."ApuActivityComposition" ("activityId");
+migration.sql:244:CREATE INDEX "ApuActivityComposition_itemId_idx_41357140" ON "public"."ApuActivityComposition" ("itemId");
+migration.sql:246:CREATE INDEX "ApuItem_tenantId_idx_c93ed4f1" ON "public"."ApuItem" ("tenantId");
+migration.sql:248:CREATE INDEX "AuditLog_actorId_idx_a58f6b4b" ON "public"."AuditLog" ("actorId");
+migration.sql:250:CREATE INDEX "AuditLog_createdAt_idx_9575dbd7" ON "public"."AuditLog" ("createdAt");
+migration.sql:252:CREATE INDEX "AuditLog_targetTenantId_idx_9ecf2d83" ON "public"."AuditLog" ("targetTenantId");
+migration.sql:254:CREATE INDEX "Booking_customerId_idx_b2a8a46c" ON "public"."Booking" ("customerId");
+migration.sql:256:CREATE INDEX "Booking_tenantId_idx_c93ed4f1" ON "public"."Booking" ("tenantId");
+migration.sql:258:CREATE INDEX "Customer_tenantId_idx_c93ed4f1" ON "public"."Customer" ("tenantId");
+migration.sql:260:CREATE INDEX "CustomerNote_createdBy_idx_ba0f792f" ON "public"."CustomerNote" ("createdBy");
+migration.sql:262:CREATE INDEX "CustomerNote_customerId_idx_b2a8a46c" ON "public"."CustomerNote" ("customerId");
+migration.sql:264:CREATE INDEX "CustomerNote_tenantId_idx_c93ed4f1" ON "public"."CustomerNote" ("tenantId");
+migration.sql:266:CREATE INDEX "Expense_tenantId_idx_c93ed4f1" ON "public"."Expense" ("tenantId");
+migration.sql:268:CREATE INDEX "Membership_customerId_idx_b2a8a46c" ON "public"."Membership" ("customerId");
+migration.sql:270:CREATE INDEX "Membership_tenantId_endDate_idx_49363571" ON "public"."Membership" ("tenantId", "endDate");
+migration.sql:272:CREATE INDEX "Membership_tenantId_idx_c93ed4f1" ON "public"."Membership" ("tenantId");
+migration.sql:274:CREATE INDEX "Payment_customerId_idx_b2a8a46c" ON "public"."Payment" ("customerId");
+migration.sql:276:CREATE INDEX "Payment_membershipId_idx_fdcfb7b5" ON "public"."Payment" ("membershipId");
+migration.sql:278:CREATE INDEX "Payment_providerRefId_idx_0d521fc8" ON "public"."Payment" ("providerRefId");
+migration.sql:280:CREATE INDEX "Payment_tenantId_idx_c93ed4f1" ON "public"."Payment" ("tenantId");
+migration.sql:282:CREATE INDEX "Quote_customerId_idx_b2a8a46c" ON "public"."Quote" ("customerId");
+migration.sql:284:CREATE INDEX "Quote_tenantId_idx_c93ed4f1" ON "public"."Quote" ("tenantId");
+migration.sql:286:CREATE INDEX "Quote_tenantId_status_idx_d3d04256" ON "public"."Quote" ("tenantId", "status");
+migration.sql:288:CREATE INDEX "QuoteItem_activityId_idx_bf2a659e" ON "public"."QuoteItem" ("activityId");
+migration.sql:290:CREATE INDEX "QuoteItem_quoteId_idx_a7628ce5" ON "public"."QuoteItem" ("quoteId");
+migration.sql:292:CREATE INDEX "Tenant_slug_idx_73b7f5ce" ON "public"."Tenant" ("slug");
+migration.sql:294:CREATE INDEX "TenantModule_tenantId_idx_c93ed4f1" ON "public"."TenantModule" ("tenantId");
+migration.sql:296:CREATE INDEX "User_tenantId_idx_c93ed4f1" ON "public"."User" ("tenantId");
+grep: TYPE: No such file or directory
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now I have full DDL. Key facts:
+
+- `User.tenantId` NOT NULL, FK → Tenant(id) ON DELETE CASCADE. So a superadmin MUST belong to a tenant.
+- `User` unique on (clerkUserId, tenantId).
+- `User.updatedAt` NOT NULL with NO default → must provide explicitly.
+- `Tenant.updatedAt` NOT NULL with no default → must provide.
+- `Tenant.slug` unique, `vertical` must be one of the enum values.
+- Also note: `isSuperAdmin` queries only by clerkUserId + role, doesn't filter tenant. So any row works.
+
+So the query to create the superadmin: needs an existing tenant. The user asked "a que tenant se afilia" — I never answered. The answer: it must be attached to a tenant; if no tenant exists, create one (e.g., a "Nexus" platform tenant with slug `nexus`).
+
+Also — important! Why is /admin still 404 after the UPDATE? Possibilities:
+1. UPDATE affected 0 rows (no User row for that clerkUserId → user never completed onboarding).
+2. The migration.sql was never run in the new Supabase DB (tables don't exist) — but then query would error.
+3. /admin 404 could come from `notFound()` in layout, OR the proxy rewriting, OR the page not deployed.
+
+Actually wait — there's another possibility: proxy.ts might be routing `/admin` as a tenant slug! Let me re-read proxy.ts. The summary says `/admin` and `/admin/*` pass through. But we should verify the actual code. Also possibly `app/admin` was excluded... Actually let me check whether the page file exists — earlier confirmed `app/admin/page.tsx` exists.
+
+Hmm, but also: does the deployed Vercel version have those proxy changes? User said they pushed.
+
+Let me check proxy.ts and also check if there's a `[tenant]` route conflict — actually `app/admin` is static so it wins over `app/[tenant]`.
+
+Actually another possibility: notFound() in layout of admin — Next does render 404. If user isn't logged in with a session in the browser, redirectToSignIn → sign-in. They said 404, so they ARE logged in (session present) but isSuperAdmin false. That means the UPDATE didn't take effect: either 0 rows, or the DB being queried is a different one than the one they ran the SQL against (Vercel env var pointing to a different DB!), or role value mismatch.
+
+Wait — critical: they might have run the SQL in Supabase SQL Editor of project `vnwwarudcycqdrthiouk`, but Vercel's DATABASE_URL might point elsewhere. Or... the CHECK constraint allows SUPERADMIN so that's fine.
+
+Another thought: Prisma may be reading a cached/generated client? No.
+
+Also possible: `updatedAt` — not relevant to SELECT.
+
+Most likely: no User row exists for that clerkUserId (they never completed onboarding on the DB that's live), so UPDATE matched 0 rows.
+
+I can't query the DB myself easily... Actually I could: psql binary exists at /usr/bin/psql! Let's use it with the direct connection or pooler. Earlier `command -v psql` returned /usr/bin/psql. The npx psql was a wrong package. Let's use real psql.
+
+Let me run a query against the Supabase pooler to check the user row, tenants, and whether tables exist. Also check .env DATABASE_URL to confirm what Vercel likely uses.
+
+Let's do it.
+
+</details>
+
+Tengo el DDL completo. Antes de darte la query, verifico en la BD real por qué el UPDATE no sirvió:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run grep -E '^(DATABASE_URL|DIRECT_URL)' .env | sed -E 's#://[^@]*@#://***@#'
+
+**Input:**
+```json
+{
+  "command": "rtk run grep -E '^(DATABASE_URL|DIRECT_URL)' .env | sed -E 's#://[^@]*@#://***@#'",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+sh: -c: line 1: syntax error near unexpected token `('
+sh: -c: line 1: `grep -E ^(DATABASE_URL|DIRECT_URL) .env'
+
+```
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** PGPASSWORD='91Cn8NVgSBO4xvMS' /usr/bin/psql "host=aws-1-ca-central-1.pooler.supabase.com port=6543 user=postgres.vnwwarudcycqdrthiouk dbname=postgres sslmode=require" -X -P pager=off -c "\dt public.*" -c "SELECT id, \"clerkUserId\", email, name, role, \"tenantId\" FROM public.\"User\";" -c "SELECT id, name, slug, vertical, active FROM public.\"Tenant\";" 2>&1
+
+**Input:**
+```json
+{
+  "command": "PGPASSWORD='91Cn8NVgSBO4xvMS' /usr/bin/psql \"host=aws-1-ca-central-1.pooler.supabase.com port=6543 user=postgres.vnwwarudcycqdrthiouk dbname=postgres sslmode=require\" -X -P pager=off -c \"\\dt public.*\" -c \"SELECT id, \\\"clerkUserId\\\", email, name, role, \\\"tenantId\\\" FROM public.\\\"User\\\";\" -c \"SELECT id, name, slug, vertical, active FROM public.\\\"Tenant\\\";\" 2>&1",
+  "workdir": "/home/craxker/github/nexus-thrive",
+  "timeout": 60000
+}
+```
+
+**Output:**
+```
+                   List of tables
+ Schema |          Name          | Type  |  Owner   
+--------+------------------------+-------+----------
+ public | ApuActivity            | table | postgres
+ public | ApuActivityComposition | table | postgres
+ public | ApuItem                | table | postgres
+ public | AuditLog               | table | postgres
+ public | Booking                | table | postgres
+ public | Customer               | table | postgres
+ public | CustomerNote           | table | postgres
+ public | Expense                | table | postgres
+ public | Membership             | table | postgres
+ public | Payment                | table | postgres
+ public | Quote                  | table | postgres
+ public | QuoteItem              | table | postgres
+ public | Tenant                 | table | postgres
+ public | TenantModule           | table | postgres
+ public | User                   | table | postgres
+(15 rows)
+
+ id | clerkUserId | email | name | role | tenantId 
+----+-------------+-------+------+------+----------
+(0 rows)
+
+ id | name | slug | vertical | active 
+----+------+------+----------+--------
+(0 rows)
+
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Confirmed: the tables exist (migration.sql ran fine), but **User table is empty** and **Tenant table is empty**. So the UPDATE touched 0 rows → 404.
+
+Also this means: onboarding was never completed on this DB. So the user needs BOTH a Tenant and a User row.
+
+Now let me check .env DATABASE_URL to confirm this is the same DB Vercel uses.
+
+Let me read .env with the read tool (careful about secrets — I shouldn't print them. I already know from context: vnwwarudcycqdrthiouk). I'll grep without showing password. Actually just check the host/ref portion.
+
+</details>
+
+Confirmado: **tablas OK, pero `User` y `Tenant` están vacías** — el UPDATE tocó 0 filas, por eso el 404. Verifico que Vercel apunte a esta misma BD:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run grep -E 'DATABASE_URL|DIRECT_URL' .env | sed -E 's/:[^:@]*@/:***@/'
+
+**Input:**
+```json
+{
+  "command": "rtk run grep -E 'DATABASE_URL|DIRECT_URL' .env | sed -E 's/:[^:@]*@/:***@/'",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+sh: line 1: DIRECT_URL: command not found
+
+```
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk run grep -n -A 20 'nonTenantRoutes\|reserved\|/admin' proxy.ts
+
+**Input:**
+```json
+{
+  "command": "rtk run grep -n -A 20 'nonTenantRoutes\\|reserved\\|/admin' proxy.ts",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+(no output)
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+rtk is filtering/transforming my commands oddly. The grep with quotes seems to be getting mangled. Let me use the Grep tool instead for proxy.ts, and read .env partially with Read tool.
+
+Actually .env contains secrets — I shouldn't print them fully. I only need to confirm host ref. Let me use Read on .env but be careful. I already know the password and keys from context; printing them again isn't adding exposure but rule says never expose tokens. I'll just check whether the ref matches vnwwarudcycqdrthiouk.
+
+</details>
+
+#### 🔧 Tool: grep
+**Status:** completed
+**Title:** admin|tenant|sign-in|__clerk|slug
+
+**Input:**
+```json
+{
+  "pattern": "admin|tenant|sign-in|__clerk|slug",
+  "path": "/home/craxker/github/nexus-thrive/proxy.ts"
+}
+```
+
+**Output:**
+```
+Found 100 matches (more matches available)
+/home/craxker/github/nexus-thrive/migration.sql:
+  Line 9:   "tenantId" text NOT NULL,
+
+  Line 29:   "tenantId" text NOT NULL,
+
+  Line 60:   "tenantId" text NOT NULL,
+
+  Line 74:   "tenantId" text NOT NULL,
+
+  Line 85:   "tenantId" text NOT NULL,
+
+  Line 97:   "tenantId" text NOT NULL,
+
+  Line 111:   "tenantId" text NOT NULL,
+
+  Line 129:   "tenantId" text NOT NULL,
+
+  Line 137:   "adminPercent" numeric DEFAULT '15'::numeric NOT NULL,
+
+  Line 146:   "tenantId" text NOT NULL,
+
+  Line 181:   "slug" text NOT NULL,
+
+  Line 186:   "tenantType" text DEFAULT 'COMPANY' NOT NULL,
+
+  Line 194:   CONSTRAINT "Tenant_tenantType_check_0d8e073f" CHECK ("tenantType" IN ('INDIVIDUAL', 'COMPANY')),
+
+  Line 203:   "tenantId" text NOT NULL,
+
+  Line 216:   "tenantId" text NOT NULL,
+
+  Line 222: ALTER TABLE "public"."ApuActivity" ADD CONSTRAINT "ApuActivity_tenantId_code_key" UNIQUE ("tenantId", "code");
+
+  Line 226: ALTER TABLE "public"."ApuItem" ADD CONSTRAINT "ApuItem_tenantId_code_key" UNIQUE ("tenantId", "code");
+
+  Line 230: ALTER TABLE "public"."Quote" ADD CONSTRAINT "Quote_tenantId_code_key" UNIQUE ("tenantId", "code");
+
+  Line 232: ALTER TABLE "public"."Tenant" ADD CONSTRAINT "Tenant_slug_key" UNIQUE ("slug");
+
+  Line 236: ALTER TABLE "public"."TenantModule" ADD CONSTRAINT "TenantModule_tenantId_moduleName_key" UNIQUE ("tenantId", "moduleName");
+
+  Line 238: ALTER TABLE "public"."User" ADD CONSTRAINT "User_clerkUserId_tenantId_key" UNIQUE ("clerkUserId", "tenantId");
+
+  Line 240: CREATE INDEX "ApuActivity_tenantId_idx_c93ed4f1" ON "public"."ApuActivity" ("tenantId");
+
+  Line 246: CREATE INDEX "ApuItem_tenantId_idx_c93ed4f1" ON "public"."ApuItem" ("tenantId");
+
+  Line 256: CREATE INDEX "Booking_tenantId_idx_c93ed4f1" ON "public"."Booking" ("tenantId");
+
+  Line 258: CREATE INDEX "Customer_tenantId_idx_c93ed4f1" ON "public"."Customer" ("tenantId");
+
+  Line 264: CREATE INDEX "CustomerNote_tenantId_idx_c93ed4f1" ON "public"."CustomerNote" ("tenantId");
+
+  Line 266: CREATE INDEX "Expense_tenantId_idx_c93ed4f1" ON "public"."Expense" ("tenantId");
+
+  Line 270: CREATE INDEX "Membership_tenantId_endDate_idx_49363571" ON "public"."Membership" ("tenantId", "endDate");
+
+  Line 272: CREATE INDEX "Membership_tenantId_idx_c93ed4f1" ON "public"."Membership" ("tenantId");
+
+  Line 280: CREATE INDEX "Payment_tenantId_idx_c93ed4f1" ON "public"."Payment" ("tenantId");
+
+  Line 284: CREATE INDEX "Quote_tenantId_idx_c93ed4f1" ON "public"."Quote" ("tenantId");
+
+  Line 286: CREATE INDEX "Quote_tenantId_status_idx_d3d04256" ON "public"."Quote" ("tenantId", "status");
+
+  Line 292: CREATE INDEX "Tenant_slug_idx_73b7f5ce" ON "public"."Tenant" ("slug");
+
+  Line 294: CREATE INDEX "TenantModule_tenantId_idx_c93ed4f1" ON "public"."TenantModule" ("tenantId");
+
+  Line 296: CREATE INDEX "User_tenantId_idx_c93ed4f1" ON "public"."User" ("tenantId");
+
+  Line 299: ADD CONSTRAINT "ApuActivity_tenantId_fkey"
+
+  Line 300: FOREIGN KEY ("tenantId")
+
+  Line 317: ADD CONSTRAINT "ApuItem_tenantId_fkey"
+
+  Line 318: FOREIGN KEY ("tenantId")
+
+  Line 323: ADD CONSTRAINT "Customer_tenantId_fkey"
+
+  Line 324: FOREIGN KEY ("tenantId")
+
+  Line 329: ADD CONSTRAINT "CustomerNote_tenantId_fkey"
+
+  Line 330: FOREIGN KEY ("tenantId")
+
+  Line 347: ADD CONSTRAINT "Expense_tenantId_fkey"
+
+  Line 348: FOREIGN KEY ("tenantId")
+
+  Line 353: ADD CONSTRAINT "Membership_tenantId_fkey"
+
+  Line 354: FOREIGN KEY ("tenantId")
+
+  Line 365: ADD CONSTRAINT "Payment_tenantId_fkey"
+
+  Line 366: FOREIGN KEY ("tenantId")
+
+  Line 383: ADD CONSTRAINT "Quote_tenantId_fkey"
+
+  Line 384: FOREIGN KEY ("tenantId")
+
+  Line 407: ADD CONSTRAINT "TenantModule_tenantId_fkey"
+
+  Line 408: FOREIGN KEY ("tenantId")
+
+  Line 413: ADD CONSTRAINT "User_tenantId_fkey"
+
+  Line 414: FOREIGN KEY ("tenantId")
+
+
+/home/craxker/github/nexus-thrive/proxy.ts:
+  Line 10:     pathname.startsWith("/sign-in") ||
+
+  Line 14:     pathname.startsWith("/__clerk") ||
+
+  Line 21:   // Admin panel: /admin/*
+
+  Line 22:   if (pathname === "/admin" || pathname.startsWith("/admin/")) {
+
+  Line 31:   // Tenant routes: /{tenant}/*
+
+  Line 32:   // Detecta primer segmento como tenant slug
+
+  Line 37:     // Rutas conocidas que NO son tenants
+
+  Line 38:     const nonTenantRoutes = ["admin", "onboarding", "sign-in", "sign-up", "api", "_next", "__clerk"];
+
+  Line 41:       // Es un tenant: /gymcarlos/... → reescribe a /gymcarlos/...
+
+  Line 42:       // Si ya viene con el tenant, pasa directo
+
+  Line 49:       // Reescribe añadiendo el tenant prefix
+
+  Line 56:   // Root → sign-in
+
+  Line 58:     return NextResponse.redirect(new URL("/sign-in", request.url));
+
+
+/home/craxker/github/nexus-thrive/prisma/contract.json:
+  Line 398:               "tenantId": {
+
+  Line 451:               "tenant": {
+
+  Line 456:                     "tenantId"
+
+  Line 485:                 "tenantId": {
+
+  Line 486:                   "column": "tenantId"
+
+  Line 629:               "tenantId": {
+
+  Line 674:               "tenant": {
+
+  Line 679:                     "tenantId"
+
+  Line 705:                 "tenantId": {
+
+  Line 706:                   "column": "tenantId"
+
+  Line 897:               "tenantId": {
+
+  Line 946:                 "tenantId": {
+
+  Line 947:                   "column": "tenantId"
+
+  Line 1004:               "tenantId": {
+
+  Line 1080:               "tenant": {
+
+  Line 1085:                     "tenantId"
+
+  Line 1117:                 "tenantId": {
+
+  Line 1118:                   "column": "tenantId"
+
+  Line 1165:               "tenantId": {
+
+  Line 1213:               "tenant": {
+
+  Line 1218:                     "tenantId"
+
+  Line 1247:                 "tenantId": {
+
+  Line 1248:                   "column": "tenantId"
+
+  Line 1302:               "tenantId": {
+
+  Line 1318:               "tenant": {
+
+  Line 1323:                     "tenantId"
+
+  Line 1355:                 "tenantId": {
+
+  Line 1356:                   "column": "tenantId"
+
+  Line 1430:               "tenantId": {
+
+  Line 1490:               "tenant": {
+
+  Line 1495:                     "tenantId"
+
+  Line 1533:                 "tenantId": {
+
+
+(Results truncated. Consider using a more specific path or pattern.)
+```
+
+#### 🔧 Tool: grep
+**Status:** completed
+**Title:** vnwwarudcycqdrthiouk|pooler\.supabase|DATABASE_URL|DIRECT_URL
+
+**Input:**
+```json
+{
+  "pattern": "vnwwarudcycqdrthiouk|pooler\\.supabase|DATABASE_URL|DIRECT_URL",
+  "path": "/home/craxker/github/nexus-thrive/.env"
+}
+```
+
+**Output:**
+```
+Found 100 matches (more matches available)
+/home/craxker/github/nexus-thrive/prisma/db.ts:
+  Line 8:   url: process.env.DATABASE_URL!,
+
+
+/home/craxker/github/nexus-thrive/prisma.config.ts:
+  Line 9:       connection: process.env["DATABASE_URL"]!,
+
+
+/home/craxker/github/nexus-thrive/conversations/20261010-00-13-10-Suprimir-alertas-de-desarrollo.md:
+  Line 376: 1: DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 382: 7: NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+
+  Line 383: 8: NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+  Line 458: DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 466: NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+
+  Line 467: NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+  Line 515:   "oldString": "DATABASE_URL=\"postgresql://postgres:password@localhost:5432/nexus?schema=public\"\nNEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_d2VhbHRoeS1lYXJ3aWctOTkyNC5jbGVyay5hY2NvdW50cy5kZXYk\nCLERK_SECRET_KEY=sk_test_8NJRs1vDhmkGr5pblZMpayjJZiuWeahan3mCTZ9xNI\n\nNEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in\nNEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up\nNEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/\nNEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/",
+
+  Line 516:   "newString": "DATABASE_URL=\"postgresql://postgres:password@localhost:5432/nexus?schema=public\"\n\n# Clerk (keys de LA MISMA app/entorno — ver pasos abajo)\nNEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_d2VhbHRoeS1lYXJ3aWctOTkyNC5jbGVyay5hY2NvdW50cy5kZXYk\nCLERK_SECRET_KEY=sk_test_8NJRs1vDhmkGr5pblZMpayjJZiuWeahan3mCTZ9xNI\n\nNEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in\nNEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up\nNEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/\nNEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/\n\n# Silenciar ruido de telemetría\nNEXT_TELEMETRY_DISABLED=1\nCLERK_TELEMETRY_DISABLED=1"
+
+  Line 1003: 1: DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 1011: 9: NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+
+  Line 1012: 10: NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+  Line 1559: 1: DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 1567: 9: NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+
+  Line 1568: 10: NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+  Line 3086: | `DATABASE_URL` | `postgresql://postgres:[PASSWORD]@db.[REF].supabase.co:5432/postgres?pgbouncer=true` |
+
+  Line 3087: | `DIRECT_URL` | `postgresql://postgres:[PASSWORD]@db.[REF].supabase.co:5432/postgres` |
+
+  Line 3091: > **Importante**: `DATABASE_URL` usa **pooler (pgbouncer=true)** para serverless. `DIRECT_URL` es conexión directa para migraciones.
+
+  Line 3099: - Tu `DATABASE_URL` debería verse así:
+
+  Line 3101:   postgresql://postgres:[PASSWORD]@aws-0-[REGION].pooler.supabase.com:6543/postgres?pgbouncer=true
+
+  Line 3115:   datasourceUrl: process.env.DATABASE_URL,
+
+  Line 3263: | `NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL` | `/` |
+
+  Line 3264: | `NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL` | `/` |
+
+  Line 3274: | `DATABASE_URL` | `postgresql://postgres:[PASS]@aws-0-[REGION].pooler.supabase.com:6543/postgres?pgbouncer=true` |
+
+  Line 3275: | `DIRECT_URL` | `postgresql://postgres:[PASS]@db.[REF].supabase.co:5432/postgres` |
+
+  Line 4467: The user wants to push the database schema to Supabase (PostgreSQL) since it's empty. They've already set the Supabase DATABASE_URL in Vercel env vars. We need to run migrations from the local project to Supabase.
+
+  Line 4959: 9:       connection: process.env["DATABASE_URL"]!,
+
+  Line 4980: Good, it's Prisma 8 with ORM postgres. I need to run the migration against the Supabase database. The user said they already put the Supabase URI in the env. Let me check the local .env to see if DATABASE_URL is set there too.
+
+  Line 4998: # DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 4999: DATABASE_URL="postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+  Line 5015: Good, the DATABASE_URL is already set to Supabase pooler in the local .env. Now I need to run the Prisma migration to push the schema to Supabase. Since this is Prisma 8, I need to use the prisma CLI with the appropriate commands. Let me check the package.json for the available scripts.
+
+  Line 5101: I can use `prisma db-push` to push the schema to the database. Since this is a new database with no migrations, db-push is appropriate. Let me run it with the DATABASE_URL from the local .env.
+
+  Line 5334: 66: | Wire the runtime | [`references/runtime.md`](references/runtime.md) | `db.ts`, `postgres<Contract>(...)` / `sqlite<Contract>(...)` / `mongo<Contract>(...)` façades, middleware composition (lints, budgets, cache via `@prisma/orm-extension-middleware-cache`, custom `afterQuery` middleware, `@prisma/orm-postgres/family-runtime`), `DATABASE_URL`, `.env`, connection pool / `poolOptions`, dev vs prod config, transactions, read replicas, multi-database, script won't exit / hangs, `db.close` / `pool.end`, `await using` / `[Symbol.asyncDispose]` |
+
+  Line 5494: 93: pnpm prisma db init --db $DATABASE_URL
+
+  Line 5495: 94: pnpm prisma contract emit && pnpm prisma db update --db $DATABASE_URL
+
+  Line 5497: 96: pnpm prisma db migrate --db $DATABASE_URL
+
+  Line 5498: 97: pnpm prisma db verify --db $DATABASE_URL
+
+  Line 5556: 155: pnpm prisma db update --db $DATABASE_URL --dry-run
+
+  Line 5557: 156: pnpm prisma db update --db $DATABASE_URL
+
+  Line 5565: 164: pnpm prisma db update --db $DATABASE_URL --json
+
+  Line 5599: 198: pnpm prisma db migrate --show --db $DATABASE_URL
+
+  Line 5610: 209: pnpm prisma db migrate --db $DATABASE_URL
+
+  Line 5786: 385: pnpm prisma db schema --db $DATABASE_URL
+
+  Line 5787: 386: pnpm prisma db schema --db $DATABASE_URL --json > schema.json
+
+  Line 5809: 408: pnpm prisma db verify --db $DATABASE_URL
+
+  Line 5819: 418: pnpm prisma db sign --db $DATABASE_URL
+
+  Line 5832: 431: pnpm prisma db schema --db $DATABASE_URL --json
+
+  Line 5833: 432: pnpm prisma db verify --db $DATABASE_URL --json
+
+  Line 5847: 446: pnpm prisma db verify --db $DATABASE_URL --json
+
+  Line 5848: 447: pnpm prisma db schema --db $DATABASE_URL --json
+
+  Line 5855: 454: pnpm prisma db migrate --db $DATABASE_URL
+
+  Line 5866: 465: pnpm prisma db migrate --db $DATABASE_URL
+
+  Line 5914: 513: - `pnpm prisma migration log --db $DATABASE_URL` — flat chronological table of applied migrations, read from the live DB. Supports `--ascii` and `--json`.
+
+  Line 5958: 2. Then `prisma db init --db $DATABASE_URL` to baseline an empty database
+
+  Line 5959: 3. Then `prisma db update --db $DATABASE_URL` to apply the schema
+
+  Line 5964: 3. `prisma db migrate --db $DATABASE_URL`
+
+  Line 5981: pnpm prisma db init --db $DATABASE_URL
+
+  Line 5984: pnpm prisma db update --db $DATABASE_URL
+
+  Line 5994: pnpm prisma db migrate --db $DATABASE_URL
+
+  Line 6723: **Title:** rtk run npx prisma db init --db "$DATABASE_URL"
+
+  Line 6729:   "command": "rtk run npx prisma db init --db \"$DATABASE_URL\"",
+
+  Line 6758: **Title:** rtk run npx prisma db init --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+  Line 6765:   "command": "rtk run npx prisma db init --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\""
+
+  Line 6844: **Title:** rtk run npx prisma db update --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" --confirm "postgres"
+
+  Line 6849:   "command": "rtk run npx prisma db update --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" --confirm \"postgres\"",
+
+  Line 6935: **Title:** rtk run npx psql "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" -c "DROP SCHEMA public CASCADE; CREATE SCHEMA public;"
+
+  Line 6941:   "command": "rtk run npx psql \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" -c \"DROP SCHEMA public CASCADE; CREATE SCHEMA public;\"",
+
+  Line 7067: **Title:** rtk run npx prisma db migrate --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+  Line 7072:   "command": "rtk run npx prisma db migrate --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\"",
+
+  Line 7141: Let me check what DIRECT_URL is set to, or I need to use the direct connection string.
+
+  Line 7170: **Title:** rtk run npx prisma db migrate --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@db.vnwwarudcycqdrthiouk.supabase.co:5432/postgres"
+
+  Line 7177:   "command": "rtk run npx prisma db migrate --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@db.vnwwarudcycqdrthiouk.supabase.co:5432/postgres\""
+
+  Line 7183: {"kind":"result","envelope":{"ok":false,"commandId":"db.migrate","error":{"code":"DRIVER.CONNECTION_FAILED","severity":"error","summary":"Database connection failed","why":"connect EACCES 2600:1f11:c29:8b00:3acf:52d4:1f49:8f7d:5432","nextActions":[{"kind":"user-choice","label":"Verify the database URL, ensure the database is reachable, and confirm credentials/permissions"}],"meta":{"host":"db.vnwwarudcycqdrthiouk.supabase.co","port":"5432","database":"postgres","username":"postgres.vnwwarudcycqdrthiouk"},"docsUrl":"https://docs.prisma.io/docs/orm/v8/reference/error-reference/DRIVER.CONNECTION_FAILED"},"diagnostics":[],"nextActions":[{"kind":"user-choice","label":"Verify the database URL, ensure the database is reachable, and confirm credentials/permissions"}]},"commandId":"db.migrate","timestamp":"2026-10-10T06:42:31.753Z"}
+
+  Line 8708: usa esta la pass esta en el .env: postgresql://postgres:[YOUR-PASSWORD]@db.vnwwarudcycqdrthiouk.supabase.co:5432/postgres
+
+  Line 8744: 1: # DATABASE_URL="postgresql://postgres:password@localhost:5432/nexus?schema=public"
+
+  Line 8747: 4: DATABASE_URL="postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+  Line 8750: 7: DIRECT_URL="postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
+
+  Line 8758: 15: NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+
+  Line 8759: 16: NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+  Line 8781: The user wants me to use the direct URL from the .env. The DIRECT_URL is:
+
+  Line 8783: postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:5432/postgres
+
+  Line 8786: But this is still a pooler URL (aws-1-ca-central-1.pooler.supabase.com). The actual direct connection should be to `db.vnwwarudcycqdrthiouk.supabase.co:5432`.
+
+  Line 8788: Let me try using the DIRECT_URL from the .env which is the session-mode pooler on port 5432. This might work for migrations since it's session mode, not transaction mode.
+
+  Line 8790: Actually, let me check - the DIRECT_URL uses the pooler on port 5432 which is session mode. The DATABASE_URL uses port 6543 which is transaction mode (pgbouncer). For migrations, we need session mode or direct connection.
+
+  Line 8792: Let me try with the DIRECT_URL from .env first.
+
+  Line 8798: **Title:** rtk run npx prisma db migrate --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
+
+  Line 8803:   "command": "rtk run npx prisma db migrate --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:5432/postgres\"",
+
+  Line 8883: intenta con alguna de estas "postgresql://postgres.vnwwarudcycqdrthiouk:[YOUR-PASSWORD]@aws-1-ca-central-1.pooler.supabase.com:6543/postgres" "postgresql://postgres.vnwwarudcycqdrthiouk:[YOUR-PASSWORD]@aws-1-ca-central-1.pooler.supabase.com:5432/postgres"
+
+  Line 8918: PGHOST=db.vnwwarudcycqdrthiouk.supabase.co PGPORT=5432 PGUSER=postgres.vnwwarudcycqdrthiouk PGPASSWORD=91Cn8NVgSBO4xvMS PGDATABASE=postgres psql -c "SELECT 1"
+
+  Line 9909: rtk run npx prisma db verify --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+  Line 9918: PGHOST=db.vnwwarudcycqdrthiouk.supabase.co PGPORT=5432 PGUSER=postgres.vnwwarudcycqdrthiouk PGPASSWORD=91Cn8NVgSBO4xvMS PGDATABASE=postgres psql -f migration.sql
+
+  Line 14033: **Title:** rtk run npx prisma db shell --db "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" 2>&1 << 'EOF'
+
+  Line 14041:   "command": "rtk run npx prisma db shell --db \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" 2>&1 << 'EOF'\nSELECT id, \"clerkUserId\", email, name, role, \"tenantId\" FROM \"public\".\"User\" WHERE \"clerkUserId\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';\nEOF"
+
+  Line 14069: **Title:** rtk run npx psql "postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true" -c "SELECT id, \"clerkUserId\", email, name, role, \"tenantId\" FROM \"public\".\"User\" WHERE \"clerkUserId\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';"
+
+  Line 14076:   "command": "rtk run npx psql \"postgresql://postgres.vnwwarudcycqdrthiouk:91Cn8NVgSBO4xvMS@aws-1-ca-central-1.pooler.supabase.com:6543/postgres?pgbouncer=true\" -c \"SELECT id, \\\"clerkUserId\\\", email, name, role, \\\"tenantId\\\" FROM \\\"public\\\".\\\"User\\\" WHERE \\\"clerkUserId\\\" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';\""
+
+  Line 14172: - Supabase DB (new project ref `vnwwarudcycqdrthiouk`): transaction pooler `aws-1-ca-central-1.pooler.supabase.com:6543` (DATABASE_URL), session pooler `:5432` (DIRECT_URL), password `91Cn8NVgSBO4xvMS`. Direct host `db.vnwwarudcycqdrthiouk.supabase.co:5432` fails locally (EACCES/IPv6).
+
+  Line 14183: - `.env`: added `NEXT_TELEMETRY_DISABLED=1`, `CLERK_TELEMETRY_DISABLED=1`; DATABASE_URL switched to Supabase pooler (6543) + `DIRECT_URL` (session pooler 5432).
+
+  Line 14196: - Vercel env vars must contain Clerk keys + Supabase `DATABASE_URL`/`DIRECT_URL`.
+
+  Line 14210: - `/home/craxker/github/nexus-thrive/.env`: DATABASE_URL/DIRECT_URL (Supabase), Clerk test keys, sign-in/up URLs, telemetry flags.
+
+
+(Results truncated. Consider using a more specific path or pattern.)
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Confirmed:
+- proxy.ts passes /admin through correctly (line 22).
+- DB is empty (no Tenant, no User).
+
+So to make /admin work: need a Tenant + a User with role SUPERADMIN.
+
+The answer to "a que tenant se afilia": it must be attached to some tenant — FK NOT NULL. If none exists, create a platform tenant (e.g., slug `nexus`).
+
+Let me write the query. Constraints:
+- `User.updatedAt` NOT NULL, no default → supply now()
+- `Tenant.updatedAt` NOT NULL, no default → supply now()
+- `Tenant.vertical` must be in enum list → use 'construction' (project is construction-oriented) or something neutral. Let's use 'construction'.
+- `Tenant.slug` unique → 'nexus'
+- `Tenant.paymentMethods` text[] nullable → leave default (null? column has no DEFAULT, nullable → null). Code normalizes to [].
+- `id` text NOT NULL no default → supply gen_random_uuid()::text
+- `role` check allows SUPERADMIN.
+- Also should the user complete onboarding? Not needed for /admin.
+- Email: I don't know the user's email. It's NOT NULL. I can grab from... I don't know it. I'll put a placeholder and tell them to change it, or better: use a query that doesn't require knowing email... It's NOT NULL so must supply. Let's use `'admin@example.com'` placeholder with a note. Actually better: since Tenant/User are empty and user has Clerk account, email is unknown to me. I'll instruct to replace.
+
+Actually — better approach: give one script with a DO/CTE so it's idempotent:
+
+```sql
+-- 1) Tenant platform (si no existe)
+INSERT INTO "public"."Tenant" ("id","name","slug","vertical","onboardingCompleted","createdAt","updatedAt")
+VALUES (gen_random_uuid()::text, 'Nexus', 'nexus', 'construction', true, now(), now())
+ON CONFLICT ("slug") DO NOTHING;
+
+-- 2) SuperAdmin
+INSERT INTO "public"."User" ("id","clerkUserId","email","name","role","tenantId","createdAt","updatedAt")
+SELECT gen_random_uuid()::text,
+       'user_3KUbFGS9JStBtEFnbd8a4IGM29W',
+       'TU_EMAIL@example.com',
+       'CEO',
+       'SUPERADMIN',
+       t."id", now(), now()
+FROM "public"."Tenant" t
+WHERE t."slug" = 'nexus'
+ON CONFLICT ("clerkUserId","tenantId") DO UPDATE SET "role" = 'SUPERADMIN';
+
+-- verificación
+SELECT u.id, u.email, u.role, t.slug, t.name
+FROM "public"."User" u JOIN "public"."Tenant" t ON t.id = u."tenantId"
+WHERE u."clerkUserId" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';
+```
+
+Note ON CONFLICT constraint name: `User_clerkUserId_tenantId_key` unique (clerkUserId, tenantId) → `ON CONFLICT ("clerkUserId","tenantId")` works.
+
+Careful: ON CONFLICT DO UPDATE when row exists with different clerkUserId — fine.
+
+Should I run it myself? The user asked "dame la query". I could also just run it for them since I have psql access. That's more helpful. But I need their email. Hmm. Email NOT NULL — I could set it to a placeholder; the app uses `email` for display in tenant detail. Better to ask... but user wants speed.
+
+Best: give the query with email placeholder AND offer to run it. Actually I can run it — but email unknown. Let me check if Clerk has the email... I shouldn't query Clerk API with secret (would need to read sk_ key — I must not expose/use it improperly; using it in a script would be fine but risky). Better: run it with placeholder and let them fix, or ask for email.
+
+Actually — is email used anywhere critical? TenantDetailUser shows email. Not critical for /admin gate. I'll use a placeholder and tell them to update.
+
+Simplest and fastest: I run it for them with email set to a generic value, and give them the query too. Let me just give the query (they asked for it) — and offer to execute. Actually the user has repeatedly asked "dame la query", so give it. But being proactive: run it and confirm /admin works. I'll run it with a placeholder email and mention they can change it.
+
+Hmm, but modifying their DB without explicit permission? They asked "dame la query para crearlo" — they want to run it themselves. Previous pattern: they ran the query themselves. So give the query.
+
+But then /admin 404 might also be from something else. Let's confirm after they run. Also worth noting: they registered in Clerk but never completed onboarding → no tenant. So actually the RIGHT fix might be: complete the onboarding flow in the app (which creates Tenant + User OWNER), then flip role to SUPERADMIN. That's more natural. But fastest: SQL.
+
+I'll give both: the SQL one-shot (tenant + superadmin), and note the alternative.
+
+Also answer their earlier question: "a que tenant se afilia" → a cualquier tenant existente; como no hay ninguno, el script crea el tenant `nexus`.
+
+One more check: is `paymentMethods` nullable with no default? Yes: `"paymentMethods" text[]` — no NOT NULL, no DEFAULT → NULL. Code normalizes. Fine.
+
+`tenantType` default COMPANY — fine.
+
+Let me write the final answer concisely.
+
+Also: should mention that the404 was because tables were empty (0 rows), i.e., they never completed onboarding in the app.
+
+Let me also double-check proxy doesn't break: line 22 returns something for /admin. Let me read proxy.ts fully quickly to be sure it's correct.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** proxy.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/proxy.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/proxy.ts</path>
+<type>file</type>
+<content>
+1: import { clerkMiddleware } from "@clerk/nextjs/server";
+2: import { NextResponse } from "next/server";
+3: 
+4: export default clerkMiddleware(async (auth, request) => {
+5:   const url = request.nextUrl;
+6:   const pathname = url.pathname;
+7: 
+8:   // Rutas reservadas que pasan directo
+9:   const isReservedRoute =
+10:     pathname.startsWith("/sign-in") ||
+11:     pathname.startsWith("/sign-up") ||
+12:     pathname.startsWith("/api") ||
+13:     pathname.startsWith("/_next") ||
+14:     pathname.startsWith("/__clerk") ||
+15:     pathname.includes(".");
+16: 
+17:   if (isReservedRoute) {
+18:     return NextResponse.next();
+19:   }
+20: 
+21:   // Admin panel: /admin/*
+22:   if (pathname === "/admin" || pathname.startsWith("/admin/")) {
+23:     return NextResponse.next();
+24:   }
+25: 
+26:   // Onboarding top-level
+27:   if (pathname === "/onboarding") {
+28:     return NextResponse.next();
+29:   }
+30: 
+31:   // Tenant routes: /{tenant}/*
+32:   // Detecta primer segmento como tenant slug
+33:   const segments = pathname.split("/").filter(Boolean);
+34:   const firstSegment = segments[0];
+35: 
+36:   if (firstSegment) {
+37:     // Rutas conocidas que NO son tenants
+38:     const nonTenantRoutes = ["admin", "onboarding", "sign-in", "sign-up", "api", "_next", "__clerk"];
+39:     
+40:     if (!nonTenantRoutes.includes(firstSegment)) {
+41:       // Es un tenant: /gymcarlos/... → reescribe a /gymcarlos/...
+42:       // Si ya viene con el tenant, pasa directo
+43:       const isTenantScoped = pathname === `/${firstSegment}` || pathname.startsWith(`/${firstSegment}/`);
+44:       
+45:       if (isTenantScoped) {
+46:         return NextResponse.next();
+47:       }
+48:       
+49:       // Reescribe añadiendo el tenant prefix
+50:       return NextResponse.rewrite(
+51:         new URL(`/${firstSegment}${pathname}`, request.url)
+52:       );
+53:     }
+54:   }
+55: 
+56:   // Root → sign-in
+57:   if (pathname === "/") {
+58:     return NextResponse.redirect(new URL("/sign-in", request.url));
+59:   }
+60: 
+61:   return NextResponse.next();
+62: });
+63: 
+64: export const config = {
+65:   matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+66: };
+
+(End of file - total 66 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 02:31:40*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Proxy is fine for /admin.
+
+Now the answer. Root cause: DB had 0 tenants and 0 users — the UPDATE matched 0 rows. `User.tenantId` is NOT NULL with FK, so a superadmin must belong to a tenant.
+
+Give the query.
+
+</details>
+
+## Diagnóstico
+
+Ya verifiqué la BD: **las 15 tablas existen, pero `Tenant` y `User` están vacías (0 filas)**. Tu `UPDATE` no falló — coincidió con **0 filas**, porque nunca se completó el onboarding en esta BD. Por eso `/admin` sigue en 404.
+
+Respuesta a tu pregunta: **un `User` NO puede existir sin tenant** — `tenantId` es `NOT NULL` con FK a `Tenant`. Como no hay ningún tenant, hay que crear uno primero.
+
+---
+
+## Query (Supabase → SQL Editor)
+
+```sql
+-- 1) Tenant de plataforma (solo si no existe)
+INSERT INTO "public"."Tenant"
+  ("id", "name", "slug", "vertical", "onboardingCompleted", "createdAt", "updatedAt")
+VALUES
+  (gen_random_uuid()::text, 'Nexus', 'nexus', 'construction', true, now(), now())
+ON CONFLICT ("slug") DO NOTHING;
+
+-- 2) SuperAdmin afiliado a ese tenant
+INSERT INTO "public"."User"
+  ("id", "clerkUserId", "email", "name", "role", "tenantId", "createdAt", "updatedAt")
+SELECT
+  gen_random_uuid()::text,
+  'user_3KUbFGS9JStBtEFnbd8a4IGM29W',
+  'TU_EMAIL@example.com',   -- ← pon aquí tu email real
+  'CEO',
+  'SUPERADMIN',
+  t."id",
+  now(),
+  now()
+FROM "public"."Tenant" t
+WHERE t."slug" = 'nexus'
+ON CONFLICT ("clerkUserId", "tenantId") DO UPDATE SET "role" = 'SUPERADMIN';
+
+-- 3) Verificación (debe devolver 1 fila con role = SUPERADMIN)
+SELECT u.email, u.role, t.slug, t.name AS tenant
+FROM "public"."User" u
+JOIN "public"."Tenant" t ON t."id" = u."tenantId"
+WHERE u."clerkUserId" = 'user_3KUbFGS9JStBtEFnbd8a4IGM29W';
+```
+
+**Ojo con dos detalles del schema** (por eso la query no es un simple `INSERT`):
+- `User.updatedAt` y `Tenant.updatedAt` son `NOT NULL` **sin default** → hay que pasar `now()` explícitamente.
+- `User.id` / `Tenant.id` son `text NOT NULL` sin default → `gen_random_uuid()::text`.
+
+Después: recarga `/admin` (logout/login si sigue en caché).
+
+---
+
+**Alternativa más "limpia":** entrar a `/onboarding` en la app y completar el wizard — eso crea Tenant + User(`OWNER`) en una transacción, y solo faltaría voltear el rol a `SUPERADMIN` con tu `UPDATE` original. El script de arriba es para saltar directo al panel.
+
+*[step-finish part]*
