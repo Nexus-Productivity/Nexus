@@ -7,12 +7,12 @@
 ## Conversation
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 necesito que se haga un analisis completo de los datos APU de la base de datos excel que esta en DocumentosAPU
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -79,7 +79,7 @@ Let me call mem_current_project, mem_context, and find the file in parallel.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -189,7 +189,7 @@ First, orient: check what's in the folder, the xlsx size (16MB), and existing co
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -664,7 +664,7 @@ APU_9900_VICHADA__VICHADA_2026_1.xlsx  12.8M
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -741,7 +741,7 @@ xlsx2csv not found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -854,7 +854,7 @@ Sheets: ['PORTADA', 'ÍNDICE', 'MENÚ', 'APU´S', 'INSUMO_EQUIPO', 'INSUMO MATER
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1030,7 +1030,7 @@ SHEET 'CAPITULOS'  dims=1000x26
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1209,7 +1209,7 @@ PY
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1281,7 +1281,7 @@ Wrote file successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1427,7 +1427,7 @@ tail -120  0.00s user 0.00s system 0% cpu 8.784 total
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1477,7 +1477,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1511,7 +1511,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1547,7 +1547,7 @@ Edit applied successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1632,7 +1632,7 @@ exit=0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1749,7 +1749,7 @@ TOP 10 por costo:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1819,7 +1819,7 @@ JSON -> /tmp/opencode/apu_analysis.json
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1871,7 +1871,7 @@ Wrote file successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1896,7 +1896,7 @@ exit=1
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1923,7 +1923,7 @@ SyntaxError: unterminated string literal (detected at line 10)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1956,7 +1956,7 @@ Could not find oldString in the file. It must match exactly, including whitespac
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -1991,7 +1991,7 @@ Could not find oldString in the file. It must match exactly, including whitespac
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2025,7 +2025,7 @@ def norm(s):
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2058,7 +2058,7 @@ Could not find oldString in the file. It must match exactly, including whitespac
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2119,7 +2119,7 @@ Wrote file successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2393,7 +2393,7 @@ exit=0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2547,7 +2547,7 @@ BLOQUE 27.06 (fila 49267 )
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2688,7 +2688,7 @@ Wrote file successfully.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2721,7 +2721,7 @@ python3 analyze_apu.py  9.58s user 0.13s system 95% cpu 10.201 total
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2898,7 +2898,7 @@ PY
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -2986,7 +2986,7 @@ PY
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -3138,7 +3138,7 @@ Unidades de línea: {'Un': 8071, 'Día': 3867, 'Hr': 2057, 'Kg': 1269, 'm': 829,
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -3254,7 +3254,7 @@ ValueError: too many values to unpack (expected 3, got 5)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -3362,7 +3362,7 @@ PY
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -3857,7 +3857,7 @@ Análisis del master completo. Ahora reviso el importador existente para conecta
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -4620,7 +4620,7 @@ Let me read index.ts.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -4690,7 +4690,7 @@ lib/apu-importer/fuzzy-matcher.ts:121:export function normalizeUnit(raw: string)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -4820,7 +4820,7 @@ lib/apu-importer/fuzzy-matcher.ts:121:export function normalizeUnit(raw: string)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -4983,12 +4983,12 @@ Tool execution aborted
 ```
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 actualmente no quiero importar de esa manera los APUS primero hay que pensar bien y mejorar esos apus o mejor dicho el sistema de Cotizaciones para Constructoras y profundizar un poco hoy tuve una reunion con el arquitecto y me dijo como se cotiza me dio unas platillas para automatizarlas en el sistema y me dara mas y tengo una guia completa de lo que queremos y llevar este sistema por ese lado a que se AUTOMATIZE la gran parte del sistema para complir con los presupuestos, importacion completa de APUS con imagenes que tambien tiene el EXCEL porque cada material tiene como una foto y quiero que se anide el lado del el sistema para constructuras de esta manera: un cliente se enlaza con proyectos y proyectos con los presupuestos y halla una especie de flujo de datos correcto par agenerar informes, para las contructuras halla una especie de calendario grande donde se agende todo. y que en todo esto me imagino que habra un lider y poder llevar TODO por ese lado en nexus de la construcion generador de documentos profesionales con las plantillas que tenemos en Documents/JuanCarlos ahi estan las plantillas que tienen datos hay que limpiar. para pensar en la arquitectura de el sistema y nivelarlo a las capas y si existe esta capa ordenarla pero por ahora dame tu opinion no hagas nada de codigo solo mia y dime
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -5150,7 +5150,7 @@ vertical-terms-context.tsx  1.1K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -5361,7 +5361,7 @@ README.md  6.7K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -5655,7 +5655,7 @@ tags: [capas, estructura, subcapa]
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -5769,7 +5769,7 @@ APU_0509_ANTIOQUIA__VALLE_DE_ABURRA_2026_1.xlsx
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -5917,7 +5917,7 @@ PlanDeHitosLookahead.xlsx -> ['PLAN DE HITOS', 'LOOKAHEAD']
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6114,7 +6114,7 @@ model QuoteItem {
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6400,7 +6400,7 @@ Guardo los hallazgos en memoria.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6424,12 +6424,12 @@ Cuando me contestes las 5 preguntas (sobre todo la 1: ¿cotización = presupuest
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 resumeme todo esto en un texto para analizarlo con el SENIOR notebookLM y ayude a estructurar.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6628,12 +6628,12 @@ Así se evita mantener dos productos y se reutiliza lo ya construido.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 existe una capa especificamente para Construcciones y APU? o esta dividida entre todas la capas?
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6705,7 +6705,7 @@ README.md  2.9K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6827,7 +6827,7 @@ _Fuente: `DesordenadoCapas.md` (capa `Construccion`) + `EstructuraCapasImplement
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6908,7 +6908,7 @@ Let me get the enum.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -6986,12 +6986,12 @@ En la fuente original (`DesordenadoCapas.md`), **"Construcción" era su propia c
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 necesitamos dividir 00 que son construccion en una arquitectura armable y bien divididad para ese vertical para diseñar cada entidad como los campos y todo lo conceptual y lo funcional de cada nivel asi como estna las capas. que propones?
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -7159,7 +7159,7 @@ XI.CAPA — ESPECIALIZACIÓN POR VERTICAL
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -7506,12 +7506,12 @@ tags: [capas, estructura, subcapa]
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -7575,12 +7575,12 @@ FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compact
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -7883,7 +7883,7 @@ Catálogo (precios vivos)  →  Presupuesto (congelado, versionado)  →  Cronog
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 ajusta en base a esta data: ### 🏛️ Diagnóstico Arquitectónico: ¿Por qué esta estructura es sobresaliente?
 
@@ -8673,7 +8673,7 @@ Prioriza una implementación funcional y coherente sobre la cantidad de archivos
 No inventes capacidades, no ocultes errores y no declares éxito sin evidencia verificable.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -8974,7 +8974,7 @@ zsh:1: no matches found: --include=*.md
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -9172,7 +9172,7 @@ No files found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -9433,12 +9433,12 @@ Necesito los **6 capas sin nombre** para no adivinar:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 aslo como dije comienza.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -9650,7 +9650,7 @@ Voy a proceder. Primero leo el README actual de XI.00 para respetar el frontmatt
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -9897,7 +9897,7 @@ Let me begin.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -9938,7 +9938,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10028,7 +10028,7 @@ Make it a usable template.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10054,7 +10054,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10084,7 +10084,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10150,7 +10150,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10184,7 +10184,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10263,7 +10263,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10366,7 +10366,7 @@ Let me list the tree and mark todos completed.</think>
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10397,7 +10397,7 @@ Then concise summary for the user.</think>
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -10435,7 +10435,7 @@ Guardado en memoria (obs 254).
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 # NEXUS THRIVE — IMPLEMENTACIÓN FASE 1
 ## Contenedor de Proyecto de Obra + Ficha de Cliente & Receptor
@@ -10995,7 +10995,7 @@ Implementa el contenedor de proyectos y la Ficha de Cliente & Receptor N1 de ext
 No amplíes el alcance al motor APU, cálculos AIU, planificación Lean, bitácora avanzada, facturación o informes completos. Esos módulos corresponden a fases posteriores.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -11281,7 +11281,7 @@ edef3a6 feat: add HTML design for NEXUS THRIVE receipt printer with interactive 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -11831,7 +11831,7 @@ vertical-terms.ts  1.5K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -11992,7 +11992,7 @@ ext: .tsx(79) .ts(14)
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -12213,7 +12213,7 @@ whatsapp
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -12733,7 +12733,7 @@ Let me do it.</think>
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -13325,7 +13325,7 @@ Let me do it.</think>Now the `createTenantDb` factory and page conventions.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -13866,7 +13866,7 @@ Let me grep for the quotes namespace line.</think>
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -14563,7 +14563,7 @@ Let me do a batch of reads.</think>Now the tenant-db `quotes` namespace, validat
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -15015,7 +15015,7 @@ Let me read these.</think>Now the UI patterns: modal, badge, and a form using `u
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -15118,12 +15118,12 @@ index.md  3.1K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -15301,12 +15301,12 @@ Let me write.</think>FIRST ACTION REQUIRED: Call mem_session_summary with the co
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -15456,7 +15456,7 @@ snapshots/ 030021bdac88764d15107fbf662fe78cd3fd2f09ab6fd17cef2e182145e9acec 48dc
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -16085,7 +16085,7 @@ upgrade-extension.md  9.1K
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -16222,7 +16222,7 @@ The migration graph is non-empty, so formal path is `migration plan` + `db migra
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -16684,7 +16684,7 @@ Contract is 425 lines. Let me read the whole thing to mirror syntax exactly.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -17473,7 +17473,7 @@ Exact conventions captured. Now the rest of the `quotes` namespace (transaction 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -17917,7 +17917,7 @@ Found 37 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18276,7 +18276,7 @@ feature/construction-apu-engine
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18443,7 +18443,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18499,7 +18499,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18526,7 +18526,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18568,7 +18568,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18600,7 +18600,7 @@ Now emit the contract and plan the migration.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18637,7 +18637,7 @@ Contract emitted. Now plan the migration.
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18682,7 +18682,7 @@ The plan forked from a stale ref (it would even re-create `Booking`). Let me ins
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18743,7 +18743,7 @@ The graph is forked/messy (multiple roots; one earlier migration even replanned 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18793,7 +18793,7 @@ Hmm, grep -v is discouraged but this is bash tooling for env. Actually `set -a; 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18864,7 +18864,7 @@ The live DB marker is `ab7da12f` — a graph node (end of `20261008T2202_add_ada
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -18963,7 +18963,7 @@ Node.js v26.7.0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19048,7 +19048,7 @@ psql is available. Let me query directly with shell-exported env (no secret prin
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19132,7 +19132,7 @@ pg_dump: error: no matching tables were found
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19168,7 +19168,7 @@ Booking gone
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19205,7 +19205,7 @@ Backup saved (37 lines / 4 rows), drift table dropped. Re-running the migration:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19250,7 +19250,7 @@ Migration applied — marker now `985cb4f` (current contract). Advancing the `db
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19292,7 +19292,7 @@ The ref didn't advance because `--db` was explicit. Advancing it explicitly:
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19534,7 +19534,7 @@ DB layer complete and ref synced. Now the tenant-db namespaces. Let me check the
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19576,7 +19576,7 @@ Found 2 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -19681,7 +19681,7 @@ Found 2 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20165,7 +20165,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20212,7 +20212,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20334,7 +20334,7 @@ But the read I got shows at line 1465-1469: `apuSnapshot...`, `})),`, `};`, `},`
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20370,7 +20370,7 @@ Found 1 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20414,7 +20414,7 @@ Found 1 matches
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20443,7 +20443,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20781,7 +20781,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20807,7 +20807,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -20909,7 +20909,7 @@ Let me check `@/components/ui/badge` exports and StatusDot tone values.</think>N
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21368,7 +21368,7 @@ Let me read quotes-workspace.tsx and quotes-table.tsx (for pagination).</think>L
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21542,7 +21542,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21570,7 +21570,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21665,7 +21665,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21693,7 +21693,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21771,7 +21771,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21799,7 +21799,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -21981,7 +21981,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22009,7 +22009,7 @@ Wrote file successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22071,7 +22071,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22263,7 +22263,7 @@ Edit applied successfully.
 *[patch part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22298,12 +22298,12 @@ shell tool terminated command after exceeding timeout 120000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[compaction part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22458,12 +22458,12 @@ Let me write it all out.</think>FIRST ACTION REQUIRED: Call mem_session_summary 
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22492,7 +22492,7 @@ EXIT:0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22522,7 +22522,7 @@ shell tool terminated command after exceeding timeout 600000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22552,7 +22552,7 @@ PID:575229
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22590,7 +22590,7 @@ $ next build
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22630,7 +22630,7 @@ craxker   267647  0.0  0.2 1518347520 20840 ?    Sl   Oct09   0:02 /usr/lib/elec
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22680,7 +22680,7 @@ $ next build
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22773,7 +22773,7 @@ next-build EXITED
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22884,7 +22884,7 @@ Node.js v26.7.0
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22916,7 +22916,7 @@ psql: error: invalid URI query parameter: "schema"
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -22964,7 +22964,7 @@ clientAddress, clientBillingEmail, clientCity, clientTaxDv, clientTaxId, clientT
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23022,7 +23022,7 @@ Let me call mem_current_project.</think>DB verified: `Booking`, `Project`, `Proj
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23086,7 +23086,7 @@ Let me call mem_save twice and mem_session_summary. Can batch in one block.</thi
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23148,12 +23148,12 @@ Nota: `tsc` (~2 min) y `next build` (~3–4 min) son lentos bajo Turbopack en es
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 como lo pruebo?
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23264,7 +23264,7 @@ LINE 1: select count(*) from public."Customer" where status='ACTIVE'...
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23280,12 +23280,12 @@ Also check customer columns.
 Let me investigate the DB column and the code.</think>El dev server corre `next dev`. Pero atención: la tabla `Customer` **no tiene columna `status`** — y mi `page.tsx` llama `tenantDb.customers.search({ status: "active" })`. Eso compila pero podría reventar en runtime. Lo verifico ya
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 ya lo detube inicialo tu
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23379,7 +23379,7 @@ active, createdAt, email, id, name, phone, tenantId, updatedAt
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23533,7 +23533,7 @@ Wait, tsc passed with exit 0. If `search` param type didn't include `status`, ex
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23569,7 +23569,7 @@ PID:578535
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23605,7 +23605,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23665,7 +23665,7 @@ shell tool terminated command after exceeding timeout 120000 ms. If this command
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23716,7 +23716,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23764,7 +23764,7 @@ See more: https://nextjs.org/docs/app/guides/local-development
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23886,7 +23886,7 @@ https://react.dev/link/hydration-mismatch
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23919,7 +23919,7 @@ FAILED: curl curl: (28) Operation timed out after 90001 milliseconds with 0 byte
 *[step-finish part]*
 
 ### 🤖 Assistant
-*2026-10-10 19:47:25*
+*2026-10-10 20:34:56*
 
 *[step-start part]*
 
@@ -23958,3 +23958,12732 @@ User aborted the command
 ```
 
 *[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+# NEXUS THRIVE — IMPLEMENTACIÓN FASE 1
+## Tab 2: Presupuestador APU & Motor Financiero AIU
+**Vertical:** Construction & APU Engine  
+**Rama objetivo:** `feature/construction-apu-engine`  
+**Nivel de implementación:** N1 — Baseline Operativo  
+**Ruta principal:** `app/[tenant]/(app)/quotes/projects/[projectId]`
+
+---
+
+## 01. ROL, CONTEXTO Y OBJETIVO
+
+Actúa como **Senior Full-Stack Architect & Engineer**, especializado en:
+
+- Next.js App Router y Server Actions.
+- TypeScript estricto.
+- Prisma ORM 8 mediante Data Contract.
+- PostgreSQL y acceso a datos multi-tenant mediante `tenantDb`.
+- Aritmética financiera de precisión fija utilizando `BigInt`.
+- Sistemas de presupuestación de obra, Análisis de Precios Unitarios (APU) y cálculo de AIU.
+- Interfaces empresariales para gestión de proyectos de construcción.
+
+Continuamos el desarrollo de la vertical de construcción de NEXUS THRIVE en la rama `feature/construction-apu-engine`.
+
+El contenedor de proyectos y la Ficha de Proyecto & Cliente (Tab 1) constituyen la base previa de esta fase.
+
+El objetivo actual es implementar el **Tab 2: Presupuestador APU & AIU**, proporcionando una primera versión funcional para organizar capítulos, registrar actividades e insumos, calcular costos directos y obtener el valor total del presupuesto.
+
+### Resultado esperado
+
+1. Presupuesto asociado a cada proyecto de obra.
+2. Estructura jerárquica de capítulos e ítems APU.
+3. Registro de recursos por actividad.
+4. Motor aritmético determinista basado en `BigInt`.
+5. Configuración de porcentajes de AIU e IVA sobre utilidad.
+6. Recálculo coherente de los totales.
+7. Server Actions protegidas y aisladas por tenant.
+8. Interfaz funcional integrada en el Tab 2.
+9. Validación técnica y documentación de los resultados.
+
+**Instrucción principal:** inspecciona la arquitectura existente antes de modificar el repositorio. Reutiliza el Data Contract, las abstracciones de `tenantDb`, los componentes de interfaz y las convenciones de validación existentes. No inventes APIs ni comandos de Prisma.
+
+---
+
+## 02. AUDITORÍA PREVIA OBLIGATORIA
+
+Antes de implementar, inspecciona:
+
+- Estado de Git y modificaciones locales.
+- Modelo `Project` y su relación con `ProjectHeader`.
+- Modelos `Tenant` y `Customer`.
+- Contrato actual en `prisma/contract.prisma`.
+- Generación de `prisma/contract.json` y `prisma/contract.d.ts`.
+- Implementación y patrones de `lib/tenant-db.ts`.
+- Servicios de autenticación, autorización y resolución del tenant activo.
+- Estructura de la página de detalle del proyecto y sus pestañas.
+- Componentes existentes para tablas, tarjetas KPI, formularios, diálogos, acordeones, estados y notificaciones.
+- Helpers de formato monetario y utilidades numéricas existentes.
+- Scripts de generación, validación, pruebas y compilación definidos en `package.json`.
+
+Entrega un plan de implementación basado en la arquitectura encontrada y continúa con el trabajo, salvo que exista un bloqueo crítico que requiera una decisión explícita.
+
+No reemplaces código existente sin comprobar primero sus dependencias y propósito.
+
+---
+
+## 03. CONTRATO DE DATOS — PRISMA ORM 8
+
+### Archivo objetivo
+
+`prisma/contract.prisma`
+
+### 3.1. Restricciones de arquitectura
+
+- No utilizar `@prisma/client`.
+- No instanciar `new PrismaClient()`.
+- Utilizar las abstracciones de Prisma ORM 8 y el Data Contract existentes.
+- Acceder a los datos mediante `tenantDb`.
+- Respetar los tipos y convenciones de PostgreSQL definidos en el proyecto.
+- No duplicar modelos ni relaciones ya existentes.
+- Garantizar el aislamiento multi-tenant.
+- Mantener la coherencia entre cantidades, costos unitarios, subtotales y totales.
+- Utilizar `BigInt` para los valores numéricos que formen parte del contrato financiero, respetando una escala fija y documentada.
+
+### 3.2. Modelo `ProjectBudget`
+
+Implementa o adapta la entidad `ProjectBudget` con los siguientes campos conceptuales:
+
+| Campo | Propósito |
+|---|---|
+| `id` | Identificador único del presupuesto |
+| `tenantId` | Tenant propietario |
+| `projectId` | Proyecto al que pertenece |
+| `code` | Código del presupuesto, por ejemplo `PRES-2026-001` |
+| `name` | Nombre descriptivo del presupuesto |
+| `aiuAdminPct` | Porcentaje de administración |
+| `aiuImprevPct` | Porcentaje de imprevistos |
+| `aiuUtilidadPct` | Porcentaje de utilidad |
+| `ivaUtilidadPct` | Porcentaje de IVA aplicado a la utilidad |
+| `directCostTotal` | Suma de los costos directos |
+| `adminTotal` | Valor calculado de administración |
+| `imprevTotal` | Valor calculado de imprevistos |
+| `utilidadTotal` | Valor calculado de utilidad |
+| `ivaUtilidadTotal` | IVA calculado sobre utilidad |
+| `grandTotal` | Valor total del presupuesto |
+| `isLocked` | Indica si el presupuesto está bloqueado |
+| `createdAt` | Fecha de creación |
+| `updatedAt` | Fecha de actualización |
+| `chapters` | Relación con los capítulos del presupuesto |
+
+Los porcentajes se almacenarán como `BigInt` en una escala de seis decimales:
+
+- `1_000_000` representa el factor `1.000000`, equivalente al 100 %.
+- `100_000` representa el 10 %.
+- `50_000` representa el 5 %.
+- `190_000` representa el 19 %.
+
+Los valores iniciales de referencia serán:
+
+- Administración: `100_000`.
+- Imprevistos: `50_000`.
+- Utilidad: `50_000`.
+- IVA sobre utilidad: `190_000`.
+
+Estos valores son configuraciones iniciales, no una afirmación de que los porcentajes sean obligatorios para todas las obras o contratos.
+
+Añade índices adecuados para consultar presupuestos por tenant y proyecto. Evalúa una restricción de unicidad compuesta para `tenantId` y `code` si corresponde al modelo de negocio.
+
+El presupuesto debe mantener una relación coherente con el proyecto y su tenant.
+
+### 3.3. Modelo `BudgetChapter`
+
+Implementa o adapta `BudgetChapter` para organizar el presupuesto por capítulos.
+
+Campos conceptuales:
+
+- `id`
+- `tenantId`
+- `budgetId`
+- `order`
+- `name`
+- `description`, opcional
+- `createdAt`
+- `updatedAt`
+- Relación con `ProjectBudget`.
+- Relación con los ítems del capítulo.
+
+Requisitos:
+
+- Los capítulos deben tener un orden de presentación explícito.
+- Un capítulo solo puede pertenecer a un presupuesto del tenant correspondiente.
+- La eliminación de capítulos debe respetar las reglas de integridad y el ciclo de vida del presupuesto.
+- Añade índices apropiados para `tenantId` y `budgetId`.
+- Evalúa restricciones para evitar duplicados de orden dentro de un presupuesto cuando sean compatibles con la estrategia de reordenamiento existente.
+
+### 3.4. Enum `ResourceType`
+
+Define o reutiliza el enum `ResourceType` con los siguientes valores:
+
+- `MATERIAL`
+- `LABOR`
+- `EQUIPMENT`
+- `TRANSPORT`
+
+Cada tipo identifica una categoría de recurso utilizado en la composición de un APU.
+
+### 3.5. Modelo `BudgetItem`
+
+Implementa o adapta `BudgetItem` como una actividad o partida presupuestaria dentro de un capítulo.
+
+Campos conceptuales:
+
+| Campo | Propósito |
+|---|---|
+| `id` | Identificador único |
+| `tenantId` | Tenant propietario |
+| `chapterId` | Capítulo asociado |
+| `order` | Orden dentro del capítulo |
+| `code` | Código de actividad |
+| `description` | Descripción de la actividad |
+| `unit` | Unidad de medida |
+| `quantity` | Cantidad presupuestada |
+| `unitCostDirect` | Costo unitario directo |
+| `totalCostDirect` | Costo directo total de la partida |
+| `createdAt` | Fecha de creación |
+| `updatedAt` | Fecha de actualización |
+| `chapter` | Relación con el capítulo |
+| `resources` | Recursos asociados al APU |
+
+La cantidad y los valores monetarios deberán utilizar la escala de precisión definida en la sección de aritmética.
+
+Valores iniciales de referencia:
+
+- `quantity = 1_000_000`, equivalente a `1.000000`.
+- `unitCostDirect = 0`.
+- `totalCostDirect = 0`.
+
+Añade índices adecuados y evalúa la unicidad de códigos u órdenes según el alcance real del presupuesto.
+
+### 3.6. Modelo `BudgetItemResource`
+
+Implementa o adapta `BudgetItemResource` para representar los recursos que componen cada actividad APU.
+
+Campos conceptuales:
+
+- `id`
+- `tenantId`
+- `itemId`
+- `type`
+- `name`
+- `unit`
+- `performance`
+- `unitPrice`
+- `totalPrice`
+- `imageUrl`, opcional
+- Relación con `BudgetItem`.
+
+Valores iniciales de referencia:
+
+- `performance = 1_000_000`.
+- `unitPrice = 0`.
+- `totalPrice = 0`.
+
+Cada recurso debe poder clasificarse como material, mano de obra, equipo o transporte.
+
+La imagen del recurso será opcional y no debe requerir una integración externa para que el presupuesto funcione.
+
+**Importante:** el modelo de recursos debe quedar preparado para la composición detallada de APU, pero el alcance N1 no exige construir una biblioteca global de insumos, una búsqueda avanzada de catálogos ni integraciones con proveedores.
+
+### 3.7. Integridad entre las entidades
+
+Verifica las relaciones:
+
+`Project → ProjectBudget → BudgetChapter → BudgetItem → BudgetItemResource`
+
+Cada entidad debe pertenecer al mismo tenant que sus entidades superiores.
+
+No confíes únicamente en el `tenantId` recibido desde la interfaz. La capa de acceso a datos y las operaciones de negocio deben verificar la pertenencia de cada relación.
+
+Revisa las relaciones de borrado en cascada: solo deben aplicarse cuando sean compatibles con el ciclo de vida y las reglas de integridad del presupuesto.
+
+### 3.8. Regeneración del Data Contract
+
+Después de modificar el esquema:
+
+1. Utiliza el procedimiento real de generación del repositorio.
+2. Regenera `prisma/contract.json`.
+3. Regenera `prisma/contract.d.ts`.
+4. Comprueba que los artefactos coincidan con el contrato actualizado.
+5. Resuelve las incompatibilidades de tipos o relaciones que aparezcan.
+
+No utilices comandos clásicos de Prisma sin verificar su compatibilidad con la versión y configuración reales del proyecto.
+
+---
+
+## 04. MOTOR ARITMÉTICO — `lib/apu-engine.ts`
+
+Crea o actualiza `lib/apu-engine.ts` con funciones puras, deterministas y comprobables para el cálculo financiero.
+
+### 4.1. Escala numérica
+
+Utiliza una escala fija de seis decimales:
+
+`SCALE = 1_000_000n`
+
+Interpretación:
+
+- `1_000_000n` representa `1.000000`.
+- `1_500_000n` representa `1.500000`.
+- Los porcentajes se expresan como fracciones de la misma escala.
+- Los valores monetarios se almacenan como enteros escalados, de acuerdo con la convención financiera definida para el proyecto.
+
+No conviertas valores financieros a `Number` para realizar operaciones de cálculo.
+
+### 4.2. Función `calculateItemTotal`
+
+Firma conceptual:
+
+`calculateItemTotal(quantityBigInt, unitCostBigInt): bigint`
+
+Responsabilidad:
+
+Calcular el costo directo total de una partida a partir de la cantidad y el costo unitario.
+
+La operación debe compensar la escala de los dos operandos:
+
+`total = (quantity × unitCost) / SCALE`
+
+Requisitos:
+
+- Utilizar exclusivamente aritmética `BigInt`.
+- Definir y documentar la regla de redondeo o truncamiento.
+- Validar los valores de entrada conforme a las reglas del dominio.
+- Evitar conversiones intermedias a `Number`.
+
+### 4.3. Función `calculateBudgetTotals`
+
+Firma conceptual:
+
+`calculateBudgetTotals(directCostTotal, adminPct, imprevPct, utilidadPct, ivaUtilidadPct)`
+
+Responsabilidad:
+
+Calcular la cascada financiera del presupuesto a partir del costo directo y los porcentajes configurados.
+
+Fórmulas:
+
+- `adminTotal = directCost × adminPct / SCALE`
+- `imprevTotal = directCost × imprevPct / SCALE`
+- `utilidadTotal = directCost × utilidadPct / SCALE`
+- `ivaUtilidadTotal = utilidadTotal × ivaUtilidadPct / SCALE`
+- `grandTotal = directCost + adminTotal + imprevTotal + utilidadTotal + ivaUtilidadTotal`
+
+Todas las operaciones deben realizarse con `BigInt`.
+
+La función debe devolver los totales calculados con nombres consistentes con el Data Contract.
+
+### 4.4. Reglas financieras
+
+- No utilizar operaciones de punto flotante para los cálculos.
+- Centralizar las fórmulas en el motor APU, evitando implementaciones duplicadas en Server Actions o componentes de interfaz.
+- Definir una regla explícita de redondeo para cada división entera.
+- Validar que los porcentajes sean enteros escalados y cumplan los límites de negocio configurados.
+- Rechazar cantidades o precios negativos cuando no estén permitidos por el dominio.
+- Evitar desbordamientos conceptuales por conversiones innecesarias.
+- Mantener consistencia entre el costo directo global y la suma de las partidas.
+
+**Distinción importante:** la escala de seis decimales y el tipo `BigInt` son una representación interna. Debe documentarse por separado la conversión a pesos colombianos y la regla de redondeo monetario que se mostrará o aplicará en documentos comerciales.
+
+No presentes el resultado como cumplimiento normativo automático. Los porcentajes y el tratamiento tributario deben ser configurables y validarse de acuerdo con las condiciones contractuales y fiscales aplicables.
+
+### 4.5. Pruebas del motor
+
+Si el repositorio dispone de infraestructura de pruebas, incorpora pruebas para:
+
+- Cantidades y precios unitarios básicos.
+- Cantidades fraccionarias.
+- Costos directos iguales a cero.
+- Porcentajes iguales a cero.
+- Porcentajes configurables.
+- IVA calculado exclusivamente sobre la utilidad.
+- Divisiones que no produzcan resultados enteros exactos.
+- Valores inválidos y límites definidos por el dominio.
+- Consistencia entre los totales calculados y las fórmulas documentadas.
+
+---
+
+## 05. SERVER ACTIONS — OPERACIONES DEL PRESUPUESTO
+
+### Directorio objetivo
+
+`app/[tenant]/(app)/quotes/projects/[projectId]/budget/actions.ts`
+
+Adapta la ubicación y las firmas a las convenciones existentes del repositorio.
+
+Todas las operaciones deben utilizar `tenantDb`, validar permisos y comprobar la pertenencia de las entidades al tenant activo.
+
+### 5.1. `getOrCreateProjectBudgetAction(projectId)`
+
+Responsabilidades:
+
+1. Resolver el usuario y tenant activos desde el servidor.
+2. Validar permisos de acceso al proyecto.
+3. Verificar que el proyecto pertenece al tenant activo.
+4. Consultar si ya existe un presupuesto asociado.
+5. Si no existe, crear uno con los valores iniciales de AIU.
+6. Asignar un código y nombre conforme a las convenciones del proyecto.
+7. Inicializar los totales de manera consistente.
+8. Evitar la creación de presupuestos duplicados en solicitudes concurrentes.
+9. Devolver los datos necesarios para renderizar el Tab 2.
+
+El modelo debe respetar la restricción de un presupuesto por proyecto definida en esta fase, salvo que la auditoría revele una decisión arquitectónica previa que deba conservarse.
+
+### 5.2. `createChapterAction(budgetId, name, description)`
+
+Responsabilidades:
+
+1. Validar usuario, tenant y permisos.
+2. Verificar que el presupuesto pertenece al tenant activo.
+3. Validar el nombre y la descripción.
+4. Asignar el orden de presentación adecuado.
+5. Crear el capítulo.
+6. Devolver el capítulo creado.
+
+No permitir la creación de capítulos en presupuestos bloqueados.
+
+### 5.3. `createBudgetItemAction(chapterId, code, description, unit, quantity, unitCostDirect)`
+
+Responsabilidades:
+
+1. Validar usuario, tenant y permisos.
+2. Verificar que el capítulo pertenece al presupuesto correcto.
+3. Verificar que el presupuesto pertenece al tenant activo.
+4. Comprobar que el presupuesto no esté bloqueado.
+5. Validar código, descripción, unidad, cantidad y costo unitario.
+6. Calcular el costo directo total mediante `calculateItemTotal`.
+7. Crear el ítem con el orden correspondiente.
+8. Recalcular los totales del presupuesto.
+9. Persistir los cambios de manera coherente.
+10. Devolver el resultado actualizado.
+
+La suma del costo directo debe provenir de los ítems reales, no de valores introducidos arbitrariamente desde el navegador.
+
+### 5.4. `updateAiuConfigAction(budgetId, adminPct, imprevPct, utilidadPct, ivaUtilidadPct)`
+
+Responsabilidades:
+
+1. Validar usuario, tenant y permisos.
+2. Verificar que el presupuesto pertenece al tenant activo.
+3. Rechazar modificaciones si el presupuesto está bloqueado.
+4. Validar los porcentajes recibidos y sus límites.
+5. Actualizar la configuración AIU.
+6. Obtener o recalcular el costo directo real.
+7. Ejecutar `calculateBudgetTotals`.
+8. Persistir la configuración y los totales resultantes.
+9. Devolver los valores actualizados para refrescar la interfaz.
+
+La actualización de porcentajes debe recalcular de forma coherente toda la cascada financiera.
+
+### 5.5. Consistencia transaccional
+
+Cuando una operación implique múltiples escrituras relacionadas, utiliza el mecanismo transaccional compatible con la abstracción de datos existente.
+
+Evita que una actualización deje el presupuesto en un estado parcial, por ejemplo, con porcentajes nuevos y totales antiguos.
+
+Si varias operaciones pueden modificar partidas concurrentemente, evita sobrescribir cambios mediante lecturas y escrituras no coordinadas. Utiliza las capacidades de consistencia y concurrencia que admita la arquitectura actual.
+
+### 5.6. Manejo de errores
+
+Contempla:
+
+- Proyecto inexistente.
+- Presupuesto inexistente.
+- Capítulo inexistente.
+- Entidad perteneciente a otro tenant.
+- Usuario sin permisos.
+- Datos inválidos.
+- Código duplicado, cuando aplique.
+- Presupuesto bloqueado.
+- Conflictos de concurrencia.
+- Errores de persistencia y cálculo.
+
+Los errores deben presentarse de manera comprensible y sin revelar datos de otros tenants.
+
+---
+
+## 06. INTERFAZ — TAB 2: PRESUPUESTO APU
+
+Integra el presupuestador en la página de detalle del proyecto, sustituyendo el placeholder del Tab 2.
+
+Ruta de referencia:
+
+`app/[tenant]/(app)/quotes/projects/[projectId]`
+
+Reutiliza el sistema de pestañas, componentes y convenciones de diseño existentes.
+
+### 6.1. Tarjetas KPI
+
+Implementa cuatro tarjetas resumen:
+
+**KPI 1 — Costo Directo**
+
+- Suma de los costos directos de todas las partidas.
+- Formato monetario COP.
+- Actualización después de las operaciones de presupuesto.
+
+**KPI 2 — Administración + Imprevistos**
+
+- Mostrar los valores calculados de administración e imprevistos.
+- Indicar los porcentajes aplicados.
+- Mantener una lectura clara de ambos componentes.
+
+**KPI 3 — Utilidad + IVA**
+
+- Mostrar la utilidad calculada.
+- Mostrar el IVA aplicado sobre la utilidad.
+- Diferenciar visualmente ambos valores.
+
+**KPI 4 — Valor Total del Proyecto**
+
+- Mostrar `grandTotal`.
+- Darle la jerarquía visual principal entre los indicadores.
+- Formatear el valor en pesos colombianos conforme a la regla monetaria del proyecto.
+
+Incluye una acción **«Configurar AIU»** que abra un modal para modificar los porcentajes.
+
+Los indicadores deben representar datos persistidos y resultados reales del motor de cálculo. No utilices cifras de demostración como si fueran valores reales del proyecto.
+
+### 6.2. Modal de configuración AIU
+
+El modal debe permitir configurar:
+
+- Administración.
+- Imprevistos.
+- Utilidad.
+- IVA sobre utilidad.
+
+Requisitos:
+
+- Mostrar los valores actuales.
+- Permitir introducir porcentajes en un formato comprensible.
+- Convertir las entradas al formato interno escalado sin utilizar operaciones de punto flotante para el cálculo financiero.
+- Validar los límites y el formato.
+- Mostrar el estado de procesamiento.
+- Impedir envíos duplicados.
+- Mostrar errores cuando la actualización falle.
+- Reflejar los valores persistidos después de guardar.
+
+No describas porcentajes configurables como tarifas legales universales.
+
+### 6.3. Árbol jerárquico del presupuesto
+
+Implementa una tabla o estructura jerárquica que represente:
+
+`Presupuesto → Capítulos → Ítems APU`
+
+Cada capítulo debe incluir:
+
+- Número u orden.
+- Nombre.
+- Descripción, si existe.
+- Subtotal de costos directos del capítulo.
+- Control para expandir o colapsar.
+- Acción para agregar un ítem.
+- Acción para agregar otro capítulo.
+
+Cada ítem debe mostrar:
+
+- Código.
+- Descripción.
+- Unidad.
+- Cantidad.
+- Costo unitario directo.
+- Costo total directo.
+
+Los importes deben proceder de la base de datos y de los cálculos centralizados.
+
+### 6.4. Creación de capítulos
+
+Incluye un formulario o diálogo para crear capítulos con:
+
+- Nombre.
+- Descripción opcional.
+
+Debe validar los campos, mostrar errores y actualizar la estructura después de crear el capítulo.
+
+### 6.5. Creación de ítems APU
+
+Incluye un formulario o diálogo para agregar una partida con:
+
+- Código de actividad.
+- Descripción.
+- Unidad de medida.
+- Cantidad.
+- Costo unitario directo.
+
+El formulario debe:
+
+- Validar los valores de entrada.
+- Aplicar la escala numérica documentada.
+- Enviar los datos a la Server Action.
+- Mostrar estados de carga y errores.
+- Reflejar el subtotal calculado por el servidor.
+
+El registro detallado de recursos puede prepararse en el dominio, pero no es necesario implementar en esta fase un editor avanzado de composición de insumos si no forma parte del alcance N1 aprobado.
+
+### 6.6. Formato monetario COP
+
+Implementa o reutiliza un helper dedicado para presentar los valores financieros almacenados como `BigInt`.
+
+Requisitos:
+
+- No convertir importes grandes a `Number` sin una justificación segura y documentada.
+- Separar la representación interna escalada de la presentación monetaria.
+- Definir la política de redondeo y la precisión mostrada.
+- Presentar los importes con formato legible para Colombia.
+- Evitar que la interfaz vuelva a calcular de manera independiente los totales del presupuesto.
+
+Si se utiliza `Intl.NumberFormat`, comprueba que la conversión no pierda precisión y que sea compatible con el rango de valores admitido.
+
+### 6.7. Estados de interfaz
+
+Contempla:
+
+- Cargando presupuesto.
+- Presupuesto vacío.
+- Sin capítulos.
+- Capítulo sin ítems.
+- Error de lectura.
+- Error de escritura.
+- Guardado exitoso.
+- Presupuesto bloqueado.
+- Sin permisos de edición.
+
+No simules operaciones pendientes ni presentes placeholders como módulos funcionales.
+
+---
+
+## 07. REGLAS DE NEGOCIO E INTEGRIDAD FINANCIERA
+
+La implementación debe respetar las siguientes reglas:
+
+1. Cada proyecto tendrá el presupuesto definido por el modelo de esta fase.
+2. Cada presupuesto estará asociado a un tenant.
+3. Cada capítulo pertenecerá a un único presupuesto.
+4. Cada ítem pertenecerá a un único capítulo.
+5. Cada recurso pertenecerá a un ítem APU.
+6. Los costos directos se calcularán a partir de las partidas.
+7. Los totales AIU se calcularán desde el costo directo consolidado.
+8. El IVA se aplicará sobre la utilidad conforme a la fórmula configurada.
+9. La suma de capítulos y el total general deben ser consistentes con sus partidas.
+10. Los cálculos financieros deben centralizarse en `lib/apu-engine.ts`.
+11. Las operaciones deben respetar el aislamiento multi-tenant.
+12. Un presupuesto bloqueado no podrá modificarse mediante las operaciones ordinarias.
+13. No deben existir diferencias silenciosas entre los importes persistidos y los importes mostrados.
+
+### Consideración sobre el bloqueo
+
+`isLocked` debe respetarse desde la capa de negocio y no solo ocultando botones en la interfaz.
+
+No es necesario implementar todavía un sistema completo de versiones, aprobación contractual o historial de snapshots inmutables. Sin embargo, evita presentar el bloqueo básico como si ya constituyera un sistema integral de control documental.
+
+---
+
+## 08. CRITERIOS DE CALIDAD Y MANTENIBILIDAD
+
+- Respetar las convenciones actuales de NEXUS THRIVE.
+- Mantener separación entre interfaz, lógica de negocio y acceso a datos.
+- Reutilizar validadores y componentes existentes.
+- Mantener tipado estricto.
+- Evitar `any` como solución rápida.
+- No duplicar fórmulas en varios archivos.
+- Evitar dependencias innecesarias.
+- No modificar módulos fuera del alcance salvo que sea indispensable.
+- Preservar los cambios locales preexistentes.
+- Mantener compatibilidad con el contrato y las abstracciones reales de Prisma ORM 8.
+
+---
+
+## 09. VERIFICACIÓN TÉCNICA Y CRITERIOS DE ACEPTACIÓN
+
+### 9.1. Contrato de datos
+
+- [ ] Existen los modelos de presupuesto, capítulo, ítem y recurso, o sus equivalentes compatibles con el dominio existente.
+- [ ] Las relaciones entre las entidades son coherentes.
+- [ ] Los índices y restricciones son adecuados.
+- [ ] Los campos `BigInt` respetan la escala documentada.
+- [ ] Los artefactos del Data Contract se regeneran correctamente.
+
+### 9.2. Motor aritmético
+
+- [ ] `calculateItemTotal` calcula correctamente los subtotales.
+- [ ] `calculateBudgetTotals` calcula los valores AIU y el total general.
+- [ ] No se utilizan operaciones de punto flotante para los cálculos financieros.
+- [ ] La regla de redondeo está documentada.
+- [ ] Se valida la entrada de cantidades, costos y porcentajes.
+- [ ] Los casos límite están cubiertos por pruebas cuando exista infraestructura de testing.
+
+### 9.3. Seguridad e integridad
+
+- [ ] Todas las operaciones validan el tenant activo.
+- [ ] Se verifica la pertenencia de proyectos, presupuestos, capítulos e ítems.
+- [ ] No se aceptan totales arbitrarios del navegador.
+- [ ] Las operaciones relacionadas mantienen consistencia.
+- [ ] Los presupuestos bloqueados no admiten modificaciones ordinarias.
+- [ ] Los errores no revelan información de otros tenants.
+
+### 9.4. Funcionalidad de interfaz
+
+- [ ] El Tab 2 utiliza datos reales.
+- [ ] Se visualizan las cuatro tarjetas KPI.
+- [ ] La configuración AIU actualiza los totales.
+- [ ] Se pueden crear capítulos.
+- [ ] Se pueden crear ítems APU.
+- [ ] Los subtotales y el total general son consistentes.
+- [ ] Los importes se muestran en formato COP.
+- [ ] Se muestran correctamente los estados de carga, error, vacío y éxito.
+
+### 9.5. Validación técnica
+
+Ejecuta los comandos siguientes si son compatibles con el estado y la configuración del proyecto:
+
+```bash
+pnpm exec tsc --noEmit
+pnpm build
+```
+
+Ejecuta también las pruebas, el lint y las validaciones del Data Contract disponibles en el repositorio.
+
+No declares que una comprobación pasó si no se ejecutó correctamente. Si una validación no puede completarse, documenta el bloqueo y su causa.
+
+---
+
+## 10. ORDEN DE EJECUCIÓN
+
+### Etapa 1 — Diagnóstico
+
+- Inspeccionar Git, el contrato y la arquitectura existente.
+- Identificar dependencias del Tab 1.
+- Revisar las abstracciones multi-tenant y los patrones de interfaz.
+- Definir el plan de cambios.
+
+### Etapa 2 — Contrato de datos
+
+- Implementar los modelos necesarios.
+- Establecer relaciones e índices.
+- Regenerar los artefactos del contrato.
+- Resolver incompatibilidades.
+
+### Etapa 3 — Motor financiero
+
+- Implementar `lib/apu-engine.ts`.
+- Definir escala y redondeo.
+- Añadir pruebas del motor cuando sea posible.
+
+### Etapa 4 — Acceso a datos y Server Actions
+
+- Integrar las operaciones mediante `tenantDb`.
+- Implementar inicialización del presupuesto.
+- Implementar creación de capítulos e ítems.
+- Implementar configuración AIU y recálculo.
+- Aplicar validaciones, autorización y consistencia transaccional.
+
+### Etapa 5 — Interfaz
+
+- Sustituir el placeholder del Tab 2.
+- Implementar tarjetas KPI.
+- Implementar configuración AIU.
+- Implementar la estructura jerárquica de capítulos e ítems.
+- Implementar los formularios y estados de interfaz.
+- Conectar todos los flujos con los datos reales.
+
+### Etapa 6 — Verificación
+
+- Ejecutar las validaciones técnicas disponibles.
+- Revisar los cálculos con casos conocidos.
+- Comprobar el aislamiento multi-tenant.
+- Resolver errores introducidos por los cambios.
+- Confirmar la coherencia entre partidas, capítulos y presupuesto.
+
+### Etapa 7 — Informe final
+
+Documentar los cambios realizados, las comprobaciones ejecutadas y los pendientes.
+
+---
+
+## 11. INFORME FINAL OBLIGATORIO
+
+Al finalizar, entrega un informe con:
+
+1. **Diagnóstico inicial:** estado de la arquitectura y convenciones relevantes.
+2. **Cambios realizados:** archivos creados o modificados y su propósito.
+3. **Contrato de datos:** modelos, relaciones, índices y artefactos generados.
+4. **Motor financiero:** escala, fórmulas y reglas de redondeo.
+5. **Operaciones implementadas:** Server Actions y validaciones.
+6. **Interfaz:** funcionalidades operativas del Tab 2.
+7. **Seguridad:** controles multi-tenant y autorización aplicados.
+8. **Verificaciones:** comandos ejecutados y resultados reales.
+9. **Pendientes:** limitaciones, riesgos o bloqueos.
+10. **Siguiente fase:** preparación recomendada para la planificación Lean.
+
+Distingue entre:
+
+- Implementado y verificado.
+- Implementado, pero no verificado.
+- Parcialmente implementado.
+- Pendiente.
+
+---
+
+## 12. INSTRUCCIÓN FINAL
+
+Inspecciona el estado de Git antes de modificar archivos. Trabaja sobre `feature/construction-apu-engine`, conserva los cambios preexistentes y respeta la arquitectura real del repositorio.
+
+Implementa el **Tab 2: Presupuestador APU & AIU N1** de extremo a extremo: contrato de datos, motor aritmético, acceso seguro, Server Actions, interfaz y verificación.
+
+Prioriza precisión financiera, integridad de datos, aislamiento multi-tenant y mantenibilidad.
+
+No implementes todavía la planificación Lean, la bitácora avanzada, el control de obra ni los informes completos. Esos módulos corresponden a las siguientes fases.
+
+**No simules funcionalidades, no introduzcas APIs inexistentes y no declares resultados de verificación sin evidencia.**
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+The user has given me a massive brief for FASE 2 — Tab 2: Presupuestador APU & AIU N1. This is a big implementation task. Let me first orient myself properly.
+
+Wait — there's an important consideration. The footgun: I have a dev server running (PID 578535 / curl background). I should keep that in mind but the task is now implementation.
+
+Let me follow the mandate: "inspecciona la arquitectura existente antes de modificar el repositorio." I need to do a thorough audit first. This is a large multi-step task, so I should use a todo list and probably the explore agent / direct reads.
+
+But there's a critical thing: the contract currently does NOT have ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource. Wait — actually the summary mentioned `Quote`/`QuoteItem` already are presupuesto with AIU. But the brief explicitly asks to implement ProjectBudget etc. Let me check what exists.
+
+Also, importantly, the previous session ended abruptly mid-verification. The conversation was compacted. The user aborted a command and then pasted a new brief. So FASE 1 is implemented (uncommitted) but verification runtime wasn't done. Now we're moving to FASE 2.
+
+Hold on. Let me reconsider. The brief says "Continuamos el desarrollo... El contenedor de proyectos y la Ficha de Proyecto & Cliente (Tab 1) constituyen la base previa." So FASE 1 is assumed done.
+
+But wait — did FASE 1 actually get committed? No. Git status showed modified files but no commit. The brief says "Trabaja sobre feature/construction-apu-engine, conserva los cambios preexistentes". So keep FASE 1 changes.
+
+Now, this is a HUGE task. Let me be methodical.
+
+First: the AGENTS.md says "This is NOT the Next.js you know... Read the relevant guide in node_modules/next/dist/docs/ before writing any code." I should read relevant docs. But that's a lot. Let me at least check the docs directory structure.
+
+Also there's a `prisma-8` skill available at `.claude/skills/prisma-8/SKILL.md`. I should load it since we're doing Prisma 8 work. Actually the skill is listed in available_skills: `prisma-8`. I should use the skill tool to load it.
+
+Let me plan:
+
+1. Audit (Etapa 1): git status, contract.prisma, tenant-db patterns, existing budget-like models, UI components, format helpers, package.json scripts, existing tests.
+2. Load prisma-8 skill.
+3. Plan models.
+4. Implement contract, emit, migrate.
+5. apu-engine.ts (already exists! `lib/apu-engine.ts` mentioned in Relevant Files — "motor APU existente (no tocar en FASE 1)"). So I need to READ it and adapt/extend, not blindly create.
+6. tenant-db namespaces.
+7. actions + validators.
+8. UI (KPI cards, AIU modal, tree, forms).
+9. Verify tsc + build.
+10. Report.
+
+This is very large. Let me start with the audit in parallel — many reads.
+
+Let me be careful about context budget. I'll use the explore agent for broad discovery and read specific files myself.
+
+Let me start.
+
+First, let me handle the running dev server / background curl. Actually the task is a big implementation; the dev server can keep running. But a running dev server writing to .next/dev while I build could conflict. For `next build` later, the dev server should be stopped. I'll note that. For now, leave it.
+
+Actually, I aborted the curl. Let me just check quickly the curl result first? No — the user moved on. But it's worth confirming the page works... Actually the user abandoned that; they've moved to FASE 2. I'll focus.
+
+Hmm, but wait: should I first make sure FASE 1 is committed/working before piling on FASE 2? The brief says continue. But good engineering: the FASE 1 changes are uncommitted and unverified at runtime. The user explicitly pasted FASE 2 brief. I'll proceed but I might flag. Actually, the instruction says "conserva los cambios preexistentes" — so just don't break them.
+
+Let me consider committing FASE 1 first as a safety checkpoint. The global instructions say "Only commit... when explicitly requested." So I should NOT commit unless asked. OK, leave uncommitted.
+
+Let me begin the audit. I'll read key files:
+- prisma/contract.prisma (full — 425+? now more with Project)
+- lib/apu-engine.ts
+- lib/tenant-db.ts (huge, 2464 lines) — read relevant parts
+- lib/format or money helpers
+- app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx (what I created)
+- package.json
+- existing budget-ish models: grep for Budget, AIU
+
+Let me do parallel reads/greps.
+
+Given the size, let me use the explore agent for a broad map while I read the critical contract myself.
+
+Let me start with a batch of bash/grep/read calls in parallel.
+
+Actually, let me load the prisma-8 skill first since it's clearly relevant and will inform how I edit the contract and emit/migrate.
+
+Let me do: skill(prisma-8) + read contract.prisma + read apu-engine.ts + package.json + git status in parallel.
+
+The skill tool call and reads can be parallel. Let me do it.
+
+Let me also search for existing money formatting and AIU.
+
+I'll batch:
+1. skill prisma-8
+2. read prisma/contract.prisma
+3. read lib/apu-engine.ts
+4. read package.json
+5. bash git status + recent log
+
+Then follow up.
+
+Let me go.</think>Brief recibido: **FASE 2 — Tab 2 Presupuestador APU & AIU (N1)**. Antes de tocar nada, auditoría obligatoria (Etapa 1). Empiezo cargando el skill Prisma 8 y leyendo el estado real.
+
+#### 🔧 Tool: skill
+**Status:** completed
+**Title:** Loaded skill: prisma-8
+
+**Input:**
+```json
+{
+  "name": "prisma-8"
+}
+```
+
+**Output:**
+```
+<skill_content name="prisma-8">
+# Skill: prisma-8
+
+# Prisma 8 (Prisma 8)
+
+> **Edit your data contract. Prisma handles the rest.**
+
+Prisma 8 moves fast, and your training data about it is very likely outdated. This skill ships inside the installed Prisma packages, so it describes the exact version this project has — treat it and its reference files as the source of truth, over anything you remember about Prisma.
+
+## Pre-conditions
+
+Check these before acting on anything below. Halt on the first one that fails and tell the user what is missing.
+
+1. **The project is on Prisma 8.** `prisma.config.ts` exports `definePrismaConfig({ orm: ... })`, and `package.json` depends on `@prisma/orm-postgres`, `@prisma/orm-sqlite`, or `@prisma/orm-mongo`. A project with `schema.prisma` and `@prisma/client` is Prisma 7 or earlier; this skill does not apply to it, and its instructions will break such a project.
+2. **The skill matches the installed version.** Compare `metadata.library_version` in this file's frontmatter with the installed `@prisma/orm-*` version in `package.json`. If they differ, run `prisma skills sync` and re-read this file before continuing.
+3. **The contract artefacts exist.** `contract.json` and `contract.d.ts` sit next to the contract source named by `prisma.config.ts`. If they are missing or older than the source, run `prisma contract emit` first; every query and migration instruction below assumes current artefacts.
+
+**Import paths in the references.** The reference files spell façade imports as `@internal/<target>/<subpath>` and `@internal/extension-<name>/<subpath>`. In an application those packages are published as `@prisma/orm-<target>/<subpath>` (`@prisma/orm-postgres/runtime`, `@prisma/orm-mongo/config`, `@prisma/orm-sqlite/runtime`) and `@prisma/orm-extension-<name>/<subpath>` (`@prisma/orm-extension-pgvector/control`). Write the `@prisma/orm-*` name in user code; the two spellings are the same package. Paths already written as `@prisma/orm-*` in the references are exact. The `metadata.library_version` in this file's frontmatter is the version it was published with; if it does not match the project's installed Prisma packages, run `prisma skills sync` and re-read.
+
+Prisma 8 is a contract-first data layer. This skill routes every Prisma 8 task to the right reference file — open the reference before writing code; do not answer from this file alone.
+
+## The canonical model (one paragraph)
+
+You author a **data contract** (a `contract.prisma` file, or a TypeScript builder). The framework emits machine-readable artifacts (`contract.json`, `contract.d.ts`) and gives you two runtime surfaces on SQL targets: a typed SQL query builder (`db.sql.<ns>.<table>`) and a typed ORM client (`db.orm.<ns>.<Model>`). On MongoDB targets only the ORM lane exists, and its keys are collection storage names (`db.orm.users`) rather than PSL model names — [`references/queries.md`](references/queries.md) § *MongoDB ORM addressing* covers the rule. Migrations are planned from the contract diff; you review them, optionally edit the `migration.ts` for data transforms, and apply.
+
+Three steps the user does:
+
+1. **Edit your data contract.** ([`references/contract.md`](references/contract.md))
+2. **The system plans the migrations for you.** ([`references/migrations.md`](references/migrations.md))
+3. **If you need data migrations, you edit `migration.ts` and execute it.** ([`references/migrations.md`](references/migrations.md))
+
+Everything else — queries, runtime wiring, build integration, debugging, feedback — sits on top of those three.
+
+One cross-cutting migration fact: `migration plan` does **not** chain from the newest migration on disk. Its origin is `--from`, else the `db` ref, else an empty database — so a project with no ref keeps planning from scratch. Over existing migrations the CLI refuses that (`MIGRATION.PLAN_ORIGIN_UNKNOWN`) instead of writing a full-create package; choose the exit that matches your intent rather than reflexively passing `--from @empty`. [`references/migration-model.md`](references/migration-model.md) § *The trap* explains which to choose.
+
+## Routing table
+
+Open the reference whose triggers match the task. If more than one matches, open each — they are written to compose.
+
+| Task | Reference | Triggers |
+| --- | --- | --- |
+| Adopt / set up / first steps | [`references/quickstart.md`](references/quickstart.md) | new project, existing database, "what can I do with Prisma 8", "where do I start", "just ran createprisma", `npx create-prisma`, first steps, first query, `prisma orm init` greenfield setup, `contract infer` + `db sign` brownfield adoption, connect-write-read first arc, day-to-day commands (`contract emit`, `db init`, `db update`, `migration plan`, `db migrate`, `db schema`, `db verify`), flags `--target` / `--authoring` / `--schema-path` / `--probe-db` / `--output` |
+| Edit the data contract | [`references/contract.md`](references/contract.md) | schema, models, fields, attributes, relations, indexes, enums, value objects (composite types), type aliases, namespaces (Postgres schemas), cross-contract foreign keys (cross-space FK), polymorphic types (`@@discriminator` / `@@base`), extension namespaces (`pgvector.Vector(...)`, `postgis.Geometry(...)`), `prisma.config.ts` / `definePrismaConfig` / `ormConfig`, `prisma contract emit`, PSL, `contract.prisma`, `contract.ts`, `contract.json`, `contract.d.ts`, `@internal/postgres/config`, `@internal/postgres/contract-builder`, `@internal/mongo/config`, `extensions:`, pgvector, postgis, paradedb, Temporal / `temporal-polyfill` / `RUNTIME.TEMPORAL_UNAVAILABLE`, `@@control`, control policy (managed / tolerated / external / observed), soft delete, validations, callbacks |
+| Author migrations | [`references/migrations.md`](references/migrations.md) | `db update` vs `migration plan`, `db migrate`, `migration new`, `migration show`, `db update --dry-run`, `db verify`, `db sign`, data migration, `dataTransform`, placeholder sentinels in framework-rendered `migration.ts`, `MIGRATION.HASH_MISMATCH`, `MIGRATION.UNFILLED_PLACEHOLDER`, `MIGRATION.DESTRUCTIVE_CHANGES` / `--confirm <database>`, schema drift |
+| Migration graph, refs, plan origin | [`references/migration-model.md`](references/migration-model.md) | migration graph, refs, `migration ref set` / `list` / `delete`, the `db` ref, `--advance-ref`, `--no-advance-ref`, `migration plan --from`, `from: (baseline)` in plan output, greenfield / from-scratch plan, baseline, first migration before deploy (Composer / CD-managed databases), chaining migrations, retrofitting migrations onto an existing database, `MIGRATION.HASH_NOT_IN_GRAPH`, `MIGRATION.PATH_UNREACHABLE` at plan/chain time |
+| Review migrations on deploy | [`references/migration-review.md`](references/migration-review.md) | "what migrations are going to run", "what runs on deploy / merge", merge conflict, diamond convergence, concurrent migrations, migration status, ref management for CI, staging / production environment refs, `MIGRATION.MARKER_NOT_IN_HISTORY`, `MIGRATION.MISSING_INVARIANTS`, `db migrate --show` |
+| Write queries | [`references/queries.md`](references/queries.md) | query, where, select, project, orderBy, limit, offset, take, skip, include, lookup, first, all, count, aggregate, groupBy, create, update, delete, upsert, returning, transaction, `db.orm`, `db.sql`, `runtime.query(plan)` vs `runtime.execute(plan)`, `db.prepare` / prepared statements, streaming / `for await`, many-to-many `include` and nested `connect`, `and` / `or` / `not` from `@prisma/orm-postgres/orm-client`, `db.query.from(...)` (Mongo pipeline), namespace-aware accessors, `.all()` Thenable, single-use iterators (`RUNTIME.ITERATOR_CONSUMED`), target-declared aggregate types (`count`, integer `sum`, and integer `avg` are `number`; `count` and integer `sum` throw outside ±(2^53 − 1) rather than round, while `avg` is a fraction already and carries no guard; `countBigInt` / `sumBigInt` / `avgDecimal` are the lossless forms, `avgDecimal` on PostgreSQL only), drizzle-style, kysely-style. Naming types (§ *Naming model and result types*): "type of my model", "return type of a query", `ResultType`, `Scalars`, `Shape`, `models` / `Models` namespace in `contract.d.ts`, `Models.public_User`, Prisma 7 `Prisma.User` / `GetPayload` / `UserGetPayload` equivalents. Postgres/SQLite specifics: [`references/queries-postgres.md`](references/queries-postgres.md); Mongo specifics: [`references/queries-mongo.md`](references/queries-mongo.md) |
+| Wire the runtime | [`references/runtime.md`](references/runtime.md) | `db.ts`, `postgres<Contract>(...)` / `sqlite<Contract>(...)` / `mongo<Contract>(...)` façades, middleware composition (lints, budgets, cache via `@prisma/orm-extension-middleware-cache`, custom `afterQuery` middleware, `@prisma/orm-postgres/family-runtime`), `DATABASE_URL`, `.env`, connection pool / `poolOptions`, dev vs prod config, transactions, read replicas, multi-database, script won't exit / hangs, `db.close` / `pool.end`, `await using` / `[Symbol.asyncDispose]` |
+| Build-tool integration | [`references/build.md`](references/build.md) | Vite plugin (`@internal/vite-plugin-contract-emit`, Vite 7/8), `vite.config.ts`, contract emit on save, HMR / dev server, Next.js / Webpack / esbuild / Rollup / Turbopack (named gaps, not fabricated) |
+| Supabase | [`references/supabase.md`](references/supabase.md) | `@internal/extension-supabase`, RLS, row level security, policies (`policy_select` / `policy_update` / `@@rls`, `auth.uid()`), role binding (`asUser(jwt)` / `asAnon()` / `asServiceRole()`), `auth.users`, cross-space FKs to `supabase:auth.AuthUser`, JWT / JWKS (`SUPABASE_JWKS_URL`, `SUPABASE_JWT_SECRET`), `SUPABASE.JWT_INVALID`, `SUPABASE.CONFIG_INVALID`, `RoleBoundDb`, session pooler |
+| Debug an error | [`references/debug.md`](references/debug.md) | any structured error envelope (code, severity, why, fix, nextActions, meta), emit failed, query won't typecheck, query crashed, migration won't apply, `MIGRATION.HASH_MISMATCH`, `MIGRATION.RUNNER_FAILED`, `BUDGET.ROWS_EXCEEDED`, `BUDGET.TIME_EXCEEDED`, `RUNTIME.ABORTED`, `RUNTIME.TEMPORAL_UNAVAILABLE`, `PLAN.HASH_MISMATCH`, `CONTRACT.MARKER_MISSING`, `CONFIG.*` / `CLI.*` / `CONTRACT.*` / `MIGRATION.*` / `ORM.*` / `RUNTIME.*` codes, legacy `PN-*` codes, exit code 4 findings, drift, capability missing, planner conflict, EXPLAIN, query log, script won't exit / close connection |
+| Upgrade Prisma in an app | [`references/upgrade-app.md`](references/upgrade-app.md) | "upgrade Prisma", "upgrade Prisma 8", "bump Prisma 8", "move to Prisma 8 X.Y", `@internal/*` version bump in an application, per-transition upgrade instructions in [`upgrading/app/upgrades/`](upgrading/app/upgrades/), extension-pin pre-flight, `PN-UPGRADE-*` |
+| Upgrade Prisma in an extension | [`references/upgrade-extension.md`](references/upgrade-extension.md) | the same request in a package that *is* a Prisma extension (`@internal/contract` / SPI dependency, `^@.*/extension-` name), `prisma-8-check-pins`, exact-pin rule, per-transition instructions in [`upgrading/extension/upgrades/`](upgrading/extension/upgrades/) |
+| File feedback / ask the team | [`references/feedback.md`](references/feedback.md) | bug report, file an issue, feature request, missing feature, capability gap, "this is broken", surprising behaviour, Q&A / design discussion, ask the Prisma team, Prisma Discord (pris.ly/discord), extension-author questions |
+
+## Routing rules
+
+If the task clearly matches a row, open that reference directly without asking.
+
+For a vague prompt, ask **one** disambiguating question. Pick from:
+
+- *"Are you new to Prisma 8 and asking what you can do with it, or where to start?"* → [`references/quickstart.md`](references/quickstart.md) (first-touch orientation path).
+- *"Do you want to set up a new Prisma 8 project, or wire it into an existing database?"* → [`references/quickstart.md`](references/quickstart.md).
+- *"Do you want to edit your data contract (add a model / field / relation), or work with the database (migrations, queries)?"* → [`references/contract.md`](references/contract.md) vs the others.
+- *"Is this about authoring a migration, or about reviewing what's going to run on deploy?"* → [`references/migrations.md`](references/migrations.md) vs [`references/migration-review.md`](references/migration-review.md). If it's about where a plan starts, refs, or an unexpected from-scratch plan → [`references/migration-model.md`](references/migration-model.md).
+- *"Is this about wiring Prisma 8 into your build tool (Vite / Next.js / …), or about wiring `db.ts` and middleware at runtime?"* → [`references/build.md`](references/build.md) vs [`references/runtime.md`](references/runtime.md).
+- *"What error or symptom are you seeing?"* → [`references/debug.md`](references/debug.md).
+- *"Do you want to report this as a bug to the Prisma 8 team, or is this a feature request?"* → [`references/feedback.md`](references/feedback.md).
+- *"Is the project you want to upgrade an application, or a Prisma extension package?"* → [`references/upgrade-app.md`](references/upgrade-app.md) vs [`references/upgrade-extension.md`](references/upgrade-extension.md).
+
+If you still can't tell which reference applies, ask the user what they want to do. Do not guess.
+
+## Checklist
+
+- [ ] If the task matches a routing-table row, open that reference before writing code.
+- [ ] If the prompt is vague, ask one disambiguating question.
+- [ ] Do not attempt to answer from this file alone — the references carry the verified tool surface.
+- [ ] If the user describes a missing feature or a misbehaviour they want fixed, open [`references/feedback.md`](references/feedback.md).
+
+Base directory for this skill: /home/craxker/github/nexus-thrive/.claude/skills/prisma-8
+Relative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.
+Note: file list is sampled.
+
+<skill_files>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/0.9-to-0.10/stamp-storage-types-kind.ts</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/0.9-to-0.10/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.3-to-8.0.0-rc.4/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.9-to-8.0.0-rc.10/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.2-to-8.0.0-rc.3/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.8-to-8.0.0-rc.9/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.13-to-8.0.0-rc.14/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.7-to-8.0.0-rc.8/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.6-to-8.0.0-rc.7/instructions.md</file>
+<file>/home/craxker/github/nexus-thrive/.claude/skills/prisma-8/upgrading/extension/upgrades/8.0.0-rc.5-to-8.0.0-rc.6/instructions.md</file>
+</skill_files>
+</skill_content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/contract.prisma"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/prisma/contract.prisma</path>
+<type>file</type>
+<content>
+1: // use prisma-8
+2: 
+3: enum Role {
+4:   SUPERADMIN
+5:   OWNER
+6:   STAFF
+7: }
+8: 
+9: /// Perfil del negocio en el onboarding auto-servicio: persona natural vs empresa.
+10: enum TenantType {
+11:   /// Emprendedor / persona natural (perfil liviano: sin NIT obligatorio).
+12:   INDIVIDUAL
+13:   /// Empresa / negocio establecido (perfil completo: NIT, tamaño, dirección).
+14:   COMPANY
+15: }
+16: 
+17: enum Vertical {
+18:   gym
+19:   tourism_agency
+20:   hospitality
+21:   construction
+22:   carpentry
+23:   restaurant
+24:   retail
+25:   beauty
+26:   healthcare
+27:   mechanic
+28:   education
+29:   real_estate
+30:   hardware_store
+31:   nautical_transport
+32:   tour_guides
+33:   events
+34: }
+35: 
+36: enum ModuleName {
+37:   crm
+38:   dashboard
+39:   bookings
+40:   payments
+41:   billing
+42:   inventory
+43:   finance
+44:   whatsapp
+45:   memberships
+46:   orders
+47:   quotes
+48: }
+49: 
+50: enum PaymentStatus {
+51:   PENDING
+52:   APPROVED
+53:   DECLINED
+54:   VOIDED
+55: }
+56: 
+57: enum PaymentProvider {
+58:   WOMPI
+59:   NEQUI
+60:   CASH
+61:   TRANSFER
+62: }
+63: 
+64: enum MembershipType {
+65:   mensual
+66:   trimestral
+67:   anual
+68: }
+69: 
+70: enum MembershipStatus {
+71:   active
+72:   expiring
+73:   expired
+74: }
+75: 
+76: /// Categoría de un insumo del banco APU (Análisis de Precios Unitarios).
+77: enum ApuItemCategory {
+78:   MATERIAL
+79:   MANO_DE_OBRA
+80:   EQUIPO
+81:   TRANSPORTE
+82: }
+83: 
+84: /// Estado de un presupuesto/cotización de obra.
+85: enum QuoteStatus {
+86:   DRAFT
+87:   SENT
+88:   APPROVED
+89:   REJECTED
+90: }
+91: 
+92: /// Ciclo de vida de un proyecto de obra (vertical construcción).
+93: enum ProjectStatus {
+94:   DRAFT
+95:   BIDDING
+96:   APPROVED
+97:   IN_EXECUTION
+98:   COMPLETED
+99:   CANCELLED
+100: }
+101: 
+102: model Tenant {
+103:   id           String   @id @default(uuid())
+104:   name         String
+105:   slug         String   @unique
+106:   customDomain String?  @unique
+107:   vertical     Vertical
+108:   active       Boolean  @default(true)
+109: 
+110:   /// Wizard de onboarding: false = el tenant es nuevo y debe configurarse.
+111:   onboardingCompleted Boolean @default(false)
+112:   /// Perfil adaptativo (onboarding auto-servicio). Las reglas de validación
+113:   /// viven en lib/onboarding/validation.ts; estos campos son la persistencia.
+114:   tenantType TenantType @default(COMPANY)
+115:   /// Razón social (solo COMPANY; el nombre comercial vive en `name`).
+116:   legalName String?
+117:   /// NIT/RUT (obligatorio en COMPANY, opcional en INDIVIDUAL).
+118:   taxId String?
+119:   /// Tamaño del equipo: "SOLO" | "2-5" | "6-20" | "20+" (guardado como texto
+120:   /// validado por la app; el enum rígido dificultaría agregar rangos).
+121:   teamSize String?
+122:   /// Dirección física; "REMOTE" si el negocio no tiene local.
+123:   address String?
+124:   /// Identidad y ubicación (Paso 1 del onboarding).
+125:   city              String?
+126:   whatsappNumber    String?
+127:   /// Ecosistema digital (Paso 3 del onboarding).
+128:   websiteUrl        String?
+129:   instagramHandle   String?
+130:   googleBusinessUrl String?
+131:   /// Métodos de pago aceptados (Paso 4 del onboarding; catálogo PaymentProvider).
+132:   /// Nullable en DB: un tenant nuevo aún no los configuró; el código normaliza a [].
+133:   paymentMethods    PaymentProvider[]?
+134: 
+135:   /// Suspensión administrativa (Panel CEO): motivo obligatorio + timestamp.
+136:   /// Se conserva aunque el tenant se reactive (historial de por qué se suspendió).
+137:   suspendedReason String?
+138:   suspendedAt     DateTime?
+139: 
+140:   createdAt DateTime @default(now())
+141:   updatedAt temporal.updatedAt()
+142: 
+143:   users         User[]
+144:   customers     Customer[]
+145:   payments      Payment[]
+146:   expenses      Expense[]
+147:   memberships   Membership[]
+148:   modules       TenantModule[]
+149:   customerNotes CustomerNote[]
+150:   apuItems      ApuItem[]
+151:   apuActivities ApuActivity[]
+152:   quotes        Quote[]
+153:   projects      Project[]
+154: 
+155:   @@index([slug])
+156: }
+157: 
+158: model TenantModule {
+159:   id         String       @id @default(uuid())
+160:   tenantId   String
+161:   tenant     Tenant       @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+162:   moduleName ModuleName
+163:   active     Boolean      @default(true)
+164:   createdAt  DateTime     @default(now())
+165:   updatedAt  temporal.updatedAt()
+166: 
+167:   @@unique([tenantId, moduleName])
+168:   @@index([tenantId])
+169: }
+170: 
+171: model User {
+172:   id          String   @id @default(uuid())
+173:   clerkUserId String
+174:   email       String
+175:   name        String?
+176:   role        Role     @default(STAFF)
+177:   tenantId    String
+178:   tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+179:   createdAt   DateTime @default(now())
+180:   updatedAt   temporal.updatedAt()
+181: 
+182:   customerNotes CustomerNote[]
+183: 
+184:   @@unique([clerkUserId, tenantId])
+185:   @@index([tenantId])
+186: }
+187: 
+188: model Customer {
+189:   id        String   @id @default(uuid())
+190:   tenantId  String
+191:   tenant    Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+192:   name      String
+193:   email     String?
+194:   phone     String?
+195:   active    Boolean  @default(true)
+196:   createdAt DateTime @default(now())
+197:   updatedAt temporal.updatedAt()
+198: 
+199:   payments Payment[]
+200:   memberships Membership[]
+201:   notes CustomerNote[]
+202:   quotes Quote[]
+203:   projects Project[]
+204: 
+205:   @@index([tenantId])
+206: }
+207: 
+208: model Payment {
+209:   id            String          @id @default(uuid())
+210:   tenantId      String
+211:   tenant        Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+212:   customerId    String?
+213:   customer      Customer?       @relation(fields: [customerId], references: [id], onDelete: SetNull)
+214:   membershipId  String?
+215:   membership    Membership?     @relation(fields: [membershipId], references: [id], onDelete: SetNull)
+216:   amount        Decimal
+217:   status        PaymentStatus   @default(PENDING)
+218:   provider      PaymentProvider @default(CASH)
+219:   providerRefId String?         @unique
+220:   description   String?
+221:   createdAt     DateTime        @default(now())
+222:   updatedAt     temporal.updatedAt()
+223: 
+224:   @@index([tenantId])
+225:   @@index([providerRefId])
+226:   @@index([membershipId])
+227: }
+228: 
+229: model Expense {
+230:   id          String   @id @default(uuid())
+231:   tenantId    String
+232:   tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+233:   amount      Decimal
+234:   category    String
+235:   description String
+236:   date        DateTime @default(now())
+237:   createdAt   DateTime @default(now())
+238:   updatedAt   temporal.updatedAt()
+239: 
+240:   @@index([tenantId])
+241: }
+242: 
+243: model Membership {
+244:   id         String           @id @default(uuid())
+245:   tenantId   String
+246:   tenant     Tenant           @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+247:   customerId String
+248:   customer   Customer         @relation(fields: [customerId], references: [id], onDelete: Cascade)
+249:   type       MembershipType
+250:   startDate  DateTime
+251:   endDate    DateTime
+252:   status     MembershipStatus @default(active)
+253:   price      Decimal
+254:   /// Historial de cobros registrados (JSON serializable: [{ date, amount, provider, kind }]).
+255:   payments   Json?
+256:   charges    Payment[]
+257:   createdAt  DateTime         @default(now())
+258:   updatedAt  temporal.updatedAt()
+259: 
+260:   @@index([tenantId])
+261:   @@index([tenantId, endDate])
+262:   @@index([customerId])
+263: }
+264: 
+265: /// Observación interna sobre un cliente (Ficha 360°). Sin módulo propio:
+266: /// pertenece al núcleo del CRM.
+267: model CustomerNote {
+268:   id         String   @id @default(uuid())
+269:   tenantId   String
+270:   tenant     Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+271:   customerId String
+272:   customer   Customer @relation(fields: [customerId], references: [id], onDelete: Cascade)
+273:   content    String
+274:   /// User.id del autor (se conserva el contenido si el usuario se elimina).
+275:   createdBy  String?
+276:   author     User?    @relation(fields: [createdBy], references: [id], onDelete: SetNull)
+277:   createdAt  DateTime @default(now())
+278:   updatedAt  temporal.updatedAt()
+279: 
+280:   @@index([tenantId])
+281:   @@index([customerId])
+282: }
+283: 
+284: /// Insumo/recurso básico del banco APU (material, mano de obra, equipo o
+285: /// transporte). El `code` es opcional pero único DENTRO del tenant cuando existe.
+286: model ApuItem {
+287:   id        String          @id @default(uuid())
+288:   tenantId  String
+289:   tenant    Tenant          @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+290:   code      String?
+291:   name      String
+292:   unit      String
+293:   category  ApuItemCategory
+294:   unitPrice Decimal
+295:   updatedAt temporal.updatedAt()
+296: 
+297:   compositions ApuActivityComposition[]
+298: 
+299:   @@unique([tenantId, code])
+300:   @@index([tenantId])
+301: }
+302: 
+303: /// Actividad de obra reutilizable (ej. M2 de muro en ladrillo). Se compone
+304: /// de insumos con rendimiento (`consumption`) y desperdicio (`wastePercent`).
+305: model ApuActivity {
+306:   id          String   @id @default(uuid())
+307:   tenantId    String
+308:   tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+309:   code        String?
+310:   name        String
+311:   unit        String
+312:   description String?
+313:   createdAt   DateTime @default(now())
+314:   updatedAt   temporal.updatedAt()
+315: 
+316:   compositions ApuActivityComposition[]
+317:   quoteItems  QuoteItem[]
+318: 
+319:   @@unique([tenantId, code])
+320:   @@index([tenantId])
+321: }
+322: 
+323: /// Composición de una actividad APU: insumo + rendimiento + desperdicio.
+324: /// Se elimina en cascada con la actividad.
+325: model ApuActivityComposition {
+326:   id           String      @id @default(uuid())
+327:   activityId   String
+328:   activity     ApuActivity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+329:   itemId       String
+330:   item         ApuItem     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+331:   /// Cantidad del insumo por unidad de actividad (rendimiento).
+332:   consumption  Decimal
+333:   /// Porcentaje de desperdicio (0–50).
+334:   wastePercent Decimal
+335: 
+336:   @@unique([activityId, itemId])
+337:   @@index([activityId])
+338:   @@index([itemId])
+339: }
+340: 
+341: model Booking {
+342:   id          String        @id @default(uuid())
+343:   tenantId    String
+344:   customerId  String
+345:   serviceName String
+346:   startDate   DateTime
+347:   endDate     DateTime
+348:   status      BookingStatus @default(PENDING)
+349:   totalAmount BigInt        @default(0)
+350:   notes       String?
+351:   createdAt   DateTime      @default(now())
+352:   updatedAt   DateTime      @default(now())
+353: 
+354:   @@index([tenantId])
+355:   @@index([customerId])
+356: }
+357: 
+358: enum BookingStatus {
+359:   PENDING
+360:   CONFIRMED
+361:   COMPLETED
+362:   CANCELLED
+363: }
+364: 
+365: /// Encabezado de un presupuesto/cotización de obra.
+366: model Quote {
+367:   id            String      @id @default(uuid())
+368:   tenantId      String
+369:   tenant        Tenant      @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+370:   customerId    String?
+371:   customer      Customer?   @relation(fields: [customerId], references: [id], onDelete: SetNull)
+372:   title         String
+373:   /// Código de negocio: PRES-2026-001 (único dentro del tenant).
+374:   code          String
+375:   status        QuoteStatus @default(DRAFT)
+376:   adminPercent  Decimal     @default(15)
+377:   imprevPercent Decimal     @default(5)
+378:   utilPercent   Decimal     @default(10)
+379:   taxPercent    Decimal     @default(19)
+380:   directCost    Decimal
+381:   totalAmount   Decimal
+382:   createdAt     DateTime    @default(now())
+383:   updatedAt     temporal.updatedAt()
+384: 
+385:   items QuoteItem[]
+386: 
+387:   @@unique([tenantId, code])
+388:   @@index([tenantId])
+389:   @@index([tenantId, status])
+390:   @@index([customerId])
+391: }
+392: 
+393: /// Registro de auditoría de acciones privilegiadas del SuperAdmin
+394: /// (suspensión, activación, módulos, exportación, impersonación). No se
+395: /// relaciona por FK con Tenant a propósito: la auditoría debe sobrevivir al
+396: /// borrado del negocio. NUNCA guarda secretos ni tokens.
+397: model AuditLog {
+398:   id         String   @id @default(uuid())
+399:   /// Clerk user id del SuperAdmin actor (no expone datos sensibles).
+400:   actorId    String
+401:   actorEmail String?
+402:   /// Acción auditada (string controlado por el código, no un enum: las
+403:   /// migraciones de enum en Prisma 8 son frágiles y aquí no aportan valor).
+404:   action     String
+405:   /// Negocio objetivo (puede ser null en acciones globales como exportar).
+406:   targetTenantId   String?
+407:   targetTenantName String?
+408:   /// Metadatos serializables (motivo, módulos, filas exportadas…). Sin secretos.
+409:   metadata   Json?
+410:   ipAddress  String?
+411:   userAgent  String?
+412:   createdAt  DateTime @default(now())
+413: 
+414:   @@index([createdAt])
+415:   @@index([targetTenantId])
+416:   @@index([actorId])
+417: }
+418: 
+419: /// Actividad dentro de un presupuesto. Congela nombre, unidad, cantidad y
+420: /// costos al momento de cotizar; opcionalmente guarda el snapshot del APU.
+421: model QuoteItem {
+422:   id          String       @id @default(uuid())
+423:   quoteId     String
+424:   quote       Quote        @relation(fields: [quoteId], references: [id], onDelete: Cascade)
+425:   activityId  String?
+426:   activity    ApuActivity? @relation(fields: [activityId], references: [id], onDelete: SetNull)
+427:   name        String
+428:   unit        String
+429:   quantity    Decimal
+430:   unitCost    Decimal
+431:   totalCost   Decimal
+432:   /// Fotografía inmutable del APU utilizado (catálogo + composición + precios).
+433:   apuSnapshot Json?
+434: 
+435:   @@index([quoteId])
+436:   @@index([activityId])
+437: }
+438: 
+439: /// Contenedor de un proyecto de obra (FASE 1 del vertical construcción).
+440: /// Cada proyecto es dueño de su ficha (`ProjectHeader`, 1:1) y, en fases
+441: /// posteriores, de presupuestos, planificación y bitácora.
+442: ///
+443: /// Aislamiento multi-tenant: toda consulta filtra por `tenantId` y la capa
+444: /// de negocio valida que el `Customer` pertenezca al mismo tenant antes de
+445: /// vincularlo (el índice compuesto impide cruces accidentales de lectura).
+446: model Project {
+447:   id         String        @id @default(uuid())
+448:   tenantId   String
+449:   tenant     Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+450:   customerId String
+451:   customer   Customer      @relation(fields: [customerId], references: [id], onDelete: Restrict)
+452:   /// Código de negocio: PROY-2026-001 (único dentro del tenant).
+453:   code       String
+454:   name       String
+455:   description String?
+456:   status     ProjectStatus @default(DRAFT)
+457:   createdAt  DateTime      @default(now())
+458:   updatedAt  temporal.updatedAt()
+459: 
+460:   header   ProjectHeader?
+461: 
+462:   @@unique([tenantId, code])
+463:   @@index([tenantId])
+464:   @@index([customerId])
+465:   @@index([tenantId, status])
+466: }
+467: 
+468: /// 1:1 con Proyecto. Snapshot inicial tomado del Customer del CRM al crear
+469: /// el proyecto (no es una segunda fuente maestra de cliente: el maestro
+470: /// sigue siendo `Customer`; aquí se congela lo que aplica a ESTA obra).
+471: model ProjectHeader {
+472:   id        String   @id @default(uuid())
+473:   projectId String   @unique
+474:   project   Project  @relation(fields: [projectId], references: [id], onDelete: Cascade)
+475: 
+476:   // A) Datos tributarios / contractuales del cliente (snapshot del CRM).
+477:   clientTaxName      String?
+478:   clientTaxId        String?
+479:   clientTaxDv        String?
+480:   clientAddress      String?
+481:   clientCity         String?
+482:   clientBillingEmail String?
+483:   legalRepName       String?
+484: 
+485:   // B) Ubicación y tipo de obra.
+486:   siteAddress     String?
+487:   siteCity        String?
+488:   siteDepartment  String?
+489:   projectType     String?
+490:   siteAccessNotes String?
+491: 
+492:   // C) Responsables de la obra.
+493:   technicalContact            String?
+494:   technicalPhone              String?
+495:   projectLeaderName           String?
+496:   projectLeaderProfessionalId String?
+497:   supervisorName              String?
+498: 
+499:   createdAt DateTime @default(now())
+500:   updatedAt temporal.updatedAt()
+501: 
+502:   @@index([projectId])
+503: }
+
+(End of file - total 503 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/apu-engine.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/apu-engine.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/apu-engine.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Motor de cálculo APU y presupuestos de obra (NEXUS THRIVE).
+3:  *
+4:  * Precisión DECIMAL sin dependencias: el driver de Prisma 8 de este
+5:  * proyecto materializa las columnas `Decimal` como STRINGS y acepta
+6:  * strings al escribir. Por eso todo el cálculo financiero vive aquí, en
+7:  * aritmética de punto fijo con `BigInt` (6 decimales: micro-unidades de
+8:  * COP). Cero `number` en operaciones monetarias → cero error de punto
+9:  * flotante, determinístico en todos los entornos.
+10:  *
+11:  * Este módulo es 100% servidor y NO importa la interfaz: es el único
+12:  * lugar autorizado para costo de componentes, costo unitario de APU,
+13:  * totales de presupuesto y validación numérica.
+14:  */
+15: 
+16: /* ------------------------------------------------------------------ */
+17: /* Punto fijo (micro-unidades)                                         */
+18: /* ------------------------------------------------------------------ */
+19: 
+20: /** Escala interna: 1 unidad = 1_000_000 micro (6 decimales). */
+21: const UNIT = BigInt(1_000_000);
+22: const HALF = UNIT / BigInt(2); // para redondeo half-up (valores no negativos)
+23: 
+24: /** Dinero/cantidad en micro-unidades (nunca exponer fuera del motor). */
+25: type Money = bigint;
+26: 
+27: const DECIMAL_PATTERN = /^-?\d+(\.\d+)?$/;
+28: 
+29: /**
+30:  * Convierte un string decimal a micro-unidades. Rechaza vacíos, NaN,
+31:  * Infinity, notación científica y más de 6 decimales. Devuelve `null`
+32:  * si el valor no es un decimal válido.
+33:  */
+34: export function parseMoney(raw: string): Money | null {
+35:   const value = raw.trim();
+36:   if (!value || value.length > 40 || !DECIMAL_PATTERN.test(value)) {
+37:     return null;
+38:   }
+39:   const negative = value.startsWith("-");
+40:   const unsigned = negative ? value.slice(1) : value;
+41:   const [intPart, fracPart = ""] = unsigned.split(".");
+42:   if (fracPart.length > 6) {
+43:     return null;
+44:   }
+45:   const micro =
+46:     BigInt(intPart || "0") * UNIT +
+47:     BigInt((fracPart + "000000").slice(0, 6));
+48:   return negative ? -micro : micro;
+49: }
+50: 
+51: /**
+52:  * Serializa micro-unidades a string decimal canónico (sin ceros sobrantes;
+53:  * enteros sin punto). Es el formato que acepta el driver para `Decimal`.
+54:  */
+55: export function moneyToString(micro: Money): string {
+56:   const sign = micro < BigInt(0) ? "-" : "";
+57:   const abs = micro < BigInt(0) ? -micro : micro;
+58:   const whole = abs / UNIT;
+59:   const frac = abs % UNIT;
+60:   if (frac === BigInt(0)) {
+61:     return `${sign}${whole}`;
+62:   }
+63:   const fracText = frac.toString().padStart(6, "0").replace(/0+$/, "");
+64:   return `${sign}${whole}.${fracText}`;
+65: }
+66: 
+67: /** División con redondeo half-up (valores no negativos). */
+68: function roundDiv(numerator: bigint, denominator: bigint): bigint {
+69:   return (numerator + denominator / BigInt(2)) / denominator;
+70: }
+71: 
+72: /** Porcentaje de un monto: `amount * percent / 100` (micro-puntos). */
+73: function percentOf(amount: Money, percentMicro: Money): Money {
+74:   if (amount <= BigInt(0) || percentMicro <= BigInt(0)) {
+75:     return BigInt(0);
+76:   }
+77:   return roundDiv(amount * percentMicro, BigInt(100) * UNIT);
+78: }
+79: 
+80: /* ------------------------------------------------------------------ */
+81: /* Validación numérica (server + import)                               */
+82: /* ------------------------------------------------------------------ */
+83: 
+84: /** `true` si el string es un decimal válido (máx. 6 decimales). */
+85: export function isValidDecimal(raw: string): boolean {
+86:   return parseMoney(raw) !== null;
+87: }
+88: 
+89: /** `true` si el string es un decimal > 0. */
+90: export function isStrictlyPositive(raw: string): boolean {
+91:   const value = parseMoney(raw);
+92:   return value !== null && value > BigInt(0);
+93: }
+94: 
+95: /** `true` si el string es un decimal >= 0. */
+96: export function isNonNegative(raw: string): boolean {
+97:   const value = parseMoney(raw);
+98:   return value !== null && value >= BigInt(0);
+99: }
+100: 
+101: /** `true` si el string es un porcentaje dentro de [0, maxPercent]. */
+102: export function isValidPercent(raw: string, maxPercent: number): boolean {
+103:   const value = parseMoney(raw);
+104:   if (value === null || value < BigInt(0)) {
+105:     return false;
+106:   }
+107:   const max = parseMoney(String(maxPercent));
+108:   return max !== null && value <= max;
+109: }
+110: 
+111: /**
+112:  * Año vigente en America/Bogota (para códigos tipo PRES-2026-001).
+113:  * Nunca usar `new Date().getFullYear()` (zona del servidor) aquí.
+114:  */
+115: export function currentYearBogota(): number {
+116:   const parts = new Intl.DateTimeFormat("en-US", {
+117:     timeZone: "America/Bogota",
+118:     year: "numeric",
+119:   }).formatToParts(new Date());
+120:   return Number(parts.find((part) => part.type === "year")?.value ?? NaN);
+121: }
+122: 
+123: /* ------------------------------------------------------------------ */
+124: /* Catálogos del dominio (espejo de enums del contrato)                */
+125: /* ------------------------------------------------------------------ */
+126: 
+127: export const APU_ITEM_CATEGORIES = [
+128:   { value: "MATERIAL", label: "Material" },
+129:   { value: "MANO_DE_OBRA", label: "Mano de Obra" },
+130:   { value: "EQUIPO", label: "Equipo" },
+131:   { value: "TRANSPORTE", label: "Transporte" },
+132: ] as const;
+133: export type ApuItemCategoryValue = (typeof APU_ITEM_CATEGORIES)[number]["value"];
+134: 
+135: export const QUOTE_STATUSES = [
+136:   { value: "DRAFT", label: "Borrador" },
+137:   { value: "SENT", label: "Enviado" },
+138:   { value: "APPROVED", label: "Aprobado" },
+139:   { value: "REJECTED", label: "Rechazado" },
+140: ] as const;
+141: export type QuoteStatusValue = (typeof QUOTE_STATUSES)[number]["value"];
+142: 
+143: /** Unidades admitidas en el banco de insumos y en las actividades. */
+144: export const APU_UNITS = [
+145:   "M3",
+146:   "KG",
+147:   "BULTO",
+148:   "HR",
+149:   "UND",
+150:   "M2",
+151:   "ML",
+152:   "GLB",
+153:   "L",
+154:   "M",
+155:   "CM",
+156:   "PZA",
+157:   "DIA",
+158:   "MES",
+159:   "GAL",
+160:   "PAR",
+161:   "JGO",
+162:   "KM",
+163:   "HA",
+164: ] as const;
+165: export type ApuUnitValue = (typeof APU_UNITS)[number];
+166: 
+167: export function apuCategoryLabel(category: ApuItemCategoryValue): string {
+168:   return (
+169:     APU_ITEM_CATEGORIES.find((option) => option.value === category)?.label ??
+170:     category
+171:   );
+172: }
+173: 
+174: export function quoteStatusLabel(status: QuoteStatusValue): string {
+175:   return (
+176:     QUOTE_STATUSES.find((option) => option.value === status)?.label ?? status
+177:   );
+178: }
+179: 
+180: export function isValidCategory(raw: string): raw is ApuItemCategoryValue {
+181:   return (APU_ITEM_CATEGORIES as readonly { value: string }[]).some(
+182:     (option) => option.value === raw,
+183:   );
+184: }
+185: 
+186: export function isValidStatus(raw: string): raw is QuoteStatusValue {
+187:   return (QUOTE_STATUSES as readonly { value: string }[]).some(
+188:     (option) => option.value === raw,
+189:   );
+190: }
+191: 
+192: export function isValidUnit(raw: string): raw is ApuUnitValue {
+193:   return (APU_UNITS as readonly string[]).includes(raw);
+194: }
+195: 
+196: /* ------------------------------------------------------------------ */
+197: /* Costos APU                                                          */
+198: /* ------------------------------------------------------------------ */
+199: 
+200: export type ActivityComponentInput = {
+201:   unitPrice: string;
+202:   consumption: string;
+203:   wastePercent: string;
+204: };
+205: 
+206: /**
+207:  * Costo de UN componente de una actividad:
+208:  *   precio × consumo × (1 + desperdicio/100)
+209:  * Todo en micro-unidades enteras; se redondea half-up al micro.
+210:  */
+211: export function componentCost(input: ActivityComponentInput): Money {
+212:   const unitPrice = parseMoney(input.unitPrice);
+213:   const consumption = parseMoney(input.consumption);
+214:   const waste = parseMoney(input.wastePercent);
+215: 
+216:   if (unitPrice === null || consumption === null || waste === null) {
+217:     throw new Error("componentCost: entrada decimal inválida.");
+218:   }
+219:   if (unitPrice < BigInt(0) || consumption < BigInt(0) || waste < BigInt(0)) {
+220:     throw new Error("componentCost: valores negativos no permitidos.");
+221:   }
+222: 
+223:   // factor = (100 + desperdicio) / 100 en micro-puntos → 100*UNIT + waste
+224:   const factor = BigInt(100) * UNIT + waste;
+225:   return roundDiv(
+226:     unitPrice * consumption * factor,
+227:     BigInt(100) * UNIT * UNIT,
+228:   );
+229: }
+230: 
+231: /** Costo unitario de una actividad = Σ de sus componentes. */
+232: export function activityUnitCost(components: ActivityComponentInput[]): string {
+233:   let total = BigInt(0);
+234:   for (const component of components) {
+235:     total += componentCost(component);
+236:   }
+237:   return moneyToString(total);
+238: }
+239: 
+240: /* ------------------------------------------------------------------ */
+241: /* Presupuestos                                                        */
+242: /* ------------------------------------------------------------------ */
+243: 
+244: export type AiuConfig = {
+245:   adminPercent: string;
+246:   imprevPercent: string;
+247:   utilPercent: string;
+248:   taxPercent: string;
+249: };
+250: 
+251: export type QuoteLineInput = {
+252:   quantity: string;
+253:   unitCost: string;
+254: };
+255: 
+256: /** Total por línea: cantidad × costo unitario (redondeado half-up). */
+257: export function lineTotal(quantity: string, unitCost: string): Money {
+258:   const qty = parseMoney(quantity);
+259:   const cost = parseMoney(unitCost);
+260:   if (qty === null || cost === null) {
+261:     throw new Error("lineTotal: entrada decimal inválida.");
+262:   }
+263:   if (qty < BigInt(0) || cost < BigInt(0)) {
+264:     throw new Error("lineTotal: valores negativos no permitidos.");
+265:   }
+266:   return roundDiv(qty * cost, UNIT);
+267: }
+268: 
+269: export type QuoteTotals = {
+270:   directCost: string;
+271:   administration: string;
+272:   contingency: string;
+273:   utility: string;
+274:   subtotal: string;
+275:   tax: string;
+276:   totalAmount: string;
+277: };
+278: 
+279: /**
+280:  * Totales de un presupuesto (AIU + IVA sobre utilidad). Recibe líneas con
+281:  * cantidad/costo ya validados; el servidor SIEMPRE recalcula — nunca se
+282:  * confía en totales enviados por el navegador.
+283:  *
+284:  *   directCost  = Σ(qty × unitCost)
+285:  *   administr.  = directCost × adminPercent%
+286:  *   contingency = directCost × imprevPercent%
+287:  *   utility     = directCost × utilPercent%
+288:  *   subtotal    = direct + admin + contingency + utility
+289:  *   tax         = utility × taxPercent%   ← IVA SOLO sobre la utilidad
+290:  *   total       = subtotal + tax
+291:  */
+292: export function calculateQuoteTotals(
+293:   items: QuoteLineInput[],
+294:   config: AiuConfig,
+295: ): QuoteTotals {
+296:   const admin = parseMoney(config.adminPercent);
+297:   const imprev = parseMoney(config.imprevPercent);
+298:   const util = parseMoney(config.utilPercent);
+299:   const tax = parseMoney(config.taxPercent);
+300:   if (
+301:     admin === null ||
+302:     imprev === null ||
+303:     util === null ||
+304:     tax === null ||
+305:     admin < BigInt(0) ||
+306:     imprev < BigInt(0) ||
+307:     util < BigInt(0) ||
+308:     tax < BigInt(0)
+309:   ) {
+310:     throw new Error("calculateQuoteTotals: porcentajes AIU inválidos.");
+311:   }
+312: 
+313:   let directCost = BigInt(0);
+314:   for (const item of items) {
+315:     directCost += lineTotal(item.quantity, item.unitCost);
+316:   }
+317: 
+318:   const administration = percentOf(directCost, admin);
+319:   const contingency = percentOf(directCost, imprev);
+320:   const utility = percentOf(directCost, util);
+321:   const subtotal = directCost + administration + contingency + utility;
+322:   const taxAmount = percentOf(utility, tax);
+323:   const totalAmount = subtotal + taxAmount;
+324: 
+325:   return {
+326:     directCost: moneyToString(directCost),
+327:     administration: moneyToString(administration),
+328:     contingency: moneyToString(contingency),
+329:     utility: moneyToString(utility),
+330:     subtotal: moneyToString(subtotal),
+331:     tax: moneyToString(taxAmount),
+332:     totalAmount: moneyToString(totalAmount),
+333:   };
+334: }
+335: 
+336: /** Suma de totales de línea (para read-back de un presupuesto guardado). */
+337: export function directCostOf(quantities: string[], unitCosts: string[]): string {
+338:   let total = BigInt(0);
+339:   for (let index = 0; index < quantities.length; index += 1) {
+340:     total += lineTotal(quantities[index], unitCosts[index]);
+341:   }
+342:   return moneyToString(total);
+343: }
+344: 
+345: /* ------------------------------------------------------------------ */
+346: /* Snapshot del APU (inmutable al cotizar)                             */
+347: /* ------------------------------------------------------------------ */
+348: 
+349: export type ApuSnapshotComponent = {
+350:   itemId: string;
+351:   code: string | null;
+352:   name: string;
+353:   unit: string;
+354:   category: ApuItemCategoryValue;
+355:   unitPrice: string;
+356:   consumption: string;
+357:   wastePercent: string;
+358:   calculatedCost: string;
+359: };
+360: 
+361: export type ApuSnapshot = {
+362:   activity: {
+363:     id: string;
+364:     code: string | null;
+365:     name: string;
+366:     unit: string;
+367:   };
+368:   unitCost: string;
+369:   components: ApuSnapshotComponent[];
+370: };
+371: 
+372: /**
+373:  * Construye el snapshot de una actividad ya leída con sus composiciones
+374:  * e insumos. Todo se serializa a strings: el snapshot guardado en `Json`
+375:  * queda inmutable aunque el catálogo APU cambie después.
+376:  */
+377: export function buildApuSnapshot(input: {
+378:   activity: {
+379:     id: string;
+380:     code: string | null;
+381:     name: string;
+382:     unit: string;
+383:   };
+384:   components: {
+385:     itemId: string;
+386:     code: string | null;
+387:     name: string;
+388:     unit: string;
+389:     category: ApuItemCategoryValue;
+390:     unitPrice: string;
+391:     consumption: string;
+392:     wastePercent: string;
+393:   }[];
+394: }): ApuSnapshot {
+395:   return {
+396:     activity: input.activity,
+397:     unitCost: activityUnitCost(
+398:       input.components.map((component) => ({
+399:         unitPrice: component.unitPrice,
+400:         consumption: component.consumption,
+401:         wastePercent: component.wastePercent,
+402:       })),
+403:     ),
+404:     components: input.components.map((component) => ({
+405:       ...component,
+406:       calculatedCost: moneyToString(
+407:         componentCost({
+408:           unitPrice: component.unitPrice,
+409:           consumption: component.consumption,
+410:           wastePercent: component.wastePercent,
+411:         }),
+412:       ),
+413:     })),
+414:   };
+415: }
+
+(End of file - total 415 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** package.json
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/package.json"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/package.json</path>
+<type>file</type>
+<content>
+1: {
+2:   "name": "nexus-thrive",
+3:   "version": "0.1.0",
+4:   "private": true,
+5:   "scripts": {
+6:     "dev": "next dev",
+7:     "build": "next build",
+8:     "start": "next start",
+9:     "lint": "eslint",
+10:     "postinstall": "prisma skills sync || exit 0"
+11:   },
+12:   "dependencies": {
+13:     "@clerk/nextjs": "^7.9.11",
+14:     "@prisma/orm-postgres": "8.0.0-rc.14",
+15:     "@radix-ui/react-avatar": "^1.2.7",
+16:     "@radix-ui/react-checkbox": "^1.3.12",
+17:     "@radix-ui/react-dialog": "^1.2.0",
+18:     "@radix-ui/react-dropdown-menu": "^2.1.25",
+19:     "@radix-ui/react-slot": "^1.4.0",
+20:     "@radix-ui/react-switch": "^1.3.8",
+21:     "@radix-ui/react-tooltip": "^1.3.0",
+22:     "@vercel/blob": "^2.8.1",
+23:     "class-variance-authority": "^0.7.1",
+24:     "clsx": "^2.1.1",
+25:     "cmdk": "^1.1.1",
+26:     "dotenv": "^18.0.5",
+27:     "lucide-react": "^1.52.0",
+28:     "next": "16.3.8",
+29:     "react": "19.2.8",
+30:     "react-dom": "19.2.8",
+31:     "tailwind-merge": "^3.7.0",
+32:     "temporal-polyfill": "^1.0.5",
+33:     "tw-animate-css": "^1.4.0",
+34:     "xlsx": "^0.18.5"
+35:   },
+36:   "devDependencies": {
+37:     "@tailwindcss/postcss": "^4",
+38:     "@types/node": "^20",
+39:     "@types/react": "^19",
+40:     "@types/react-dom": "^19",
+41:     "eslint": "^9",
+42:     "eslint-config-next": "16.3.8",
+43:     "prisma": "8.0.0-rc.20",
+44:     "tailwindcss": "^4",
+45:     "typescript": "^5"
+46:   },
+47:   "packageManager": "pnpm@12.3.4"
+48: }
+
+(End of file - total 48 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now I have the contract and existing apu-engine.ts. Key findings:
+
+1. `lib/apu-engine.ts` already exists with:
+   - `UNIT = 1_000_000`, `parseMoney`, `moneyToString`, `roundDiv` (half-up), `percentOf`.
+   - `lineTotal(quantity, unitCost)`, `calculateQuoteTotals(items, config)` (AIU + IVA on utility).
+   - `componentCost`, `activityUnitCost`, `buildApuSnapshot`.
+   - Catalogs: `APU_ITEM_CATEGORIES`, `QUOTE_STATUSES`, `APU_UNITS`.
+   - Validators: `isValidDecimal`, `isStrictlyPositive`, `isNonNegative`, `isValidPercent`.
+   - `currentYearBogota()`.
+
+So the brief asks for `calculateItemTotal(quantityBigInt, unitCostBigInt): bigint` and `calculateBudgetTotals(...)`. The existing engine uses strings (parseMoney) and returns strings. I should EXTEND the existing engine, not replace it. The brief says "Crea o actualiza `lib/apu-engine.ts`". Good — I'll add bigint-level helpers (`calculateItemTotal`, `calculateBudgetTotals`) that reuse the same scale, alongside the string-based ones.
+
+2. Existing models: ApuItem, ApuActivity, ApuActivityComposition (global APU bank), Quote/QuoteItem (presupuesto with Decimal AIU percentages). The brief wants NEW models: ProjectBudget, BudgetChapter, BudgetItem, BudgetItemResource with BigInt amounts.
+
+Important tension: `Quote` already is a presupuesto with AIU using Decimal percents (15/5/10/19 as whole percents). The brief's ProjectBudget uses BigInt percents at 6-decimal scale (100_000 = 10%). These are different representations but conceptually similar. The brief explicitly says implement ProjectBudget etc. as a project-scoped budget under the Project. So this is a NEW budget tied to Project, separate from Quote (which is tied to customer, not project).
+
+The brief says: "No duplicar modelos ni relaciones ya existentes." Hmm. But ProjectBudget is clearly distinct from Quote (Quote is customer-scoped quote; ProjectBudget is project-scoped budget). The brief explicitly asks for these models with these names. So I'll add them. There's no existing model named ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource, so no duplication.
+
+3. Booking model now has totalAmount BigInt (created by migration). Note Booking.status enum exists after enum declaration (Prisma allows enum after model).
+
+4. Decimal columns: driver materializes Decimal as strings; accepts strings on write. Existing apu-engine handles this via string fixed-point. But the brief wants BigInt columns for financials. So amounts in new models = BigInt → returned as bigint by ORM? Actually Prisma 8 with postgres: BigInt columns map to `bigint` type. JSON.stringify of bigint fails — need to serialize to string for client components. The existing `serializeProjectHeader` pattern exists. I'll need serializers.
+
+Wait — how does the existing code handle `Booking.totalAmount BigInt`? Let me check tenant-db for how it handles bigint. Actually there may be an existing pattern for bigint serialization. Let me search.
+
+5. Need to check: is `ApuItemCategory` vs the brief's `ResourceType` (MATERIAL, LABOR, EQUIPMENT, TRANSPORT). The existing enum is `ApuItemCategory` with MATERIAL/MANO_DE_OBRA/EQUIPO/TRANSPORTE. The brief wants `ResourceType` with MATERIAL/LABOR/EQUIPMENT/TRANSPORT. Different naming. Adding a new enum `ResourceType` is fine. But is it duplication? It's a distinct enum for the new resource model. The brief explicitly asks for `ResourceType`. I'll add it.
+
+Hmm, but this creates two parallel category enums. The brief says define or reuse `ResourceType`. There's no existing `ResourceType`, so define it. I'll follow the brief.
+
+6. UI: Need to check existing components (cards, modal, accordion, forms, format money helper). Let me look at:
+   - `lib/format.ts` or money formatter
+   - existing quotes workspace components (accordion/tree patterns)
+   - `components/ui/*`
+
+7. tenant-db patterns: need to read createTenantDb structure and the projects namespace I created, plus how transactions are done (`db.transaction`).
+
+Let me now do a broad audit in parallel. I'll launch an explore agent for the UI/component inventory + money formatter, and read tenant-db key sections + git status myself.
+
+Given the huge scope, let me be strategic. I'll:
+- Read tenant-db.ts sections: top (imports, createTenantDb signature, transaction usage), the projects namespace (my additions), and look for bigint handling.
+- Search for money formatter.
+- List components/ui and quotes components.
+- Check for tests infra (none in package.json — no test script).
+
+Let me batch several greps/reads.
+
+Actually the file is 2464 lines. Let me grep for key things: "serialize", "bigint", "transaction", "export function createTenantDb", "projects:", "projectHeaders:".
+
+Let me run a batch.
+
+Also check git status.
+
+Let me also check the migrations dir state and refs.
+
+Let me do parallel calls.</think>Contrato y motor leídos. Hallazgos clave: **`lib/apu-engine.ts` ya existe** (escala `UNIT=1e6`, `parseMoney`/`moneyToString`/`roundHalfUp`, `lineTotal`, `calculateQuoteTotals` con IVA sobre utilidad). No hay modelos `ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource` todavía. Sigo la auditoría: patrones de `tenantDb`, manejo de `BigInt`/`Decimal`, formateo de dinero y componentes UI.
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && echo "=== git branch/status ==="; git rev-parse --abbrev-ref HEAD; rtk git status --short; echo; echo "=== tests infra? ==="; rtk grep -E '"(test|vitest|jest)' package.json || echo "(sin script de tests)"; rtk find . -maxdepth 2 \( -name "vitest.config.*" -o -name "jest.config.*" \) -not -path "*/node_modules/*" 2>/dev/null || true; echo; echo "=== migrations dirs ==="; rtk ls migrations/app 2>/dev/null | rtk tail -8
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && echo \"=== git branch/status ===\"; git rev-parse --abbrev-ref HEAD; rtk git status --short; echo; echo \"=== tests infra? ===\"; rtk grep -E '\"(test|vitest|jest)' package.json || echo \"(sin script de tests)\"; rtk find . -maxdepth 2 \\( -name \"vitest.config.*\" -o -name \"jest.config.*\" \\) -not -path \"*/node_modules/*\" 2>/dev/null || true; echo; echo \"=== migrations dirs ===\"; rtk ls migrations/app 2>/dev/null | rtk tail -8"
+}
+```
+
+**Output:**
+```
+=== git branch/status ===
+feature/construction-apu-engine
+
+=== tests infra? ===
+(sin script de tests)
+
+=== migrations dirs ===
+20261008T0439_migration/
+20261008T2100_add_audit_log_and_suspension/
+20261008T2202_add_adaptive_onboarding_profile/
+20261009173408_add_booking_model/
+20261009T2235_migration/
+20261010T0641_initial/
+20261011T0003_add_project_container/
+refs/
+
+```
+
+#### 🔧 Tool: grep
+**Status:** completed
+**Title:** export function createTenantDb|db\.transaction|async transaction|serialize|bigint|BigInt
+
+**Input:**
+```json
+{
+  "pattern": "export function createTenantDb|db\\.transaction|async transaction|serialize|bigint|BigInt",
+  "path": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts"
+}
+```
+
+**Output:**
+```
+Found 67 matches
+/home/craxker/github/nexus-thrive/lib/apu-explosion.ts:
+  Line 93: const UNIT = BigInt(1_000_000);
+
+  Line 96: function roundDiv(numerator: bigint, denominator: bigint): bigint {
+
+  Line 97:   return (numerator + denominator / BigInt(2)) / denominator;
+
+  Line 119:     qty < BigInt(0) ||
+
+  Line 120:     cons < BigInt(0) ||
+
+  Line 121:     waste < BigInt(0)
+
+  Line 125:   const factor = BigInt(100) * UNIT + waste;
+
+  Line 128:     BigInt(100) * UNIT * UNIT,
+
+  Line 165:   micro: bigint;
+
+  Line 166:   costMicro: bigint;
+
+  Line 186:   if (price === null || price < BigInt(0)) {
+
+  Line 194:     existing.micro += parseMoney(finalQuantity) ?? BigInt(0);
+
+  Line 201:     micro: parseMoney(finalQuantity) ?? BigInt(0),
+
+  Line 408:     let total = BigInt(0);
+
+  Line 410:       total += parseMoney(row.estimatedCost) ?? BigInt(0);
+
+  Line 426:   let globalMicro = BigInt(0);
+
+  Line 428:     globalMicro += parseMoney(row.estimatedCost) ?? BigInt(0);
+
+
+/home/craxker/github/nexus-thrive/lib/apu-engine.ts:
+  Line 7:  * aritmética de punto fijo con `BigInt` (6 decimales: micro-unidades de
+
+  Line 21: const UNIT = BigInt(1_000_000);
+
+  Line 22: const HALF = UNIT / BigInt(2); // para redondeo half-up (valores no negativos)
+
+  Line 25: type Money = bigint;
+
+  Line 46:     BigInt(intPart || "0") * UNIT +
+
+  Line 47:     BigInt((fracPart + "000000").slice(0, 6));
+
+  Line 56:   const sign = micro < BigInt(0) ? "-" : "";
+
+  Line 57:   const abs = micro < BigInt(0) ? -micro : micro;
+
+  Line 60:   if (frac === BigInt(0)) {
+
+  Line 68: function roundDiv(numerator: bigint, denominator: bigint): bigint {
+
+  Line 69:   return (numerator + denominator / BigInt(2)) / denominator;
+
+  Line 74:   if (amount <= BigInt(0) || percentMicro <= BigInt(0)) {
+
+  Line 75:     return BigInt(0);
+
+  Line 77:   return roundDiv(amount * percentMicro, BigInt(100) * UNIT);
+
+  Line 92:   return value !== null && value > BigInt(0);
+
+  Line 98:   return value !== null && value >= BigInt(0);
+
+  Line 104:   if (value === null || value < BigInt(0)) {
+
+  Line 219:   if (unitPrice < BigInt(0) || consumption < BigInt(0) || waste < BigInt(0)) {
+
+  Line 224:   const factor = BigInt(100) * UNIT + waste;
+
+  Line 227:     BigInt(100) * UNIT * UNIT,
+
+  Line 233:   let total = BigInt(0);
+
+  Line 263:   if (qty < BigInt(0) || cost < BigInt(0)) {
+
+  Line 305:     admin < BigInt(0) ||
+
+  Line 306:     imprev < BigInt(0) ||
+
+  Line 307:     util < BigInt(0) ||
+
+  Line 308:     tax < BigInt(0)
+
+  Line 313:   let directCost = BigInt(0);
+
+  Line 338:   let total = BigInt(0);
+
+
+/home/craxker/github/nexus-thrive/lib/admin-db.ts:
+  Line 748:       db.transaction(async (tx) => {
+
+
+/home/craxker/github/nexus-thrive/lib/apu-importer/execute.ts:
+  Line 93:   await db.transaction(async (tx) => {
+
+
+/home/craxker/github/nexus-thrive/lib/tenant-db.ts:
+  Line 436: function serializeProjectHeader(header: ProjectHeaderRow): ProjectHeaderData {
+
+  Line 614: export function createTenantDb(tenantId: string) {
+
+  Line 808:         const serializedPayments: Customer360Payment[] = payments.map((payment) => ({
+
+  Line 818:         const serializedMemberships: Customer360Membership[] = memberships.map(
+
+  Line 875:         const latestByEnd = serializedMemberships.reduce<Customer360Membership | null>(
+
+  Line 883:           serializedMemberships.length === 0 &&
+
+  Line 903:           ...serializedPayments.map(
+
+  Line 916:           ...serializedMemberships.map(
+
+  Line 952:           payments: serializedPayments,
+
+  Line 954:           memberships: serializedMemberships,
+
+  Line 1149:         const created = await db.transaction(async (tx) => {
+
+  Line 1179:         const updated = await db.transaction(async (tx) => {
+
+  Line 1495:         const created = await db.transaction(async (tx) => {
+
+  Line 1688:           header: header ? serializeProjectHeader(header) : null,
+
+  Line 1723:         const created = await db.transaction(async (tx) => {
+
+  Line 1749:           header: serializeProjectHeader(created.header),
+
+  Line 1775:         return header ? serializeProjectHeader(header) : null;
+
+  Line 1794:         return header ? serializeProjectHeader(header) : null;
+
+  Line 1877:         totalAmount: bigint;
+
+  Line 2416:         db.transaction(async (tx) => {
+
+```
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && echo "=== format/money helpers ==="; rtk find lib -maxdepth 2 -iname "*format*" -o -iname "*money*" -o -iname "*currency*" 2>/dev/null; echo "=== grep Intl.NumberFormat ==="; rtk grep -rl "Intl.NumberFormat" lib app components 2>/dev/null | rtk head; echo "=== components/ui ==="; rtk ls components/ui 2>/dev/null; echo "=== quotes _components ==="; rtk ls "app/[tenant]/(app)/quotes/_components" 2>/dev/null; echo "=== projects _components ==="; rtk ls "app/[tenant]/(app)/quotes/projects/_components" 2>/dev/null; rtk ls "app/[tenant]/(app)/quotes/projects/[projectId]/_components" 2>/dev/null
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && echo \"=== format/money helpers ===\"; rtk find lib -maxdepth 2 -iname \"*format*\" -o -iname \"*money*\" -o -iname \"*currency*\" 2>/dev/null; echo \"=== grep Intl.NumberFormat ===\"; rtk grep -rl \"Intl.NumberFormat\" lib app components 2>/dev/null | rtk head; echo \"=== components/ui ===\"; rtk ls components/ui 2>/dev/null; echo \"=== quotes _components ===\"; rtk ls \"app/[tenant]/(app)/quotes/_components\" 2>/dev/null; echo \"=== projects _components ===\"; rtk ls \"app/[tenant]/(app)/quotes/projects/_components\" 2>/dev/null; rtk ls \"app/[tenant]/(app)/quotes/projects/[projectId]/_components\" 2>/dev/null"
+}
+```
+
+**Output:**
+```
+=== format/money helpers ===
+=== grep Intl.NumberFormat ===
+lib/format.ts
+=== components/ui ===
+avatar.tsx  1.3K
+badge.tsx  2.0K
+button.tsx  3.5K
+card.tsx  1.9K
+checkbox.tsx  1.1K
+command.tsx  4.7K
+dialog.tsx  3.8K
+dropdown-menu.tsx  7.9K
+input.tsx  830B
+label.tsx  424B
+sheet.tsx  4.2K
+skeleton.tsx  376B
+switch.tsx  1.0K
+textarea.tsx  715B
+tooltip.tsx  1.7K
+=== quotes _components ===
+activity-catalog.tsx  19.4K
+items-bank.tsx  17.4K
+modal.tsx  1.9K
+quote-badges.tsx  1.1K
+quote-builder.tsx  15.1K
+quotes-table.tsx  11.3K
+quotes-workspace.tsx  1.8K
+=== projects _components ===
+new-project-modal.tsx  6.9K
+project-status-badge.tsx  634B
+projects-table.tsx  6.4K
+project-header-form.tsx  9.7K
+project-tabs.tsx  2.0K
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Good. Now let me read:
+- `lib/format.ts` (money formatting)
+- `lib/tenant-db.ts` sections: around 420-520 (types), 614-700 (createTenantDb start + customers), 1650-1900 (projects namespace + ProjectDetail + bigint usage), 2400-2464 (transaction).
+- `app/[tenant]/(app)/quotes/_components/quote-builder.tsx` (patterns for forms/actions), `quotes-workspace.tsx`, `activity-catalog.tsx` (accordion/tree patterns).
+- `components/ui/dialog.tsx`, `card.tsx`, `button.tsx`, `input.tsx`, `textarea.tsx`.
+- `app/[tenant]/(app)/quotes/actions.ts` and `validators.ts` (patterns).
+
+That's a lot. Let me prioritize. I'll use an explore agent to summarize the UI component APIs and the quote-builder/actions patterns, while I read format.ts and the tenant-db critical sections.
+
+Actually let me just read the files I need directly but efficiently, in parallel batches.
+
+Batch A (most important):
+1. lib/format.ts
+2. lib/tenant-db.ts lines 400-520 (types + serialize)
+3. lib/tenant-db.ts lines 1640-1900 (projects namespace)
+4. lib/tenant-db.ts lines 2380-2464 (end + transaction pattern)
+
+Let me read these.
+
+Actually let me read the whole projects namespace region 1600-1900.
+
+Let me do a batch of reads.</think>Ahora leo los patrones esenciales: formateo de dinero, tipos/serializadores y el namespace `projects` en `tenant-db`.
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/format.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/format.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/format.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Formato de dinero y fechas (Colombia).
+3:  *
+4:  * Todos los montos se formatean como COP con `Intl.NumberFormat("es-CO")`
+5:  * una sola vez (el formateador se reutiliza entre llamadas).
+6:  */
+7: 
+8: const currencyFormatter = new Intl.NumberFormat("es-CO", {
+9:   style: "currency",
+10:   currency: "COP",
+11:   minimumFractionDigits: 0,
+12:   maximumFractionDigits: 0,
+13: });
+14: 
+15: const dateFormatter = new Intl.DateTimeFormat("es-CO", {
+16:   day: "2-digit",
+17:   month: "short",
+18:   year: "numeric",
+19:   timeZone: "America/Bogota",
+20: });
+21: 
+22: const shortDateFormatter = new Intl.DateTimeFormat("es-CO", {
+23:   day: "2-digit",
+24:   month: "2-digit",
+25:   year: "numeric",
+26:   timeZone: "America/Bogota",
+27: });
+28: 
+29: const dateTimeFormatter = new Intl.DateTimeFormat("es-CO", {
+30:   day: "2-digit",
+31:   month: "short",
+32:   year: "numeric",
+33:   hour: "2-digit",
+34:   minute: "2-digit",
+35:   timeZone: "America/Bogota",
+36: });
+37: 
+38: /** Convierte un monto (number, string, Decimal) a número seguro. */
+39: export function toNumber(value: number | string | null | undefined): number {
+40:   if (value === null || value === undefined || value === "") {
+41:     return 0;
+42:   }
+43:   const num = typeof value === "number" ? value : Number(value);
+44:   return Number.isFinite(num) ? num : 0;
+45: }
+46: 
+47: /** $ 250.000 — COP redondeado a pesos. */
+48: export function formatCurrency(
+49:   value: number | string | null | undefined,
+50: ): string {
+51:   return currencyFormatter.format(toNumber(value));
+52: }
+53: 
+54: /** Normaliza Temporal.Instant / Date / string ISO a un Date de JS. */
+55: function toDate(value: unknown): Date | null {
+56:   if (value instanceof Date) {
+57:     return value;
+58:   }
+59:   const raw = String(value);
+60:   // JS Date solo acepta 3 fracciones (ms); Temporal imprime nanos.
+61:   const iso = raw.replace(/\.(\d{3})\d*(Z|[+-])/, ".$1$2");
+62:   const date = new Date(iso);
+63:   return Number.isNaN(date.getTime()) ? null : date;
+64: }
+65: 
+66: /** 07 oct 2026 */
+67: export function formatDate(value: unknown): string {
+68:   const date = toDate(value);
+69:   return date ? dateFormatter.format(date) : "—";
+70: }
+71: 
+72: /** 07/10/2026 — fecha calendario en America/Bogota (sin corrimiento UTC). */
+73: export function formatDateShort(value: unknown): string {
+74:   const date = toDate(value);
+75:   return date ? shortDateFormatter.format(date) : "—";
+76: }
+77: 
+78: /** 07 oct 2026, 10:30 */
+79: export function formatDateTime(value: unknown): string {
+80:   const date = toDate(value);
+81:   return date ? dateTimeFormatter.format(date) : "—";
+82: }
+83: 
+84: /**
+85:  * Etiqueta relativa corta para actividad reciente:
+86:  * "Ahora", "Hace 5 min", "Hace 3 h", "Ayer", o la fecha corta.
+87:  */
+88: export function formatRelativeTime(value: unknown, now: Date = new Date()): string {
+89:   const date = toDate(value);
+90:   if (!date) {
+91:     return "—";
+92:   }
+93: 
+94:   const diffMs = now.getTime() - date.getTime();
+95:   if (diffMs < 45_000) {
+96:     return "Ahora";
+97:   }
+98:   const minutes = Math.round(diffMs / 60_000);
+99:   if (minutes < 60) {
+100:     return `Hace ${minutes} min`;
+101:   }
+102:   const hours = Math.round(minutes / 60);
+103:   if (hours < 24) {
+104:     return `Hace ${hours} h`;
+105:   }
+106: 
+107:   const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+108:   const dateStart = new Date(
+109:     date.getFullYear(),
+110:     date.getMonth(),
+111:     date.getDate(),
+112:   );
+113:   const dayDiff = Math.round(
+114:     (todayStart.getTime() - dateStart.getTime()) / 86_400_000,
+115:   );
+116:   if (dayDiff === 1) {
+117:     return "Ayer";
+118:   }
+119: 
+120:   return dateFormatter.format(date);
+121: }
+
+(End of file - total 121 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "limit": 130,
+  "offset": 400
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/tenant-db.ts</path>
+<type>file</type>
+<content>
+400: /** Payload de actualización de la ficha (todos los campos opcionales). */
+401: export type ProjectHeaderInput = Partial<ProjectHeaderData>;
+402: 
+403: /** Detalle de proyecto: cabecera + ficha (ProjectHeader). */
+404: export type ProjectDetail = ProjectRow & {
+405:   header: ProjectHeaderData | null;
+406: };
+407: 
+408: export type ProjectListInput = {
+409:   q?: string;
+410:   status?: ProjectStatusValue;
+411:   page?: number;
+412:   limit?: number;
+413: };
+414: 
+415: /** Subconjunto de columnas del ProjectHeader que serializamos. */
+416: type ProjectHeaderRow = {
+417:   clientTaxName: string | null;
+418:   clientTaxId: string | null;
+419:   clientTaxDv: string | null;
+420:   clientAddress: string | null;
+421:   clientCity: string | null;
+422:   clientBillingEmail: string | null;
+423:   legalRepName: string | null;
+424:   siteAddress: string | null;
+425:   siteCity: string | null;
+426:   siteDepartment: string | null;
+427:   projectType: string | null;
+428:   siteAccessNotes: string | null;
+429:   technicalContact: string | null;
+430:   technicalPhone: string | null;
+431:   projectLeaderName: string | null;
+432:   projectLeaderProfessionalId: string | null;
+433:   supervisorName: string | null;
+434: };
+435: 
+436: function serializeProjectHeader(header: ProjectHeaderRow): ProjectHeaderData {
+437:   return {
+438:     clientTaxName: header.clientTaxName,
+439:     clientTaxId: header.clientTaxId,
+440:     clientTaxDv: header.clientTaxDv,
+441:     clientAddress: header.clientAddress,
+442:     clientCity: header.clientCity,
+443:     clientBillingEmail: header.clientBillingEmail,
+444:     legalRepName: header.legalRepName,
+445:     siteAddress: header.siteAddress,
+446:     siteCity: header.siteCity,
+447:     siteDepartment: header.siteDepartment,
+448:     projectType: header.projectType,
+449:     siteAccessNotes: header.siteAccessNotes,
+450:     technicalContact: header.technicalContact,
+451:     technicalPhone: header.technicalPhone,
+452:     projectLeaderName: header.projectLeaderName,
+453:     projectLeaderProfessionalId: header.projectLeaderProfessionalId,
+454:     supervisorName: header.supervisorName,
+455:   };
+456: }
+457: 
+458: /** Último ISO mayor (fecha ISO-8601 de ancho fijo: orden lexicográfico = cronológico). */
+459: function maxIso(a: string | null, b: string | null): string | null {
+460:   if (!a) {
+461:     return b;
+462:   }
+463:   if (!b) {
+464:     return a;
+465:   }
+466:   return a > b ? a : b;
+467: }
+468: 
+469: const PAYMENT_METHOD_VALUES: PaymentMethodValue[] = [
+470:   "CASH",
+471:   "NEQUI",
+472:   "WOMPI",
+473:   "TRANSFER",
+474: ];
+475: 
+476: /**
+477:  * Rango del mes en horario de Bogotá (UTC−5): inicio del mes y del
+478:  * siguiente, como `Temporal.Instant` (codec obligatorio del driver).
+479:  * Los registros se comparan con `>= start` y `< end`.
+480:  */
+481: function monthRangeBogota(year: number, month: number): {
+482:   start: Temporal.Instant;
+483:   end: Temporal.Instant;
+484: } {
+485:   // 05:00 UTC del día 1 = 00:00 en Bogotá (UTC−5). JS normaliza el
+486:   // overflow: mes 12 → enero del año siguiente.
+487:   const start = Temporal.Instant.fromEpochMilliseconds(
+488:     Date.UTC(year, month - 1, 1, 5, 0, 0),
+489:   );
+490:   const end = Temporal.Instant.fromEpochMilliseconds(
+491:     Date.UTC(year, month, 1, 5, 0, 0),
+492:   );
+493:   return { start, end };
+494: }
+495: 
+496: /** Valida y normaliza un mes/año; por defecto usa el mes actual (Bogotá). */
+497: function resolveMonthYear(month?: number, year?: number) {
+498:   const now = new Date();
+499:   // El día actual en Bogotá: DateTimeFormat con timeZone para no depender
+500:   // de la zona horaria del servidor.
+501:   const bogotaParts = new Intl.DateTimeFormat("en-US", {
+502:     timeZone: "America/Bogota",
+503:     month: "numeric",
+504:     year: "numeric",
+505:   }).formatToParts(now);
+506:   const bogotaMonth = Number(
+507:     bogotaParts.find((part) => part.type === "month")?.value,
+508:   );
+509:   const bogotaYear = Number(
+510:     bogotaParts.find((part) => part.type === "year")?.value,
+511:   );
+512: 
+513:   const resolvedMonth = month ?? bogotaMonth;
+514:   const resolvedYear = year ?? bogotaYear;
+515: 
+516:   if (
+517:     !Number.isInteger(resolvedMonth) ||
+518:     resolvedMonth < 1 ||
+519:     resolvedMonth > 12
+520:   ) {
+521:     throw new Error("Mes inválido para las métricas financieras.");
+522:   }
+523:   if (!Number.isInteger(resolvedYear) || resolvedYear < 2000 || resolvedYear > 2100) {
+524:     throw new Error("Año inválido para las métricas financieras.");
+525:   }
+526: 
+527:   return { month: resolvedMonth, year: resolvedYear };
+528: }
+529: 
+
+(Showing lines 400-529 of 2464. Use offset=530 to continue.)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "limit": 300,
+  "offset": 1620
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/tenant-db.ts</path>
+<type>file</type>
+<content>
+1620:             description: row.description,
+1621:             customerId: row.customerId,
+1622:             customerName:
+1623:               customerById.get(row.customerId)?.name ?? "Cliente eliminado",
+1624:             status: row.status as ProjectStatusValue,
+1625:             createdAt: String(row.createdAt),
+1626:             updatedAt: String(row.updatedAt),
+1627:           })),
+1628:           total,
+1629:         };
+1630:       },
+1631: 
+1632:       /** Métricas de portada (datos reales, no mock). */
+1633:       getMetrics: async (): Promise<ProjectMetrics> => {
+1634:         const [totalAgg, inExecutionAgg, approvedAgg, completedAgg] =
+1635:           await Promise.all([
+1636:             db.orm.public.Project
+1637:               .where({ tenantId })
+1638:               .aggregate((aggregate) => ({ total: aggregate.count() })),
+1639:             db.orm.public.Project
+1640:               .where({ tenantId })
+1641:               .where((project) => project.status.eq("IN_EXECUTION"))
+1642:               .aggregate((aggregate) => ({ total: aggregate.count() })),
+1643:             db.orm.public.Project
+1644:               .where({ tenantId })
+1645:               .where((project) => project.status.eq("APPROVED"))
+1646:               .aggregate((aggregate) => ({ total: aggregate.count() })),
+1647:             db.orm.public.Project
+1648:               .where({ tenantId })
+1649:               .where((project) => project.status.eq("COMPLETED"))
+1650:               .aggregate((aggregate) => ({ total: aggregate.count() })),
+1651:           ]);
+1652: 
+1653:         return {
+1654:           total: totalAgg.total,
+1655:           inExecution: inExecutionAgg.total,
+1656:           approved: approvedAgg.total,
+1657:           completed: completedAgg.total,
+1658:         };
+1659:       },
+1660: 
+1661:       /** Detalle completo: proyecto + ficha (ProjectHeader). */
+1662:       get: async (id: string): Promise<ProjectDetail | null> => {
+1663:         const project = await db.orm.public.Project
+1664:           .where({ id, tenantId })
+1665:           .first();
+1666:         if (!project) {
+1667:           return null;
+1668:         }
+1669: 
+1670:         const [header, customer] = await Promise.all([
+1671:           db.orm.public.ProjectHeader.where({ projectId: id }).first(),
+1672:           db.orm.public.Customer
+1673:             .where({ id: project.customerId, tenantId })
+1674:             .select("name")
+1675:             .first(),
+1676:         ]);
+1677: 
+1678:         return {
+1679:           id: project.id,
+1680:           code: project.code,
+1681:           name: project.name,
+1682:           description: project.description,
+1683:           customerId: project.customerId,
+1684:           customerName: customer?.name ?? "Cliente eliminado",
+1685:           status: project.status as ProjectStatusValue,
+1686:           createdAt: String(project.createdAt),
+1687:           updatedAt: String(project.updatedAt),
+1688:           header: header ? serializeProjectHeader(header) : null,
+1689:         };
+1690:       },
+1691: 
+1692:       /**
+1693:        * Crea un proyecto DRAFT + su ficha (ProjectHeader) en una transacción.
+1694:        * El cliente se resuelve DENTRO del tenant (aislamiento multi-tenant):
+1695:        * si no existe en este negocio, error. El header arranca como snapshot
+1696:        * fiscal del Customer del CRM (maestro — no es segunda fuente maestra).
+1697:        * Código correlativo PROY-<año>-NNN por tenant.
+1698:        */
+1699:       create: async (data: {
+1700:         customerId: string;
+1701:         name: string;
+1702:         description?: string;
+1703:       }): Promise<ProjectDetail> => {
+1704:         const customer = await db.orm.public.Customer
+1705:           .where({ id: data.customerId, tenantId })
+1706:           .first();
+1707:         if (!customer) {
+1708:           throw new Error("Cliente no encontrado en este negocio.");
+1709:         }
+1710: 
+1711:         const year = currentYearBogota();
+1712:         const prefix = `PROY-${year}-`;
+1713:         const latest = await db.orm.public.Project
+1714:           .where({ tenantId })
+1715:           .where((project) => project.code.like(`${prefix}%`))
+1716:           .orderBy((project) => project.code.desc())
+1717:           .first();
+1718:         const sequence = latest
+1719:           ? Number(latest.code.slice(prefix.length)) + 1
+1720:           : 1;
+1721:         const code = `${prefix}${String(sequence).padStart(3, "0")}`;
+1722: 
+1723:         const created = await db.transaction(async (tx) => {
+1724:           const project = await tx.orm.public.Project.create({
+1725:             tenantId,
+1726:             customerId: data.customerId,
+1727:             code,
+1728:             name: data.name,
+1729:             description: data.description ?? null,
+1730:             status: "DRAFT",
+1731:           });
+1732:           const header = await tx.orm.public.ProjectHeader.create({
+1733:             projectId: project.id,
+1734:             clientTaxName: customer.name,
+1735:           });
+1736:           return { project, header };
+1737:         });
+1738: 
+1739:         return {
+1740:           id: created.project.id,
+1741:           code: created.project.code,
+1742:           name: created.project.name,
+1743:           description: created.project.description,
+1744:           customerId: created.project.customerId,
+1745:           customerName: customer.name,
+1746:           status: "DRAFT",
+1747:           createdAt: String(created.project.createdAt),
+1748:           updatedAt: String(created.project.updatedAt),
+1749:           header: serializeProjectHeader(created.header),
+1750:         };
+1751:       },
+1752: 
+1753:       /** Cambio de estado (ciclo de vida DRAFT → … → COMPLETED/CANCELLED). */
+1754:       updateStatus: (id: string, status: ProjectStatusValue) =>
+1755:         db.orm.public.Project.where({ id, tenantId }).update({ status }),
+1756: 
+1757:       /** Elimina el proyecto (la ficha se borra en cascada). */
+1758:       delete: (id: string) =>
+1759:         db.orm.public.Project.where({ id, tenantId }).delete(),
+1760:     },
+1761: 
+1762:     projectHeaders: {
+1763:       /** Lee la ficha solo si el proyecto pertenece a este tenant. */
+1764:       get: async (projectId: string): Promise<ProjectHeaderData | null> => {
+1765:         const project = await db.orm.public.Project
+1766:           .where({ id: projectId, tenantId })
+1767:           .select("id")
+1768:           .first();
+1769:         if (!project) {
+1770:           return null;
+1771:         }
+1772:         const header = await db.orm.public.ProjectHeader
+1773:           .where({ projectId })
+1774:           .first();
+1775:         return header ? serializeProjectHeader(header) : null;
+1776:       },
+1777: 
+1778:       /** Actualiza la ficha validando el tenant del proyecto. */
+1779:       update: async (
+1780:         projectId: string,
+1781:         data: ProjectHeaderInput,
+1782:       ): Promise<ProjectHeaderData | null> => {
+1783:         const project = await db.orm.public.Project
+1784:           .where({ id: projectId, tenantId })
+1785:           .select("id")
+1786:           .first();
+1787:         if (!project) {
+1788:           return null;
+1789:         }
+1790:         await db.orm.public.ProjectHeader.where({ projectId }).update(data);
+1791:         const header = await db.orm.public.ProjectHeader
+1792:           .where({ projectId })
+1793:           .first();
+1794:         return header ? serializeProjectHeader(header) : null;
+1795:       },
+1796:     },
+1797: 
+1798:     users: {
+1799:       list: () => db.orm.public.User.where({ tenantId }).all(),
+1800: 
+1801:       get: (id: string) =>
+1802:         db.orm.public.User.where({ id, tenantId }).first(),
+1803: 
+1804:       findByClerkUserId: (clerkUserId: string) =>
+1805:         db.orm.public.User.where({ clerkUserId, tenantId }).first(),
+1806: 
+1807:       /** Primer usuario registrado en este tenant, o null si el tenant aún no tiene miembros. */
+1808:       findFirst: () => db.orm.public.User.where({ tenantId }).first(),
+1809: 
+1810:       create: (data: Omit<Parameters<typeof db.orm.public.User.create>[0], "tenantId">) =>
+1811:         db.orm.public.User.create({
+1812:           ...data,
+1813:           tenantId,
+1814:         }),
+1815: 
+1816:       /**
+1817:        * Crea la membresía del usuario en este tenant de forma idempotente.
+1818:        * Si (clerkUserId, tenantId) ya existe, devuelve la fila existente sin
+1819:        * modificarla — así dos requests concurrentes no estrellan la clave única.
+1820:        */
+1821:       upsertByClerkUserId: (
+1822:         data: Omit<
+1823:           Parameters<typeof db.orm.public.User.upsert>[0]["create"],
+1824:           "tenantId"
+1825:         >
+1826:       ) =>
+1827:         db.orm.public.User.upsert({
+1828:           create: { ...data, tenantId },
+1829:           update: {},
+1830:           conflictOn: { clerkUserId: data.clerkUserId, tenantId },
+1831:         }),
+1832: 
+1833:       update: (id: string, data: Record<string, unknown>) =>
+1834:         db.orm.public.User
+1835:           .where({ id, tenantId })
+1836:           .update(data),
+1837: 
+1838:       delete: (id: string) =>
+1839:         db.orm.public.User
+1840:           .where({ id, tenantId })
+1841:           .delete(),
+1842:     },
+1843: 
+1844:     payments: {
+1845:       list: () => db.orm.public.Payment.where({ tenantId }).all(),
+1846: 
+1847:       get: (id: string) =>
+1848:         db.orm.public.Payment.where({ id, tenantId }).first(),
+1849: 
+1850:       create: (data: Omit<Parameters<typeof db.orm.public.Payment.create>[0], "tenantId">) =>
+1851:         db.orm.public.Payment.create({
+1852:           ...data,
+1853:           tenantId,
+1854:         }),
+1855: 
+1856:       update: (id: string, data: Record<string, unknown>) =>
+1857:         db.orm.public.Payment
+1858:           .where({ id, tenantId })
+1859:           .update(data),
+1860: 
+1861:       delete: (id: string) =>
+1862:         db.orm.public.Payment
+1863:           .where({ id, tenantId })
+1864:           .delete(),
+1865:     },
+1866: 
+1867:     bookings: {
+1868:       list: () => db.orm.public.Booking.where({ tenantId }).all(),
+1869:       get: (id: string) =>
+1870:         db.orm.public.Booking.where({ id, tenantId }).first(),
+1871:       create: (data: {
+1872:         customerId: string;
+1873:         serviceName: string;
+1874:         startDate: Temporal.Instant;
+1875:         endDate: Temporal.Instant;
+1876:         status: 'PENDING' | 'CONFIRMED' | 'COMPLETED' | 'CANCELLED';
+1877:         totalAmount: bigint;
+1878:         notes?: string;
+1879:         createdAt?: Temporal.Instant;
+1880:         updatedAt?: Temporal.Instant;
+1881:       }) =>
+1882:         db.orm.public.Booking.create({
+1883:           ...data,
+1884:           tenantId,
+1885:         }),
+1886:       update: (id: string, data: Record<string, unknown>) =>
+1887:         db.orm.public.Booking
+1888:           .where({ id, tenantId })
+1889:           .update(data),
+1890:       delete: (id: string) =>
+1891:         db.orm.public.Booking
+1892:           .where({ id, tenantId })
+1893:           .delete(),
+1894:     },
+1895: 
+1896:     expenses: {
+1897:       list: () => db.orm.public.Expense.where({ tenantId }).all(),
+1898: 
+1899:       get: (id: string) =>
+1900:         db.orm.public.Expense.where({ id, tenantId }).first(),
+1901: 
+1902:       create: (data: Omit<Parameters<typeof db.orm.public.Expense.create>[0], "tenantId">) =>
+1903:         db.orm.public.Expense.create({
+1904:           ...data,
+1905:           tenantId,
+1906:         }),
+1907: 
+1908:       update: (id: string, data: Record<string, unknown>) =>
+1909:         db.orm.public.Expense
+1910:           .where({ id, tenantId })
+1911:           .update(data),
+1912: 
+1913:       delete: (id: string) =>
+1914:         db.orm.public.Expense
+1915:           .where({ id, tenantId })
+1916:           .delete(),
+1917:     },
+1918: 
+1919:     finance: {
+
+(Showing lines 1620-1919 of 2464. Use offset=1920 to continue.)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+I now understand the patterns well. Let me look at the quotes actions + quote-builder to understand the AIU form patterns, plus the quotes page detail and how quotes `[id]` page renders the builder. Also `quotes/actions.ts`, `quotes/validators.ts`, and `quote-builder.tsx`.
+
+Let me read those. And `quotes/[id]/page.tsx` to see how a workspace is composed.
+
+Let me also read `components/ui/dialog.tsx`, `card.tsx`, `button.tsx`, `input.tsx`, `textarea.tsx`, `label.tsx` for the UI API.
+
+Batch:
+1. app/[tenant]/(app)/quotes/validators.ts
+2. app/[tenant]/(app)/quotes/actions.ts
+3. app/[tenant]/(app)/quotes/_components/quote-builder.tsx
+4. components/ui/{dialog,card,button,input,textarea,label}.tsx
+
+Let me read. These could be large. quote-builder is 15K (~400 lines). actions unknown. Let me read.
+
+Actually, I'm consuming a lot of context. Let me be judicious: I'll read validators.ts (small), actions.ts (medium), and skim quote-builder.tsx focusing on structure. And the ui primitives.
+
+Let me batch reads.</think>Ahora los patrones de acciones/validación de quotes y los primitivos UI:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/validators.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/validators.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Validación servidor del módulo Construcción & APU (mirror de
+3:  * `crm/validators.ts`): sin dependencias, devuelve siempre los valores
+4:  * leídos para repintar formularios y los errores por campo.
+5:  */
+6: import {
+7:   isNonNegative,
+8:   isStrictlyPositive,
+9:   isValidCategory,
+10:   isValidPercent,
+11:   isValidUnit,
+12: } from "@/lib/apu-engine";
+13: 
+14: /** Tope por porcentaje AIU (configuración de negocio). */
+15: export const AIU_PERCENT_LIMITS = {
+16:   adminPercent: 30,
+17:   imprevPercent: 20,
+18:   utilPercent: 30,
+19:   taxPercent: 30,
+20: } as const;
+21: 
+22: export const QUANTITY_MAX = 1_000_000;
+23: 
+24: /* ------------------------------------------------------------------ */
+25: /* Ítem (banco de insumos)                                             */
+26: /* ------------------------------------------------------------------ */
+27: 
+28: export type ApuItemFormValues = {
+29:   code: string;
+30:   name: string;
+31:   unit: string;
+32:   category: string;
+33:   unitPrice: string;
+34: };
+35: 
+36: export type ApuItemFieldErrors = Partial<
+37:   Record<keyof ApuItemFormValues, string>
+38: >;
+39: 
+40: export type ApuItemValidation =
+41:   | { ok: true; values: ApuItemFormValues }
+42:   | { ok: false; errors: ApuItemFieldErrors; values: ApuItemFormValues };
+43: 
+44: export function validateApuItem(formData: FormData): ApuItemValidation {
+45:   const values: ApuItemFormValues = {
+46:     code: String(formData.get("code") ?? "").trim().toUpperCase(),
+47:     name: String(formData.get("name") ?? "").trim(),
+48:     unit: String(formData.get("unit") ?? "").trim(),
+49:     category: String(formData.get("category") ?? "").trim(),
+50:     unitPrice: String(formData.get("unitPrice") ?? "").trim(),
+51:   };
+52:   const errors: ApuItemFieldErrors = {};
+53: 
+54:   if (values.code.length > 30) {
+55:     errors.code = "Máximo 30 caracteres.";
+56:   }
+57: 
+58:   if (values.name.length < 2) {
+59:     errors.name = "Ingresa el nombre del insumo.";
+60:   } else if (values.name.length > 120) {
+61:     errors.name = "Máximo 120 caracteres.";
+62:   }
+63: 
+64:   if (!isValidUnit(values.unit)) {
+65:     errors.unit = "Selecciona una unidad válida.";
+66:   }
+67: 
+68:   if (!isValidCategory(values.category)) {
+69:     errors.category = "Selecciona una categoría.";
+70:   }
+71: 
+72:   if (!isNonNegative(values.unitPrice)) {
+73:     errors.unitPrice = "Precio unitario inválido.";
+74:   }
+75: 
+76:   if (Object.keys(errors).length > 0) {
+77:     return { ok: false, errors, values };
+78:   }
+79:   return { ok: true, values };
+80: }
+81: 
+82: /* ------------------------------------------------------------------ */
+83: /* Composición de actividad                                             */
+84: /* ------------------------------------------------------------------ */
+85: 
+86: export type CompositionValue = {
+87:   itemId: string;
+88:   consumption: string;
+89:   wastePercent: string;
+90: };
+91: 
+92: export type ApuActivityFormValues = {
+93:   code: string;
+94:   name: string;
+95:   unit: string;
+96:   description: string;
+97:   compositions: CompositionValue[];
+98: };
+99: 
+100: export type ApuActivityFieldErrors = {
+101:   code?: string;
+102:   name?: string;
+103:   unit?: string;
+104:   description?: string;
+105:   compositions?: string;
+106: };
+107: 
+108: export type ApuActivityValidation =
+109:   | { ok: true; values: ApuActivityFormValues }
+110:   | { ok: false; errors: ApuActivityFieldErrors; values: ApuActivityFormValues };
+111: 
+112: /** Lee y valida la composición enviada como JSON (`compositionsJson`). */
+113: function parseCompositions(
+114:   raw: string,
+115: ): { values: CompositionValue[] } | { error: string } {
+116:   if (!raw.trim()) {
+117:     return { error: "La actividad necesita al menos un insumo." };
+118:   }
+119:   let parsed: unknown;
+120:   try {
+121:     parsed = JSON.parse(raw);
+122:   } catch {
+123:     return { error: "Composición inválida." };
+124:   }
+125:   if (!Array.isArray(parsed) || parsed.length === 0) {
+126:     return { error: "La actividad necesita al menos un insumo." };
+127:   }
+128:   const values: CompositionValue[] = [];
+129:   for (const entry of parsed) {
+130:     const itemId = String((entry as { itemId?: unknown }).itemId ?? "").trim();
+131:     const consumption = String(
+132:       (entry as { consumption?: unknown }).consumption ?? "",
+133:     ).trim();
+134:     const wastePercent = String(
+135:       (entry as { wastePercent?: unknown }).wastePercent ?? "",
+136:     ).trim();
+137:     if (!itemId) {
+138:       return { error: "Cada insumo debe tener un elemento seleccionado." };
+139:     }
+140:     if (!isStrictlyPositive(consumption)) {
+141:       return { error: "El rendimiento debe ser mayor a cero." };
+142:     }
+143:     if (!isValidPercent(wastePercent, 50)) {
+144:       return { error: "Desperdicio entre 0% y 50%." };
+145:     }
+146:     values.push({ itemId, consumption, wastePercent });
+147:   }
+148:   return { values };
+149: }
+150: 
+151: export function validateApuActivity(
+152:   formData: FormData,
+153: ): ApuActivityValidation {
+154:   const values: ApuActivityFormValues = {
+155:     code: String(formData.get("code") ?? "").trim().toUpperCase(),
+156:     name: String(formData.get("name") ?? "").trim(),
+157:     unit: String(formData.get("unit") ?? "").trim(),
+158:     description: String(formData.get("description") ?? "").trim(),
+159:     compositions: [],
+160:   };
+161:   const errors: ApuActivityFieldErrors = {};
+162: 
+163:   if (values.code.length > 30) {
+164:     errors.code = "Máximo 30 caracteres.";
+165:   }
+166:   if (values.name.length < 2) {
+167:     errors.name = "Ingresa el nombre de la actividad.";
+168:   } else if (values.name.length > 120) {
+169:     errors.name = "Máximo 120 caracteres.";
+170:   }
+171:   if (!isValidUnit(values.unit)) {
+172:     errors.unit = "Selecciona una unidad válida.";
+173:   }
+174:   if (values.description.length > 500) {
+175:     errors.description = "Máximo 500 caracteres.";
+176:   }
+177: 
+178:   const compositionResult = parseCompositions(
+179:     String(formData.get("compositionsJson") ?? ""),
+180:   );
+181:   if ("error" in compositionResult) {
+182:     errors.compositions = compositionResult.error;
+183:   } else {
+184:     values.compositions = compositionResult.values;
+185:   }
+186: 
+187:   if (Object.keys(errors).length > 0) {
+188:     return { ok: false, errors, values };
+189:   }
+190:   return { ok: true, values };
+191: }
+192: 
+193: /* ------------------------------------------------------------------ */
+194: /* Presupuesto (aiu + líneas)                                          */
+195: /* ------------------------------------------------------------------ */
+196: 
+197: export type QuoteLineValue = {
+198:   activityId: string;
+199:   quantity: string;
+200: };
+201: 
+202: export type QuoteFormValues = {
+203:   customerId: string;
+204:   title: string;
+205:   items: QuoteLineValue[];
+206:   adminPercent: string;
+207:   imprevPercent: string;
+208:   utilPercent: string;
+209:   taxPercent: string;
+210: };
+211: 
+212: export type QuoteFieldErrors = {
+213:   customerId?: string;
+214:   title?: string;
+215:   items?: string;
+216:   adminPercent?: string;
+217:   imprevPercent?: string;
+218:   utilPercent?: string;
+219:   taxPercent?: string;
+220: };
+221: 
+222: export type QuoteValidation =
+223:   | { ok: true; values: QuoteFormValues }
+224:   | { ok: false; errors: QuoteFieldErrors; values: QuoteFormValues };
+225: 
+226: /** Lee y valida las líneas del presupuesto (`itemsJson`). */
+227: function parseItems(
+228:   raw: string,
+229: ): { values: QuoteLineValue[] } | { error: string } {
+230:   if (!raw.trim()) {
+231:     return { error: "Agrega al menos una actividad al presupuesto." };
+232:   }
+233:   let parsed: unknown;
+234:   try {
+235:     parsed = JSON.parse(raw);
+236:   } catch {
+237:     return { error: "Líneas del presupuesto inválidas." };
+238:   }
+239:   if (!Array.isArray(parsed) || parsed.length === 0) {
+240:     return { error: "Agrega al menos una actividad al presupuesto." };
+241:   }
+242:   const values: QuoteLineValue[] = [];
+243:   for (const entry of parsed) {
+244:     const activityId = String(
+245:       (entry as { activityId?: unknown }).activityId ?? "",
+246:     ).trim();
+247:     const quantity = String(
+248:       (entry as { quantity?: unknown }).quantity ?? "",
+249:     ).trim();
+250:     if (!activityId) {
+251:       return { error: "Cada línea debe tener una actividad." };
+252:     }
+253:     const parsedQuantity = Number(quantity);
+254:     if (
+255:       !isStrictlyPositive(quantity.replace(",", ".")) ||
+256:       !Number.isFinite(parsedQuantity) ||
+257:       parsedQuantity <= 0 ||
+258:       parsedQuantity > QUANTITY_MAX
+259:     ) {
+260:       return { error: "Cantidad inválida (mayor a 0, máx. 1.000.000)." };
+261:     }
+262:     values.push({ activityId, quantity });
+263:   }
+264:   return { values };
+265: }
+266: 
+267: export function validateQuote(formData: FormData): QuoteValidation {
+268:   const values: QuoteFormValues = {
+269:     customerId: String(formData.get("customerId") ?? "").trim(),
+270:     title: String(formData.get("title") ?? "").trim(),
+271:     items: [],
+272:     adminPercent: String(formData.get("adminPercent") ?? "").trim(),
+273:     imprevPercent: String(formData.get("imprevPercent") ?? "").trim(),
+274:     utilPercent: String(formData.get("utilPercent") ?? "").trim(),
+275:     taxPercent: String(formData.get("taxPercent") ?? "").trim(),
+276:   };
+277:   const errors: QuoteFieldErrors = {};
+278: 
+279:   if (values.customerId.length > 40) {
+280:     errors.customerId = "Cliente no válido.";
+281:   }
+282:   if (values.title.length < 2) {
+283:     errors.title = "Ingresa un nombre para el presupuesto.";
+284:   } else if (values.title.length > 120) {
+285:     errors.title = "Máximo 120 caracteres.";
+286:   }
+287: 
+288:   const itemResult = parseItems(String(formData.get("itemsJson") ?? ""));
+289:   if ("error" in itemResult) {
+290:     errors.items = itemResult.error;
+291:   } else {
+292:     values.items = itemResult.values;
+293:   }
+294: 
+295:   for (const key of [
+296:     "adminPercent",
+297:     "imprevPercent",
+298:     "utilPercent",
+299:     "taxPercent",
+300:   ] as const) {
+301:     const limit = AIU_PERCENT_LIMITS[key];
+302:     if (!isValidPercent(values[key], limit)) {
+303:       errors[key] = `Entre 0% y ${limit}%.`;
+304:     }
+305:   }
+306: 
+307:   if (Object.keys(errors).length > 0) {
+308:     return { ok: false, errors, values };
+309:   }
+310:   return { ok: true, values };
+311: }
+312: 
+313: /* ------------------------------------------------------------------ */
+314: /* Import CSV (atomicidad por transacción)                             */
+315: /* ------------------------------------------------------------------ */
+316: 
+317: export type ImportCsvRow = {
+318:   code: string | null;
+319:   name: string;
+320:   unit: string;
+321:   category: string;
+322:   unitPrice: string;
+323: };
+324: 
+325: export type ImportCsvResult =
+326:   | { ok: true; rows: ImportCsvRow[] }
+327:   | { ok: false; errors: string[] };
+328: 
+329: /**
+330:  * Parsea CSV de banco de insumos: columnas `code,name,unit,category,unitPrice`.
+331:  * Primera línea de encabezado opcional (se detecta). Líneas inválidas se
+332:  * reportan con su número; si hay CUALQUIER error, no se importa nada
+333:  * (la transacción solo se abre cuando `ok`).
+334:  */
+335: export function parseImportCsv(raw: string): ImportCsvResult {
+336:   const lines = raw
+337:     .split(/\r?\n/)
+338:     .map((line) => line.trim())
+339:     .filter((line) => line.length > 0);
+340:   if (lines.length === 0) {
+341:     return { ok: false, errors: ["Pega o sube al menos una línea."] };
+342:   }
+343: 
+344:   // Detección de encabezado (caso-insensitive).
+345:   const first = lines[0].toLowerCase();
+346:   const hasHeader =
+347:     first.includes("code") || first.includes("nombre") || first.includes("name");
+348: 
+349:   const errors: string[] = [];
+350:   const rows: ImportCsvRow[] = [];
+351:   const start = hasHeader ? 1 : 0;
+352: 
+353:   for (let index = start; index < lines.length; index += 1) {
+354:     const parts = lines[index].split(",").map((part) => part.trim());
+355:     if (parts.length !== 5) {
+356:       errors.push(
+357:         `Línea ${index + 1}: se esperaban 5 columnas (código,nombre,unidad,categoría,precio).`,
+358:       );
+359:       continue;
+360:     }
+361:     const [code, name, unit, category, unitPrice] = parts;
+362:     if (!name || name.length < 2 || name.length > 120) {
+363:       errors.push(`Línea ${index + 1}: nombre inválido.`);
+364:       continue;
+365:     }
+366:     if (!isValidUnit(unit)) {
+367:       errors.push(`Línea ${index + 1}: unidad "${unit}" no válida.`);
+368:       continue;
+369:     }
+370:     if (!isValidCategory(category)) {
+371:       errors.push(`Línea ${index + 1}: categoría "${category}" no válida.`);
+372:       continue;
+373:     }
+374:     if (!isNonNegative(unitPrice)) {
+375:       errors.push(`Línea ${index + 1}: precio unitario inválido.`);
+376:       continue;
+377:     }
+378:     rows.push({
+379:       code: code === "" ? null : code.toUpperCase(),
+380:       name,
+381:       unit,
+382:       category,
+383:       unitPrice,
+384:     });
+385:   }
+386: 
+387:   if (errors.length > 0) {
+388:     return { ok: false, errors };
+389:   }
+390:   return { ok: true, rows };
+391: }
+
+(End of file - total 391 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth } from "@clerk/nextjs/server";
+4: import { revalidatePath } from "next/cache";
+5: import { db } from "@/prisma/db";
+6: import { createTenantDb } from "@/lib/tenant-db";
+7: import { getQuoteTerms, type QuoteTerms } from "@/lib/vertical-terms";
+8: import type { ApuItemCategoryValue } from "@/lib/apu-engine";
+9: import {
+10:   validateApuActivity,
+11:   validateApuItem,
+12:   validateQuote,
+13:   parseImportCsv,
+14:   type ApuActivityFieldErrors,
+15:   type ApuActivityFormValues,
+16:   type ApuItemFieldErrors,
+17:   type ApuItemFormValues,
+18:   type QuoteFieldErrors,
+19:   type QuoteFormValues,
+20: } from "./validators";
+21: 
+22: /* ------------------------------------------------------------------ */
+23: /* Tipos de estado (firma useActionState)                              */
+24: /* ------------------------------------------------------------------ */
+25: 
+26: export type ApuItemFormState = {
+27:   status: "idle" | "error" | "ok";
+28:   message?: string;
+29:   errors?: ApuItemFieldErrors;
+30:   values?: ApuItemFormValues;
+31: };
+32: 
+33: export type ApuActivityFormState = {
+34:   status: "idle" | "error" | "ok";
+35:   message?: string;
+36:   errors?: ApuActivityFieldErrors;
+37:   values?: ApuActivityFormValues;
+38: };
+39: 
+40: export type QuoteFormState = {
+41:   status: "idle" | "error" | "ok";
+42:   message?: string;
+43:   errors?: QuoteFieldErrors;
+44:   values?: QuoteFormValues;
+45: };
+46: 
+47: export type ImportResultState = {
+48:   status: "idle" | "error" | "ok";
+49:   message?: string;
+50:   created?: number;
+51:   updated?: number;
+52: };
+53: 
+54: const ACCESS_DENIED_FORM = { status: "error", message: "No tienes acceso a este negocio." } as const;
+55: 
+56: type TenantDb = ReturnType<typeof createTenantDb>;
+57: 
+58: /** DB del tenant + vocabulario cotizaciones (mensajes adaptativos). */
+59: type TenantContext = {
+60:   tenantId: string;
+61:   tenantDb: TenantDb;
+62:   terms: QuoteTerms;
+63: };
+64: 
+65: /**
+66:  * Verifica sesión de Clerk + tenant activo + membresía del usuario.
+67:  * Devuelve `null` cuando algo falla (el caller responde con mensaje genérico).
+68:  */
+69: async function requireTenantContext(
+70:   tenantSlug: string,
+71: ): Promise<TenantContext | null> {
+72:   if (!tenantSlug || tenantSlug.trim() === "") {
+73:     return null;
+74:   }
+75:   const { userId } = await auth();
+76:   if (!userId) {
+77:     return null;
+78:   }
+79:   const tenantRecord = await db.orm.public.Tenant.where({
+80:     slug: tenantSlug,
+81:     active: true,
+82:   }).first();
+83:   if (!tenantRecord) {
+84:     return null;
+85:   }
+86:   const tenantDb = createTenantDb(tenantRecord.id);
+87:   const member = await tenantDb.users.findByClerkUserId(userId);
+88:   if (!member) {
+89:     return null;
+90:   }
+91:   return {
+92:     tenantId: tenantRecord.id,
+93:     tenantDb,
+94:     terms: getQuoteTerms(tenantRecord.vertical),
+95:   };
+96: }
+97: 
+98: /** Detecta violación de clave única (código duplicado en el tenant). */
+99: function isUniqueViolation(error: unknown): boolean {
+100:   return (
+101:     error instanceof Error &&
+102:     /duplicate key value violates unique constraint/i.test(error.message)
+103:   );
+104: }
+105: 
+106: const DUPLICATE_CODE_MESSAGE =
+107:   "Ya existe un ítem con ese código en este negocio. Usa otro código o déjalo vacío.";
+108: 
+109: /* ------------------------------------------------------------------ */
+110: /* Banco de insumos — ítems                                            */
+111: /* ------------------------------------------------------------------ */
+112: 
+113: export async function createApuItemAction(
+114:   _prevState: ApuItemFormState,
+115:   formData: FormData,
+116: ): Promise<ApuItemFormState> {
+117:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+118:   const context = await requireTenantContext(tenantSlug);
+119:   if (!context) {
+120:     return ACCESS_DENIED_FORM;
+121:   }
+122:   const { tenantDb } = context;
+123: 
+124:   const validation = validateApuItem(formData);
+125:   if (!validation.ok) {
+126:     return { status: "error", errors: validation.errors, values: validation.values };
+127:   }
+128: 
+129:   try {
+130:     await tenantDb.apu.createItem({
+131:       code: validation.values.code || undefined,
+132:       name: validation.values.name,
+133:       unit: validation.values.unit,
+134:       category: validation.values.category as ApuItemCategoryValue,
+135:       unitPrice: validation.values.unitPrice,
+136:     });
+137:   } catch (error) {
+138:     if (isUniqueViolation(error)) {
+139:       return { status: "error", message: DUPLICATE_CODE_MESSAGE, values: validation.values };
+140:     }
+141:     throw error;
+142:   }
+143: 
+144:   revalidatePath(`/${tenantSlug}/quotes`);
+145:   return { status: "ok" };
+146: }
+147: 
+148: export async function updateApuItemAction(
+149:   _prevState: ApuItemFormState,
+150:   formData: FormData,
+151: ): Promise<ApuItemFormState> {
+152:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+153:   const itemId = String(formData.get("itemId") ?? "");
+154:   const context = await requireTenantContext(tenantSlug);
+155:   if (!context) {
+156:     return ACCESS_DENIED_FORM;
+157:   }
+158:   const { tenantDb } = context;
+159: 
+160:   if (!itemId) {
+161:     return { status: "error", message: "Ítem no válido." };
+162:   }
+163: 
+164:   const validation = validateApuItem(formData);
+165:   if (!validation.ok) {
+166:     return { status: "error", errors: validation.errors, values: validation.values };
+167:   }
+168: 
+169:   try {
+170:     await tenantDb.apu.updateItem(itemId, {
+171:       code: validation.values.code || undefined,
+172:       name: validation.values.name,
+173:       unit: validation.values.unit,
+174:       category: validation.values.category as ApuItemCategoryValue,
+175:       unitPrice: validation.values.unitPrice,
+176:     });
+177:   } catch (error) {
+178:     if (isUniqueViolation(error)) {
+179:       return { status: "error", message: DUPLICATE_CODE_MESSAGE, values: validation.values };
+180:     }
+181:     throw error;
+182:   }
+183: 
+184:   revalidatePath(`/${tenantSlug}/quotes`);
+185:   return { status: "ok" };
+186: }
+187: 
+188: /* ------------------------------------------------------------------ */
+189: /* Catálogo APU — actividades                                          */
+190: /* ------------------------------------------------------------------ */
+191: 
+192: export async function createApuActivityAction(
+193:   _prevState: ApuActivityFormState,
+194:   formData: FormData,
+195: ): Promise<ApuActivityFormState> {
+196:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+197:   const context = await requireTenantContext(tenantSlug);
+198:   if (!context) {
+199:     return ACCESS_DENIED_FORM;
+200:   }
+201:   const { tenantDb } = context;
+202: 
+203:   const validation = validateApuActivity(formData);
+204:   if (!validation.ok) {
+205:     return { status: "error", errors: validation.errors, values: validation.values };
+206:   }
+207: 
+208:   try {
+209:     await tenantDb.apu.createActivity({
+210:       code: validation.values.code || undefined,
+211:       name: validation.values.name,
+212:       unit: validation.values.unit,
+213:       description: validation.values.description || undefined,
+214:       compositions: validation.values.compositions,
+215:     });
+216:   } catch (error) {
+217:     if (isUniqueViolation(error)) {
+218:       return {
+219:         status: "error",
+220:         message: "Ya existe una actividad con ese código en este negocio.",
+221:         values: validation.values,
+222:       };
+223:     }
+224:     throw error;
+225:   }
+226: 
+227:   revalidatePath(`/${tenantSlug}/quotes`);
+228:   return { status: "ok" };
+229: }
+230: 
+231: export async function updateApuActivityAction(
+232:   _prevState: ApuActivityFormState,
+233:   formData: FormData,
+234: ): Promise<ApuActivityFormState> {
+235:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+236:   const activityId = String(formData.get("activityId") ?? "");
+237:   const context = await requireTenantContext(tenantSlug);
+238:   if (!context) {
+239:     return ACCESS_DENIED_FORM;
+240:   }
+241:   const { tenantDb } = context;
+242: 
+243:   if (!activityId) {
+244:     return { status: "error", message: "Actividad no válida." };
+245:   }
+246: 
+247:   const validation = validateApuActivity(formData);
+248:   if (!validation.ok) {
+249:     return { status: "error", errors: validation.errors, values: validation.values };
+250:   }
+251: 
+252:   try {
+253:     await tenantDb.apu.updateActivity(activityId, {
+254:       code: validation.values.code || undefined,
+255:       name: validation.values.name,
+256:       unit: validation.values.unit,
+257:       description: validation.values.description || undefined,
+258:       compositions: validation.values.compositions,
+259:     });
+260:   } catch (error) {
+261:     if (isUniqueViolation(error)) {
+262:       return {
+263:         status: "error",
+264:         message: "Ya existe una actividad con ese código en este negocio.",
+265:         values: validation.values,
+266:       };
+267:     }
+268:     throw error;
+269:   }
+270: 
+271:   revalidatePath(`/${tenantSlug}/quotes`);
+272:   return { status: "ok" };
+273: }
+274: 
+275: /* ------------------------------------------------------------------ */
+276: /* Presupuestos                                                        */
+277: /* ------------------------------------------------------------------ */
+278: 
+279: export async function createQuoteAction(
+280:   _prevState: QuoteFormState,
+281:   formData: FormData,
+282: ): Promise<QuoteFormState> {
+283:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+284:   const context = await requireTenantContext(tenantSlug);
+285:   if (!context) {
+286:     return ACCESS_DENIED_FORM;
+287:   }
+288:   const { tenantDb, terms } = context;
+289: 
+290:   const validation = validateQuote(formData);
+291:   if (!validation.ok) {
+292:     return { status: "error", errors: validation.errors, values: validation.values };
+293:   }
+294: 
+295:   const quote = await tenantDb.quotes.create({
+296:     customerId: validation.values.customerId || null,
+297:     title: validation.values.title,
+298:     items: validation.values.items,
+299:     aiuConfig: {
+300:       adminPercent: validation.values.adminPercent,
+301:       imprevPercent: validation.values.imprevPercent,
+302:       utilPercent: validation.values.utilPercent,
+303:       taxPercent: validation.values.taxPercent,
+304:     },
+305:   });
+306: 
+307:   revalidatePath(`/${tenantSlug}/quotes`);
+308:   revalidatePath(`/${tenantSlug}/quotes/new`);
+309:   return {
+310:     status: "ok",
+311:     message: `${terms.quote} ${quote.code} creado como borrador.`,
+312:   };
+313: }
+314: 
+315: /** Detalle completo de un presupuesto para el modal (lectura). */
+316: export async function getQuoteDetailAction(
+317:   tenantSlug: string,
+318:   quoteId: string,
+319: ) {
+320:   const context = await requireTenantContext(tenantSlug);
+321:   if (!context) {
+322:     return null;
+323:   }
+324:   const { tenantDb } = context;
+325:   return tenantDb.quotes.get(quoteId);
+326: }
+327: 
+328: /** Detalle de una actividad con composición (modal de catálogo). */
+329: export async function getActivityDetailAction(
+330:   tenantSlug: string,
+331:   activityId: string,
+332: ) {
+333:   const context = await requireTenantContext(tenantSlug);
+334:   if (!context) {
+335:     return null;
+336:   }
+337:   const { tenantDb } = context;
+338:   return tenantDb.apu.getActivity(activityId);
+339: }
+340: 
+341: /* ------------------------------------------------------------------ */
+342: /* Import CSV/Excel (atómico: upsert en transacción)                   */
+343: /* ------------------------------------------------------------------ */
+344: 
+345: export async function importApuItemsAction(
+346:   _prevState: ImportResultState,
+347:   formData: FormData,
+348: ): Promise<ImportResultState> {
+349:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+350:   const context = await requireTenantContext(tenantSlug);
+351:   if (!context) {
+352:     return ACCESS_DENIED_FORM;
+353:   }
+354: 
+355:   const raw = String(formData.get("importText") ?? "");
+356:   const parsed = parseImportCsv(raw);
+357:   if (!parsed.ok) {
+358:     return {
+359:       status: "error",
+360:       message: `No se importó nada: ${parsed.errors[0]}${
+361:         parsed.errors.length > 1 ? ` (+${parsed.errors.length - 1} más)` : ""
+362:       }`,
+363:     };
+364:   }
+365: 
+366:   // Upsert atómico dentro de una sola transacción; si una operación
+367:   // falla, nada se aplica. Con código: buscar y actualizar o crear;
+368:   // sin código: siempre crear (NULL no colisiona en la única parcial).
+369:   try {
+370:     const stats = await db.transaction(async (tx) => {
+371:       let created = 0;
+372:       let updated = 0;
+373:       for (const row of parsed.rows) {
+374:         if (row.code) {
+375:           const found = await tx.orm.public.ApuItem.where({
+376:             tenantId: context.tenantId,
+377:             code: row.code,
+378:           }).first();
+379:           if (found) {
+380:             await tx.orm.public.ApuItem.where({ id: found.id }).update({
+381:               name: row.name,
+382:               unit: row.unit,
+383:               category: row.category as ApuItemCategoryValue,
+384:               unitPrice: row.unitPrice,
+385:             });
+386:             updated += 1;
+387:           } else {
+388:             await tx.orm.public.ApuItem.create({
+389:               tenantId: context.tenantId,
+390:               code: row.code,
+391:               name: row.name,
+392:               unit: row.unit,
+393:               category: row.category as ApuItemCategoryValue,
+394:               unitPrice: row.unitPrice,
+395:             });
+396:             created += 1;
+397:           }
+398:         } else {
+399:           await tx.orm.public.ApuItem.create({
+400:             tenantId: context.tenantId,
+401:             code: null,
+402:             name: row.name,
+403:             unit: row.unit,
+404:             category: row.category as ApuItemCategoryValue,
+405:             unitPrice: row.unitPrice,
+406:           });
+407:           created += 1;
+408:         }
+409:       }
+410:       return { created, updated };
+411:     });
+412: 
+413:     revalidatePath(`/${tenantSlug}/quotes`);
+414:     return {
+415:       status: "ok",
+416:       message: `${stats.created} creados, ${stats.updated} actualizados.`,
+417:       created: stats.created,
+418:       updated: stats.updated,
+419:     };
+420:   } catch (error) {
+421:     if (isUniqueViolation(error)) {
+422:       return {
+423:         status: "error",
+424:         message:
+425:           "No se importó nada: hay códigos duplicados entre las filas o con el catálogo actual.",
+426:       };
+427:     }
+428:     throw error;
+429:   }
+430: }
+
+(End of file - total 430 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** components/ui/dialog.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/components/ui/dialog.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/components/ui/dialog.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import * as React from "react";
+4: import * as DialogPrimitive from "@radix-ui/react-dialog";
+5: import { X } from "lucide-react";
+6: 
+7: import { cn } from "@/lib/utils";
+8: 
+9: function Dialog(props: React.ComponentProps<typeof DialogPrimitive.Root>) {
+10:   return <DialogPrimitive.Root data-slot="dialog" {...props} />;
+11: }
+12: 
+13: function DialogTrigger(
+14:   props: React.ComponentProps<typeof DialogPrimitive.Trigger>,
+15: ) {
+16:   return <DialogPrimitive.Trigger data-slot="dialog-trigger" {...props} />;
+17: }
+18: 
+19: function DialogPortal(
+20:   props: React.ComponentProps<typeof DialogPrimitive.Portal>,
+21: ) {
+22:   return <DialogPrimitive.Portal data-slot="dialog-portal" {...props} />;
+23: }
+24: 
+25: function DialogClose(
+26:   props: React.ComponentProps<typeof DialogPrimitive.Close>,
+27: ) {
+28:   return <DialogPrimitive.Close data-slot="dialog-close" {...props} />;
+29: }
+30: 
+31: function DialogOverlay({
+32:   className,
+33:   ...props
+34: }: React.ComponentProps<typeof DialogPrimitive.Overlay>) {
+35:   return (
+36:     <DialogPrimitive.Overlay
+37:       data-slot="dialog-overlay"
+38:       className={cn(
+39:         "data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 bg-black/50",
+40:         className,
+41:       )}
+42:       {...props}
+43:     />
+44:   );
+45: }
+46: 
+47: function DialogContent({
+48:   className,
+49:   children,
+50:   showCloseButton = true,
+51:   ...props
+52: }: React.ComponentProps<typeof DialogPrimitive.Content> & {
+53:   showCloseButton?: boolean;
+54: }) {
+55:   return (
+56:     <DialogPortal data-slot="dialog-portal">
+57:       <DialogOverlay />
+58:       <DialogPrimitive.Content
+59:         data-slot="dialog-content"
+60:         className={cn(
+61:           "bg-background data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 fixed top-[50%] left-[50%] z-50 grid w-full max-w-[calc(100%-2rem)] translate-x-[-50%] translate-y-[-50%] gap-4 rounded-lg border p-6 shadow-lg duration-200 sm:max-w-lg",
+62:           className,
+63:         )}
+64:         {...props}
+65:       >
+66:         {children}
+67:         {showCloseButton ? (
+68:           <DialogPrimitive.Close
+69:             data-slot="dialog-close"
+70:             className="ring-offset-background focus:ring-ring data-[state=open]:bg-accent data-[state=open]:text-muted-foreground absolute top-4 right-4 rounded-xs opacity-70 transition-opacity hover:opacity-100 focus:ring-2 focus:ring-offset-2 focus:outline-hidden disabled:pointer-events-none"
+71:           >
+72:             <X className="size-4" />
+73:             <span className="sr-only">Cerrar</span>
+74:           </DialogPrimitive.Close>
+75:         ) : null}
+76:       </DialogPrimitive.Content>
+77:     </DialogPortal>
+78:   );
+79: }
+80: 
+81: function DialogHeader({ className, ...props }: React.ComponentProps<"div">) {
+82:   return (
+83:     <div
+84:       data-slot="dialog-header"
+85:       className={cn("flex flex-col gap-2 text-center sm:text-left", className)}
+86:       {...props}
+87:     />
+88:   );
+89: }
+90: 
+91: function DialogFooter({ className, ...props }: React.ComponentProps<"div">) {
+92:   return (
+93:     <div
+94:       data-slot="dialog-footer"
+95:       className={cn(
+96:         "flex flex-col-reverse gap-2 sm:flex-row sm:justify-end",
+97:         className,
+98:       )}
+99:       {...props}
+100:     />
+101:   );
+102: }
+103: 
+104: function DialogTitle({
+105:   className,
+106:   ...props
+107: }: React.ComponentProps<typeof DialogPrimitive.Title>) {
+108:   return (
+109:     <DialogPrimitive.Title
+110:       data-slot="dialog-title"
+111:       className={cn("text-lg leading-none font-semibold", className)}
+112:       {...props}
+113:     />
+114:   );
+115: }
+116: 
+117: function DialogDescription({
+118:   className,
+119:   ...props
+120: }: React.ComponentProps<typeof DialogPrimitive.Description>) {
+121:   return (
+122:     <DialogPrimitive.Description
+123:       data-slot="dialog-description"
+124:       className={cn("text-muted-foreground text-sm", className)}
+125:       {...props}
+126:     />
+127:   );
+128: }
+129: 
+130: export {
+131:   Dialog,
+132:   DialogClose,
+133:   DialogContent,
+134:   DialogDescription,
+135:   DialogFooter,
+136:   DialogHeader,
+137:   DialogOverlay,
+138:   DialogPortal,
+139:   DialogTitle,
+140:   DialogTrigger,
+141: };
+
+(End of file - total 141 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** components/ui/card.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/components/ui/card.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/components/ui/card.tsx</path>
+<type>file</type>
+<content>
+1: import * as React from "react";
+2: 
+3: import { cn } from "@/lib/utils";
+4: 
+5: /**
+6:  * Card NEXUS THRIVE: fondo `--surface`, borde 1 px, radio 6 px, padding 20 px,
+7:  * sin sombra. Altura automática: nunca altura fija con espacio vacío.
+8:  */
+9: function Card({ className, ...props }: React.ComponentProps<"div">) {
+10:   return (
+11:     <div
+12:       data-slot="card"
+13:       className={cn(
+14:         "flex flex-col rounded-lg border border-border bg-card p-5 text-card-foreground",
+15:         className,
+16:       )}
+17:       {...props}
+18:     />
+19:   );
+20: }
+21: 
+22: function CardHeader({ className, ...props }: React.ComponentProps<"div">) {
+23:   return (
+24:     <div
+25:       data-slot="card-header"
+26:       className={cn("flex items-start justify-between gap-3", className)}
+27:       {...props}
+28:     />
+29:   );
+30: }
+31: 
+32: function CardTitle({ className, ...props }: React.ComponentProps<"div">) {
+33:   return (
+34:     <div
+35:       data-slot="card-title"
+36:       className={cn("font-display text-base font-semibold text-foreground", className)}
+37:       {...props}
+38:     />
+39:   );
+40: }
+41: 
+42: function CardDescription({
+43:   className,
+44:   ...props
+45: }: React.ComponentProps<"div">) {
+46:   return (
+47:     <div
+48:       data-slot="card-description"
+49:       className={cn("text-sm text-muted-foreground", className)}
+50:       {...props}
+51:     />
+52:   );
+53: }
+54: 
+55: function CardAction({ className, ...props }: React.ComponentProps<"div">) {
+56:   return (
+57:     <div
+58:       data-slot="card-action"
+59:       className={cn("shrink-0", className)}
+60:       {...props}
+61:     />
+62:   );
+63: }
+64: 
+65: function CardContent({ className, ...props }: React.ComponentProps<"div">) {
+66:   return <div data-slot="card-content" className={cn(className)} {...props} />;
+67: }
+68: 
+69: function CardFooter({ className, ...props }: React.ComponentProps<"div">) {
+70:   return (
+71:     <div
+72:       data-slot="card-footer"
+73:       className={cn("flex items-center gap-3", className)}
+74:       {...props}
+75:     />
+76:   );
+77: }
+78: 
+79: export {
+80:   Card,
+81:   CardHeader,
+82:   CardFooter,
+83:   CardTitle,
+84:   CardAction,
+85:   CardDescription,
+86:   CardContent,
+87: };
+
+(End of file - total 87 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+I have enough understanding of patterns. Note: `cn` is imported from `@/lib/utils` in components/ui, but earlier I used `@/lib/cn`. Let me verify which exists. I used `@/lib/cn` in my FASE 1 files and tsc passed, so both may exist, or `@/lib/cn` is the right one. Let me check. Actually the summary said `cn` from `@/lib/cn`. But components/ui uses `@/lib/utils`. Both might exist. Not critical.
+
+Now, this is a very large task. Let me set up a todo list and plan.
+
+Given the enormous scope and that I've done substantial discovery, let me define the plan:
+
+### Plan (Etapa 2-6)
+
+**Contrato**: Add to contract.prisma:
+- enum `ResourceType` — wait, brief says values MATERIAL/LABOR/EQUIPMENT/TRANSPORT. But there's already `ApuItemCategory` with MATERIAL/MANO_DE_OBRA/EQUIPO/TRANSPORTE. Adding a parallel English enum is odd. Hmm. The brief explicitly asks for `ResourceType`. I'll add it. Actually wait — reconsider: maybe better to reuse ApuItemCategory? The brief says "Define o reutiliza el enum ResourceType con los siguientes valores". Since ResourceType doesn't exist, define it. Fine.
+
+- model `ProjectBudget` (BigInt percentages & totals, isLocked, code, name, projectId, tenantId, chapters[])
+- model `BudgetChapter` (order, name, description, budgetId, tenantId, items[])
+- model `BudgetItem` (order, code, description, unit, quantity BigInt, unitCostDirect BigInt, totalCostDirect BigInt, chapterId, tenantId, resources[])
+- model `BudgetItemResource` (type ResourceType, name, unit, performance BigInt, unitPrice BigInt, totalPrice BigInt, imageUrl?, itemId, tenantId)
+
+Add back-relations: Project.budget ProjectBudget? (1:1 — one budget per project in this phase), Tenant.budgets BudgetBudget[] etc.
+
+Wait: brief 3.2 says "Un presupuesto por proyecto" (5.1.8: "restricción de un presupuesto por proyecto"). So ProjectBudget.projectId @unique. And Project.budget ProjectBudget?.
+
+Also need Tenant back-relations for each new model? Prisma 8 relations declared both sides (per AGENTS conventions: "relations declared in both sides"). So Tenant needs: projectBudgets, budgetChapters?, budgetItems?, budgetItemResources? Actually only models with a `tenant` relation field need a back-relation on Tenant. Do these models have `tenant Tenant @relation`? The brief says each has tenantId. For consistency with existing models, I'll add `tenant Tenant @relation(...)` and back-relations on Tenant. But that adds 4 back-relation fields to Tenant. Hmm, existing ApuActivityComposition does NOT have tenantId (only activityId/itemId). The brief explicitly says BudgetChapter/BudgetItem/BudgetItemResource have tenantId. So they're "tenant-denormalized". I'll include `tenant` relation on each and back-relations.
+
+Actually, do I need the `tenant` relation field, or just `tenantId` scalar? The brief says "tenantId | Tenant propietario". For FK integrity, follow existing convention: Payment/Expense have `tenant Tenant @relation`. I'll add the relation + back-relations.
+
+But that's 4 more back-relation arrays on Tenant. Fine.
+
+Indexes:
+- ProjectBudget: @@unique([tenantId, projectId]) (one per project) — and projectId @unique. If projectId is @unique, then tenantId+projectId unique is redundant but fine. Brief also wants @@unique([tenantId, code]). I'll add @@unique([tenantId, code]) and @@index([tenantId]).
+  Actually if projectId @unique, Prisma creates unique index on projectId. Good.
+- BudgetChapter: @@index([tenantId]), @@index([budgetId]). Order uniqueness: brief says "Evalúa restricciones para evitar duplicados de orden" — I'll add @@unique([budgetId, order]). But reordering can conflict; brief says "cuando sean compatibles con la estrategia de reordenamiento existente". For N1, I'll add @@unique([budgetId, order]) — appends order = max+1, avoiding collisions. OK.
+- BudgetItem: @@index([tenantId]), @@index([chapterId]). @@unique([chapterId, order])? Similar. I'll add it.
+- BudgetItemResource: @@index([itemId]), @@index([tenantId]).
+
+BigInt defaults: percentages default 100_000n etc.
+
+Then `prisma contract emit`, then `migration plan --name add_project_budget_apu`, review, `db migrate`, `db update --advance-ref db`.
+
+**apu-engine additions** (`calculateItemTotal`, `calculateBudgetTotals`): add BigInt-native functions. Reuse UNIT/roundDiv. Export them.
+
+**tenant-db**: add `budgets` namespace (getByProject / getOrCreate, chapters+items tree, createChapter, createItem, updateAiu, totals read, lock/unlock).
+
+**actions** at `projects/[projectId]/budget/actions.ts`.
+
+**validators** at `projects/[projectId]/budget/validators.ts`.
+
+**UI**: `projects/[projectId]/_components/` budget tab components:
+- budget-kpis.tsx
+- aiu-config-modal.tsx
+- budget-tree.tsx (chapters + items, collapsible)
+- new-chapter-modal.tsx
+- new-item-modal.tsx
+- And page.tsx renders them when tab === "presupuesto".
+
+Wait, but the project detail page currently fetches only project. For the budget tab I need to fetch the budget. I should fetch it in the page when tab==="presupuesto" (getOrCreate). But getOrCreate is a read-with-side-effect during render — acceptable via tenantDb method (not a server action). The brief says implement `getOrCreateProjectBudgetAction`. I'll implement both: a tenantDb `budgets.getOrCreate(projectId)` used by the page, and the exported server action wrapper if needed. Actually the page is a server component; calling tenantDb directly is simplest. But the brief explicitly wants the server action. I'll create the action and also let the page call tenantDb directly (the action can be used for a "create budget" button). Hmm, to avoid duplication, the page will call `tenantDb.budgets.getOrCreate(projectId)`.
+
+Let me think about budget fetching shape for UI. Define serialized types (all amounts as strings to avoid bigint-over-the-wire issues in client components). BigInt can't be passed to client components directly (React serialization). So serialize to strings.
+
+Types:
+```ts
+export type BudgetResourceData = { id, type, name, unit, performance, unitPrice, totalPrice, imageUrl }
+export type BudgetItemData = { id, order, code, description, unit, quantity, unitCostDirect, totalCostDirect, resources: BudgetResourceData[] }
+export type BudgetChapterData = { id, order, name, description, subtotal, items: BudgetItemData[] }
+export type ProjectBudgetData = { id, code, name, projectId, aiuAdminPct, aiuImprevPct, aiuUtilidadPct, ivaUtilidadPct, directCostTotal, adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal, isLocked, chapters: BudgetChapterData[] }
+```
+All amounts as strings.
+
+The tenantDb `budgets.get(projectId)` reads budget + chapters + items + resources, computes chapter subtotals and returns serialized.
+
+Recalculation: on createItem, createChapter/updateAiu, recompute totals via apu-engine. Store back BigInt as strings in the BigInt columns? The driver maps BigInt columns to `bigint` in TS. When writing, pass BigInt. The engine returns Money (bigint). Good — store bigint.
+
+Hmm, but wait: the contract uses `Decimal` for existing amounts (Quote.directCost Decimal), and driver materializes Decimal as STRING. For the new models the brief explicitly wants BigInt columns. BigInt columns → TS `bigint`. Writing bigint is fine. Reading returns bigint. Serialize to string for UI.
+
+Let me now also consider: does `db.transaction` provide `tx.orm.public.X`? Yes (seen in create). And nested create? The ORM create may support nested? Not guaranteed. I'll do explicit creates.
+
+This is a LOT. Let me be pragmatic and implement it fully but efficiently.
+
+Given the size, I think I should use subagents for parallel work? But coordination on a tightly-coupled feature is risky. I'll do it myself sequentially but efficiently, writing files.
+
+Let me first check `lib/cn` vs `lib/utils`, `input.tsx`, `button.tsx`, `label.tsx`, `textarea.tsx` quickly, and `lib/vertical-terms.ts` for terms. And how `budget` code/name conventions. Also check if there's an `accordion` component (none). I'll build collapsible with details/summary or client state.
+
+Also check `components/ui/button.tsx` API and `input.tsx`.
+
+Let me read those small files + lib/vertical-terms + check cn.
+
+Let me batch.
+
+Also I realize: the `projects/[projectId]/page.tsx` I wrote imports and renders tabs; I'll extend it to render the budget tab. The `TabPlaceholder` currently covers all non-ficha. I'll change: tab==="presupuesto" → render budget workspace; else placeholder.
+
+Now, about `requireTenantContext`: the brief wants budget actions to validate. I'll replicate the pattern (local requireTenantContext in budget/actions.ts) like projects/actions.ts did. Let me check my projects/actions.ts to reuse.
+
+Let me read projects/actions.ts and projects/validators.ts (the ones I created) to stay consistent, plus the small UI files.
+
+Batch read:
+1. lib/cn.ts (or utils)
+2. components/ui/button.tsx
+3. components/ui/input.tsx
+4. components/ui/label.tsx
+5. components/ui/textarea.tsx
+6. app/[tenant]/(app)/quotes/projects/actions.ts
+7. app/[tenant]/(app)/quotes/projects/validators.ts
+8. lib/vertical-terms.ts
+
+That's 8 files, mostly small. Let me read.
+
+Actually let me reduce: read button, input, label, textarea in one go isn't possible (each read = one call). I'll do multiple parallel read calls.
+
+Let me go.</think>Tengo los patrones. Últimos detalles UI/utilidades antes de planificar:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** components/ui/button.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/components/ui/button.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/components/ui/button.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import * as React from "react";
+4: import { Slot } from "@radix-ui/react-slot";
+5: import { cva, type VariantProps } from "class-variance-authority";
+6: 
+7: import { cn } from "@/lib/utils";
+8: import { FocusText, NMark } from "@/components/brand/loaders";
+9: 
+10: /**
+11:  * Botón NEXUS THRIVE (idéntico a reference/nexus-loaders.html):
+12:  * alto 40 px, padding 0 18px, radio 4 px, Inter 600 13 px, gap 8 px,
+13:  * `whitespace-nowrap`. Primario = Ink (claro) / oro (oscuro) vía --primary.
+14:  * Acento = oro, único CTA por pantalla. Foco dorado, deshabilitado opacidad .5.
+15:  * Estados `loading` / `done` con la N de marca + texto con enfoque.
+16:  */
+17: const buttonVariants = cva(
+18:   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded border border-transparent text-[13px] font-semibold leading-none transition-colors outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0",
+19:   {
+20:     variants: {
+21:       variant: {
+22:         primary: "bg-primary text-primary-foreground hover:bg-primary-hover",
+23:         accent: "bg-accent text-accent-foreground hover:bg-accent-hover",
+24:         outline:
+25:           "border-border-strong bg-transparent text-foreground hover:bg-surface-muted",
+26:         secondary:
+27:           "bg-surface-muted text-foreground hover:bg-border",
+28:         ghost: "bg-transparent text-foreground hover:bg-surface-muted",
+29:         danger: "bg-danger text-white hover:bg-danger/90",
+30:         link: "text-accent-text underline-offset-4 hover:underline",
+31:         // Alias de compatibilidad (shadcn).
+32:         default: "bg-primary text-primary-foreground hover:bg-primary-hover",
+33:         destructive: "bg-danger text-white hover:bg-danger/90",
+34:       },
+35:       size: {
+36:         default: "h-10 px-[18px]",
+37:         sm: "h-8 px-3.5 text-[13px]",
+38:         lg: "h-10 px-6",
+39:         icon: "size-10 p-0",
+40:         "icon-sm": "size-8 p-0",
+41:       },
+42:     },
+43:     defaultVariants: {
+44:       variant: "primary",
+45:       size: "default",
+46:     },
+47:   },
+48: );
+49: 
+50: export interface ButtonProps
+51:   extends React.ComponentProps<"button">,
+52:     VariantProps<typeof buttonVariants> {
+53:   asChild?: boolean;
+54:   /** Mientras la mutación real está en curso. */
+55:   loading?: boolean;
+56:   /** Cuando la mutación terminó correctamente (se muestra ~1.3 s). */
+57:   done?: boolean;
+58:   /** Texto de estado; por defecto "Guardando…". */
+59:   loadingText?: string;
+60:   /** Texto de éxito; por defecto "Guardado". */
+61:   doneText?: string;
+62: }
+63: 
+64: function Button({
+65:   className,
+66:   variant,
+67:   size,
+68:   asChild = false,
+69:   loading = false,
+70:   done = false,
+71:   loadingText = "Guardando…",
+72:   doneText = "Guardado",
+73:   children,
+74:   disabled,
+75:   ...props
+76: }: ButtonProps) {
+77:   if (asChild) {
+78:     const Comp = Slot as React.ElementType;
+79:     return (
+80:       <Comp
+81:         data-slot="button"
+82:         className={cn(buttonVariants({ variant, size, className }))}
+83:         disabled={disabled}
+84:         {...props}
+85:       >
+86:         {children}
+87:       </Comp>
+88:     );
+89:   }
+90: 
+91:   const busy = loading || done;
+92: 
+93:   return (
+94:     <button
+95:       data-slot="button"
+96:       data-state={busy ? (done ? "done" : "loading") : "idle"}
+97:       aria-busy={loading || undefined}
+98:       className={cn(
+99:         buttonVariants({ variant, size, className }),
+100:         busy && "min-w-[176px]",
+101:       )}
+102:       disabled={disabled || busy}
+103:       {...props}
+104:     >
+105:       {busy ? (
+106:         <>
+107:           <NMark size={16} state={done ? "done" : "loop"} />
+108:           <FocusText text={done ? doneText : loadingText} />
+109:         </>
+110:       ) : (
+111:         children
+112:       )}
+113:     </button>
+114:   );
+115: }
+116: 
+117: export { Button, buttonVariants };
+
+(End of file - total 117 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** components/ui/input.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/components/ui/input.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/components/ui/input.tsx</path>
+<type>file</type>
+<content>
+1: import * as React from "react";
+2: 
+3: import { cn } from "@/lib/utils";
+4: 
+5: function Input({ className, type, ...props }: React.ComponentProps<"input">) {
+6:   return (
+7:     <input
+8:       type={type}
+9:       data-slot="input"
+10:       className={cn(
+11:         "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground border-input flex h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm",
+12:         "focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]",
+13:         className,
+14:       )}
+15:       {...props}
+16:     />
+17:   );
+18: }
+19: 
+20: export { Input };
+
+(End of file - total 20 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** components/ui/textarea.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/components/ui/textarea.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/components/ui/textarea.tsx</path>
+<type>file</type>
+<content>
+1: import * as React from "react";
+2: 
+3: import { cn } from "@/lib/utils";
+4: 
+5: function Textarea({ className, ...props }: React.ComponentProps<"textarea">) {
+6:   return (
+7:     <textarea
+8:       data-slot="textarea"
+9:       className={cn(
+10:         "border-input placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 aria-invalid:border-destructive dark:bg-input/30 flex field-sizing-content min-h-16 w-full rounded-md border bg-transparent px-3 py-2 text-base transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50 md:text-sm",
+11:         className,
+12:       )}
+13:       {...props}
+14:     />
+15:   );
+16: }
+17: 
+18: export { Textarea };
+
+(End of file - total 18 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth } from "@clerk/nextjs/server";
+4: import { revalidatePath } from "next/cache";
+5: import { db } from "@/prisma/db";
+6: import { createTenantDb, type ProjectDetail } from "@/lib/tenant-db";
+7: import {
+8:   projectHeaderToInput,
+9:   validateCreateProject,
+10:   validateProjectHeader,
+11:   type CreateProjectFieldErrors,
+12:   type CreateProjectFormValues,
+13:   type ProjectHeaderFieldErrors,
+14:   type ProjectHeaderFormValues,
+15: } from "./validators";
+16: 
+17: /* ------------------------------------------------------------------ */
+18: /* Tipos de estado (firma useActionState)                              */
+19: /* ------------------------------------------------------------------ */
+20: 
+21: export type CreateProjectFormState = {
+22:   status: "idle" | "error" | "ok";
+23:   message?: string;
+24:   errors?: CreateProjectFieldErrors;
+25:   values?: CreateProjectFormValues;
+26:   /** Id del proyecto creado (para navegar al detalle). */
+27:   projectId?: string;
+28: };
+29: 
+30: export type ProjectHeaderFormState = {
+31:   status: "idle" | "error" | "ok";
+32:   message?: string;
+33:   errors?: ProjectHeaderFieldErrors;
+34:   values?: ProjectHeaderFormValues;
+35: };
+36: 
+37: const ACCESS_DENIED_FORM = {
+38:   status: "error",
+39:   message: "No tienes acceso a este negocio.",
+40: } as const;
+41: 
+42: type TenantDb = ReturnType<typeof createTenantDb>;
+43: 
+44: type TenantContext = {
+45:   tenantId: string;
+46:   tenantDb: TenantDb;
+47: };
+48: 
+49: /**
+50:  * Verifica sesión de Clerk + tenant activo + membresía del usuario.
+51:  * Devuelve `null` cuando algo falla (el caller responde con mensaje genérico).
+52:  */
+53: async function requireTenantContext(
+54:   tenantSlug: string,
+55: ): Promise<TenantContext | null> {
+56:   if (!tenantSlug || tenantSlug.trim() === "") {
+57:     return null;
+58:   }
+59:   const { userId } = await auth();
+60:   if (!userId) {
+61:     return null;
+62:   }
+63:   const tenantRecord = await db.orm.public.Tenant.where({
+64:     slug: tenantSlug,
+65:     active: true,
+66:   }).first();
+67:   if (!tenantRecord) {
+68:     return null;
+69:   }
+70:   const tenantDb = createTenantDb(tenantRecord.id);
+71:   const member = await tenantDb.users.findByClerkUserId(userId);
+72:   if (!member) {
+73:     return null;
+74:   }
+75:   return {
+76:     tenantId: tenantRecord.id,
+77:     tenantDb,
+78:   };
+79: }
+80: 
+81: /** Detecta violación de clave única (código duplicado en el tenant). */
+82: function isUniqueViolation(error: unknown): boolean {
+83:   return (
+84:     error instanceof Error &&
+85:     /duplicate key value violates unique constraint/i.test(error.message)
+86:   );
+87: }
+88: 
+89: /* ------------------------------------------------------------------ */
+90: /* Proyectos                                                           */
+91: /* ------------------------------------------------------------------ */
+92: 
+93: export async function createProjectAction(
+94:   _prevState: CreateProjectFormState,
+95:   formData: FormData,
+96: ): Promise<CreateProjectFormState> {
+97:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+98:   const context = await requireTenantContext(tenantSlug);
+99:   if (!context) {
+100:     return ACCESS_DENIED_FORM;
+101:   }
+102:   const { tenantDb } = context;
+103: 
+104:   const validation = validateCreateProject(formData);
+105:   if (!validation.ok) {
+106:     return {
+107:       status: "error",
+108:       errors: validation.errors,
+109:       values: validation.values,
+110:     };
+111:   }
+112: 
+113:   let project: ProjectDetail;
+114:   try {
+115:     project = await tenantDb.projects.create({
+116:       customerId: validation.values.customerId,
+117:       name: validation.values.name,
+118:       description: validation.values.description || undefined,
+119:     });
+120:   } catch (error) {
+121:     if (
+122:       error instanceof Error &&
+123:       error.message.includes("Cliente no encontrado")
+124:     ) {
+125:       return {
+126:         status: "error",
+127:         message: error.message,
+128:         values: validation.values,
+129:       };
+130:     }
+131:     if (isUniqueViolation(error)) {
+132:       return {
+133:         status: "error",
+134:         message: "Ya existe un proyecto con ese código en este negocio.",
+135:         values: validation.values,
+136:       };
+137:     }
+138:     throw error;
+139:   }
+140: 
+141:   revalidatePath(`/${tenantSlug}/quotes/projects`);
+142:   return {
+143:     status: "ok",
+144:     message: `Proyecto ${project.code} creado como borrador.`,
+145:     projectId: project.id,
+146:   };
+147: }
+148: 
+149: export async function updateProjectHeaderAction(
+150:   _prevState: ProjectHeaderFormState,
+151:   formData: FormData,
+152: ): Promise<ProjectHeaderFormState> {
+153:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+154:   const projectId = String(formData.get("projectId") ?? "");
+155:   const context = await requireTenantContext(tenantSlug);
+156:   if (!context) {
+157:     return ACCESS_DENIED_FORM;
+158:   }
+159:   const { tenantDb } = context;
+160: 
+161:   if (!projectId) {
+162:     return { status: "error", message: "Proyecto no válido." };
+163:   }
+164: 
+165:   const validation = validateProjectHeader(formData);
+166:   if (!validation.ok) {
+167:     return {
+168:       status: "error",
+169:       errors: validation.errors,
+170:       values: validation.values,
+171:     };
+172:   }
+173: 
+174:   const updated = await tenantDb.projectHeaders.update(
+175:     projectId,
+176:     projectHeaderToInput(validation.values),
+177:   );
+178:   if (!updated) {
+179:     return {
+180:       status: "error",
+181:       message: "No se encontró el proyecto en este negocio.",
+182:     };
+183:   }
+184: 
+185:   revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);
+186:   return { status: "ok", message: "Ficha guardada." };
+187: }
+
+(End of file - total 187 lines)
+</content>
+```
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/validators.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/validators.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Validación servidor del módulo Proyectos (FASE 1 del vertical
+3:  * construcción). Mirror de `quotes/validators.ts`: sin dependencias de
+4:  * servidor, devuelve siempre los valores leídos para repintar formularios
+5:  * y los errores por campo.
+6:  */
+7: import {
+8:   PROJECT_TYPE_OPTIONS,
+9:   isValidProjectStatus,
+10:   type ProjectStatusValue,
+11: } from "@/lib/projects";
+12: 
+13: export const PROJECT_NAME_MAX = 120;
+14: export const PROJECT_DESCRIPTION_MAX = 500;
+15: export const HEADER_FIELD_MAX = 120;
+16: export const TAX_ID_MAX = 32;
+17: export const TAX_DV_MAX = 4;
+18: export const EMAIL_MAX = 120;
+19: 
+20: const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+21: 
+22: function required(value: string, label: string): boolean {
+23:   return value.length > 0;
+24: }
+25: 
+26: function within(value: string, max: number): boolean {
+27:   return value.length <= max;
+28: }
+29: 
+30: /* ------------------------------------------------------------------ */
+31: /* Creación de proyecto                                                */
+32: /* ------------------------------------------------------------------ */
+33: 
+34: export type CreateProjectFormValues = {
+35:   customerId: string;
+36:   name: string;
+37:   description: string;
+38: };
+39: 
+40: export type CreateProjectFieldErrors = Partial<
+41:   Record<keyof CreateProjectFormValues, string>
+42: >;
+43: 
+44: export type CreateProjectValidation =
+45:   | { ok: true; values: CreateProjectFormValues }
+46:   | {
+47:       ok: false;
+48:       errors: CreateProjectFieldErrors;
+49:       values: CreateProjectFormValues;
+50:     };
+51: 
+52: export function validateCreateProject(
+53:   formData: FormData,
+54: ): CreateProjectValidation {
+55:   const values: CreateProjectFormValues = {
+56:     customerId: String(formData.get("customerId") ?? "").trim(),
+57:     name: String(formData.get("name") ?? "").trim(),
+58:     description: String(formData.get("description") ?? "").trim(),
+59:   };
+60:   const errors: CreateProjectFieldErrors = {};
+61: 
+62:   if (!required(values.customerId, "cliente")) {
+63:     errors.customerId = "Selecciona el cliente dueño de la obra.";
+64:   }
+65:   if (!required(values.name, "nombre")) {
+66:     errors.name = "Ingresa un nombre para el proyecto.";
+67:   } else if (!within(values.name, PROJECT_NAME_MAX)) {
+68:     errors.name = `Máximo ${PROJECT_NAME_MAX} caracteres.`;
+69:   }
+70:   if (!within(values.description, PROJECT_DESCRIPTION_MAX)) {
+71:     errors.description = `Máximo ${PROJECT_DESCRIPTION_MAX} caracteres.`;
+72:   }
+73: 
+74:   if (Object.keys(errors).length > 0) {
+75:     return { ok: false, errors, values };
+76:   }
+77:   return { ok: true, values };
+78: }
+79: 
+80: /* ------------------------------------------------------------------ */
+81: /* Ficha del proyecto (ProjectHeader)                                  */
+82: /* ------------------------------------------------------------------ */
+83: 
+84: export type ProjectHeaderFormValues = {
+85:   clientTaxName: string;
+86:   clientTaxId: string;
+87:   clientTaxDv: string;
+88:   clientAddress: string;
+89:   clientCity: string;
+90:   clientBillingEmail: string;
+91:   legalRepName: string;
+92:   siteAddress: string;
+93:   siteCity: string;
+94:   siteDepartment: string;
+95:   projectType: string;
+96:   siteAccessNotes: string;
+97:   technicalContact: string;
+98:   technicalPhone: string;
+99:   projectLeaderName: string;
+100:   projectLeaderProfessionalId: string;
+101:   supervisorName: string;
+102: };
+103: 
+104: export type ProjectHeaderFieldErrors = Partial<
+105:   Record<keyof ProjectHeaderFormValues, string>
+106: >;
+107: 
+108: export type ProjectHeaderValidation =
+109:   | { ok: true; values: ProjectHeaderFormValues }
+110:   | {
+111:       ok: false;
+112:       errors: ProjectHeaderFieldErrors;
+113:       values: ProjectHeaderFormValues;
+114:     };
+115: 
+116: const HEADER_KEYS: ReadonlyArray<keyof ProjectHeaderFormValues> = [
+117:   "clientTaxName",
+118:   "clientTaxId",
+119:   "clientTaxDv",
+120:   "clientAddress",
+121:   "clientCity",
+122:   "clientBillingEmail",
+123:   "legalRepName",
+124:   "siteAddress",
+125:   "siteCity",
+126:   "siteDepartment",
+127:   "projectType",
+128:   "siteAccessNotes",
+129:   "technicalContact",
+130:   "technicalPhone",
+131:   "projectLeaderName",
+132:   "projectLeaderProfessionalId",
+133:   "supervisorName",
+134: ];
+135: 
+136: function optionalString(formData: FormData, key: string): string {
+137:   return String(formData.get(key) ?? "").trim();
+138: }
+139: 
+140: export function validateProjectHeader(
+141:   formData: FormData,
+142: ): ProjectHeaderValidation {
+143:   const values: ProjectHeaderFormValues = {
+144:     clientTaxName: optionalString(formData, "clientTaxName"),
+145:     clientTaxId: optionalString(formData, "clientTaxId"),
+146:     clientTaxDv: optionalString(formData, "clientTaxDv"),
+147:     clientAddress: optionalString(formData, "clientAddress"),
+148:     clientCity: optionalString(formData, "clientCity"),
+149:     clientBillingEmail: optionalString(formData, "clientBillingEmail"),
+150:     legalRepName: optionalString(formData, "legalRepName"),
+151:     siteAddress: optionalString(formData, "siteAddress"),
+152:     siteCity: optionalString(formData, "siteCity"),
+153:     siteDepartment: optionalString(formData, "siteDepartment"),
+154:     projectType: optionalString(formData, "projectType"),
+155:     siteAccessNotes: optionalString(formData, "siteAccessNotes"),
+156:     technicalContact: optionalString(formData, "technicalContact"),
+157:     technicalPhone: optionalString(formData, "technicalPhone"),
+158:     projectLeaderName: optionalString(formData, "projectLeaderName"),
+159:     projectLeaderProfessionalId: optionalString(
+160:       formData,
+161:       "projectLeaderProfessionalId",
+162:     ),
+163:     supervisorName: optionalString(formData, "supervisorName"),
+164:   };
+165:   const errors: ProjectHeaderFieldErrors = {};
+166: 
+167:   // Límites de longitud genéricos.
+168:   for (const key of HEADER_KEYS) {
+169:     const value = values[key];
+170:     const max = key === "clientTaxId" ? TAX_ID_MAX : key === "clientTaxDv" ? TAX_DV_MAX : HEADER_FIELD_MAX;
+171:     if (!within(value, max)) {
+172:       errors[key] = `Máximo ${max} caracteres.`;
+173:     }
+174:   }
+175: 
+176:   // Reglas específicas.
+177:   if (values.projectType && !PROJECT_TYPE_OPTIONS.some((option) => option.value === values.projectType)) {
+178:     errors.projectType = "Selecciona un tipo de obra válido.";
+179:   }
+180:   if (values.clientBillingEmail && !EMAIL_RE.test(values.clientBillingEmail)) {
+181:     errors.clientBillingEmail = "Correo electrónico inválido.";
+182:   }
+183:   if (!within(values.clientBillingEmail, EMAIL_MAX)) {
+184:     errors.clientBillingEmail = errors.clientBillingEmail ?? `Máximo ${EMAIL_MAX} caracteres.`;
+185:   }
+186: 
+187:   if (Object.keys(errors).length > 0) {
+188:     return { ok: false, errors, values };
+189:   }
+190:   return { ok: true, values };
+191: }
+192: 
+193: /**
+194:  * Convierte los valores leídos del formulario al payload de escritura:
+195:  * cadena vacía → null (los campos de la ficha son opcionales).
+196:  */
+197: export function projectHeaderToInput(values: ProjectHeaderFormValues) {
+198:   const emptyToNull = (value: string): string | null =>
+199:     value === "" ? null : value;
+200:   return {
+201:     clientTaxName: emptyToNull(values.clientTaxName),
+202:     clientTaxId: emptyToNull(values.clientTaxId),
+203:     clientTaxDv: emptyToNull(values.clientTaxDv),
+204:     clientAddress: emptyToNull(values.clientAddress),
+205:     clientCity: emptyToNull(values.clientCity),
+206:     clientBillingEmail: emptyToNull(values.clientBillingEmail),
+207:     legalRepName: emptyToNull(values.legalRepName),
+208:     siteAddress: emptyToNull(values.siteAddress),
+209:     siteCity: emptyToNull(values.siteCity),
+210:     siteDepartment: emptyToNull(values.siteDepartment),
+211:     projectType: emptyToNull(values.projectType),
+212:     siteAccessNotes: emptyToNull(values.siteAccessNotes),
+213:     technicalContact: emptyToNull(values.technicalContact),
+214:     technicalPhone: emptyToNull(values.technicalPhone),
+215:     projectLeaderName: emptyToNull(values.projectLeaderName),
+216:     projectLeaderProfessionalId: emptyToNull(values.projectLeaderProfessionalId),
+217:     supervisorName: emptyToNull(values.supervisorName),
+218:   };
+219: }
+220: 
+221: /** Tipos de estado válidos para el filtro del listado. */
+222: export function parseProjectStatus(value: string): ProjectStatusValue | undefined {
+223:   return isValidProjectStatus(value) ? value : undefined;
+224: }
+
+(End of file - total 224 lines)
+</content>
+```
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && echo "=== lib/cn vs utils ==="; rtk ls lib | rtk grep -E "^cn|utils"; echo "--- cn content ---"; rtk read lib/cn.ts 2>/dev/null | rtk head -20; echo "=== vertical-terms quote terms ==="; rtk grep -n "quote\|budget\|Export\|getQuoteTerms" lib/vertical-terms.ts | rtk head -30
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && echo \"=== lib/cn vs utils ===\"; rtk ls lib | rtk grep -E \"^cn|utils\"; echo \"--- cn content ---\"; rtk read lib/cn.ts 2>/dev/null | rtk head -20; echo \"=== vertical-terms quote terms ===\"; rtk grep -n \"quote\\|budget\\|Export\\|getQuoteTerms\" lib/vertical-terms.ts | rtk head -30"
+}
+```
+
+**Output:**
+```
+=== lib/cn vs utils ===
+cn.ts  283B
+utils.ts  357B
+--- cn content ---
+/**
+ * Alias histórico de `@/lib/utils#cn`.
+ *
+ * El panel tenant lo importa como `@/lib/cn`; los componentes shadcn lo
+ * importan como `@/lib/utils`. Ambos resuelven a la misma implementación
+ * (clsx + tailwind-merge) para no duplicar lógica.
+ */
+export { cn } from "./utils";
+=== vertical-terms quote terms ===
+25:  quotes: "Cotizaciones",
+45:export function getQuoteTerms(vertical: string): QuoteTerms {
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+I have a comprehensive understanding. Now let me create a todo list and plan the implementation.
+
+Let me now write the plan and get to work. This is a big implementation. Let me set todos.
+
+I'll structure the work:
+
+1. Contract: add enum ResourceType + 4 models + back-relations.
+2. Emit contract.
+3. Migration plan + apply + advance ref.
+4. Extend lib/apu-engine.ts with calculateItemTotal + calculateBudgetTotals (+ validators for percent scale).
+5. Add tenant-db `budgets` namespace + serialized types.
+6. Create budget validators.ts.
+7. Create budget actions.ts.
+8. Create UI components (KPIs, AIU modal, tree, new-chapter modal, new-item modal).
+9. Wire into project detail page (tab presupuesto).
+10. Verify tsc + build.
+11. Report.
+
+Let me start with todos.
+
+Actually, before writing, one important design decision: the brief's BigInt percentage scale is 1_000_000 = 100% (i.e. 1% = 10_000). Percent values: admin 100_000 (=10%), imprev 50_000 (=5%), util 50_000 (=5%), iva 190_000 (=19%). Note: 100_000/1_000_000 = 0.10 = 10%. Yes.
+
+The formula: `adminTotal = directCost * adminPct / SCALE` where SCALE = 1_000_000n. So if adminPct=100_000 and directCost is in micro-units (6 decimals), then adminTotal = directCost * 100_000 / 1_000_000 = directCost * 0.10. Correct — gives 10% in micro-units.
+
+Wait, careful: directCost is also in micro-units (scale 1e6). adminPct is in "percent-micro" scale where 1_000_000 = 100%. So pct/SCALE = 0.10. directCost * 0.10 in micro = correct amount in micro. 
+
+But note the existing engine's `percentOf(amount, percentMicro)` uses `percentMicro` where 100% = 100 * UNIT = 100_000_000. So a 10% there = 10 * UNIT = 10_000_000. Different scale! The brief wants 10% = 100_000 (scale 1e6 = 100%). So brief's percentage scale is "fraction of 1" (1_000_000 = 1.0 = 100%).
+
+These two scales differ. I must be careful NOT to mix. The brief explicitly defines the new scale. I'll implement `calculateBudgetTotals` using the brief's scale (SCALE = 1_000_000n represents 100%/factor 1.0), and document clearly.
+
+Hmm, actually re-reading brief 3.2: "Los porcentajes se almacenarán como BigInt en una escala de seis decimales: 1_000_000 representa el factor 1.000000, equivalente al 100%. 100_000 representa el 10%." Yes: pct is a fraction where 1.0 = 100%. Formula adminTotal = directCost * adminPct / SCALE. With adminPct = 0.10 * SCALE = 100_000. directCost * 100_000 / 1_000_000 = directCost * 0.10. ✓.
+
+Good.
+
+Now `calculateItemTotal(quantity, unitCost) = quantity * unitCost / SCALE`. Both quantity and unitCost in micro. E.g. qty=1.0 (1_000_000), unitCost=100_000.00 (=100_000 * 1e6 = 1e11). total = 1e6 * 1e11 / 1e6 = 1e11 = 100_000.000000. ✓.
+
+Rounding: use roundDiv half-up (same as existing). Document it.
+
+Now the DB columns are BigInt. Reading returns bigint. Good.
+
+Now UI money formatting: the amounts stored are micro-units (1e6 = 1 peso). To format COP, I need micro→pesos: value / 1e6, rounded to 0 decimals. But `formatCurrency` takes number|string and does Number(). For values up to say 1e14 micro (=1e8 pesos = 100M), Number is safe (< 2^53). The brief warns against bigint→Number loss. I'll write a dedicated helper `formatMoneyMicro(micro: string | bigint): string` that:
+- Converts micro string to pesos with half-up rounding using BigInt, then formats with Intl on the resulting integer (which fits in Number for realistic amounts), OR builds the string manually.
+
+Safer: compute pesos = (micro + 500_000) / 1_000_000 using BigInt (half-up to peso), then `currencyFormatter.format(Number(pesos))`. For realistic budgets (< 1e15 pesos) Number is exact for integers < 2^53 (~9e15). So safe up to 9e9 million... fine. Document the guard.
+
+I'll add `formatMoneyMicro` to lib/format.ts. But lib/format imports nothing server-only; good, usable in client components.
+
+Wait, careful: micro-units — is 1e6 micro = 1 peso? The engine comment says "6 decimales: micro-unidades de COP". So yes 1 peso = 1_000_000 micro. Good.
+
+Now, let me think about whether amounts should be stored as micro or as "pesos with 6 decimals"? They're the same: a value stored as 1000000 = 1.000000 pesos. Good.
+
+Now let's design tenant-db `budgets` namespace:
+
+```ts
+budgets: {
+  getByProject: async (projectId): Promise<ProjectBudgetData | null>  // read-only, null if none
+  getOrCreate: async (projectId): Promise<ProjectBudgetData>  // create if missing (one per project)
+  createChapter: async (projectId, {name, description}) => chapter  // validates budget belongs to tenant, not locked
+  createItem: async (projectId, {chapterId, code, description, unit, quantity, unitCostDirect}) => item  // recompute chapter item + budget totals
+  updateAiu: async (projectId, {aiuAdminPct, aiuImprevPct, aiuUtilidadPct, ivaUtilidadPct}) => recompute totals
+  setLocked: async (projectId, isLocked) => ...
+  deleteChapter?, deleteItem?  // maybe minimal
+}
+```
+
+But actions need to return enough for UI refresh. Since the page is server-rendered and actions revalidatePath, the simplest is: actions mutate, then revalidate; UI re-renders. For modals using useActionState, return status ok. So tenantDb methods can return simple results, and the page reads fresh data.
+
+However the brief's 5.1 says getOrCreateProjectBudgetAction returns data. I'll implement tenantDb.budgets.getOrCreate + a thin server action wrapper used by... hmm. Actually the page will call tenantDb directly. Modals call actions that mutate and revalidate.
+
+To satisfy the brief, I'll expose `getOrCreateProjectBudgetAction(projectId)` — but a server action needs tenantSlug too. Realistically the page already has tenant context. I'll implement the action but the page uses tenantDb directly. Let me keep the action exported for completeness (it validates + returns serialized budget).
+
+Hmm, that duplicates. Let me just implement tenantDb.budgets.getOrCreate and have the page call it; and document that the "action" equivalent is the tenantDb method invoked from the server component. Actually the brief is explicit: "5.1 getOrCreateProjectBudgetAction(projectId)". I'll implement it in actions.ts as a proper server action that the page could call... but server components shouldn't call their own server actions for initial render typically (it works but is a POST). Simpler: page calls tenantDb directly. I'll note the action exists and is used for a "Generar presupuesto" button when no budget exists (though getOrCreate on page render already creates it).
+
+Let me simplify: the page calls `tenantDb.budgets.getOrCreate(projectId)` when tab==="presupuesto". If the project is not in tenant or budget locked, handle. This means opening the tab creates the budget — fine (get-or-create semantics).
+
+Now, requirement: "No permitir la creación de capítulos en presupuestos bloqueados." and isLocked enforced in tenantDb + actions.
+
+Concurrency: getOrCreate could race. projectId is @unique, so a second concurrent create throws unique violation → catch and re-read. I'll implement that.
+
+Let me now also decide: `BudgetChapter.order` and `BudgetItem.order` — Int. Unique [budgetId, order] and [chapterId, order]. Creating appends max+1.
+
+Now `BudgetItemResource` — N1 doesn't require a resource editor. But the model must exist. I may not build UI for resources. That's acceptable ("no es necesario implementar en esta fase un editor avanzado"). I'll still create the model + maybe read them in the tree (resources count). I'll include resources in the serialized item (empty array typically).
+
+OK. Let me also handle `directCostTotal` recompute: on item create, we can increment or recompute from all items. Recompute is safer: sum of all items' totalCostDirect across chapters. I'll compute in a transaction: after creating item, read all items for the budget, sum, then compute AIU cascade and update budget.
+
+To sum items for a budget, I need items joined by chapter. Query: get chapters for budget, then items where chapterId in [...]. Or use a raw aggregate. Simplest: fetch chapters (ids), then items where chapterId in ids via `db.orm.public.BudgetItem.where(...).all()` with `in`? Does the ORM support `in`? The customers code used `fns.in(field.id, uniqueIds)` in SQL lane. In ORM lane, there might be `.where(c => c.chapterId.in([...]))`. Let me check queries reference. Hmm. Alternatively fetch all items by tenantId and filter? Not good.
+
+Let me check the ORM `.in` usage. Search tenant-db/code for `.in(`.
+
+Actually the `db.sql` lane has `fns.in`. For ORM, Prisma 8 supports `.where(field => field.x.in(...))` likely. Let me grep.
+
+Let me check the queries reference for `in`.
+
+Let me grep the project for `.in([`.
+
+I'll do that.
+
+Also need `orderBy`, `limit` etc. Already seen.
+
+Let me grep.
+
+Let me now write the todo list and then grep for `.in(` support.
+
+Given the scale, let me proceed step by step, starting with the contract edit (most foundational), then emit.
+
+Let me set todos first.
+
+Actually, let me quickly grep for `.in(` to confirm ORM API before designing the sum.</think>Auditoría completa. Tengo todos los patrones. Verifico un detalle de API ORM (operador `in`) antes de diseñar el recálculo:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && echo "=== ORM .in( usages ==="; rtk grep -rn "\.in(" lib app --include="*.ts" 2>/dev/null | rtk grep -vE "\.includes|//|import" | rtk head -20; echo "=== count/aggregate usages ==="; rtk grep -rn "aggregate(" lib/tenant-db.ts | rtk head; echo "=== prisma queries ref: in operator ==="; rtk grep -n "\.in(" .claude/skills/prisma-8/references/queries.md 2>/dev/null | rtk head
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && echo \"=== ORM .in( usages ===\"; rtk grep -rn \"\\.in(\" lib app --include=\"*.ts\" 2>/dev/null | rtk grep -vE \"\\.includes|//|import\" | rtk head -20; echo \"=== count/aggregate usages ===\"; rtk grep -rn \"aggregate(\" lib/tenant-db.ts | rtk head; echo \"=== prisma queries ref: in operator ===\"; rtk grep -n \"\\.in(\" .claude/skills/prisma-8/references/queries.md 2>/dev/null | rtk head"
+}
+```
+
+**Output:**
+```
+=== ORM .in( usages ===
+lib/admin-db.ts:431:    .where((user) => user.tenantId.in(tenantIds))
+lib/admin-db.ts:1054:          .where((tenant) => tenant.id.in([...tenantIds]))
+lib/apu-explosion.ts:251:    .where((activity) => activity.id.in(uniqueIds))
+lib/apu-explosion.ts:260:    (composition) => composition.activityId.in([...validSet]),
+lib/tenant-db.ts:734:              fns.in(field.id, uniqueIds),
+lib/tenant-db.ts:1091:                .where((composition) => composition.activityId.in(activityIds))
+lib/tenant-db.ts:1250:                .where((customer) => customer.id.in(customerIds))
+lib/tenant-db.ts:1396:            .where((activity) => activity.id.in(activityIds))
+lib/tenant-db.ts:1399:            composition.activityId.in(activityIds),
+lib/tenant-db.ts:1609:                .where((customer) => customer.id.in(customerIds))
+lib/tenant-db.ts:2032:                .where((customer) => customer.id.in(customerIds))
+lib/tenant-db.ts:2141:                .where((customer) => customer.id.in(customerIds))
+=== count/aggregate usages ===
+27 matches in 1 files:
+
+lib/tenant-db.ts:691:const countPromise = filtered.aggregate((aggregate) => ({
+lib/tenant-db.ts:748:.aggregate((aggregate) => ({ total: aggregate.count() }))
+lib/tenant-db.ts:786:.aggregate((aggregate) => ({ total: aggregate.count() })),
+lib/tenant-db.ts:790:.aggregate((aggregate) => ({
+lib/tenant-db.ts:797:.aggregate((aggregate) => ({ total: aggregate.count() })),
+lib/tenant-db.ts:1022:filtered.aggregate((aggregate) => ({ total: aggregate.count() })),
+lib/tenant-db.ts:1083:filtered.aggregate((aggregate) => ({ total: aggregate.count() })),
+lib/tenant-db.ts:1235:filtered.aggregate((aggregate) => ({ total: aggregate.count() })),
+=== prisma queries ref: in operator ===
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+ORM `.in()` is supported via `.where(field => field.x.in([...]))`. Good.
+
+Now let me set up the todo list and start implementing.
+
+Let me create todos.
+
+Plan:
+1. Add models to contract + emit
+2. Plan/apply migration + advance ref
+3. Extend apu-engine (calculateItemTotal, calculateBudgetTotals, percent parsing)
+4. Extend tenant-db budgets namespace + types
+5. budget validators
+6. budget actions
+7. UI components
+8. Wire into project detail page
+9. Verify tsc + build
+10. Report
+
+Let me write todos.
+
+Then edit contract.
+
+For the contract, I'll add after ProjectHeader (end of file) the new models, and add enum ResourceType near other enums. And back-relations on Tenant and Project.
+
+Let me draft the contract additions.
+
+Enum:
+```
+/// Categoría de un recurso de la composición de un APU (N1).
+enum ResourceType {
+  MATERIAL
+  LABOR
+  EQUIPMENT
+  TRANSPORT
+}
+```
+
+Models:
+
+```prisma
+/// Presupuesto de obra de un proyecto (FASE 2 — Tab 2). Un proyecto tiene un
+/// presupuesto (1:1). Montos y porcentajes en micro-unidades (`BigInt`, 6
+/// decimales): 1_000_000 = 1.000000 = 100 % para los porcentajes.
+model ProjectBudget {
+  id        String  @id @default(uuid())
+  tenantId  String
+  tenant    Tenant  @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  projectId String  @unique
+  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  code      String
+  name      String
+
+  /// AIU configurable (fracción × 1e6: 100_000 = 10 %, 190_000 = 19 %).
+  aiuAdminPct    BigInt @default(100000)
+  aiuImprevPct   BigInt @default(50000)
+  aiuUtilidadPct BigInt @default(50000)
+  ivaUtilidadPct BigInt @default(190000)
+
+  /// Totales derivados (recalculados SIEMPRE por el servidor).
+  directCostTotal BigInt @default(0)
+  adminTotal      BigInt @default(0)
+  imprevTotal     BigInt @default(0)
+  utilidadTotal   BigInt @default(0)
+  ivaUtilidadTotal BigInt @default(0)
+  grandTotal      BigInt @default(0)
+
+  isLocked  Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt temporal.updatedAt()
+
+  chapters BudgetChapter[]
+
+  @@unique([tenantId, code])
+  @@index([tenantId])
+  @@index([projectId])
+}
+```
+
+Wait: `projectId String @unique` plus `@@index([projectId])` is redundant (unique creates index). I'll drop @@index([projectId]). Keep @@unique([tenantId, code]) and @@index([tenantId]).
+
+Hmm but `@@unique([tenantId, code])` requires code unique per tenant. Fine.
+
+```prisma
+/// Capítulo (grupo de partidas) dentro de un presupuesto. Orden explícito.
+model BudgetChapter {
+  id          String        @id @default(uuid())
+  tenantId    String
+  tenant      Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  budgetId    String
+  budget      ProjectBudget @relation(fields: [budgetId], references: [id], onDelete: Cascade)
+  order       Int
+  name        String
+  description String?
+  createdAt   DateTime      @default(now())
+  updatedAt   temporal.updatedAt()
+
+  items BudgetItem[]
+
+  @@unique([budgetId, order])
+  @@index([tenantId])
+  @@index([budgetId])
+}
+```
+
+```prisma
+/// Partida / actividad presupuestaria de un capítulo (APU).
+model BudgetItem {
+  id            String        @id @default(uuid())
+  tenantId      String
+  tenant        Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  chapterId     String
+  chapter       BudgetChapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  order         Int
+  code          String
+  description   String
+  unit          String
+  /// Cantidad escalada (1_000_000 = 1.000000).
+  quantity      BigInt        @default(1000000)
+  unitCostDirect BigInt       @default(0)
+  totalCostDirect BigInt      @default(0)
+  createdAt     DateTime      @default(now())
+  updatedAt     temporal.updatedAt()
+
+  resources BudgetItemResource[]
+
+  @@unique([chapterId, order])
+  @@index([tenantId])
+  @@index([chapterId])
+}
+```
+
+```prisma
+/// Recurso que compone la actividad APU de una partida.
+model BudgetItemResource {
+  id          String       @id @default(uuid())
+  tenantId    String
+  tenant      Tenant       @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  itemId      String
+  item        BudgetItem   @relation(fields: [itemId], references: [id], onDelete: Cascade)
+  type        ResourceType
+  name        String
+  unit        String
+  performance BigInt       @default(1000000)
+  unitPrice   BigInt       @default(0)
+  totalPrice  BigInt       @default(0)
+  imageUrl    String?
+  createdAt   DateTime     @default(now())
+  updatedAt   temporal.updatedAt()
+
+  @@index([tenantId])
+  @@index([itemId])
+}
+```
+
+Back-relations on Tenant: `projectBudgets ProjectBudget[]`, `budgetChapters BudgetChapter[]`, `budgetItems BudgetItem[]`, `budgetItemResources BudgetItemResource[]`.
+
+Back-relation on Project: `budget ProjectBudget?`.
+
+Note: `order` is a reserved SQL word but Prisma quotes identifiers, and PSL allows `order` as field name. Existing code uses `order`? Not sure. It should be fine.
+
+Now emit. Then migration.
+
+Let me make the edits to contract.prisma.
+
+Let me add the enum ResourceType after ProjectStatus (line 100) or near ApuItemCategory. I'll add after ApuItemCategory (line 82) — but order doesn't matter. I'll add after ProjectStatus for locality with construction.
+
+Then add back-relations to Tenant (line 153 after projects) and Project (line 460 after header).
+
+Then append the 4 models at end.
+
+Let me do the edits.
+
+Edit 1: add enum after ProjectStatus block (lines 92-100).
+Edit 2: Tenant back-relations.
+Edit 3: Project back-relation.
+Edit 4: append models at EOF.
+
+Let me do them.</think>Todo claro (ORM soporta `.in()`). Armo el plan de trabajo y arranco por el contrato.
+
+#### 🔧 Tool: todowrite
+**Status:** completed
+**Title:** 9 todos
+
+**Input:**
+```json
+{
+  "todos": [
+    {
+      "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+      "status": "in_progress",
+      "priority": "high"
+    },
+    {
+      "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "content": "Verificar tsc --noEmit + build + smoke DB",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "content": "Informe final (secciones 1-10) + memoria",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}
+```
+
+**Output:**
+```
+[
+  {
+    "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+    "status": "in_progress",
+    "priority": "high"
+  },
+  {
+    "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Verificar tsc --noEmit + build + smoke DB",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Informe final (secciones 1-10) + memoria",
+    "status": "pending",
+    "priority": "medium"
+  }
+]
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>Ahora edito el contrato. Añado el enum `ResourceType`:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/contract.prisma",
+  "oldString": "/// Ciclo de vida de un proyecto de obra (vertical construcción).\nenum ProjectStatus {\n  DRAFT\n  BIDDING\n  APPROVED\n  IN_EXECUTION\n  COMPLETED\n  CANCELLED\n}",
+  "newString": "/// Ciclo de vida de un proyecto de obra (vertical construcción).\nenum ProjectStatus {\n  DRAFT\n  BIDDING\n  APPROVED\n  IN_EXECUTION\n  COMPLETED\n  CANCELLED\n}\n\n/// Categoría de un recurso que compone la actividad (APU) de una partida\n/// presupuestaria (FASE 2 — Tab 2). Distinto de `ApuItemCategory` (banco de\n/// insumos reutilizable): aquí es la clasificación dentro de un presupuesto.\nenum ResourceType {\n  MATERIAL\n  LABOR\n  EQUIPMENT\n  TRANSPORT\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/contract.prisma",
+  "oldString": "  quotes        Quote[]\n  projects      Project[]\n\n  @@index([slug])\n}",
+  "newString": "  quotes        Quote[]\n  projects      Project[]\n  projectBudgets ProjectBudget[]\n  budgetChapters BudgetChapter[]\n  budgetItems   BudgetItem[]\n  budgetItemResources BudgetItemResource[]\n\n  @@index([slug])\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/contract.prisma",
+  "oldString": "  status     ProjectStatus @default(DRAFT)\n  createdAt  DateTime      @default(now())\n  updatedAt  temporal.updatedAt()\n\n  header   ProjectHeader?\n\n  @@unique([tenantId, code])\n  @@index([tenantId])\n  @@index([customerId])\n  @@index([tenantId, status])\n}",
+  "newString": "  status     ProjectStatus @default(DRAFT)\n  createdAt  DateTime      @default(now())\n  updatedAt  temporal.updatedAt()\n\n  header   ProjectHeader?\n  /// Presupuesto de obra del proyecto (1:1 en esta fase, Tab 2).\n  budget   ProjectBudget?\n\n  @@unique([tenantId, code])\n  @@index([tenantId])\n  @@index([customerId])\n  @@index([tenantId, status])\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>Now append the four new models at the end of the contract:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/contract.prisma",
+  "oldString": "  createdAt DateTime @default(now())\n  updatedAt temporal.updatedAt()\n\n  @@index([projectId])\n}",
+  "newString": "  createdAt DateTime @default(now())\n  updatedAt temporal.updatedAt()\n\n  @@index([projectId])\n}\n\n/// Presupuesto de obra de un proyecto (FASE 2 — Tab 2). Un proyecto tiene\n/// como máximo un presupuesto en esta fase (1:1 vía `projectId @unique`).\n///\n/// Montos y porcentajes en micro-unidades `BigInt` (6 decimales):\n///   · dinero/cantidad: 1_000_000 = 1.000000\n///   · porcentajes:     1_000_000 = 1.000000 = 100 % (100_000 = 10 %)\n/// El servidor SIEMPRE recalcula los totales con `lib/apu-engine.ts`;\n/// nunca se persisten totales enviados por el navegador.\nmodel ProjectBudget {\n  id        String  @id @default(uuid())\n  tenantId  String\n  tenant    Tenant  @relation(fields: [tenantId], references: [id], onDelete: Cascade)\n  projectId String  @unique\n  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)\n  /// Código de negocio: PRES-2026-001 (único dentro del tenant).\n  code      String\n  name      String\n\n  /// Configuración AIU (fracción × 1e6). Por defecto 10 % / 5 % / 5 % / 19 %.\n  aiuAdminPct     BigInt @default(100000)\n  aiuImprevPct    BigInt @default(50000)\n  aiuUtilidadPct  BigInt @default(50000)\n  ivaUtilidadPct  BigInt @default(190000)\n\n  /// Totales derivados (recalculados por el servidor en cada mutación).\n  directCostTotal  BigInt @default(0)\n  adminTotal       BigInt @default(0)\n  imprevTotal      BigInt @default(0)\n  utilidadTotal    BigInt @default(0)\n  ivaUtilidadTotal BigInt @default(0)\n  grandTotal       BigInt @default(0)\n\n  /// Bloqueo básico: la capa de negocio rechaza mutaciones ordinarias.\n  isLocked  Boolean  @default(false)\n  createdAt DateTime @default(now())\n  updatedAt temporal.updatedAt()\n\n  chapters BudgetChapter[]\n\n  @@unique([tenantId, code])\n  @@index([tenantId])\n}\n\n/// Capítulo (grupo de partidas) dentro de un presupuesto. `order` es el\n/// orden de presentación; se asigna como `max + 1` al final del presupuesto.\nmodel BudgetChapter {\n  id        String        @id @default(uuid())\n  tenantId  String\n  tenant    Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)\n  budgetId  String\n  budget    ProjectBudget @relation(fields: [budgetId], references: [id], onDelete: Cascade)\n  order     Int\n  name      String\n  description String?\n  createdAt DateTime      @default(now())\n  updatedAt temporal.updatedAt()\n\n  items BudgetItem[]\n\n  @@unique([budgetId, order])\n  @@index([tenantId])\n  @@index([budgetId])\n}\n\n/// Partida / actividad presupuestaria dentro de un capítulo. Cantidad y\n/// costos en micro-unidades `BigInt` (6 decimales).\nmodel BudgetItem {\n  id          String        @id @default(uuid())\n  tenantId    String\n  tenant      Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)\n  chapterId   String\n  chapter     BudgetChapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)\n  order       Int\n  /// Código de actividad (puede repetirse entre capítulos).\n  code        String\n  description String\n  unit        String\n  /// Cantidad escalada (1_000_000 = 1.000000).\n  quantity        BigInt @default(1000000)\n  /// Costo unitario directo (micro-pesos).\n  unitCostDirect  BigInt @default(0)\n  /// Costo directo total de la partida = quantity × unitCostDirect.\n  totalCostDirect BigInt @default(0)\n  createdAt   DateTime      @default(now())\n  updatedAt   temporal.updatedAt()\n\n  resources BudgetItemResource[]\n\n  @@unique([chapterId, order])\n  @@index([tenantId])\n  @@index([chapterId])\n}\n\n/// Recurso que compone la actividad (APU) de una partida. El editor\n/// avanzado de composición queda para una fase posterior (N1 solo persiste\n/// el modelo y lo muestra); `imageUrl` es opcional y sin integración externa.\nmodel BudgetItemResource {\n  id        String     @id @default(uuid())\n  tenantId  String\n  tenant    Tenant     @relation(fields: [tenantId], references: [id], onDelete: Cascade)\n  itemId    String\n  item      BudgetItem @relation(fields: [itemId], references: [id], onDelete: Cascade)\n  type      ResourceType\n  name      String\n  unit      String\n  /// Rendimiento del recurso por unidad de actividad (1_000_000 = 1.0).\n  performance BigInt @default(1000000)\n  unitPrice   BigInt @default(0)\n  totalPrice  BigInt @default(0)\n  imageUrl    String?\n  createdAt DateTime   @default(now())\n  updatedAt temporal.updatedAt()\n\n  @@index([tenantId])\n  @@index([itemId])\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Wait — the oldString `createdAt DateTime @default(now())\n  updatedAt temporal.updatedAt()\n\n  @@index([projectId])\n}` — is that unique? ProjectHeader ends with exactly that. Let me verify the edit applied to ProjectHeader (end of file) and not another model. The edit tool requires unique match; it applied successfully, so it was unique. Good — it appended after ProjectHeader which was the last model.
+
+Now emit the contract. Need to run `pnpm prisma contract emit`. Let me run from repo root. Also the dev server is running; emit writes contract.json/d.ts. Fine.
+
+Let me run emit.
+
+Command: `pnpm exec prisma contract emit` or `pnpm prisma contract emit`. package.json doesn't have a prisma script; `prisma` binary available via devDep. Use `pnpm exec prisma contract emit`.
+
+Let me run it.</think>Contrato editado (enum + 4 modelos + back-relations). Emito los artefactos:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && pnpm exec prisma contract emit 2>&1 | rtk tail -40; echo "EXIT:${pipestatus[1]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && pnpm exec prisma contract emit 2>&1 | rtk tail -40; echo \"EXIT:${pipestatus[1]}\"",
+  "timeout": 120000
+}
+```
+
+**Output:**
+```
+{"kind":"step-started","step":"Resolving contract source...","id":"resolveSource","commandId":"contract.emit","timestamp":"2026-10-11T01:00:22.869Z"}
+{"kind":"step-finished","step":"Resolving contract source...","id":"resolveSource","outcome":"ok","commandId":"contract.emit","timestamp":"2026-10-11T01:00:23.082Z"}
+{"kind":"step-started","step":"Emitting contract...","id":"emit","commandId":"contract.emit","timestamp":"2026-10-11T01:00:23.082Z"}
+{"kind":"step-finished","step":"Emitting contract...","id":"emit","outcome":"ok","commandId":"contract.emit","timestamp":"2026-10-11T01:00:24.276Z"}
+{"kind":"result","envelope":{"ok":true,"commandId":"contract.emit","result":{"ok":true,"storageHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","executionHash":"f9c02cd80279843b85cf6b9abfdca3261d6c1108eabae5f5741e15a9682fc238","profileHash":"3916f444a8a17ad749191acf9e08dad97d1a327b88c2f1d45d12f240296aa8b2","outDir":"/home/craxker/github/nexus-thrive/prisma","files":{"json":"/home/craxker/github/nexus-thrive/prisma/contract.json","dts":"/home/craxker/github/nexus-thrive/prisma/contract.d.ts"},"timings":{"total":1575}},"exitCode":0,"diagnostics":[],"nextActions":[]},"commandId":"contract.emit","timestamp":"2026-10-11T01:00:24.444Z"}
+EXIT:0
+
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Emit OK. New storageHash `546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c`.
+
+Previous marker was `985cb4f2...`. So migration from 985cb4f → 546dd56.
+
+Now plan the migration. Load .env and use --db. Command: `pnpm exec prisma migration plan --name add_project_budget_apu --db "$DATABASE_URL"`.
+
+Wait, the ref `db` should be at 985cb4f. Let me verify refs/db.json and then plan.
+
+Let me run migration plan. Need .env loaded.
+
+Note: the migration plan may warn about fork. Let me run and see.
+
+Let me first check current ref and marker.
+
+Actually let me just run plan with the name.
+
+Command: 
+```
+set -a; source .env; set +a
+pnpm exec prisma migration plan --name add_project_budget_apu --db "$DATABASE_URL"
+```
+
+Let me do it. Also need to update todo.
+
+Let me mark todo 1 done and todo 2 in progress.
+
+Let me run the plan.</think>Emit exitoso. Nuevo hash de contrato: `546dd56…`. Ahora planifico la migración:
+
+#### 🔧 Tool: todowrite
+**Status:** completed
+**Title:** 8 todos
+
+**Input:**
+```json
+{
+  "todos": [
+    {
+      "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+      "priority": "high",
+      "status": "in_progress"
+    },
+    {
+      "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "content": "Verificar tsc --noEmit + build + smoke DB",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "Informe final (secciones 1-10) + memoria",
+      "priority": "medium",
+      "status": "pending"
+    }
+  ]
+}
+```
+
+**Output:**
+```
+[
+  {
+    "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+    "status": "completed",
+    "priority": "high"
+  },
+  {
+    "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+    "status": "in_progress",
+    "priority": "high"
+  },
+  {
+    "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Verificar tsc --noEmit + build + smoke DB",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Informe final (secciones 1-10) + memoria",
+    "status": "pending",
+    "priority": "medium"
+  }
+]
+```
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && rtk read migrations/app/refs/db.json; echo "=== PLAN ==="; set -a; source .env; set +a; pnpm exec prisma migration plan --name add_project_budget_apu --db "$DATABASE_URL" 2>&1 | rtk tail -60; echo "EXIT:${pipestatus[1]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && rtk read migrations/app/refs/db.json; echo \"=== PLAN ===\"; set -a; source .env; set +a; pnpm exec prisma migration plan --name add_project_budget_apu --db \"$DATABASE_URL\" 2>&1 | rtk tail -60; echo \"EXIT:${pipestatus[1]}\"",
+  "timeout": 120000
+}
+```
+
+**Output:**
+```
+{
+  "hash": "985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18",
+  "invariants": []
+}
+=== PLAN ===
+{"kind":"result","envelope":{"ok":false,"commandId":"migration.plan","error":{"code":"CLI.INVALID_ARGUMENTS","severity":"error","summary":"No flag registered for --db, did you mean --to?","nextActions":[]},"diagnostics":[],"nextActions":[]},"commandId":"migration.plan","timestamp":"2026-10-11T01:01:04.315Z"}
+EXIT:2
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+The `--db` flag isn't registered for `migration.plan`. Interesting — earlier we used `--db "$DATABASE_URL"` for something (maybe `db migrate`). Let me check the correct flags for migration plan. The skill says `prisma migration plan`. Let me check `prisma migration plan --help`.
+
+Maybe the origin is the ref, and the db connection is configured via prisma.config.ts (runtime db). Actually `migration plan` may not need a DB. But it said "No flag registered for --db, did you mean --to?".
+
+Let me run `pnpm exec prisma migration plan --help`.
+
+Also the ref is still 985cb4f. Good.
+
+Let me check help.</think>El flag `--db` no aplica a `migration plan`. Reviso la ayuda real del comando:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && pnpm exec prisma migration plan --help 2>&1 | rtk tail -40
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && pnpm exec prisma migration plan --help 2>&1 | rtk tail -40",
+  "timeout": 60000
+}
+```
+
+**Output:**
+```
+prisma migration plan → Plan a migration from contract changes
+
+│  Usage
+│    $ prisma migration plan [options]
+│
+│  Compares the emitted contract against the latest on-disk migration state
+│  and produces a new migration package with the required operations.
+│  On an empty migrations directory a baseline package is derived from the
+│  `db` ref first; a baseline containing destructive operations is only
+│  written with your consent: the command asks you to type the project
+│  directory name, or takes `--confirm <directory>` where there is nobody
+│  to ask. Offline — does not consult the database.
+│
+│  Options
+│      --name <slug>      Name slug for the migration directory
+│      --from <contract>  Starting contract reference (hash, prefix, ref name, migration dir name, <dir>^, @empty, or ./path)
+│      --to <contract>    Destination contract reference; defaults to the emitted contract. Same grammar as --from
+│
+│  Global options also apply: --format, --json, --log-level, --verbose,
+│  --quiet, --yes, --confirm, --interactive, --color, --config. Run 'prisma
+│  --help' for details.
+│
+│  Examples
+│    $ prisma migration plan
+│    $ prisma migration plan --name add-users-table
+│    $ prisma migration plan --to <migration-dir>^ --name rollback
+│    $ prisma migration plan --json
+│
+│  Docs  https://docs.prisma.io/docs/orm/v8/reference/error-reference/
+
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Migration plan is offline and uses the `db` ref by default. The ref is 985cb4f. Let me run `migration plan --name add_project_budget_apu`.
+
+Let me run it.</think>`migration plan` es offline y parte del ref `db` (985cb4f). Lo ejecuto:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && pnpm exec prisma migration plan --name add_project_budget_apu 2>&1 | rtk tail -60; echo "EXIT:${pipestatus[1]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && pnpm exec prisma migration plan --name add_project_budget_apu 2>&1 | rtk tail -60; echo \"EXIT:${pipestatus[1]}\"",
+  "timeout": 120000
+}
+```
+
+**Output:**
+```
+{"kind":"result","envelope":{"ok":true,"commandId":"migration.plan","result":{"ok":true,"noOp":false,"from":"985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18","to":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","dir":"migrations/app/20261011T0102_add_project_budget_apu","operations":[{"id":"table.BudgetChapter","label":"Create table \"BudgetChapter\"","operationClass":"additive"},{"id":"table.BudgetItem","label":"Create table \"BudgetItem\"","operationClass":"additive"},{"id":"table.BudgetItemResource","label":"Create table \"BudgetItemResource\"","operationClass":"additive"},{"id":"table.ProjectBudget","label":"Create table \"ProjectBudget\"","operationClass":"additive"},{"id":"unique.BudgetChapter.BudgetChapter_budgetId_order_key","label":"Add unique constraint on \"BudgetChapter\" (budgetId, order)","operationClass":"additive"},{"id":"unique.BudgetItem.BudgetItem_chapterId_order_key","label":"Add unique constraint on \"BudgetItem\" (chapterId, order)","operationClass":"additive"},{"id":"unique.ProjectBudget.ProjectBudget_projectId_key","label":"Add unique constraint on \"ProjectBudget\" (projectId)","operationClass":"additive"},{"id":"unique.ProjectBudget.ProjectBudget_tenantId_code_key","label":"Add unique constraint on \"ProjectBudget\" (tenantId, code)","operationClass":"additive"},{"id":"index.BudgetChapter.BudgetChapter_budgetId_idx_abbf614c","label":"Create index \"BudgetChapter_budgetId_idx_abbf614c\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"index.BudgetChapter.BudgetChapter_tenantId_idx_c93ed4f1","label":"Create index \"BudgetChapter_tenantId_idx_c93ed4f1\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"index.BudgetItem.BudgetItem_chapterId_idx_411dd3d6","label":"Create index \"BudgetItem_chapterId_idx_411dd3d6\" on \"BudgetItem\"","operationClass":"additive"},{"id":"index.BudgetItem.BudgetItem_tenantId_idx_c93ed4f1","label":"Create index \"BudgetItem_tenantId_idx_c93ed4f1\" on \"BudgetItem\"","operationClass":"additive"},{"id":"index.BudgetItemResource.BudgetItemResource_itemId_idx_41357140","label":"Create index \"BudgetItemResource_itemId_idx_41357140\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"index.BudgetItemResource.BudgetItemResource_tenantId_idx_c93ed4f1","label":"Create index \"BudgetItemResource_tenantId_idx_c93ed4f1\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"index.ProjectBudget.ProjectBudget_tenantId_idx_c93ed4f1","label":"Create index \"ProjectBudget_tenantId_idx_c93ed4f1\" on \"ProjectBudget\"","operationClass":"additive"},{"id":"foreignKey.BudgetChapter.BudgetChapter_tenantId_fkey","label":"Add foreign key \"BudgetChapter_tenantId_fkey\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"foreignKey.BudgetChapter.BudgetChapter_budgetId_fkey","label":"Add foreign key \"BudgetChapter_budgetId_fkey\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"foreignKey.BudgetItem.BudgetItem_tenantId_fkey","label":"Add foreign key \"BudgetItem_tenantId_fkey\" on \"BudgetItem\"","operationClass":"additive"},{"id":"foreignKey.BudgetItem.BudgetItem_chapterId_fkey","label":"Add foreign key \"BudgetItem_chapterId_fkey\" on \"BudgetItem\"","operationClass":"additive"},{"id":"foreignKey.BudgetItemResource.BudgetItemResource_tenantId_fkey","label":"Add foreign key \"BudgetItemResource_tenantId_fkey\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"foreignKey.BudgetItemResource.BudgetItemResource_itemId_fkey","label":"Add foreign key \"BudgetItemResource_itemId_fkey\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"foreignKey.ProjectBudget.ProjectBudget_tenantId_fkey","label":"Add foreign key \"ProjectBudget_tenantId_fkey\" on \"ProjectBudget\"","operationClass":"additive"},{"id":"foreignKey.ProjectBudget.ProjectBudget_projectId_fkey","label":"Add foreign key \"ProjectBudget_projectId_fkey\" on \"ProjectBudget\"","operationClass":"additive"}],"emittedExtensionDirs":[],"preview":{"statements":[{"text":"CREATE TABLE \"public\".\"BudgetChapter\" (\n  \"budgetId\" text NOT NULL,\n  \"createdAt\" timestamptz DEFAULT (now()) NOT NULL,\n  \"description\" text,\n  \"id\" text NOT NULL,\n  \"name\" text NOT NULL,\n  \"order\" int4 NOT NULL,\n  \"tenantId\" text NOT NULL,\n  \"updatedAt\" timestamptz NOT NULL,\n  PRIMARY KEY (\"id\")\n)","language":"sql"},{"text":"CREATE TABLE \"public\".\"BudgetItem\" (\n  \"chapterId\" text NOT NULL,\n  \"code\" text NOT NULL,\n  \"createdAt\" timestamptz DEFAULT (now()) NOT NULL,\n  \"description\" text NOT NULL,\n  \"id\" text NOT NULL,\n  \"order\" int4 NOT NULL,\n  \"quantity\" int8 DEFAULT '1000000'::int8 NOT NULL,\n  \"tenantId\" text NOT NULL,\n  \"totalCostDirect\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"unit\" text NOT NULL,\n  \"unitCostDirect\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"updatedAt\" timestamptz NOT NULL,\n  PRIMARY KEY (\"id\")\n)","language":"sql"},{"text":"CREATE TABLE \"public\".\"BudgetItemResource\" (\n  \"createdAt\" timestamptz DEFAULT (now()) NOT NULL,\n  \"id\" text NOT NULL,\n  \"imageUrl\" text,\n  \"itemId\" text NOT NULL,\n  \"name\" text NOT NULL,\n  \"performance\" int8 DEFAULT '1000000'::int8 NOT NULL,\n  \"tenantId\" text NOT NULL,\n  \"totalPrice\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"type\" text NOT NULL,\n  \"unit\" text NOT NULL,\n  \"unitPrice\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"updatedAt\" timestamptz NOT NULL,\n  PRIMARY KEY (\"id\"),\n  CONSTRAINT \"BudgetItemResource_type_check_13d76a3a\" CHECK (\"type\" IN ('MATERIAL', 'LABOR', 'EQUIPMENT', 'TRANSPORT'))\n)","language":"sql"},{"text":"CREATE TABLE \"public\".\"ProjectBudget\" (\n  \"adminTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"aiuAdminPct\" int8 DEFAULT '100000'::int8 NOT NULL,\n  \"aiuImprevPct\" int8 DEFAULT '50000'::int8 NOT NULL,\n  \"aiuUtilidadPct\" int8 DEFAULT '50000'::int8 NOT NULL,\n  \"code\" text NOT NULL,\n  \"createdAt\" timestamptz DEFAULT (now()) NOT NULL,\n  \"directCostTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"grandTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"id\" text NOT NULL,\n  \"imprevTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"isLocked\" bool DEFAULT false NOT NULL,\n  \"ivaUtilidadPct\" int8 DEFAULT '190000'::int8 NOT NULL,\n  \"ivaUtilidadTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  \"name\" text NOT NULL,\n  \"projectId\" text NOT NULL,\n  \"tenantId\" text NOT NULL,\n  \"updatedAt\" timestamptz NOT NULL,\n  \"utilidadTotal\" int8 DEFAULT '0'::int8 NOT NULL,\n  PRIMARY KEY (\"id\")\n)","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetChapter\" ADD CONSTRAINT \"BudgetChapter_budgetId_order_key\" UNIQUE (\"budgetId\", \"order\")","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetItem\" ADD CONSTRAINT \"BudgetItem_chapterId_order_key\" UNIQUE (\"chapterId\", \"order\")","language":"sql"},{"text":"ALTER TABLE \"public\".\"ProjectBudget\" ADD CONSTRAINT \"ProjectBudget_projectId_key\" UNIQUE (\"projectId\")","language":"sql"},{"text":"ALTER TABLE \"public\".\"ProjectBudget\" ADD CONSTRAINT \"ProjectBudget_tenantId_code_key\" UNIQUE (\"tenantId\", \"code\")","language":"sql"},{"text":"CREATE INDEX \"BudgetChapter_budgetId_idx_abbf614c\" ON \"public\".\"BudgetChapter\" (\"budgetId\")","language":"sql"},{"text":"CREATE INDEX \"BudgetChapter_tenantId_idx_c93ed4f1\" ON \"public\".\"BudgetChapter\" (\"tenantId\")","language":"sql"},{"text":"CREATE INDEX \"BudgetItem_chapterId_idx_411dd3d6\" ON \"public\".\"BudgetItem\" (\"chapterId\")","language":"sql"},{"text":"CREATE INDEX \"BudgetItem_tenantId_idx_c93ed4f1\" ON \"public\".\"BudgetItem\" (\"tenantId\")","language":"sql"},{"text":"CREATE INDEX \"BudgetItemResource_itemId_idx_41357140\" ON \"public\".\"BudgetItemResource\" (\"itemId\")","language":"sql"},{"text":"CREATE INDEX \"BudgetItemResource_tenantId_idx_c93ed4f1\" ON \"public\".\"BudgetItemResource\" (\"tenantId\")","language":"sql"},{"text":"CREATE INDEX \"ProjectBudget_tenantId_idx_c93ed4f1\" ON \"public\".\"ProjectBudget\" (\"tenantId\")","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetChapter\"\nADD CONSTRAINT \"BudgetChapter_tenantId_fkey\"\nFOREIGN KEY (\"tenantId\")\nREFERENCES \"public\".\"Tenant\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetChapter\"\nADD CONSTRAINT \"BudgetChapter_budgetId_fkey\"\nFOREIGN KEY (\"budgetId\")\nREFERENCES \"public\".\"ProjectBudget\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetItem\"\nADD CONSTRAINT \"BudgetItem_tenantId_fkey\"\nFOREIGN KEY (\"tenantId\")\nREFERENCES \"public\".\"Tenant\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetItem\"\nADD CONSTRAINT \"BudgetItem_chapterId_fkey\"\nFOREIGN KEY (\"chapterId\")\nREFERENCES \"public\".\"BudgetChapter\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetItemResource\"\nADD CONSTRAINT \"BudgetItemResource_tenantId_fkey\"\nFOREIGN KEY (\"tenantId\")\nREFERENCES \"public\".\"Tenant\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"BudgetItemResource\"\nADD CONSTRAINT \"BudgetItemResource_itemId_fkey\"\nFOREIGN KEY (\"itemId\")\nREFERENCES \"public\".\"BudgetItem\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"ProjectBudget\"\nADD CONSTRAINT \"ProjectBudget_tenantId_fkey\"\nFOREIGN KEY (\"tenantId\")\nREFERENCES \"public\".\"Tenant\" (\"id\")\nON DELETE CASCADE","language":"sql"},{"text":"ALTER TABLE \"public\".\"ProjectBudget\"\nADD CONSTRAINT \"ProjectBudget_projectId_fkey\"\nFOREIGN KEY (\"projectId\")\nREFERENCES \"public\".\"Project\" (\"id\")\nON DELETE CASCADE","language":"sql"}]},"summary":"Planned 23 operation(s)","timings":{"total":5245}},"exitCode":0,"diagnostics":[],"nextActions":[{"kind":"edit-file","label":"Review migrations/app/20261011T0102_add_project_budget_apu"},{"kind":"run-command","label":"Apply the migration","command":"prisma db migrate"}]},"commandId":"migration.plan","timestamp":"2026-10-11T01:02:46.741Z"}
+EXIT:0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Migration planned: `migrations/app/20261011T0102_add_project_budget_apu`, 23 additive ops, from 985cb4f → 546dd56. All additive (create tables/indexes/constraints/FKs). 
+
+Now apply with `db migrate --db "$DATABASE_URL"` (this is what worked before). Let me run it.
+
+The command per nextActions: `prisma db migrate`. Need `--db`. Let me run `pnpm exec prisma db migrate --db "$DATABASE_URL"`.
+
+Let me apply.</think>Migración planificada: `20261011T0102_add_project_budget_apu`, **23 operaciones todas aditivas** (985cb4f → 546dd56). La aplico:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && set -a; source .env; set +a; pnpm exec prisma db migrate --db "$DATABASE_URL" 2>&1 | rtk tail -30; echo "EXIT:${pipestatus[1]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && set -a; source .env; set +a; pnpm exec prisma db migrate --db \"$DATABASE_URL\" 2>&1 | rtk tail -30; echo \"EXIT:${pipestatus[1]}\"",
+  "timeout": 120000
+}
+```
+
+**Output:**
+```
+{"kind":"step-started","step":"Running migration plan across spaces","id":"apply","commandId":"db.migrate","timestamp":"2026-10-11T01:04:00.121Z"}
+{"kind":"step-finished","step":"Running migration plan across spaces","id":"apply","outcome":"ok","commandId":"db.migrate","timestamp":"2026-10-11T01:04:03.385Z"}
+{"kind":"result","envelope":{"ok":true,"commandId":"db.migrate","result":{"ok":true,"migrationsApplied":1,"migrationsTotal":1,"markerHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","applied":[{"spaceId":"app","dirName":"20261011T0102_add_project_budget_apu","migrationHash":"069a8016e8c0a7b7e9eff2b811df3f9786e9f700cdc12337690e87be0619b864","from":"985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18","to":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","operationsExecuted":23}],"summary":"Applied 1 migration(s) (23 operation(s)) across 1 contract space(s)","perSpace":[{"spaceId":"app","kind":"app","operations":[{"id":"table.BudgetChapter","label":"Create table \"BudgetChapter\"","operationClass":"additive"},{"id":"table.BudgetItem","label":"Create table \"BudgetItem\"","operationClass":"additive"},{"id":"table.BudgetItemResource","label":"Create table \"BudgetItemResource\"","operationClass":"additive"},{"id":"table.ProjectBudget","label":"Create table \"ProjectBudget\"","operationClass":"additive"},{"id":"unique.BudgetChapter.BudgetChapter_budgetId_order_key","label":"Add unique constraint on \"BudgetChapter\" (budgetId, order)","operationClass":"additive"},{"id":"unique.BudgetItem.BudgetItem_chapterId_order_key","label":"Add unique constraint on \"BudgetItem\" (chapterId, order)","operationClass":"additive"},{"id":"unique.ProjectBudget.ProjectBudget_projectId_key","label":"Add unique constraint on \"ProjectBudget\" (projectId)","operationClass":"additive"},{"id":"unique.ProjectBudget.ProjectBudget_tenantId_code_key","label":"Add unique constraint on \"ProjectBudget\" (tenantId, code)","operationClass":"additive"},{"id":"index.BudgetChapter.BudgetChapter_budgetId_idx_abbf614c","label":"Create index \"BudgetChapter_budgetId_idx_abbf614c\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"index.BudgetChapter.BudgetChapter_tenantId_idx_c93ed4f1","label":"Create index \"BudgetChapter_tenantId_idx_c93ed4f1\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"index.BudgetItem.BudgetItem_chapterId_idx_411dd3d6","label":"Create index \"BudgetItem_chapterId_idx_411dd3d6\" on \"BudgetItem\"","operationClass":"additive"},{"id":"index.BudgetItem.BudgetItem_tenantId_idx_c93ed4f1","label":"Create index \"BudgetItem_tenantId_idx_c93ed4f1\" on \"BudgetItem\"","operationClass":"additive"},{"id":"index.BudgetItemResource.BudgetItemResource_itemId_idx_41357140","label":"Create index \"BudgetItemResource_itemId_idx_41357140\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"index.BudgetItemResource.BudgetItemResource_tenantId_idx_c93ed4f1","label":"Create index \"BudgetItemResource_tenantId_idx_c93ed4f1\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"index.ProjectBudget.ProjectBudget_tenantId_idx_c93ed4f1","label":"Create index \"ProjectBudget_tenantId_idx_c93ed4f1\" on \"ProjectBudget\"","operationClass":"additive"},{"id":"foreignKey.BudgetChapter.BudgetChapter_tenantId_fkey","label":"Add foreign key \"BudgetChapter_tenantId_fkey\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"foreignKey.BudgetChapter.BudgetChapter_budgetId_fkey","label":"Add foreign key \"BudgetChapter_budgetId_fkey\" on \"BudgetChapter\"","operationClass":"additive"},{"id":"foreignKey.BudgetItem.BudgetItem_tenantId_fkey","label":"Add foreign key \"BudgetItem_tenantId_fkey\" on \"BudgetItem\"","operationClass":"additive"},{"id":"foreignKey.BudgetItem.BudgetItem_chapterId_fkey","label":"Add foreign key \"BudgetItem_chapterId_fkey\" on \"BudgetItem\"","operationClass":"additive"},{"id":"foreignKey.BudgetItemResource.BudgetItemResource_tenantId_fkey","label":"Add foreign key \"BudgetItemResource_tenantId_fkey\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"foreignKey.BudgetItemResource.BudgetItemResource_itemId_fkey","label":"Add foreign key \"BudgetItemResource_itemId_fkey\" on \"BudgetItemResource\"","operationClass":"additive"},{"id":"foreignKey.ProjectBudget.ProjectBudget_tenantId_fkey","label":"Add foreign key \"ProjectBudget_tenantId_fkey\" on \"ProjectBudget\"","operationClass":"additive"},{"id":"foreignKey.ProjectBudget.ProjectBudget_projectId_fkey","label":"Add foreign key \"ProjectBudget_projectId_fkey\" on \"ProjectBudget\"","operationClass":"additive"}],"marker":{"storageHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c"}}],"pathDecision":{"fromHash":"985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18","toHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","alternativeCount":0,"tieBreakReasons":[],"requiredInvariants":[],"satisfiedInvariants":[],"selectedPath":[{"dirName":"20261011T0102_add_project_budget_apu","migrationHash":"069a8016e8c0a7b7e9eff2b811df3f9786e9f700cdc12337690e87be0619b864","from":"985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18","to":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c","invariants":[]}]},"timings":{"total":5137},"advancedRef":null},"exitCode":0,"diagnostics":[],"nextActions":[{"kind":"run-command","label":"Check every space against the database","command":"prisma migration status"}]},"commandId":"db.migrate","timestamp":"2026-10-11T01:04:03.396Z"}
+EXIT:0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Applied successfully: 1 migration, 23 ops, marker now 546dd56. `advancedRef: null` — so the ref was not advanced automatically. Let me advance the ref `db` to 546dd56 with `db update --advance-ref db` (as done before).
+
+Let me run `pnpm exec prisma db update --advance-ref db --db "$DATABASE_URL"`? Let me check the correct command. Earlier summary: "db update --advance-ref db". Let me run `prisma db update --advance-ref db`.
+
+Let me check help quickly or just run it.
+
+Actually, let me run `pnpm exec prisma db update --advance-ref db` (may need --db). Let me try with --db.
+
+Let me verify refs after.
+
+Let me run.</think>Aplicada (marker `546dd56…`, 23 ops). Avanzo el ref `db`:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && set -a; source .env; set +a; pnpm exec prisma db update --advance-ref db --db "$DATABASE_URL" 2>&1 | rtk tail -15; echo "EXIT:${pipestatus[1]}"; echo "=== refs/db.json ==="; rtk read migrations/app/refs/db.json
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && set -a; source .env; set +a; pnpm exec prisma db update --advance-ref db --db \"$DATABASE_URL\" 2>&1 | rtk tail -15; echo \"EXIT:${pipestatus[1]}\"; echo \"=== refs/db.json ===\"; rtk read migrations/app/refs/db.json",
+  "timeout": 60000
+}
+```
+
+**Output:**
+```
+{"kind":"step-started","step":"Introspecting database schema","id":"introspect","commandId":"db.update","timestamp":"2026-10-11T01:04:55.852Z"}
+{"kind":"step-finished","step":"Introspecting database schema","id":"introspect","outcome":"ok","commandId":"db.update","timestamp":"2026-10-11T01:04:56.413Z"}
+{"kind":"step-started","step":"Planning migration","id":"plan","commandId":"db.update","timestamp":"2026-10-11T01:04:56.413Z"}
+{"kind":"step-finished","step":"Planning migration","id":"plan","outcome":"ok","commandId":"db.update","timestamp":"2026-10-11T01:04:56.451Z"}
+{"kind":"step-started","step":"Introspecting database schema","id":"introspect","commandId":"db.update","timestamp":"2026-10-11T01:04:56.604Z"}
+{"kind":"step-finished","step":"Introspecting database schema","id":"introspect","outcome":"ok","commandId":"db.update","timestamp":"2026-10-11T01:04:56.719Z"}
+{"kind":"step-started","step":"Planning migration","id":"plan","commandId":"db.update","timestamp":"2026-10-11T01:04:56.719Z"}
+{"kind":"step-finished","step":"Planning migration","id":"plan","outcome":"ok","commandId":"db.update","timestamp":"2026-10-11T01:04:56.732Z"}
+{"kind":"step-started","step":"Updating database across spaces","id":"apply","commandId":"db.update","timestamp":"2026-10-11T01:04:56.732Z"}
+{"kind":"step-finished","step":"Updating database across spaces","id":"apply","outcome":"ok","commandId":"db.update","timestamp":"2026-10-11T01:04:57.143Z"}
+{"kind":"result","envelope":{"ok":true,"commandId":"db.update","result":{"ok":true,"mode":"apply","plan":{"targetId":"postgres","destination":{"storageHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c"},"operations":[]},"execution":{"operationsPlanned":0,"operationsExecuted":0},"marker":{"storageHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c"},"perSpace":[{"spaceId":"app","kind":"app","operations":[],"marker":{"storageHash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c"}}],"advancedRef":{"name":"db","hash":"546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c"},"plannedAdvanceRef":null,"summary":"Database already matches contract across 1 space(s), signature updated","timings":{"total":3304}},"exitCode":0,"diagnostics":[],"nextActions":[{"kind":"run-command","label":"Confirm the space is up to date","command":"prisma migration status"}]},"commandId":"db.update","timestamp":"2026-10-11T01:04:57.157Z"}
+EXIT:0
+=== refs/db.json ===
+{
+  "hash": "546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c",
+  "invariants": []
+}
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Ref advanced to 546dd56. DB matches contract. 
+
+Now, this is a very large remaining task (engine, tenant-db, validators, actions, UI). Given my context budget is being consumed, let me be efficient. I'll implement the remaining pieces.
+
+Let me mark todo 2 done, todo 3 in progress.
+
+Now the engine. I'll add to lib/apu-engine.ts:
+
+- `SCALE` export (BigInt(1_000_000)) — but UNIT already = 1_000_000. The brief wants SCALE. I'll export `SCALE = UNIT` (alias). Actually just export a named `SCALE`.
+- `parsePercentMicro(raw: string): bigint | null` — converts "10.000000" or "10" to micro-fraction? Hmm. The UI will input percentages like "10" (meaning 10%). Need conversion: 10% → 100_000 micro (since 1_000_000 = 100%). So percentMicro = parse decimal("10") [=10_000_000 micro] * 10_000 / 1_000_000? Let me think.
+
+We want: input "10" (%) → stored 100_000 (where 1_000_000 = 100%). So stored = percentValue/100 * 1_000_000 = percentValue * 10_000. In micro terms: parseMoney("10") = 10 * 1_000_000 = 10_000_000. Then stored = 10_000_000 * 10_000 / 1_000_000? = 100_000. Hmm, simpler: stored = parseMoney(pct) / 100. parseMoney("10")=10_000_000; /100 = 100_000. ✓. parseMoney("19")=19_000_000 /100=190_000 ✓. parseMoney("5")=5_000_000/100=50_000 ✓.
+
+So `percentToMicro(pctString) = parseMoney(pctString) / 100n` (half-up? exact for these). But parseMoney allows up to 6 decimals, so "9.5"% → parseMoney=9_500_000 → /100 = 95_000 (=9.5%). Correct.
+
+And reverse `microToPercentString(micro): parseMoney output /... ` → we want display "10" from 100_000: micro * 100 / 1_000_000 = 100_000*100/1_000_000 = 10. Using moneyToString: value = micro * 100n (in micro? no). Let me: display value in micro = micro * 100 (because stored=percent*10_000, so percent = stored/10_000 = micro*100/1_000_000... hmm). Let me just: percentDisplayMicro = micro * 100n. Since stored 100_000 → 10_000_000 micro = "10". ✓. stored 190_000 → 19_000_000 = "19" ✓. So `microToPercentString(micro) = moneyToString(micro * 100n)`.
+
+Wait: micro is stored as the raw BigInt column value (100_000). moneyToString expects micro-units (÷1e6). moneyToString(micro*100) → (100_000*100)=10_000_000 → /1e6 = "10". ✓.
+
+Good.
+
+- `calculateItemTotal(quantity: bigint, unitCost: bigint): bigint` = roundDiv(quantity * unitCost, SCALE). Validate non-negative.
+- `calculateBudgetTotals(directCostTotal: bigint, adminPct, imprevPct, utilidadPct, ivaUtilidadPct: bigint)` returns object of bigints:
+  - adminTotal = roundDiv(directCostTotal * adminPct, SCALE)
+  - imprevTotal similarly
+  - utilidadTotal similarly
+  - ivaUtilidadTotal = roundDiv(utilidadTotal * ivaUtilidadPct, SCALE)
+  - grandTotal = sum
+
+Return type named fields matching contract: { adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal }.
+
+Also export constants: `BUDGET_PERCENT_LIMITS` maybe in validators.
+
+Also need percent validation: `isValidPercentMicro(raw, maxPercent)`? The validators will convert user input "10" and check 0..max. I'll add `isValidPercentInput(raw, maxPercent)` reusing isValidPercent (already exists: isValidPercent(raw, maxPercent) checks parseMoney within [0, max]). So validators can use isValidPercent for the input string. 
+
+Then `percentToMicro` for storage.
+
+Let me also export `RESOURCE_TYPES` catalog and label + `BudgetResourceTypeValue`.
+
+Now, careful: the brief wants function names `calculateItemTotal` and `calculateBudgetTotals`. I'll implement with those exact names.
+
+Let me write these additions to apu-engine.ts.
+
+Then tenant-db budgets namespace.
+
+Let me write the engine addition first.
+
+I'll append before the Snapshot section or at end. Let me append at end (after buildApuSnapshot) or in the Presupuestos section. I'll add a new section after line 343 (directCostOf), before snapshot. Actually simplest: append at end of file.
+
+Let me add at end.
+
+Let me write the code.
+
+```ts
+/* ------------------------------------------------------------------ */
+/* Motor APU — presupuestos por proyecto (FASE 2, Tab 2)               */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Escala de punto fijo (6 decimales). Para DINERO/CANTIDAD: 1_000_000 =
+ * 1.000000. Para PORCENTAJES almacenados: 1_000_000 = 1.000000 = 100 %
+ * (100_000 = 10 %, 190_000 = 19 %). Es la escala que exige el contrato de
+ * `ProjectBudget` (columnas `BigInt`).
+ */
+export const SCALE = UNIT;
+
+/** Divide con redondeo half-up (expuesto para el motor de presupuesto). */
+export function scaledDiv(numerator: bigint, denominator: bigint): bigint {
+  if (denominator <= BigInt(0)) {
+    throw new Error("scaledDiv: denominador inválido.");
+  }
+  return roundDiv(numerator, denominator);
+}
+
+/**
+ * Convierte un porcentaje legible ("10", "9.5", "19") a micro-fracción
+ * almacenada (100_000 = 10 %). Devuelve `null` si no es un decimal válido.
+ */
+export function percentToMicro(raw: string): bigint | null {
+  const value = parseMoney(raw);
+  if (value === null) {
+    return null;
+  }
+  return value / BigInt(100);
+}
+
+/** Inverso: micro-fracción (100_000) → string de porcentaje ("10"). */
+export function microToPercent(micro: bigint): string {
+  return moneyToString(micro * BigInt(100));
+}
+
+/**
+ * Costo directo total de una partida: `quantity × unitCostDirect`, ambos en
+ * micro-unidades. Redondeo half-up al micro. Rechaza negativos.
+ */
+export function calculateItemTotal(quantity: bigint, unitCost: bigint): bigint {
+  if (quantity < BigInt(0) || unitCost < BigInt(0)) {
+    throw new Error("calculateItemTotal: valores negativos no permitidos.");
+  }
+  return roundDiv(quantity * unitCost, SCALE);
+}
+
+export type BudgetTotals = {
+  adminTotal: bigint;
+  imprevTotal: bigint;
+  utilidadTotal: bigint;
+  ivaUtilidadTotal: bigint;
+  grandTotal: bigint;
+};
+
+/**
+ * Cascada financiera del presupuesto a partir del costo directo y la
+ * configuración AIU (todos en micro-unidades; los porcentajes con
+ * 1_000_000 = 100 %). El IVA se aplica SOLO sobre la utilidad.
+ * Determinístico, sin punto flotante.
+ */
+export function calculateBudgetTotals(
+  directCostTotal: bigint,
+  adminPct: bigint,
+  imprevPct: bigint,
+  utilidadPct: bigint,
+  ivaUtilidadPct: bigint,
+): BudgetTotals {
+  if (
+    directCostTotal < BigInt(0) ||
+    adminPct < BigInt(0) ||
+    imprevPct < BigInt(0) ||
+    utilidadPct < BigInt(0) ||
+    ivaUtilidadPct < BigInt(0)
+  ) {
+    throw new Error("calculateBudgetTotals: valores negativos no permitidos.");
+  }
+  const adminTotal = roundDiv(directCostTotal * adminPct, SCALE);
+  const imprevTotal = roundDiv(directCostTotal * imprevPct, SCALE);
+  const utilidadTotal = roundDiv(directCostTotal * utilidadPct, SCALE);
+  const ivaUtilidadTotal = roundDiv(utilidadTotal * ivaUtilidadPct, SCALE);
+  const grandTotal =
+    directCostTotal + adminTotal + imprevTotal + utilidadTotal + ivaUtilidadTotal;
+  return { adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal };
+}
+```
+
+Wait: roundDiv with `SCALE` as denominator for percentages: adminTotal = directCostTotal * adminPct / 1_000_000. Given adminPct=100_000 (10%) and directCostTotal in micro: e.g. direct=100_000_000 (=100 pesos). admin = 100_000_000*100_000/1_000_000 = 10_000_000 (=10 pesos). ✓ 10%.
+
+Good.
+
+Also a catalog for resource types:
+
+```ts
+export const RESOURCE_TYPES = [
+  { value: "MATERIAL", label: "Material" },
+  { value: "LABOR", label: "Mano de obra" },
+  { value: "EQUIPMENT", label: "Equipo" },
+  { value: "TRANSPORT", label: "Transporte" },
+] as const;
+export type ResourceTypeValue = (typeof RESOURCE_TYPES)[number]["value"];
+export function isValidResourceType(raw: string): raw is ResourceTypeValue {...}
+```
+
+I'll add that too (useful, though UI may not use it heavily).
+
+Now, note `roundDiv` is defined as a private function (not exported). I'll use it internally; `scaledDiv` optional. I'll skip scaledDiv to avoid clutter, but it might be handy. I'll keep it minimal: no scaledDiv.
+
+Let me append these to apu-engine.ts.
+
+Then the format helper for micro amounts in lib/format.ts:
+
+```ts
+export function formatMoneyMicro(micro: string | bigint | null | undefined): string {
+  if (micro === null || micro === undefined || micro === "") return currencyFormatter.format(0);
+  let value: bigint;
+  try { value = BigInt(typeof micro === "string" ? micro : micro.toString()); } catch { return currencyFormatter.format(0); }
+  const negative = value < 0n;
+  const abs = negative ? -value : value;
+  // half-up a peso entero: (abs + 500_000) / 1_000_000
+  const pesos = (abs + 500_000n) / 1_000_000n;
+  const n = Number(pesos);
+  return currencyFormatter.format(negative ? -n : n);
+}
+```
+
+Number(pesos): realistic budgets < 9e15 pesos → safe. Document.
+
+Also maybe `formatPercentMicro(micro)` → for KPIs showing "10 %". I'll add a small helper in the component instead.
+
+Now tenant-db. Let me design types + namespace. I'll add after projectHeaders namespace (line 1796) or near projects. I'll insert a `budgets` namespace.
+
+Types (add near ProjectDetail types, around line 400-413). Let me define:
+
+```ts
+export type ProjectBudgetResourceData = {
+  id: string;
+  type: ResourceTypeValue;
+  name: string;
+  unit: string;
+  performance: string;
+  unitPrice: string;
+  totalPrice: string;
+  imageUrl: string | null;
+};
+
+export type ProjectBudgetItemData = {
+  id: string;
+  order: number;
+  code: string;
+  description: string;
+  unit: string;
+  quantity: string;
+  unitCostDirect: string;
+  totalCostDirect: string;
+  resources: ProjectBudgetResourceData[];
+};
+
+export type ProjectBudgetChapterData = {
+  id: string;
+  order: number;
+  name: string;
+  description: string | null;
+  subtotal: string;
+  items: ProjectBudgetItemData[];
+};
+
+export type ProjectBudgetData = {
+  id: string;
+  projectId: string;
+  code: string;
+  name: string;
+  aiuAdminPct: string;
+  aiuImprevPct: string;
+  aiuUtilidadPct: string;
+  ivaUtilidadPct: string;
+  directCostTotal: string;
+  adminTotal: string;
+  imprevTotal: string;
+  utilidadTotal: string;
+  ivaUtilidadTotal: string;
+  grandTotal: string;
+  isLocked: boolean;
+  chapters: ProjectBudgetChapterData[];
+};
+
+export type AiuConfigInput = {
+  aiuAdminPct: bigint;
+  aiuImprevPct: bigint;
+  aiuUtilidadPct: bigint;
+  ivaUtilidadPct: bigint;
+};
+
+export type CreateChapterInput = { name: string; description?: string };
+export type CreateBudgetItemInput = {
+  chapterId: string;
+  code: string;
+  description: string;
+  unit: string;
+  quantityMicro: bigint;
+  unitCostDirectMicro: bigint;
+};
+```
+
+Note: importing ResourceTypeValue from apu-engine. tenant-db already imports from apu-engine? It imports currentYearBogota and types. Let me check imports at top of tenant-db. It uses `currentYearBogota` (from apu-engine) and `ApuItemCategoryValue` maybe. I'll add import.
+
+Now the namespace:
+
+```ts
+budgets: {
+  /** Lee el presupuesto del proyecto (con capítulos/ítems) o null. */
+  get: async (projectId: string): Promise<ProjectBudgetData | null> => {
+    const budget = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (!budget) return null;
+    return loadBudgetData(budget);
+  },
+
+  /** getOrCreate: un presupuesto por proyecto; crea con AIU por defecto. */
+  getOrCreate: async (projectId: string): Promise<ProjectBudgetData> => {
+    const existing = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (existing) return loadBudgetData(existing);
+    // validate project belongs to tenant
+    const project = await db.orm.public.Project.where({ id: projectId, tenantId }).select("id","name","code").first();
+    if (!project) throw new Error("Proyecto no encontrado en este negocio.");
+    const year = currentYearBogota();
+    const prefix = `PRES-${year}-`;
+    const latest = await db.orm.public.ProjectBudget.where({ tenantId }).where(b => b.code.like(`${prefix}%`)).orderBy(b => b.code.desc()).first();
+    const sequence = latest ? Number(latest.code.slice(prefix.length)) + 1 : 1;
+    const code = `${prefix}${String(sequence).padStart(3,"0")}`;
+    try {
+      const created = await db.orm.public.ProjectBudget.create({ tenantId, projectId, code, name: `Presupuesto ${project.name}` });
+      return loadBudgetData(created);
+    } catch (error) {
+      if (isUniqueViolation-like) { const again = await db.orm.public.ProjectBudget.where({projectId, tenantId}).first(); if (again) return loadBudgetData(again); }
+      throw error;
+    }
+  },
+  ...
+}
+```
+
+Hmm, uniqueness of code + projectId. Code sequence computation is not concurrency-safe but acceptable (unique constraint catches duplicates → error). Brief says "Evitar la creación de presupuestos duplicados en solicitudes concurrentes" — the projectId @unique handles that; catch and re-read.
+
+I need a helper `loadBudgetData(budget)` that reads chapters + items + resources and computes chapter subtotals + serializes.
+
+Let me implement a module-level helper (outside createTenantDb) since it doesn't depend on tenant closure except tenantId; but it needs tenantId. Actually budget already has tenantId. I'll implement inside but define as a local function within the namespace? Simpler: define module-level `async function loadBudgetTree(budget)` returning ProjectBudgetData. It uses `db.orm.public.*` directly. Since tenantId is in budget, queries filter by budgetId (and we trust the budget was already fetched with tenantId). Good.
+
+Module-level:
+```ts
+async function loadBudgetTree(budget: BudgetRow): Promise<ProjectBudgetData> {
+  const chapters = await db.orm.public.BudgetChapter.where({ budgetId: budget.id }).orderBy(c => c.order.asc()).all();
+  const chapterIds = chapters.map(c => c.id);
+  const items = chapterIds.length
+    ? await db.orm.public.BudgetItem.where(b => b.chapterId.in(chapterIds)).orderBy(i => i.order.asc()).all()
+    : [];
+  const itemIds = items.map(i => i.id);
+  const resources = itemIds.length
+    ? await db.orm.public.BudgetItemResource.where(r => r.itemId.in(itemIds)).all()
+    : [];
+  // group
+  ...
+}
+```
+
+Wait, uniqueness/ordering: items order within chapter. I'll sort per chapter.
+
+Chapter subtotal = sum of item.totalCostDirect.
+
+All amounts serialized via `String(bigint)`.
+
+Let me write it.
+
+Then mutating methods:
+
+createChapter(projectId, input): 
+- fetch budget by projectId+tenantId; if none throw; if isLocked throw "Presupuesto bloqueado."; 
+- order = max+1 within budget;
+- create chapter;
+Return serialized chapter? Actions just need ok. I'll return void or the chapter. Let me return nothing / the chapter id.
+
+Actually to keep it simple and robust, mutations recompute budget totals where needed.
+
+createItem(projectId, input):
+- fetch budget (tenant) → must exist, not locked.
+- fetch chapter where {id: input.chapterId, budgetId: budget.id}; if none → throw "Capítulo no encontrado."
+- order = max+1 within chapter.
+- total = calculateItemTotal(quantityMicro, unitCostDirectMicro).
+- transaction: create item; then recompute budget totals from all items.
+  - To recompute, fetch all chapters of budget, then all items of those chapters, sum totalCostDirect.
+  - upsert budget totals.
+  
+updateAiu(projectId, config):
+- fetch budget; if locked throw; 
+- recompute direct = sum items; totals = calculateBudgetTotals(direct, ...).
+- update budget config + totals.
+
+recompute: define helper `recalculateBudget(tx, budget)` that sums items and updates totals. It needs to run inside tx. Let me write `async function sumBudgetDirect(tx, budgetId): Promise<bigint>`:
+```
+const chapters = await tx.orm.public.BudgetChapter.where({ budgetId }).select("id").all();
+const ids = chapters.map(c=>c.id);
+if (!ids.length) return 0n;
+const items = await tx.orm.public.BudgetItem.where(i => i.chapterId.in(ids)).select("totalCostDirect").all();
+let total = 0n; for (const it of items) total += BigInt(it.totalCostDirect);
+return total;
+```
+
+Then update budget:
+```
+const totals = calculateBudgetTotals(direct, admin, imprev, util, iva);
+await tx.orm.public.ProjectBudget.where({ id: budget.id }).update({
+  directCostTotal: direct, adminTotal: totals.adminTotal, ...
+});
+```
+
+Note writing bigint to BigInt column: pass bigint directly.
+
+setLocked(projectId, isLocked).
+
+deleteChapter / deleteItem: brief mentions integrity & lifecycle but N1 doesn't strictly require delete UI. I'll add `deleteItem` and `deleteChapter`? To limit scope, I'll add delete for items and chapters (useful and simple), with recalculation. Actually brief 6.7 states; not required. I'll skip deletes to reduce risk, but the brief 3.3 says "La eliminación de capítulos debe respetar las reglas de integridad" — cascade handles it. I'll not build delete UI but could add methods. Keep minimal: skip.
+
+Hmm, but a presupuestador without delete is odd. The brief's acceptance criteria (9.4) only require: KPIs, AIU config, create chapters, create items, consistent totals, COP format, states. No delete required. I'll skip delete to stay in scope.
+
+isUniqueViolation for budgets: I'll add a small local helper.
+
+Now validators (budget/validators.ts):
+- validateCreateChapter(formData) → {name, description}
+- validateCreateBudgetItem(formData) → {chapterId, code, description, unit, quantity, unitCostDirect} with quantity/unitCost as strings validated via isStrictlyPositive/isNonNegative and numeric bounds. unit via isValidUnit.
+- validateAiuConfig(formData) → {aiuAdminPct, aiuImprevPct, aiuUtilidadPct, ivaUtilidadPct} as strings validated via isValidPercent(raw, limit). Limits: admin 30, imprev 20, util 30, iva 30 (mirror AIU_PERCENT_LIMITS).
+- convert to micro: percentToMicro.
+
+I'll include conversion helpers used by actions.
+
+Budget item quantity max: reuse QUANTITY_MAX = 1_000_000.
+
+Now actions (budget/actions.ts):
+- requireTenantContext (local).
+- createChapterAction(prevState, formData)
+- createBudgetItemAction(prevState, formData)
+- updateAiuConfigAction(prevState, formData)
+Each: validate, mutate via tenantDb.budgets.*, revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`).
+Handle locked error message, not-found, unique.
+
+getOrCreateProjectBudgetAction: implement returning budget (used maybe). Actually page calls tenantDb directly. I'll still export a `getOrCreateProjectBudgetAction(tenantSlug, projectId)` for the brief. But it duplicates requireTenantContext. Fine.
+
+Hmm, but a server action that's not used anywhere is dead code; tsc won't complain. The brief explicitly lists it. I'll implement it and have the page NOT call it (page uses tenantDb). Or better: page calls tenantDb.budgets.getOrCreate directly. I'll implement the action too but note it's the programmatic entry point. Acceptable.
+
+Actually, to avoid dead code warnings (eslint no-unused? it's exported so fine), I'll keep it.
+
+Now UI. This is the biggest chunk. Files under `projects/[projectId]/_components/`:
+- `budget-kpis.tsx` (server or client? It's presentational; can be server. But it needs the AIU modal trigger (client). I'll make it a server component that renders values + a client `AiuConfigModal`.)
+- `aiu-config-modal.tsx` (client, useActionState)
+- `budget-tree.tsx` (client — collapsible chapters, plus add-item/add-chapter triggers)
+- `new-chapter-modal.tsx` (client)
+- `new-item-modal.tsx` (client)
+
+And a `budget-workspace.tsx` (server) that composes KPIs + tree + modals, OR I render directly in page. Since modals are client and need to be triggered from within the tree (per chapter), I'll structure:
+- `BudgetWorkspace` (client) receives serialized budget data as props and renders KPIs, toolbar (Configurar AIU, Nuevo capítulo), tree with per-chapter "Agregar ítem". All client, using useActionState modals.
+
+Making the whole workspace a client component simplifies state (expand/collapse, modals). Data comes serialized. Let me do that: a single client `budget-workspace.tsx` containing KPIs + AIU modal + new chapter modal + tree + new item modal. That reduces file count and wiring. But it's large. The brief lists components; combining is fine.
+
+However, KPI "server component" isn't necessary. I'll build one client `budget-workspace.tsx` plus separate modal components to keep readable. Let me do:
+- `budget-workspace.tsx` (client): orchestrates; holds state for open modals; renders KPIs + tree.
+- `aiu-config-modal.tsx` (client): Dialog + form + useActionState.
+- `chapter-modal.tsx` (client): create chapter.
+- `item-modal.tsx` (client): create item (takes chapterId).
+- `budget-tree.tsx` maybe inline in workspace. I'll inline the tree in workspace to reduce files.
+
+Actually let me keep: budget-workspace.tsx, aiu-config-modal.tsx, chapter-modal.tsx, item-modal.tsx. 4 files.
+
+The modals need tenantSlug, projectId, and (for item) chapterId.
+
+The workspace receives `budget: ProjectBudgetData` and `tenantSlug`, `projectId`, `isLocked`.
+
+KPI cards: 4 cards. Use formatMoneyMicro.
+
+Tree: chapters sorted, each with header (order, name, description, subtotal) + collapse toggle + "Agregar partida" button; items table (code, description, unit, quantity, unitCost, total). Quantity display: quantity is micro (1.0 = "1"). Format: moneyToString-like → I'll add `formatQuantityMicro` or reuse: quantity micro → use a helper `formatMicro`? I'll display quantity via a helper converting micro→decimal string (not currency). Add `formatDecimalMicro(micro)` in format.ts. Actually simpler: quantity → Number(micro)/1e6 formatted with up to 6 decimals trimmed. I'll add helper `formatQuantityMicro`.
+
+Empty states: no chapters → CTA; chapter without items → hint.
+
+Locked: disable buttons + banner.
+
+Let me now write the engine addition, then format helper, then tenant-db, validators, actions, UI, wire page.
+
+This is a lot of code. Let me proceed writing files.
+
+First, engine. Let me append.
+
+Let me read the end of apu-engine (already have it). I'll use edit to append after directCostOf / before snapshot section. I'll insert after line 343 (the directCostOf function) — actually the snapshot section starts at 345. I'll insert a new section between.
+
+I'll match on the directCostOf function end + snapshot header.
+
+oldString:
+```
+/** Suma de totales de línea (para read-back de un presupuesto guardado). */
+export function directCostOf(quantities: string[], unitCosts: string[]): string {
+  let total = BigInt(0);
+  for (let index = 0; index < quantities.length; index += 1) {
+    total += lineTotal(quantities[index], unitCosts[index]);
+  }
+  return moneyToString(total);
+}
+
+/* ------------------------------------------------------------------ */
+/* Snapshot del APU (inmutable al cotizar)                             */
+/* ------------------------------------------------------------------ */
+```
+
+newString: same + new section inserted between.
+
+Let me do it.
+
+Also add RESOURCE_TYPES near catalogs. I'll add to the same insertion to keep it simple, or add near APU_ITEM_CATEGORIES. Let me add RESOURCE_TYPES in the new section (fine).
+
+Let me write.</think>Ref `db` avanzado a `546dd56…`; DB y contrato sincronizados. Motor ahora.
+
+#### 🔧 Tool: todowrite
+**Status:** completed
+**Title:** 7 todos
+
+**Input:**
+```json
+{
+  "todos": [
+    {
+      "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+      "priority": "high",
+      "status": "in_progress"
+    },
+    {
+      "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "content": "Verificar tsc --noEmit + build + smoke DB",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "content": "Informe final (secciones 1-10) + memoria",
+      "priority": "medium",
+      "status": "pending"
+    }
+  ]
+}
+```
+
+**Output:**
+```
+[
+  {
+    "content": "Contrato: enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource + back-relations; emitir contract",
+    "status": "completed",
+    "priority": "high"
+  },
+  {
+    "content": "Migración: plan, revisar, aplicar, avanzar ref db",
+    "status": "completed",
+    "priority": "high"
+  },
+  {
+    "content": "Motor: calculateItemTotal + calculateBudgetTotals (BigInt, escala 1e6)",
+    "status": "in_progress",
+    "priority": "high"
+  },
+  {
+    "content": "tenant-db: namespace budgets + tipos serializados (montos string)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "budget/validators.ts + budget/actions.ts (multi-tenant, isLocked, recálculo)",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "UI Tab 2: KPIs, modal AIU, árbol capítulos/ítems, modales de creación, formato COP micro",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Wire en projects/[projectId]/page.tsx (tab presupuesto)",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "content": "Verificar tsc --noEmit + build + smoke DB",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "content": "Informe final (secciones 1-10) + memoria",
+    "status": "pending",
+    "priority": "medium"
+  }
+]
+```
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/apu-engine.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/apu-engine.ts",
+  "newString": "/** Suma de totales de línea (para read-back de un presupuesto guardado). */\nexport function directCostOf(quantities: string[], unitCosts: string[]): string {\n  let total = BigInt(0);\n  for (let index = 0; index < quantities.length; index += 1) {\n    total += lineTotal(quantities[index], unitCosts[index]);\n  }\n  return moneyToString(total);\n}\n\n/* ------------------------------------------------------------------ */\n/* Presupuesto de proyecto — motor BigInt (FASE 2, Tab 2)              */\n/* ------------------------------------------------------------------ */\n\n/**\n * Escala de punto fijo (6 decimales), la que exige el contrato de\n * `ProjectBudget` (columnas `BigInt`).\n *   · DINERO/CANTIDAD: 1_000_000 = 1.000000\n *   · PORCENTAJES almacenados: 1_000_000 = 1.000000 = 100 %\n *     (100_000 = 10 %, 50_000 = 5 %, 190_000 = 19 %)\n */\nexport const SCALE = UNIT;\n\n/**\n * Convierte un porcentaje legible (\"10\", \"9.5\", \"19\") a la micro-fracción\n * almacenada (100_000 = 10 %). Devuelve `null` si no es un decimal válido.\n * Nota: es una división exacta por 100 sobre el decimal ya parseado.\n */\nexport function percentToMicro(raw: string): bigint | null {\n  const value = parseMoney(raw);\n  if (value === null) {\n    return null;\n  }\n  return value / BigInt(100);\n}\n\n/** Inverso de `percentToMicro`: 100_000 → \"10\", 190_000 → \"19\". */\nexport function microToPercent(micro: bigint): string {\n  return moneyToString(micro * BigInt(100));\n}\n\n/**\n * Costo directo total de una partida: `quantity × unitCostDirect`, ambos en\n * micro-unidades. Redondeo half-up al micro (misma regla del motor).\n * Rechaza valores negativos.\n */\nexport function calculateItemTotal(quantity: bigint, unitCost: bigint): bigint {\n  if (quantity < BigInt(0) || unitCost < BigInt(0)) {\n    throw new Error(\"calculateItemTotal: valores negativos no permitidos.\");\n  }\n  return roundDiv(quantity * unitCost, SCALE);\n}\n\nexport type BudgetTotals = {\n  adminTotal: bigint;\n  imprevTotal: bigint;\n  utilidadTotal: bigint;\n  ivaUtilidadTotal: bigint;\n  grandTotal: bigint;\n};\n\n/**\n * Cascada financiera del presupuesto: administración, imprevistos y utilidad\n * se aplican sobre el costo directo; el IVA SOLO sobre la utilidad.\n * Todos los operandos están en micro-unidades y los porcentajes con\n * 1_000_000 = 100 %. Aritmética `BigInt` pura, redondeo half-up, sin punto\n * flotante. Determinístico.\n */\nexport function calculateBudgetTotals(\n  directCostTotal: bigint,\n  adminPct: bigint,\n  imprevPct: bigint,\n  utilidadPct: bigint,\n  ivaUtilidadPct: bigint,\n): BudgetTotals {\n  if (\n    directCostTotal < BigInt(0) ||\n    adminPct < BigInt(0) ||\n    imprevPct < BigInt(0) ||\n    utilidadPct < BigInt(0) ||\n    ivaUtilidadPct < BigInt(0)\n  ) {\n    throw new Error(\"calculateBudgetTotals: valores negativos no permitidos.\");\n  }\n\n  const adminTotal = roundDiv(directCostTotal * adminPct, SCALE);\n  const imprevTotal = roundDiv(directCostTotal * imprevPct, SCALE);\n  const utilidadTotal = roundDiv(directCostTotal * utilidadPct, SCALE);\n  const ivaUtilidadTotal = roundDiv(utilidadTotal * ivaUtilidadPct, SCALE);\n  const grandTotal =\n    directCostTotal +\n    adminTotal +\n    imprevTotal +\n    utilidadTotal +\n    ivaUtilidadTotal;\n\n  return { adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal };\n}\n\n/** Catálogo de tipos de recurso de una partida (espejo del enum del contrato). */\nexport const RESOURCE_TYPES = [\n  { value: \"MATERIAL\", label: \"Material\" },\n  { value: \"LABOR\", label: \"Mano de obra\" },\n  { value: \"EQUIPMENT\", label: \"Equipo\" },\n  { value: \"TRANSPORT\", label: \"Transporte\" },\n] as const;\nexport type ResourceTypeValue = (typeof RESOURCE_TYPES)[number][\"value\"];\n\nexport function resourceTypeLabel(type: ResourceTypeValue): string {\n  return RESOURCE_TYPES.find((option) => option.value === type)?.label ?? type;\n}\n\nexport function isValidResourceType(raw: string): raw is ResourceTypeValue {\n  return (RESOURCE_TYPES as readonly { value: string }[]).some(\n    (option) => option.value === raw,\n  );\n}\n\n/* ------------------------------------------------------------------ */\n/* Snapshot del APU (inmutable al cotizar)                             */\n/* ------------------------------------------------------------------ */",
+  "oldString": "/** Suma de totales de línea (para read-back de un presupuesto guardado). */\nexport function directCostOf(quantities: string[], unitCosts: string[]): string {\n  let total = BigInt(0);\n  for (let index = 0; index < quantities.length; index += 1) {\n    total += lineTotal(quantities[index], unitCosts[index]);\n  }\n  return moneyToString(total);\n}\n\n/* ------------------------------------------------------------------ */\n/* Snapshot del APU (inmutable al cotizar)                             */\n/* ------------------------------------------------------------------ */"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Engine done. Now format helper. Add `formatMoneyMicro` and `formatQuantityMicro` to lib/format.ts.</think>Motor listo. Ahora los helpers de formato COP desde micro-unidades:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/format.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/format.ts",
+  "newString": "/** $ 250.000 — COP redondeado a pesos. */\nexport function formatCurrency(\n  value: number | string | null | undefined,\n): string {\n  return currencyFormatter.format(toNumber(value));\n}\n\n/**\n * Formatea un monto en micro-unidades (`BigInt`, 6 decimales: 1_000_000 =\n * 1 COP) SIN perder precisión: convierte a pesos con redondeo half-up usando\n * `BigInt` y solo entonces usa `Intl.NumberFormat`.\n *\n * El resultado en pesos se pasa a `Number` únicamente para formatear; es\n * seguro para cualquier presupuesto real (enteros < 2^53 ≈ 9,0e15 COP).\n */\nexport function formatMoneyMicro(\n  micro: bigint | string | null | undefined,\n): string {\n  if (micro === null || micro === undefined || micro === \"\") {\n    return currencyFormatter.format(0);\n  }\n  let value: bigint;\n  try {\n    value = typeof micro === \"bigint\" ? micro : BigInt(micro);\n  } catch {\n    return currencyFormatter.format(0);\n  }\n  const negative = value < BigInt(0);\n  const abs = negative ? -value : value;\n  // half-up a peso entero: (abs + 500_000) / 1_000_000\n  const pesos = (abs + BigInt(500_000)) / BigInt(1_000_000);\n  const n = Number(pesos);\n  return currencyFormatter.format(negative ? -n : n);\n}\n\n/**\n * Cantidad en micro-unidades → decimal legible sin ceros sobrantes\n * (1_000_000 → \"1\", 1_500_000 → \"1.5\", 250_000 → \"0.25\").\n */\nexport function formatQuantityMicro(\n  micro: bigint | string | null | undefined,\n): string {\n  if (micro === null || micro === undefined || micro === \"\") {\n    return \"0\";\n  }\n  let value: bigint;\n  try {\n    value = typeof micro === \"bigint\" ? micro : BigInt(micro);\n  } catch {\n    return \"0\";\n  }\n  const negative = value < BigInt(0);\n  const abs = negative ? -value : value;\n  const whole = abs / BigInt(1_000_000);\n  const frac = (abs % BigInt(1_000_000))\n    .toString()\n    .padStart(6, \"0\")\n    .replace(/0+$/, \"\");\n  const text = frac ? `${whole}.${frac}` : `${whole}`;\n  return negative ? `-${text}` : text;\n}",
+  "oldString": "/** $ 250.000 — COP redondeado a pesos. */\nexport function formatCurrency(\n  value: number | string | null | undefined,\n): string {\n  return currencyFormatter.format(toNumber(value));\n}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now the tenant-db additions. Let me first read the top imports of tenant-db (lines 1-40) to add the apu-engine import correctly.</think>Ahora el namespace `budgets` en `tenant-db`. Reviso las importaciones de cabecera:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "limit": 60
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/tenant-db.ts</path>
+<type>file</type>
+<content>
+1: import { and, or } from "@prisma/orm-postgres/orm-client";
+2: import { db } from "@/prisma/db";
+3: import { formatDateShort, toNumber } from "@/lib/format";
+4: import {
+5:   DEFAULT_MODULES_BY_VERTICAL,
+6:   type VerticalValue,
+7: } from "@/lib/admin-catalogs";
+8: import { paymentMethodLabel, paymentStatusLabel } from "@/lib/finance";
+9: import type {
+10:   PaymentMethodValue,
+11:   PaymentStatusValue,
+12: } from "@/lib/finance";
+13: import {
+14:   EXPIRING_WINDOW_DAYS,
+15:   MEMBERSHIP_STATUSES,
+16:   computeMembershipStatus,
+17:   plusDays,
+18:   typeLabel,
+19: } from "@/lib/memberships";
+20: import type {
+21:   MembershipPaymentEntry,
+22:   MembershipStatusValue,
+23:   MembershipTypeValue,
+24: } from "@/lib/memberships";
+25: import {
+26:   activityUnitCost,
+27:   buildApuSnapshot,
+28:   calculateQuoteTotals,
+29:   componentCost,
+30:   currentYearBogota,
+31:   lineTotal,
+32:   moneyToString,
+33:   type ApuItemCategoryValue,
+34:   type ApuSnapshot,
+35:   type QuoteStatusValue,
+36:   type QuoteTotals,
+37: } from "@/lib/apu-engine";
+38: import type { ProjectStatusValue } from "@/lib/projects";
+39: 
+40: /** Escapa los comodines de LIKE para que la búsqueda sea literal. */
+41: function escapeLike(input: string): string {
+42:   return input.replace(/[\\%_]/g, (char) => `\\${char}`);
+43: }
+44: 
+45: export type CustomerSearchInput = {
+46:   /** Texto libre (nombre, email o teléfono). */
+47:   q?: string;
+48:   /** `active` = clientes vigentes; `archived` = dados de baja. */
+49:   status?: "active" | "archived";
+50:   sort?: "recent" | "name_asc" | "name_desc";
+51:   page?: number;
+52:   pageSize?: number;
+53: };
+54: 
+55: export type FinanceMetrics = {
+56:   income: number;
+57:   expenses: number;
+58:   balance: number;
+59:   byMethod: { method: PaymentMethodValue; total: number }[];
+60: };
+
+(Showing lines 1-60 of 2464. Use offset=61 to continue.)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>Now add the imports for the new engine functions and ResourceTypeValue:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "newString": "import {\n  activityUnitCost,\n  buildApuSnapshot,\n  calculateBudgetTotals,\n  calculateItemTotal,\n  calculateQuoteTotals,\n  componentCost,\n  currentYearBogota,\n  lineTotal,\n  moneyToString,\n  type ApuItemCategoryValue,\n  type ApuSnapshot,\n  type QuoteStatusValue,\n  type QuoteTotals,\n  type ResourceTypeValue,\n} from \"@/lib/apu-engine\";",
+  "oldString": "import {\n  activityUnitCost,\n  buildApuSnapshot,\n  calculateQuoteTotals,\n  componentCost,\n  currentYearBogota,\n  lineTotal,\n  moneyToString,\n  type ApuItemCategoryValue,\n  type ApuSnapshot,\n  type QuoteStatusValue,\n  type QuoteTotals,\n} from \"@/lib/apu-engine\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now add the types after ProjectListInput (line ~413) and the module-level helper + namespace.
+
+Let me add the types right after `ProjectListInput` type (before `ProjectHeaderRow`). Actually let me add after the `ProjectDetail`/`ProjectListInput` block, i.e., after line 413. Let me insert after ProjectListInput definition.
+
+The text at 408-413:
+```
+export type ProjectListInput = {
+  q?: string;
+  status?: ProjectStatusValue;
+  page?: number;
+  limit?: number;
+};
+```
+
+I'll insert new types after it.
+
+Then the module-level helper `loadBudgetTree` and row types. Where to place? After serializeProjectHeader (line ~456) maybe. But loadBudgetTree uses db.orm and types. I'll place it right after the serializeProjectHeader function.
+
+Actually simpler: place the whole budget types + helper right after `ProjectListInput`, before `ProjectHeaderRow`. The helper references ProjectBudgetData etc. defined there. Good.
+
+But `loadBudgetTree` is an async function using db — fine at module level.
+
+Let me define row shapes loosely using the ORM's inferred types. To avoid fighting types, I'll type the budget param as `{ id: string; tenantId: string; projectId: string; code: string; name: string; aiuAdminPct: bigint; ... }`. But the ORM returns bigint for BigInt columns. Let me define a `BudgetRow` type.
+
+Actually the ORM's `create`/`first` returns the full model type; I can pass it. But to keep it simple and avoid importing generated types, I'll define structural types matching.
+
+Let me write:
+
+```ts
+/* ------------------------------------------------------------------ */
+/* Presupuesto de proyecto (FASE 2 — Tab 2)                            */
+/* ------------------------------------------------------------------ */
+
+export type BudgetResourceData = {
+  id: string;
+  type: ResourceTypeValue;
+  name: string;
+  unit: string;
+  performance: string;
+  unitPrice: string;
+  totalPrice: string;
+  imageUrl: string | null;
+};
+
+export type BudgetItemData = {
+  id: string;
+  order: number;
+  code: string;
+  description: string;
+  unit: string;
+  quantity: string;
+  unitCostDirect: string;
+  totalCostDirect: string;
+  resources: BudgetResourceData[];
+};
+
+export type BudgetChapterData = {
+  id: string;
+  order: number;
+  name: string;
+  description: string | null;
+  subtotal: string;
+  items: BudgetItemData[];
+};
+
+export type ProjectBudgetData = {
+  id: string;
+  projectId: string;
+  code: string;
+  name: string;
+  aiuAdminPct: string;
+  aiuImprevPct: string;
+  aiuUtilidadPct: string;
+  ivaUtilidadPct: string;
+  directCostTotal: string;
+  adminTotal: string;
+  imprevTotal: string;
+  utilidadTotal: string;
+  ivaUtilidadTotal: string;
+  grandTotal: string;
+  isLocked: boolean;
+  chapters: BudgetChapterData[];
+};
+
+export type AiuConfigInput = {
+  adminPct: bigint;
+  imprevPct: bigint;
+  utilidadPct: bigint;
+  ivaUtilidadPct: bigint;
+};
+
+export type CreateChapterInput = {
+  name: string;
+  description?: string;
+};
+
+export type CreateBudgetItemInput = {
+  chapterId: string;
+  code: string;
+  description: string;
+  unit: string;
+  quantity: bigint;
+  unitCostDirect: bigint;
+};
+
+/** Fila mínima de ProjectBudget que necesita la capa de lectura/escritura. */
+type BudgetRow = {
+  id: string;
+  tenantId: string;
+  projectId: string;
+  code: string;
+  name: string;
+  aiuAdminPct: bigint;
+  aiuImprevPct: bigint;
+  aiuUtilidadPct: bigint;
+  ivaUtilidadPct: bigint;
+  directCostTotal: bigint;
+  adminTotal: bigint;
+  imprevTotal: bigint;
+  utilidadTotal: bigint;
+  ivaUtilidadTotal: bigint;
+  grandTotal: bigint;
+  isLocked: boolean;
+};
+
+/**
+ * Lee el presupuesto con su estructura completa (capítulos → ítems →
+ * recursos), ordenada y con montos serializados a string (los `BigInt` no
+ * cruzan el límite server/client de React).
+ */
+async function loadBudgetTree(budget: BudgetRow): Promise<ProjectBudgetData> {
+  const chapters = await db.orm.public.BudgetChapter
+    .where({ budgetId: budget.id })
+    .orderBy((chapter) => chapter.order.asc())
+    .all();
+  const chapterIds = chapters.map((chapter) => chapter.id);
+
+  const items = chapterIds.length
+    ? await db.orm.public.BudgetItem
+        .where((item) => item.chapterId.in(chapterIds))
+        .orderBy((item) => item.order.asc())
+        .all()
+    : [];
+  const itemIds = items.map((item) => item.id);
+
+  const resources = itemIds.length
+    ? await db.orm.public.BudgetItemResource
+        .where((resource) => resource.itemId.in(itemIds))
+        .all()
+    : [];
+
+  const resourcesByItem = new Map<string, BudgetResourceData[]>();
+  for (const resource of resources) {
+    const list = resourcesByItem.get(resource.itemId) ?? [];
+    list.push({
+      id: resource.id,
+      type: resource.type as ResourceTypeValue,
+      name: resource.name,
+      unit: resource.unit,
+      performance: String(resource.performance),
+      unitPrice: String(resource.unitPrice),
+      totalPrice: String(resource.totalPrice),
+      imageUrl: resource.imageUrl,
+    });
+    resourcesByItem.set(resource.itemId, list);
+  }
+
+  const itemsByChapter = new Map<string, BudgetItemData[]>();
+  for (const item of items) {
+    const list = itemsByChapter.get(item.chapterId) ?? [];
+    list.push({
+      id: item.id,
+      order: item.order,
+      code: item.code,
+      description: item.description,
+      unit: item.unit,
+      quantity: String(item.quantity),
+      unitCostDirect: String(item.unitCostDirect),
+      totalCostDirect: String(item.totalCostDirect),
+      resources: resourcesByItem.get(item.id) ?? [],
+    });
+    itemsByChapter.set(item.chapterId, list);
+  }
+
+  const chapterData: BudgetChapterData[] = chapters.map((chapter) => {
+    const chapterItems = itemsByChapter.get(chapter.id) ?? [];
+    let subtotal = BigInt(0);
+    for (const item of chapterItems) {
+      subtotal += BigInt(item.totalCostDirect);
+    }
+    return {
+      id: chapter.id,
+      order: chapter.order,
+      name: chapter.name,
+      description: chapter.description,
+      subtotal: subtotal.toString(),
+      items: chapterItems,
+    };
+  });
+
+  return {
+    id: budget.id,
+    projectId: budget.projectId,
+    code: budget.code,
+    name: budget.name,
+    aiuAdminPct: budget.aiuAdminPct.toString(),
+    aiuImprevPct: budget.aiuImprevPct.toString(),
+    aiuUtilidadPct: budget.aiuUtilidadPct.toString(),
+    ivaUtilidadPct: budget.ivaUtilidadPct.toString(),
+    directCostTotal: budget.directCostTotal.toString(),
+    adminTotal: budget.adminTotal.toString(),
+    imprevTotal: budget.imprevTotal.toString(),
+    utilidadTotal: budget.utilidadTotal.toString(),
+    ivaUtilidadTotal: budget.ivaUtilidadTotal.toString(),
+    grandTotal: budget.grandTotal.toString(),
+    isLocked: budget.isLocked,
+    chapters: chapterData,
+  };
+}
+
+/** Suma de costos directos de todas las partidas del presupuesto. */
+async function sumBudgetDirect(
+  executor: { orm: { public: { BudgetChapter: any; BudgetItem: any } } },
+  budgetId: string,
+): Promise<bigint> {
+  ...
+}
+```
+
+Hmm, typing the executor for tx is tricky. Let me instead inline the recompute logic inside the transaction closures, avoiding a shared helper with awkward typing. Or type executor as the return of db.transaction's tx — but that type is complex.
+
+Simplest: write a helper that takes `tx: TxLike` where TxLike is derived: `type BudgetTx = Parameters<Parameters<typeof db.transaction>[0]>[0];`. That gives the tx type. Let me use that.
+
+Actually `db.transaction(async (tx) => {...})` — `Parameters<typeof db.transaction>[0]` is the callback type; `Parameters<...>[0]` is tx. Let me define:
+
+```ts
+type BudgetTx = Parameters<Parameters<typeof db.transaction>[0]>[0];
+```
+
+Then:
+```ts
+async function sumBudgetDirect(tx: BudgetTx, budgetId: string): Promise<bigint> {
+  const chapters = await tx.orm.public.BudgetChapter.where({ budgetId }).select("id").all();
+  const ids = chapters.map((c) => c.id);
+  if (ids.length === 0) return BigInt(0);
+  const items = await tx.orm.public.BudgetItem
+    .where((item) => item.chapterId.in(ids))
+    .select("totalCostDirect")
+    .all();
+  let total = BigInt(0);
+  for (const item of items) total += BigInt(item.totalCostDirect);
+  return total;
+}
+```
+
+But does `.select("id")` return typed rows with only id? Existing code uses `.select("id")` (line 1767). Good.
+
+`.select("totalCostDirect")` similar.
+
+Then a recompute helper:
+```ts
+async function recalcBudgetTotals(tx: BudgetTx, budget: BudgetRow): Promise<void> {
+  const direct = await sumBudgetDirect(tx, budget.id);
+  const totals = calculateBudgetTotals(direct, budget.aiuAdminPct, budget.aiuImprevPct, budget.aiuUtilidadPct, budget.ivaUtilidadPct);
+  await tx.orm.public.ProjectBudget.where({ id: budget.id }).update({
+    directCostTotal: direct,
+    adminTotal: totals.adminTotal,
+    imprevTotal: totals.imprevTotal,
+    utilidadTotal: totals.utilidadTotal,
+    ivaUtilidadTotal: totals.ivaUtilidadTotal,
+    grandTotal: totals.grandTotal,
+  });
+}
+```
+
+But when updating AIU config, we need the NEW percentages, not budget's stored. So recalc should accept overrides. Let me make:
+```ts
+async function recalcBudgetTotals(tx, budgetId, config: {admin, imprev, utilidad, iva}) {...}
+```
+where config is the percentages to use. For item creation, pass budget's stored pcts. For AIU update, pass new pcts.
+
+Let me define:
+```ts
+async function recalcBudgetTotals(
+  tx: BudgetTx,
+  budgetId: string,
+  pcts: { admin: bigint; imprev: bigint; utilidad: bigint; iva: bigint },
+): Promise<void> {
+  const direct = await sumBudgetDirect(tx, budgetId);
+  const totals = calculateBudgetTotals(direct, pcts.admin, pcts.imprev, pcts.utilidad, pcts.iva);
+  await tx.orm.public.ProjectBudget.where({ id: budgetId }).update({...});
+}
+```
+
+Good.
+
+Now the namespace inside createTenantDb. Insert after `projectHeaders: {...},` block (ends line ~1796).
+
+```ts
+budgets: {
+  /** Presupuesto del proyecto (con árbol) o null si aún no existe. */
+  get: async (projectId: string): Promise<ProjectBudgetData | null> => {
+    const budget = await db.orm.public.ProjectBudget
+      .where({ projectId, tenantId })
+      .first();
+    if (!budget) return null;
+    return loadBudgetTree(budget);
+  },
+
+  /**
+   * Devuelve el presupuesto del proyecto creándolo si no existe (1 por
+   * proyecto). Idempotente ante concurrencia: si otro request lo creó antes,
+   * la restricción única por `projectId` aborta el INSERT y se relee.
+   */
+  getOrCreate: async (projectId: string): Promise<ProjectBudgetData> => {
+    const existing = await db.orm.public.ProjectBudget
+      .where({ projectId, tenantId })
+      .first();
+    if (existing) return loadBudgetTree(existing);
+
+    const project = await db.orm.public.Project
+      .where({ id: projectId, tenantId })
+      .select("id", "name")
+      .first();
+    if (!project) throw new Error("Proyecto no encontrado en este negocio.");
+
+    const year = currentYearBogota();
+    const prefix = `PRES-${year}-`;
+    const latest = await db.orm.public.ProjectBudget
+      .where({ tenantId })
+      .where((budget) => budget.code.like(`${prefix}%`))
+      .orderBy((budget) => budget.code.desc())
+      .first();
+    const sequence = latest ? Number(latest.code.slice(prefix.length)) + 1 : 1;
+    const code = `${prefix}${String(sequence).padStart(3, "0")}`;
+
+    try {
+      const created = await db.orm.public.ProjectBudget.create({
+        tenantId,
+        projectId,
+        code,
+        name: `Presupuesto — ${project.name}`,
+      });
+      return loadBudgetTree(created);
+    } catch (error) {
+      const raced = await db.orm.public.ProjectBudget
+        .where({ projectId, tenantId })
+        .first();
+      if (raced) return loadBudgetTree(raced);
+      throw error;
+    }
+  },
+
+  /** Crea un capítulo al final del presupuesto. Rechaza si está bloqueado. */
+  createChapter: async (projectId, input: CreateChapterInput): Promise<{ id: string }> => {
+    const budget = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (!budget) throw new Error("Presupuesto no encontrado en este negocio.");
+    if (budget.isLocked) throw new Error("El presupuesto está bloqueado.");
+    const last = await db.orm.public.BudgetChapter.where({ budgetId: budget.id }).orderBy(c => c.order.desc()).first();
+    const order = last ? last.order + 1 : 1;
+    const chapter = await db.orm.public.BudgetChapter.create({
+      tenantId, budgetId: budget.id, order, name: input.name, description: input.description ?? null,
+    });
+    return { id: chapter.id };
+  },
+
+  /** Crea una partida y recalcula los totales del presupuesto (transacción). */
+  createItem: async (projectId, input: CreateBudgetItemInput): Promise<{ id: string }> => {
+    const budget = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (!budget) throw new Error("Presupuesto no encontrado en este negocio.");
+    if (budget.isLocked) throw new Error("El presupuesto está bloqueado.");
+    const chapter = await db.orm.public.BudgetChapter.where({ id: input.chapterId, budgetId: budget.id }).select("id").first();
+    if (!chapter) throw new Error("Capítulo no encontrado en este presupuesto.");
+
+    const totalCostDirect = calculateItemTotal(input.quantity, input.unitCostDirect);
+
+    const created = await db.transaction(async (tx) => {
+      const last = await tx.orm.public.BudgetItem.where({ chapterId: input.chapterId }).orderBy(i => i.order.desc()).first();
+      const order = last ? last.order + 1 : 1;
+      const item = await tx.orm.public.BudgetItem.create({
+        tenantId,
+        chapterId: input.chapterId,
+        order,
+        code: input.code,
+        description: input.description,
+        unit: input.unit,
+        quantity: input.quantity,
+        unitCostDirect: input.unitCostDirect,
+        totalCostDirect,
+      });
+      await recalcBudgetTotals(tx, budget.id, {
+        admin: budget.aiuAdminPct, imprev: budget.aiuImprevPct, utilidad: budget.aiuUtilidadPct, iva: budget.ivaUtilidadPct,
+      });
+      return item;
+    });
+    return { id: created.id };
+  },
+
+  /** Actualiza la configuración AIU y recalcula toda la cascada (transacción). */
+  updateAiu: async (projectId, config: AiuConfigInput): Promise<void> => {
+    const budget = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (!budget) throw new Error("Presupuesto no encontrado en este negocio.");
+    if (budget.isLocked) throw new Error("El presupuesto está bloqueado.");
+    await db.transaction(async (tx) => {
+      await tx.orm.public.ProjectBudget.where({ id: budget.id }).update({
+        aiuAdminPct: config.adminPct, aiuImprevPct: config.imprevPct, aiuUtilidadPct: config.utilidadPct, ivaUtilidadPct: config.ivaUtilidadPct,
+      });
+      await recalcBudgetTotals(tx, budget.id, {
+        admin: config.adminPct, imprev: config.imprevPct, utilidad: config.utilidadPct, iva: config.ivaUtilidadPct,
+      });
+    });
+  },
+
+  /** Bloquea / desbloquea el presupuesto. */
+  setLocked: async (projectId: string, isLocked: boolean): Promise<void> => {
+    const budget = await db.orm.public.ProjectBudget.where({ projectId, tenantId }).first();
+    if (!budget) throw new Error("Presupuesto no encontrado en este negocio.");
+    await db.orm.public.ProjectBudget.where({ id: budget.id }).update({ isLocked });
+  },
+},
+```
+
+Hmm, `db.orm.public.Project.select("id","name")` — does select accept multiple args? Existing used `.select("name")` and `.select("id")`. Multiple string args? Unclear. Safer: `.select("id", "name")` might not be supported; use `.select("id")` and fetch name separately, or just `.first()` and read project.name. Actually I need name for the budget name. I can `.first()` full and read. Let me just `.first()` (full row) — simplest, no select.
+
+Let me use full first().
+
+Also `orderBy((c) => c.order.desc())` and `.asc()` — supported.
+
+Now `.select("totalCostDirect")` — single field, fine.
+
+Let me also be careful: `db.transaction` callback type param naming. Existing code: `db.transaction(async (tx) => {...})`.
+
+Now `BudgetTx` type: `type BudgetTx = Parameters<Parameters<typeof db.transaction>[0]>[0];` — but db.transaction might be generic; this should still yield the tx type. If it fails, I can type as `any`... but we avoid any. Let me try this approach; tsc will tell.
+
+Actually simpler and safe: make `recalcBudgetTotals` and `sumBudgetDirect` accept the tx typed via a helper. Let me define:
+```ts
+type TenantTx = Parameters<Parameters<typeof db.transaction>[0]>[0];
+```
+
+Hmm `db.transaction` signature: `transaction<T>(fn: (tx: Tx) => Promise<T>): Promise<T>`. `typeof db.transaction` is generic; `Parameters<typeof db.transaction>[0]` may resolve to `(tx: Tx) => Promise<unknown>`. Then `[0]` → tx. Should work.
+
+Let me place these helpers right after loadBudgetTree.
+
+Now, one concern: `loadBudgetTree` and helpers are module-level functions using `db`. Fine.
+
+Let me now write the big edit: insert types + helpers after ProjectListInput, and the namespace after projectHeaders.
+
+Let me do two edits.
+
+Edit A: after ProjectListInput block.
+
+The exact text:
+```
+export type ProjectListInput = {
+  q?: string;
+  status?: ProjectStatusValue;
+  page?: number;
+  limit?: number;
+};
+
+/** Subconjunto de columnas del ProjectHeader que serializamos. */
+```
+
+I'll insert between.
+
+Let me write the newString with the block plus new content, keeping the following line.
+
+Actually the helper functions reference `ProjectBudgetData` etc. defined in the inserted block — good. But `loadBudgetTree` uses `db.orm.public.BudgetChapter` — the generated contract types must exist (they do after emit).
+
+Let me write it.
+
+Edit B: namespace after projectHeaders block. The projectHeaders block ends:
+```
+        return header ? serializeProjectHeader(header) : null;
+      },
+    },
+
+    users: {
+```
+Insert budgets namespace between `},` (end projectHeaders) and `users: {`.
+
+Let me do it.
+
+Let me write Edit A.</think>Ahora los tipos y helpers del presupuesto en `tenant-db`:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "newString": "export type ProjectListInput = {\n  q?: string;\n  status?: ProjectStatusValue;\n  page?: number;\n  limit?: number;\n};\n\n/* ------------------------------------------------------------------ */\n/* Presupuesto de proyecto (FASE 2 — Tab 2)                            */\n/* ------------------------------------------------------------------ */\n\nexport type BudgetResourceData = {\n  id: string;\n  type: ResourceTypeValue;\n  name: string;\n  unit: string;\n  performance: string;\n  unitPrice: string;\n  totalPrice: string;\n  imageUrl: string | null;\n};\n\nexport type BudgetItemData = {\n  id: string;\n  order: number;\n  code: string;\n  description: string;\n  unit: string;\n  quantity: string;\n  unitCostDirect: string;\n  totalCostDirect: string;\n  resources: BudgetResourceData[];\n};\n\nexport type BudgetChapterData = {\n  id: string;\n  order: number;\n  name: string;\n  description: string | null;\n  subtotal: string;\n  items: BudgetItemData[];\n};\n\nexport type ProjectBudgetData = {\n  id: string;\n  projectId: string;\n  code: string;\n  name: string;\n  aiuAdminPct: string;\n  aiuImprevPct: string;\n  aiuUtilidadPct: string;\n  ivaUtilidadPct: string;\n  directCostTotal: string;\n  adminTotal: string;\n  imprevTotal: string;\n  utilidadTotal: string;\n  ivaUtilidadTotal: string;\n  grandTotal: string;\n  isLocked: boolean;\n  chapters: BudgetChapterData[];\n};\n\n/** Porcentajes AIU ya convertidos a micro-fracción (100_000 = 10 %). */\nexport type AiuConfigInput = {\n  adminPct: bigint;\n  imprevPct: bigint;\n  utilidadPct: bigint;\n  ivaUtilidadPct: bigint;\n};\n\nexport type CreateChapterInput = {\n  name: string;\n  description?: string;\n};\n\nexport type CreateBudgetItemInput = {\n  chapterId: string;\n  code: string;\n  description: string;\n  unit: string;\n  /** Cantidad en micro-unidades (1_000_000 = 1.000000). */\n  quantity: bigint;\n  /** Costo unitario directo en micro-pesos. */\n  unitCostDirect: bigint;\n};\n\n/** Fila mínima de `ProjectBudget` que necesita la capa de lectura/escritura. */\ntype BudgetRow = {\n  id: string;\n  tenantId: string;\n  projectId: string;\n  code: string;\n  name: string;\n  aiuAdminPct: bigint;\n  aiuImprevPct: bigint;\n  aiuUtilidadPct: bigint;\n  ivaUtilidadPct: bigint;\n  directCostTotal: bigint;\n  adminTotal: bigint;\n  imprevTotal: bigint;\n  utilidadTotal: bigint;\n  ivaUtilidadTotal: bigint;\n  grandTotal: bigint;\n  isLocked: boolean;\n};\n\n/** Transacción de Prisma 8 (misma forma que el `db` pero ligada a la tx). */\ntype TenantTx = Parameters<Parameters<typeof db.transaction>[0]>[0];\n\n/**\n * Lee el presupuesto con su estructura completa (capítulos → ítems →\n * recursos), ordenada, con montos serializados a string (los `BigInt` no\n * cruzan el límite server/client de React).\n */\nasync function loadBudgetTree(budget: BudgetRow): Promise<ProjectBudgetData> {\n  const chapters = await db.orm.public.BudgetChapter\n    .where({ budgetId: budget.id })\n    .orderBy((chapter) => chapter.order.asc())\n    .all();\n  const chapterIds = chapters.map((chapter) => chapter.id);\n\n  const items = chapterIds.length\n    ? await db.orm.public.BudgetItem\n        .where((item) => item.chapterId.in(chapterIds))\n        .orderBy((item) => item.order.asc())\n        .all()\n    : [];\n  const itemIds = items.map((item) => item.id);\n\n  const resources = itemIds.length\n    ? await db.orm.public.BudgetItemResource\n        .where((resource) => resource.itemId.in(itemIds))\n        .all()\n    : [];\n\n  const resourcesByItem = new Map<string, BudgetResourceData[]>();\n  for (const resource of resources) {\n    const list = resourcesByItem.get(resource.itemId) ?? [];\n    list.push({\n      id: resource.id,\n      type: resource.type as ResourceTypeValue,\n      name: resource.name,\n      unit: resource.unit,\n      performance: String(resource.performance),\n      unitPrice: String(resource.unitPrice),\n      totalPrice: String(resource.totalPrice),\n      imageUrl: resource.imageUrl,\n    });\n    resourcesByItem.set(resource.itemId, list);\n  }\n\n  const itemsByChapter = new Map<string, BudgetItemData[]>();\n  for (const item of items) {\n    const list = itemsByChapter.get(item.chapterId) ?? [];\n    list.push({\n      id: item.id,\n      order: item.order,\n      code: item.code,\n      description: item.description,\n      unit: item.unit,\n      quantity: String(item.quantity),\n      unitCostDirect: String(item.unitCostDirect),\n      totalCostDirect: String(item.totalCostDirect),\n      resources: resourcesByItem.get(item.id) ?? [],\n    });\n    itemsByChapter.set(item.chapterId, list);\n  }\n\n  const chapterData: BudgetChapterData[] = chapters.map((chapter) => {\n    const chapterItems = itemsByChapter.get(chapter.id) ?? [];\n    let subtotal = BigInt(0);\n    for (const item of chapterItems) {\n      subtotal += BigInt(item.totalCostDirect);\n    }\n    return {\n      id: chapter.id,\n      order: chapter.order,\n      name: chapter.name,\n      description: chapter.description,\n      subtotal: subtotal.toString(),\n      items: chapterItems,\n    };\n  });\n\n  return {\n    id: budget.id,\n    projectId: budget.projectId,\n    code: budget.code,\n    name: budget.name,\n    aiuAdminPct: budget.aiuAdminPct.toString(),\n    aiuImprevPct: budget.aiuImprevPct.toString(),\n    aiuUtilidadPct: budget.aiuUtilidadPct.toString(),\n    ivaUtilidadPct: budget.ivaUtilidadPct.toString(),\n    directCostTotal: budget.directCostTotal.toString(),\n    adminTotal: budget.adminTotal.toString(),\n    imprevTotal: budget.imprevTotal.toString(),\n    utilidadTotal: budget.utilidadTotal.toString(),\n    ivaUtilidadTotal: budget.ivaUtilidadTotal.toString(),\n    grandTotal: budget.grandTotal.toString(),\n    isLocked: budget.isLocked,\n    chapters: chapterData,\n  };\n}\n\n/** Suma de los costos directos de todas las partidas del presupuesto. */\nasync function sumBudgetDirect(\n  tx: TenantTx,\n  budgetId: string,\n): Promise<bigint> {\n  const chapters = await tx.orm.public.BudgetChapter\n    .where({ budgetId })\n    .select(\"id\")\n    .all();\n  const chapterIds = chapters.map((chapter) => chapter.id);\n  if (chapterIds.length === 0) {\n    return BigInt(0);\n  }\n  const items = await tx.orm.public.BudgetItem\n    .where((item) => item.chapterId.in(chapterIds))\n    .select(\"totalCostDirect\")\n    .all();\n  let total = BigInt(0);\n  for (const item of items) {\n    total += BigInt(item.totalCostDirect);\n  }\n  return total;\n}\n\n/**\n * Recalcula el costo directo desde las partidas reales y toda la cascada AIU\n * del presupuesto. El servidor NUNCA confía en totales del navegador.\n */\nasync function recalcBudgetTotals(\n  tx: TenantTx,\n  budgetId: string,\n  pcts: { admin: bigint; imprev: bigint; utilidad: bigint; iva: bigint },\n): Promise<void> {\n  const direct = await sumBudgetDirect(tx, budgetId);\n  const totals = calculateBudgetTotals(\n    direct,\n    pcts.admin,\n    pcts.imprev,\n    pcts.utilidad,\n    pcts.iva,\n  );\n  await tx.orm.public.ProjectBudget.where({ id: budgetId }).update({\n    directCostTotal: direct,\n    adminTotal: totals.adminTotal,\n    imprevTotal: totals.imprevTotal,\n    utilidadTotal: totals.utilidadTotal,\n    ivaUtilidadTotal: totals.ivaUtilidadTotal,\n    grandTotal: totals.grandTotal,\n  });\n}\n\n/** Subconjunto de columnas del ProjectHeader que serializamos. */",
+  "oldString": "export type ProjectListInput = {\n  q?: string;\n  status?: ProjectStatusValue;\n  page?: number;\n  limit?: number;\n};\n\n/** Subconjunto de columnas del ProjectHeader que serializamos. */"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[compaction part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Let me construct the combined summary, putting the FIRST ACTION REQUIRED line at top, then the template sections. I need to combine prior-summary with the recent conversation.
+
+Key new developments from the conversation:
+1. FASE 1 was completed (all UI files created, tsc passed, build passed, DB verified).
+2. Engram observations saved: #255 (architecture/xI00-construccion-fase1), #256 (drift discovery).
+3. mem_session_summary saved.
+4. User asked "como lo pruebo?" — agent investigated dev server.
+5. Discovered potential bug `customers.search({status:"active"})` — resolved as false alarm (CustomerSearchInput.status maps to active.eq internally).
+6. User said "ya lo detube inicialo tu" — agent started dev server at http://localhost:3000 (PID 578535).
+7. User browsing as juancarlos tenant; GET /juancarlos/settings 200 in 2.3min (dev compile very slow).
+8. Hydration error from Clerk UserButton in shared layout (pre-existing, not FASE 1).
+9. User aborted curl command.
+10. User pasted FASE 2 brief: Tab 2 Presupuestador APU & AIU N1.
+11. Agent loaded prisma-8 skill, read contract.prisma, apu-engine.ts, package.json, format.ts, tenant-db.ts sections, validators, actions, UI primitives, projects/actions.ts, projects/validators.ts.
+12. Audit: no test infra, ORM supports `.in()`, `cn` alias.
+13. Agent created todo list.
+14. Edited contract.prisma: added ResourceType enum, 4 models (ProjectBudget, BudgetChapter, BudgetItem, BudgetItemResource) + back-relations on Tenant and Project.
+15. Emitted contract: new storageHash `546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c`.
+16. Planned migration `20261011T0102_add_project_budget_apu` (985cb4f → 546dd56, 23 additive ops).
+17. Applied migration via `db migrate --db "$DATABASE_URL"` (1 migration, 23 ops, marker 546dd56).
+18. Advanced ref via `db update --advance-ref db --db "$DATABASE_URL"` → ref advanced to 546dd56.
+19. Was starting engine additions: just applied edit to lib/apu-engine.ts adding SCALE, percentToMicro, microToPercent, calculateItemTotal, calculateBudgetTotals, RESOURCE_TYPES, resourceTypeLabel, isValidResourceType.
+
+FASE 2 brief details:
+- Tab 2 Presupuestador APU & AIU N1, route app/[tenant]/(app)/quotes/projects/[projectId], branch feature/construction-apu-engine.
+- Models: ProjectBudget (BigInt percents scale 1e6=100%, defaults admin 100_000, imprev 50_000, util 50_000, iva 190_000; totals directCostTotal, adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal; isLocked; code, name), BudgetChapter, BudgetItem, BudgetItemResource, enum ResourceType (MATERIAL/LABOR/EQUIPMENT/TRANSPORT).
+- Engine lib/apu-engine.ts: SCALE=1_000_000n, calculateItemTotal(quantity, unitCost)=quantity*unitCost/SCALE, calculateBudgetTotals cascada.
+- Server actions at budget/actions.ts: getOrCreateProjectBudgetAction, createChapterAction, createBudgetItemAction, updateAiuConfigAction.
+- UI Tab 2: 4 KPI cards (Costo Directo, Admin+Imprev, Utilidad+IVA, Valor Total), Configurar AIU modal, hierarchical tree Presupuesto→Capítulos→Ítems, create chapter/item modals, COP formatting.
+- Verification: tsc --noEmit, build.
+- Report sections 1-10.
+
+Design decisions made:
+- BigInt percentage scale: 1_000_000 = 100%, percentToMicro("10") = parseMoney("10")/100 = 100_000.
+- Store amounts as BigInt in DB; serialize to strings for UI.
+- tenant-db new namespace `budgets`.
+- Plan for UI components.
+
+Key facts from conversation:
+- tsc --noEmit ~2min, next build (Turbopack) ~3-4min. Build succeeded with routes /[tenant]/quotes/projects and /[tenant]/quotes/projects/[projectId].
+- DB tables verified: Booking, Project, ProjectHeader; ProjectHeader 21 cols; Project 0 rows.
+- Tenants: gymcarlos, casapozonmuseo, simplapp, juancarlos, delicia, juan.
+- Customer table columns: id, tenantId, name, email, phone, active, createdAt, updatedAt (no `status` column; `status` is search API param).
+- Dev server: http://localhost:3000 (next dev), started PID 578535. Slow filesystem.
+- `pnpm exec prisma contract emit` works; `migration plan` offline, `--db` invalid for plan; `db migrate --db` and `db update --advance-ref db --db`.
+- psql rejects `?schema=public`, strip with `new URL(url); u.search=""`.
+- Clerk dev keys present.
+- FASE 1 git status: modified app/[tenant]/(app)/quotes/page.tsx, lib/tenant-db.ts, prisma/contract.{d.ts,json,prisma}; untracked app/[tenant]/(app)/quotes/projects/, lib/projects.ts. NO commit made.
+
+Now let me write the combined summary.
+
+The dev server is running — note it. Actually for next build, dev server should be stopped. Note.
+
+Let me write it out.</think>FIRST ACTION REQUIRED: Call mem_session_summary with the content of this compacted summary. Use project: 'nexus'. This preserves what was accomplished before compaction. Do this BEFORE any other work.
+
+## Objective
+- Implementar la **FASE 2** del vertical de construcción en `nexus-thrive`: **Tab 2 — Presupuestador APU & Motor Financiero AIU (N1)**, end-to-end (contrato, motor BigInt, tenantDb, server actions, UI) sobre la base ya entregada de FASE 1 (contenedor `Project` + ficha `ProjectHeader`), en la rama `feature/construction-apu-engine`.
+
+## Important Details
+- **Brief FASE 2 (N1)** — requisitos/restricciones: Tab 2 en `app/[tenant]/(app)/quotes/projects/[projectId]`; **no** motor Lean/bitácora/control de obra/informes completos (fases posteriores); **no simular** funcionalidades, **no inventar APIs**, **no declarar verificación sin evidencia**; auditar antes de tocar; conservar cambios preexistentes; Prisma 8 Data Contract (**no** `@prisma/client`, **no** `new PrismaClient()`, **no** duplicar `tenantDb`); regenerar `contract.json`/`contract.d.ts`; verificar con `pnpm exec tsc --noEmit` y `pnpm build`; informe final obligatorio (secciones 1–10, distinguiendo Implementado+verificado / Implementado-no-verificado / Parcial / Pendiente).
+- **Modelos FASE 2 (contrato, ya editado y emitido)**: enum `ResourceType` (MATERIAL/LABOR/EQUIPMENT/TRANSPORT); `ProjectBudget` (1:1 con Project vía `projectId @unique`; `code` `PRES-<año>-NNN`; `@@unique([tenantId, code])`); `BudgetChapter` (`@@unique([budgetId, order])`); `BudgetItem` (`@@unique([chapterId, order])`, `quantity`/`unitCostDirect`/`totalCostDirect` BigInt); `BudgetItemResource`.
+- **Escala BigInt (crítica, distinta de la del banco APU)**: en `ProjectBudget` los porcentajes usan **1_000_000 = 100 %** (100_000 = 10 %, 50_000 = 5 %, 190_000 = 19 %); dinero/cantidad 1_000_000 = 1.000000. Defaults AIU: admin 100_000, imprev 50_000, util 50_000, IVA utilidad 190_000. Fórmulas: `adminTotal = directCost × adminPct / SCALE` (idem imprev/utilidad), `ivaUtilidadTotal = utilidadTotal × ivaUtilidadPct / SCALE`, `grandTotal = directCost + admin + imprev + utilidad + ivaUtilidad`.
+- **NOTA importante**: el `percentOf(amount, percentMicro)` existente en `lib/apu-engine.ts` usa OTRA escala (100 % = `100 × UNIT` = 100_000_000). **No mezclar**; el motor nuevo usa la escala del brief (fracción × 1e6).
+- **Hash de contrato**: actual = `546dd5631604115982de3d6624bd201ec0a5535f1297145c7a2498c85574729c` (previo `985cb4f27cce6a5f8048ccb570044afcd497859e90820d6c6c64a4b4e9e9cd18`). `migrations/app/refs/db.json` = `546dd56…`. Marker DB = `546dd56…`.
+- **Migración FASE 2 aplicada**: dir `migrations/app/20261011T0102_add_project_budget_apu` (from `985cb4f` → `546dd56`, 23 ops todas `additive`): crea `ProjectBudget`, `BudgetChapter`, `BudgetItem`, `BudgetItemResource` + índices/unicidad/FKs. `migrationHash` = `069a8016e8c0a7b7e9eff2b811df3f9786e9f700cdc12337690e87be0619b864`.
+- **Comandos Prisma 8 reales (verificados)**: `pnpm exec prisma contract emit` (OK); `pnpm exec prisma migration plan --name <slug>` (**offline**, no acepta `--db`; parte del ref `db`); `pnpm exec prisma db migrate --db "$DATABASE_URL"` (aplica); `pnpm exec prisma db update --advance-ref db --db "$DATABASE_URL"` (avanza ref). **El CLI NO carga `.env`**: `set -a; source .env; set +a` antes.
+- **psql**: rechaza `?schema=public` de `DATABASE_URL`; limpiar con `new URL(url); u.search=""`. DB `localhost:5432/nexus`. No imprimir secretos.
+- **Convenciones UI/acciones (patrón del repo)**: `"use server"` + `auth()` Clerk + `revalidatePath` + `createTenantDb` + `requireTenantContext(tenantSlug)` local por módulo; `validators.ts` devuelve `{ok, errors, values}`; form state `{status:"idle"|"error"|"ok", message?, errors?, values?}`; `useActionState`. Serializar `bigint`→`string` antes de pasar a componentes cliente.
+- **Componentes/API UI confirmados**: `components/ui/{button,card,dialog,input,textarea,label,badge,...}.tsx` (shadcn, `cn` de `@/lib/utils`; alias histórico `@/lib/cn`); `Badge`/`StatusDot` tones `success|danger|warning|muted`; `Modal` default de `quotes/_components/modal`; `NLoader` de `@/components/brand/n-loader`; `SearchInput` de `@/app/components/tenant/search-input`; `FilterSelect` de `@/app/components/tenant/filter-select`. No hay componente `accordion` (construir colapsable a mano).
+- **`lib/format.ts`**: `formatCurrency(value)` y `toNumber` con `Intl.NumberFormat("es-CO", COP, 0 decimales)`. **Falta** helper para montos en micro-unidades (BigInt) — planificado `formatMoneyMicro` (half-up a peso, `Number` seguro para montos realistas).
+- **ORM Prisma 8**: `db.orm.public.X.where({...}).all()/.first()/.create()/.update()/.delete()`, `.aggregate(...)`, `.select(...)`, `.orderBy(...)`, `.where(f => f.x.in([...]))` (soportado), `db.transaction`, `db.sql.public.*`.
+- **Estado DB FASE 1 verificado**: tablas `Booking`, `Project`, `ProjectHeader` existen (`ProjectHeader` 21 cols); `Project` 0 filas. Tenants: `gymcarlos, casapozonmuseo, simplapp, juancarlos, delicia, juan` (todos activos). `Customer` columnas: `id, tenantId, name, email, phone, active, createdAt, updatedAt` (**no** hay columna `status`; `status` es solo parámetro del API `customers.search`, que mapea a `active.eq(status==="active")` → sin bug).
+- **Falsa alarma resuelta**: `tenantDb.customers.search({ status: "active", pageSize: 100 })` es correcto (`CustomerSearchInput.status` mapea a `active`). `CustomerSearchInput` acepta `status?: "active"|...`.
+- **Timings**: `tsc --noEmit` ~2 min; `next build` (Turbopack) ~3–4 min (Compiled 2.1min + TS 74s). Correr con timeout amplio o en background con log. **El `next build` debe correrse con el dev server detenido** (hay uno corriendo).
+- **Dev server corriendo**: `pnpm dev` (PID 578535) en **http://localhost:3000** (next 16.3.8, "Slow filesystem detected"; compilación on-demand ~2.3 min/ruta). Usuario navegando logueado (Clerk dev keys) como tenant **`juancarlos`**. Existe error de hydration **pre-existente** de Clerk `UserButton` en el layout compartido (no es de FASE 1).
+- **FASE 1 sin commit**: en `feature/construction-apu-engine` están modificados `app/[tenant]/(app)/quotes/page.tsx`, `lib/tenant-db.ts`, `prisma/contract.{d.ts,json,prisma}` y sin trackear `app/[tenant]/(app)/quotes/projects/`, `lib/projects.ts`. **No commitear salvo pedido explícito**.
+- **Contexto fase posterior (motor APU del banco)**: Master Pack 2288 actividades / 29 capítulos / 18603 composiciones / 2078 insumos; líneas porcentuales `%`/`%MO`/`%S` no cubiertas por `lib/apu-importer` (`MAX_ROWS=50_000`).
+- **Capas del vertical XI.00**: 5 tabs → 14 capas; Tab 2 = capa III (Presupuestador APU&AIU). Capas VI, X, XIV sin ubicar; II, IV, XIII inferidas.
+
+## Work State
+### Completed
+- **FASE 1 entregada y verificada**: contrato (`ProjectStatus`, `Project`, `ProjectHeader`), migración `20261011T0003_add_project_container` aplicada, `lib/projects.ts`, `lib/tenant-db.ts` (namespaces `projects`/`projectHeaders` + tipos), `projects/validators.ts`, `projects/actions.ts`, y UI completa (`projects/page.tsx`, `projects/[projectId]/page.tsx`, `_components/{project-tabs,project-header-form,projects-table,new-project-modal,project-status-badge}.tsx`, enlace en `quotes/page.tsx`).
+- **Verificación FASE 1**: `pnpm exec tsc --noEmit` → **exit 0**; `pnpm build` → **OK** con rutas `ƒ /[tenant]/quotes/projects` y `ƒ /[tenant]/quotes/projects/[projectId]`; DB con `Project`/`ProjectHeader`/`Booking`.
+- **Engram**: obs **255** (`architecture/xi00-construccion-fase1`) + obs **256** (drift `Booking`/forks de migración) + `mem_session_summary` guardado (project `nexus`).
+- **Dev server** levantado y funcionando (`pnpm dev`, http://localhost:3000).
+- **Auditoría FASE 2 completa**: leídos `prisma/contract.prisma`, `lib/apu-engine.ts`, `lib/format.ts`, `lib/tenant-db.ts` (secciones), `quotes/{validators,actions}.ts`, `projects/{validators,actions}.ts`, `components/ui/*`; skill `prisma-8` cargado; confirmado soporte `.in()`, ausencia de infra de tests, `cn` alias.
+- **Contrato FASE 2 editado + emitido**: enum `ResourceType` + `ProjectBudget`/`BudgetChapter`/`BudgetItem`/`BudgetItemResource` + back-relations (`Tenant.projectBudgets/budgetChapters/budgetItems/budgetItemResources`, `Project.budget`). Emit OK → `546dd56…`.
+- **Migración FASE 2 planificada, aplicada y ref avanzado**: `20261011T0102_add_project_budget_apu` (23 ops aditivas) aplicada; marker/ref = `546dd56…`.
+- **Motor ampliado** en `lib/apu-engine.ts` (edit aplicado): exporta `SCALE`, `percentToMicro`, `microToPercent`, `calculateItemTotal(quantity, unitCost)` (round half-up `/SCALE`), `calculateBudgetTotals(directCostTotal, adminPct, imprevPct, utilidadPct, ivaUtilidadPct)` → `{adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal}`, `RESOURCE_TYPES`, `ResourceTypeValue`, `resourceTypeLabel`, `isValidResourceType`.
+
+### Active
+- **FASE 2 en curso**. Pendiente de crear:
+  - `lib/format.ts`: helper `formatMoneyMicro(micro: string|bigint)` (half-up a peso COP, sin perder precisión) y helper de cantidad.
+  - `lib/tenant-db.ts`: tipos serializados (`ProjectBudgetData`, `ProjectBudgetChapterData`, `ProjectBudgetItemData`, `ProjectBudgetResourceData`, inputs) + namespace **`budgets`** con `get(projectId)`, `getOrCreate(projectId)` (código `PRES-<año>-NNN`, catch de violación de único), `createChapter`, `createItem` (cálculo `calculateItemTotal` + recálculo totales en transacción), `updateAiu` (recalcula cascada), `setLocked`; helper `loadBudgetTree` (capítulos+ítems+recursos, montos `String(bigint)`, subtotales por capítulo) y `sumBudgetDirect`.
+  - `projects/[projectId]/budget/validators.ts`: `validateCreateChapter`, `validateCreateBudgetItem`, `validateAiuConfig` (límites admin 30 / imprev 20 / util 30 / iva 30; `QUANTITY_MAX=1_000_000`), conversión a micro con `percentToMicro`.
+  - `projects/[projectId]/budget/actions.ts`: `getOrCreateProjectBudgetAction`, `createChapterAction`, `createBudgetItemAction`, `updateAiuConfigAction` (+ `requireTenantContext`, `isLocked`, `revalidatePath`).
+  - UI `projects/[projectId]/_components/`: `budget-workspace.tsx` (client, orquesta), `aiu-config-modal.tsx`, `chapter-modal.tsx`, `item-modal.tsx` (4 KPIs, modal AIU, árbol colapsable, estados vacío/locked/error/éxito).
+  - Wire en `projects/[projectId]/page.tsx`: `tab==="presupuesto"` → render budget workspace (llama `tenantDb.budgets.getOrCreate`), sustituir placeholder.
+- **FASE 1**: sin commit (intencional).
+
+### Blocked
+- `next build` no puede correrse limpio con el dev server activo (PID 578535).
+- Verificación de FASE 2 (tsc/build) aún no ejecutada tras el motor/UI.
+- Grafo de migraciones con forks históricos (nodos desde `null`/`a30e2c4c…`, fork `20261009T2235_migration`); ref ya sincronizado a `546dd56…`.
+- Capas **II, IV, VI, X, XIII, XIV** sin confirmar; sin infra de tests (no hay script `test`/vitest/jest → pruebas del motor no automatizadas).
+- Verificación runtime autenticada (Clerk) del flujo no ejecutada.
+
+## Next Move
+1. Implementar FASE 2 restante: helper `formatMoneyMicro` en `lib/format.ts` → namespace `budgets` en `lib/tenant-db.ts` → `budget/validators.ts` → `budget/actions.ts` → UI (`budget-workspace` + modales) → wire en `projects/[projectId]/page.tsx`.
+2. Detener el dev server y correr `pnpm exec tsc --noEmit` + `pnpm build`; corregir errores; smoke DB (`ProjectBudget`/`BudgetChapter`/`BudgetItem`/`BudgetItemResource`); emitir informe final (secciones 1–10) y `mem_session_summary`/`mem_save` en Engram.
+
+## Relevant Files
+- `prisma/contract.prisma`: Data Contract; ya incluye FASE 1 (`ProjectStatus`, `Project`, `ProjectHeader`) **y FASE 2** (`ResourceType`, `ProjectBudget`, `BudgetChapter`, `BudgetItem`, `BudgetItemResource` + back-relations).
+- `prisma/contract.json` / `prisma/contract.d.ts`: artefactos emitidos (hash `546dd56…`; no editar a mano).
+- `prisma/db.ts`, `prisma.config.ts`: runtime `db` (`postgres<Contract>`) y config Prisma 8.
+- `migrations/app/20261011T0102_add_project_budget_apu/`: migración FASE 2 aplicada.
+- `migrations/app/20261011T0003_add_project_container/`: migración FASE 1 aplicada.
+- `migrations/app/refs/db.json`: ref `db` = `546dd56…`.
+- `lib/apu-engine.ts`: motor (FASE 1 `parseMoney`/`moneyToString`/`lineTotal`/`calculateQuoteTotals`; **FASE 2 añadido** `SCALE`, `percentToMicro`, `microToPercent`, `calculateItemTotal`, `calculateBudgetTotals`, `RESOURCE_TYPES`).
+- `lib/format.ts`: `formatCurrency`/`toNumber` (falta `formatMoneyMicro`).
+- `lib/tenant-db.ts`: `createTenantDb` extendido (`projects`/`projectHeaders`; pendiente `budgets` + tipos `ProjectBudget*`).
+- `lib/projects.ts`: catálogo estados/tipos de obra/tabs.
+- `lib/utils.ts` y `lib/cn.ts`: `cn` (alias).
+- `app/[tenant]/(app)/quotes/projects/page.tsx`, `projects/[projectId]/page.tsx`: listado y detalle (detalle a extender para Tab 2).
+- `app/[tenant]/(app)/quotes/projects/actions.ts`: `createProjectAction`, `updateProjectHeaderAction`, `requireTenantContext`, `isUniqueViolation` (patrón para budget/actions).
+- `app/[tenant]/(app)/quotes/projects/validators.ts`: patrón de validación.
+- `app/[tenant]/(app)/quotes/projects/_components/{project-tabs,project-header-form,projects-table,new-project-modal,project-status-badge}.tsx`: UI FASE 1.
+- `app/[tenant]/(app)/quotes/projects/[projectId]/budget/{validators,actions}.ts`: POR CREAR (FASE 2).
+- `app/[tenant]/(app)/quotes/projects/[projectId]/_components/{budget-workspace,aiu-config-modal,chapter-modal,item-modal}.tsx`: POR CREAR (FASE 2).
+- `app/[tenant]/(app)/quotes/{page,actions,validators}.ts` y `_components/{modal,quote-badges,quotes-table,quotes-workspace,quote-builder}.tsx`: patrones a replicar.
+- `components/ui/*.tsx`: primitivos (button, card, dialog, input, textarea, label, badge…).
+- `app/components/tenant/{search-input,filter-select}.tsx`: filtros de toolbar.
+- `.claude/skills/prisma-8/references/{contract,migrations,queries}.md`: guías Prisma 8.
+- `node_modules/next/dist/docs/`: guías Next.js (leer antes de codear).
+- `AGENTS.md`: reglas del repo ("This is NOT the Next.js you know …").
+- `.env`: `DATABASE_URL` y claves Clerk (cargar `set -a; source .env; set +a`; no imprimir).
+- `.docs/capas/XI-Especializacion-por-Vertical/00-Construccion-Presupuesto-y-Control-de-Obra/`: arquitectura del vertical (5 tabs, 14 capas).
+- `lib/apu-importer/{parser,index,fuzzy-matcher}.ts`: gaps `%`/`%MO`/`%S`, `MAX_ROWS=50_000` (fase posterior).
+- `/tmp/opencode/booking_backup.sql`: backup 4 filas `Booking` (drift FASE 1).
+- `/tmp/opencode/{apu_analysis.json,final_checks.json,capitulos_agg.json,analyze_apu.py,analyze2.py}`: artefactos análisis APU.
+- `~/Documents/JuanCarlos/FORMATOS/` y `~/Documents/DocumentosAPU/BASE DE DATOS APU 2026 - MASTER PACK COL.xlsx`: insumos fuente.
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now let me add the `budgets` namespace inside `createTenantDb`. Let me find the projectHeaders block end.</think>Ahora el namespace `budgets` dentro de `createTenantDb`. Busco el final del bloque `projectHeaders`:
+
+#### 🔧 Tool: grep
+**Status:** completed
+**Title:** projectHeaders:|serializeProjectHeader|users: \{
+
+**Input:**
+```json
+{
+  "pattern": "projectHeaders:|serializeProjectHeader|users: \\{",
+  "path": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts"
+}
+```
+
+**Output:**
+```
+Found 7 matches
+/home/craxker/github/nexus-thrive/lib/tenant-db.ts:
+  Line 687: function serializeProjectHeader(header: ProjectHeaderRow): ProjectHeaderData {
+
+  Line 1939:           header: header ? serializeProjectHeader(header) : null,
+
+  Line 2000:           header: serializeProjectHeader(created.header),
+
+  Line 2013:     projectHeaders: {
+
+  Line 2026:         return header ? serializeProjectHeader(header) : null;
+
+  Line 2045:         return header ? serializeProjectHeader(header) : null;
+
+  Line 2049:     users: {
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "offset": 2013,
+  "limit": 45
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/tenant-db.ts</path>
+<type>file</type>
+<content>
+2013:     projectHeaders: {
+2014:       /** Lee la ficha solo si el proyecto pertenece a este tenant. */
+2015:       get: async (projectId: string): Promise<ProjectHeaderData | null> => {
+2016:         const project = await db.orm.public.Project
+2017:           .where({ id: projectId, tenantId })
+2018:           .select("id")
+2019:           .first();
+2020:         if (!project) {
+2021:           return null;
+2022:         }
+2023:         const header = await db.orm.public.ProjectHeader
+2024:           .where({ projectId })
+2025:           .first();
+2026:         return header ? serializeProjectHeader(header) : null;
+2027:       },
+2028: 
+2029:       /** Actualiza la ficha validando el tenant del proyecto. */
+2030:       update: async (
+2031:         projectId: string,
+2032:         data: ProjectHeaderInput,
+2033:       ): Promise<ProjectHeaderData | null> => {
+2034:         const project = await db.orm.public.Project
+2035:           .where({ id: projectId, tenantId })
+2036:           .select("id")
+2037:           .first();
+2038:         if (!project) {
+2039:           return null;
+2040:         }
+2041:         await db.orm.public.ProjectHeader.where({ projectId }).update(data);
+2042:         const header = await db.orm.public.ProjectHeader
+2043:           .where({ projectId })
+2044:           .first();
+2045:         return header ? serializeProjectHeader(header) : null;
+2046:       },
+2047:     },
+2048: 
+2049:     users: {
+2050:       list: () => db.orm.public.User.where({ tenantId }).all(),
+2051: 
+2052:       get: (id: string) =>
+2053:         db.orm.public.User.where({ id, tenantId }).first(),
+2054: 
+2055:       findByClerkUserId: (clerkUserId: string) =>
+2056:         db.orm.public.User.where({ clerkUserId, tenantId }).first(),
+2057: 
+
+(Showing lines 2013-2057 of 2715. Use offset=2058 to continue.)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now insert the budgets namespace between line 2047 `},` (end projectHeaders) and 2049 `users: {`.
+
+Let me write the edit targeting:
+```
+      },
+    },
+
+    users: {
+      list: () => db.orm.public.User.where({ tenantId }).all(),
+```
+That's unique enough? `    users: {\n      list: () => db.orm.public.User.where({ tenantId }).all(),` is unique.
+
+I'll do oldString starting at `      },\n    },\n\n    users: {` — but `      },\n    },\n` may appear multiple times. Combine with the users line for uniqueness.
+
+Let me use:
+```
+    },
+
+    users: {
+      list: () => db.orm.public.User.where({ tenantId }).all(),
+```
+Unique. Insert budgets before `    users: {`.
+
+Now write the namespace.
+
+Need `currentYearBogota` imported — yes it is (line 30).
+
+Write it.</think>
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "newString": "    },\n\n    budgets: {\n      /** Presupuesto del proyecto (con árbol completo) o `null` si no existe. */\n      get: async (projectId: string): Promise<ProjectBudgetData | null> => {\n        const budget = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        return budget ? loadBudgetTree(budget) : null;\n      },\n\n      /**\n       * Devuelve el presupuesto del proyecto creándolo si no existe (1:1 con\n       * Project). Idempotente ante concurrencia: si otro request lo creó\n       * primero, la restricción única por `projectId` aborta el INSERT y se\n       * relee la fila ganadora.\n       */\n      getOrCreate: async (projectId: string): Promise<ProjectBudgetData> => {\n        const existing = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        if (existing) {\n          return loadBudgetTree(existing);\n        }\n\n        const project = await db.orm.public.Project\n          .where({ id: projectId, tenantId })\n          .first();\n        if (!project) {\n          throw new Error(\"Proyecto no encontrado en este negocio.\");\n        }\n\n        const prefix = `PRES-${currentYearBogota()}-`;\n        const latest = await db.orm.public.ProjectBudget\n          .where({ tenantId })\n          .where((budget) => budget.code.like(`${prefix}%`))\n          .orderBy((budget) => budget.code.desc())\n          .first();\n        const sequence = latest\n          ? Number(latest.code.slice(prefix.length)) + 1\n          : 1;\n        const code = `${prefix}${String(sequence).padStart(3, \"0\")}`;\n\n        try {\n          const created = await db.orm.public.ProjectBudget.create({\n            tenantId,\n            projectId,\n            code,\n            name: `Presupuesto — ${project.name}`,\n          });\n          return loadBudgetTree(created);\n        } catch (error) {\n          const raced = await db.orm.public.ProjectBudget\n            .where({ projectId, tenantId })\n            .first();\n          if (raced) {\n            return loadBudgetTree(raced);\n          }\n          throw error;\n        }\n      },\n\n      /** Crea un capítulo al final del presupuesto. Rechaza si está bloqueado. */\n      createChapter: async (\n        projectId: string,\n        input: CreateChapterInput,\n      ): Promise<{ id: string }> => {\n        const budget = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        if (!budget) {\n          throw new Error(\"Presupuesto no encontrado en este negocio.\");\n        }\n        if (budget.isLocked) {\n          throw new Error(\"El presupuesto está bloqueado.\");\n        }\n        const last = await db.orm.public.BudgetChapter\n          .where({ budgetId: budget.id })\n          .orderBy((chapter) => chapter.order.desc())\n          .first();\n        const order = last ? last.order + 1 : 1;\n        const chapter = await db.orm.public.BudgetChapter.create({\n          tenantId,\n          budgetId: budget.id,\n          order,\n          name: input.name,\n          description: input.description ?? null,\n        });\n        return { id: chapter.id };\n      },\n\n      /**\n       * Crea una partida bajo un capítulo y recalcula los totales del\n       * presupuesto en la misma transacción. El costo total lo computa el\n       * servidor (nunca se confía en el cliente).\n       */\n      createItem: async (\n        projectId: string,\n        input: CreateBudgetItemInput,\n      ): Promise<{ id: string }> => {\n        const budget = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        if (!budget) {\n          throw new Error(\"Presupuesto no encontrado en este negocio.\");\n        }\n        if (budget.isLocked) {\n          throw new Error(\"El presupuesto está bloqueado.\");\n        }\n        const chapter = await db.orm.public.BudgetChapter\n          .where({ id: input.chapterId, budgetId: budget.id })\n          .select(\"id\")\n          .first();\n        if (!chapter) {\n          throw new Error(\"Capítulo no encontrado en este presupuesto.\");\n        }\n\n        const totalCostDirect = calculateItemTotal(\n          input.quantity,\n          input.unitCostDirect,\n        );\n\n        const created = await db.transaction(async (tx) => {\n          const last = await tx.orm.public.BudgetItem\n            .where({ chapterId: input.chapterId })\n            .orderBy((item) => item.order.desc())\n            .first();\n          const order = last ? last.order + 1 : 1;\n          const item = await tx.orm.public.BudgetItem.create({\n            tenantId,\n            chapterId: input.chapterId,\n            order,\n            code: input.code,\n            description: input.description,\n            unit: input.unit,\n            quantity: input.quantity,\n            unitCostDirect: input.unitCostDirect,\n            totalCostDirect,\n          });\n          await recalcBudgetTotals(tx, budget.id, {\n            admin: budget.aiuAdminPct,\n            imprev: budget.aiuImprevPct,\n            utilidad: budget.aiuUtilidadPct,\n            iva: budget.ivaUtilidadPct,\n          });\n          return item;\n        });\n        return { id: created.id };\n      },\n\n      /**\n       * Actualiza la configuración AIU y recalcula toda la cascada en la\n       * misma transacción.\n       */\n      updateAiu: async (\n        projectId: string,\n        config: AiuConfigInput,\n      ): Promise<void> => {\n        const budget = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        if (!budget) {\n          throw new Error(\"Presupuesto no encontrado en este negocio.\");\n        }\n        if (budget.isLocked) {\n          throw new Error(\"El presupuesto está bloqueado.\");\n        }\n        await db.transaction(async (tx) => {\n          await tx.orm.public.ProjectBudget.where({ id: budget.id }).update({\n            aiuAdminPct: config.adminPct,\n            aiuImprevPct: config.imprevPct,\n            aiuUtilidadPct: config.utilidadPct,\n            ivaUtilidadPct: config.ivaUtilidadPct,\n          });\n          await recalcBudgetTotals(tx, budget.id, {\n            admin: config.adminPct,\n            imprev: config.imprevPct,\n            utilidad: config.utilidadPct,\n            iva: config.ivaUtilidadPct,\n          });\n        });\n      },\n\n      /** Bloquea / desbloquea el presupuesto (impide crear capítulos/ítems). */\n      setLocked: async (\n        projectId: string,\n        isLocked: boolean,\n      ): Promise<void> => {\n        const budget = await db.orm.public.ProjectBudget\n          .where({ projectId, tenantId })\n          .first();\n        if (!budget) {\n          throw new Error(\"Presupuesto no encontrado en este negocio.\");\n        }\n        await db.orm.public.ProjectBudget\n          .where({ id: budget.id })\n          .update({ isLocked });\n      },\n    },\n\n    users: {\n      list: () => db.orm.public.User.where({ tenantId }).all(),",
+  "oldString": "    },\n\n    users: {\n      list: () => db.orm.public.User.where({ tenantId }).all(),"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now validators. Create `app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts`.
+
+Let me first look at the existing projects/validators.ts to match the pattern exactly.</think>`tenant-db` listo. Ahora los validators. Reviso el patrón existente:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/validators.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/validators.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Validación servidor del módulo Proyectos (FASE 1 del vertical
+3:  * construcción). Mirror de `quotes/validators.ts`: sin dependencias de
+4:  * servidor, devuelve siempre los valores leídos para repintar formularios
+5:  * y los errores por campo.
+6:  */
+7: import {
+8:   PROJECT_TYPE_OPTIONS,
+9:   isValidProjectStatus,
+10:   type ProjectStatusValue,
+11: } from "@/lib/projects";
+12: 
+13: export const PROJECT_NAME_MAX = 120;
+14: export const PROJECT_DESCRIPTION_MAX = 500;
+15: export const HEADER_FIELD_MAX = 120;
+16: export const TAX_ID_MAX = 32;
+17: export const TAX_DV_MAX = 4;
+18: export const EMAIL_MAX = 120;
+19: 
+20: const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+21: 
+22: function required(value: string, label: string): boolean {
+23:   return value.length > 0;
+24: }
+25: 
+26: function within(value: string, max: number): boolean {
+27:   return value.length <= max;
+28: }
+29: 
+30: /* ------------------------------------------------------------------ */
+31: /* Creación de proyecto                                                */
+32: /* ------------------------------------------------------------------ */
+33: 
+34: export type CreateProjectFormValues = {
+35:   customerId: string;
+36:   name: string;
+37:   description: string;
+38: };
+39: 
+40: export type CreateProjectFieldErrors = Partial<
+41:   Record<keyof CreateProjectFormValues, string>
+42: >;
+43: 
+44: export type CreateProjectValidation =
+45:   | { ok: true; values: CreateProjectFormValues }
+46:   | {
+47:       ok: false;
+48:       errors: CreateProjectFieldErrors;
+49:       values: CreateProjectFormValues;
+50:     };
+51: 
+52: export function validateCreateProject(
+53:   formData: FormData,
+54: ): CreateProjectValidation {
+55:   const values: CreateProjectFormValues = {
+56:     customerId: String(formData.get("customerId") ?? "").trim(),
+57:     name: String(formData.get("name") ?? "").trim(),
+58:     description: String(formData.get("description") ?? "").trim(),
+59:   };
+60:   const errors: CreateProjectFieldErrors = {};
+61: 
+62:   if (!required(values.customerId, "cliente")) {
+63:     errors.customerId = "Selecciona el cliente dueño de la obra.";
+64:   }
+65:   if (!required(values.name, "nombre")) {
+66:     errors.name = "Ingresa un nombre para el proyecto.";
+67:   } else if (!within(values.name, PROJECT_NAME_MAX)) {
+68:     errors.name = `Máximo ${PROJECT_NAME_MAX} caracteres.`;
+69:   }
+70:   if (!within(values.description, PROJECT_DESCRIPTION_MAX)) {
+71:     errors.description = `Máximo ${PROJECT_DESCRIPTION_MAX} caracteres.`;
+72:   }
+73: 
+74:   if (Object.keys(errors).length > 0) {
+75:     return { ok: false, errors, values };
+76:   }
+77:   return { ok: true, values };
+78: }
+79: 
+80: /* ------------------------------------------------------------------ */
+81: /* Ficha del proyecto (ProjectHeader)                                  */
+82: /* ------------------------------------------------------------------ */
+83: 
+84: export type ProjectHeaderFormValues = {
+85:   clientTaxName: string;
+86:   clientTaxId: string;
+87:   clientTaxDv: string;
+88:   clientAddress: string;
+89:   clientCity: string;
+90:   clientBillingEmail: string;
+91:   legalRepName: string;
+92:   siteAddress: string;
+93:   siteCity: string;
+94:   siteDepartment: string;
+95:   projectType: string;
+96:   siteAccessNotes: string;
+97:   technicalContact: string;
+98:   technicalPhone: string;
+99:   projectLeaderName: string;
+100:   projectLeaderProfessionalId: string;
+101:   supervisorName: string;
+102: };
+103: 
+104: export type ProjectHeaderFieldErrors = Partial<
+105:   Record<keyof ProjectHeaderFormValues, string>
+106: >;
+107: 
+108: export type ProjectHeaderValidation =
+109:   | { ok: true; values: ProjectHeaderFormValues }
+110:   | {
+111:       ok: false;
+112:       errors: ProjectHeaderFieldErrors;
+113:       values: ProjectHeaderFormValues;
+114:     };
+115: 
+116: const HEADER_KEYS: ReadonlyArray<keyof ProjectHeaderFormValues> = [
+117:   "clientTaxName",
+118:   "clientTaxId",
+119:   "clientTaxDv",
+120:   "clientAddress",
+121:   "clientCity",
+122:   "clientBillingEmail",
+123:   "legalRepName",
+124:   "siteAddress",
+125:   "siteCity",
+126:   "siteDepartment",
+127:   "projectType",
+128:   "siteAccessNotes",
+129:   "technicalContact",
+130:   "technicalPhone",
+131:   "projectLeaderName",
+132:   "projectLeaderProfessionalId",
+133:   "supervisorName",
+134: ];
+135: 
+136: function optionalString(formData: FormData, key: string): string {
+137:   return String(formData.get(key) ?? "").trim();
+138: }
+139: 
+140: export function validateProjectHeader(
+141:   formData: FormData,
+142: ): ProjectHeaderValidation {
+143:   const values: ProjectHeaderFormValues = {
+144:     clientTaxName: optionalString(formData, "clientTaxName"),
+145:     clientTaxId: optionalString(formData, "clientTaxId"),
+146:     clientTaxDv: optionalString(formData, "clientTaxDv"),
+147:     clientAddress: optionalString(formData, "clientAddress"),
+148:     clientCity: optionalString(formData, "clientCity"),
+149:     clientBillingEmail: optionalString(formData, "clientBillingEmail"),
+150:     legalRepName: optionalString(formData, "legalRepName"),
+151:     siteAddress: optionalString(formData, "siteAddress"),
+152:     siteCity: optionalString(formData, "siteCity"),
+153:     siteDepartment: optionalString(formData, "siteDepartment"),
+154:     projectType: optionalString(formData, "projectType"),
+155:     siteAccessNotes: optionalString(formData, "siteAccessNotes"),
+156:     technicalContact: optionalString(formData, "technicalContact"),
+157:     technicalPhone: optionalString(formData, "technicalPhone"),
+158:     projectLeaderName: optionalString(formData, "projectLeaderName"),
+159:     projectLeaderProfessionalId: optionalString(
+160:       formData,
+161:       "projectLeaderProfessionalId",
+162:     ),
+163:     supervisorName: optionalString(formData, "supervisorName"),
+164:   };
+165:   const errors: ProjectHeaderFieldErrors = {};
+166: 
+167:   // Límites de longitud genéricos.
+168:   for (const key of HEADER_KEYS) {
+169:     const value = values[key];
+170:     const max = key === "clientTaxId" ? TAX_ID_MAX : key === "clientTaxDv" ? TAX_DV_MAX : HEADER_FIELD_MAX;
+171:     if (!within(value, max)) {
+172:       errors[key] = `Máximo ${max} caracteres.`;
+173:     }
+174:   }
+175: 
+176:   // Reglas específicas.
+177:   if (values.projectType && !PROJECT_TYPE_OPTIONS.some((option) => option.value === values.projectType)) {
+178:     errors.projectType = "Selecciona un tipo de obra válido.";
+179:   }
+180:   if (values.clientBillingEmail && !EMAIL_RE.test(values.clientBillingEmail)) {
+181:     errors.clientBillingEmail = "Correo electrónico inválido.";
+182:   }
+183:   if (!within(values.clientBillingEmail, EMAIL_MAX)) {
+184:     errors.clientBillingEmail = errors.clientBillingEmail ?? `Máximo ${EMAIL_MAX} caracteres.`;
+185:   }
+186: 
+187:   if (Object.keys(errors).length > 0) {
+188:     return { ok: false, errors, values };
+189:   }
+190:   return { ok: true, values };
+191: }
+192: 
+193: /**
+194:  * Convierte los valores leídos del formulario al payload de escritura:
+195:  * cadena vacía → null (los campos de la ficha son opcionales).
+196:  */
+197: export function projectHeaderToInput(values: ProjectHeaderFormValues) {
+198:   const emptyToNull = (value: string): string | null =>
+199:     value === "" ? null : value;
+200:   return {
+201:     clientTaxName: emptyToNull(values.clientTaxName),
+202:     clientTaxId: emptyToNull(values.clientTaxId),
+203:     clientTaxDv: emptyToNull(values.clientTaxDv),
+204:     clientAddress: emptyToNull(values.clientAddress),
+205:     clientCity: emptyToNull(values.clientCity),
+206:     clientBillingEmail: emptyToNull(values.clientBillingEmail),
+207:     legalRepName: emptyToNull(values.legalRepName),
+208:     siteAddress: emptyToNull(values.siteAddress),
+209:     siteCity: emptyToNull(values.siteCity),
+210:     siteDepartment: emptyToNull(values.siteDepartment),
+211:     projectType: emptyToNull(values.projectType),
+212:     siteAccessNotes: emptyToNull(values.siteAccessNotes),
+213:     technicalContact: emptyToNull(values.technicalContact),
+214:     technicalPhone: emptyToNull(values.technicalPhone),
+215:     projectLeaderName: emptyToNull(values.projectLeaderName),
+216:     projectLeaderProfessionalId: emptyToNull(values.projectLeaderProfessionalId),
+217:     supervisorName: emptyToNull(values.supervisorName),
+218:   };
+219: }
+220: 
+221: /** Tipos de estado válidos para el filtro del listado. */
+222: export function parseProjectStatus(value: string): ProjectStatusValue | undefined {
+223:   return isValidProjectStatus(value) ? value : undefined;
+224: }
+
+(End of file - total 224 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now I need to check `parseMoney` in apu-engine to parse user-input money (e.g. "250000" → 250_000_000_000 micro). Let me check the engine functions available.</think>Reviso el motor para las funciones de parseo/seguridad de montos:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/apu-engine.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/apu-engine.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/apu-engine.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Motor de cálculo APU y presupuestos de obra (NEXUS THRIVE).
+3:  *
+4:  * Precisión DECIMAL sin dependencias: el driver de Prisma 8 de este
+5:  * proyecto materializa las columnas `Decimal` como STRINGS y acepta
+6:  * strings al escribir. Por eso todo el cálculo financiero vive aquí, en
+7:  * aritmética de punto fijo con `BigInt` (6 decimales: micro-unidades de
+8:  * COP). Cero `number` en operaciones monetarias → cero error de punto
+9:  * flotante, determinístico en todos los entornos.
+10:  *
+11:  * Este módulo es 100% servidor y NO importa la interfaz: es el único
+12:  * lugar autorizado para costo de componentes, costo unitario de APU,
+13:  * totales de presupuesto y validación numérica.
+14:  */
+15: 
+16: /* ------------------------------------------------------------------ */
+17: /* Punto fijo (micro-unidades)                                         */
+18: /* ------------------------------------------------------------------ */
+19: 
+20: /** Escala interna: 1 unidad = 1_000_000 micro (6 decimales). */
+21: const UNIT = BigInt(1_000_000);
+22: const HALF = UNIT / BigInt(2); // para redondeo half-up (valores no negativos)
+23: 
+24: /** Dinero/cantidad en micro-unidades (nunca exponer fuera del motor). */
+25: type Money = bigint;
+26: 
+27: const DECIMAL_PATTERN = /^-?\d+(\.\d+)?$/;
+28: 
+29: /**
+30:  * Convierte un string decimal a micro-unidades. Rechaza vacíos, NaN,
+31:  * Infinity, notación científica y más de 6 decimales. Devuelve `null`
+32:  * si el valor no es un decimal válido.
+33:  */
+34: export function parseMoney(raw: string): Money | null {
+35:   const value = raw.trim();
+36:   if (!value || value.length > 40 || !DECIMAL_PATTERN.test(value)) {
+37:     return null;
+38:   }
+39:   const negative = value.startsWith("-");
+40:   const unsigned = negative ? value.slice(1) : value;
+41:   const [intPart, fracPart = ""] = unsigned.split(".");
+42:   if (fracPart.length > 6) {
+43:     return null;
+44:   }
+45:   const micro =
+46:     BigInt(intPart || "0") * UNIT +
+47:     BigInt((fracPart + "000000").slice(0, 6));
+48:   return negative ? -micro : micro;
+49: }
+50: 
+51: /**
+52:  * Serializa micro-unidades a string decimal canónico (sin ceros sobrantes;
+53:  * enteros sin punto). Es el formato que acepta el driver para `Decimal`.
+54:  */
+55: export function moneyToString(micro: Money): string {
+56:   const sign = micro < BigInt(0) ? "-" : "";
+57:   const abs = micro < BigInt(0) ? -micro : micro;
+58:   const whole = abs / UNIT;
+59:   const frac = abs % UNIT;
+60:   if (frac === BigInt(0)) {
+61:     return `${sign}${whole}`;
+62:   }
+63:   const fracText = frac.toString().padStart(6, "0").replace(/0+$/, "");
+64:   return `${sign}${whole}.${fracText}`;
+65: }
+66: 
+67: /** División con redondeo half-up (valores no negativos). */
+68: function roundDiv(numerator: bigint, denominator: bigint): bigint {
+69:   return (numerator + denominator / BigInt(2)) / denominator;
+70: }
+71: 
+72: /** Porcentaje de un monto: `amount * percent / 100` (micro-puntos). */
+73: function percentOf(amount: Money, percentMicro: Money): Money {
+74:   if (amount <= BigInt(0) || percentMicro <= BigInt(0)) {
+75:     return BigInt(0);
+76:   }
+77:   return roundDiv(amount * percentMicro, BigInt(100) * UNIT);
+78: }
+79: 
+80: /* ------------------------------------------------------------------ */
+81: /* Validación numérica (server + import)                               */
+82: /* ------------------------------------------------------------------ */
+83: 
+84: /** `true` si el string es un decimal válido (máx. 6 decimales). */
+85: export function isValidDecimal(raw: string): boolean {
+86:   return parseMoney(raw) !== null;
+87: }
+88: 
+89: /** `true` si el string es un decimal > 0. */
+90: export function isStrictlyPositive(raw: string): boolean {
+91:   const value = parseMoney(raw);
+92:   return value !== null && value > BigInt(0);
+93: }
+94: 
+95: /** `true` si el string es un decimal >= 0. */
+96: export function isNonNegative(raw: string): boolean {
+97:   const value = parseMoney(raw);
+98:   return value !== null && value >= BigInt(0);
+99: }
+100: 
+101: /** `true` si el string es un porcentaje dentro de [0, maxPercent]. */
+102: export function isValidPercent(raw: string, maxPercent: number): boolean {
+103:   const value = parseMoney(raw);
+104:   if (value === null || value < BigInt(0)) {
+105:     return false;
+106:   }
+107:   const max = parseMoney(String(maxPercent));
+108:   return max !== null && value <= max;
+109: }
+110: 
+111: /**
+112:  * Año vigente en America/Bogota (para códigos tipo PRES-2026-001).
+113:  * Nunca usar `new Date().getFullYear()` (zona del servidor) aquí.
+114:  */
+115: export function currentYearBogota(): number {
+116:   const parts = new Intl.DateTimeFormat("en-US", {
+117:     timeZone: "America/Bogota",
+118:     year: "numeric",
+119:   }).formatToParts(new Date());
+120:   return Number(parts.find((part) => part.type === "year")?.value ?? NaN);
+121: }
+122: 
+123: /* ------------------------------------------------------------------ */
+124: /* Catálogos del dominio (espejo de enums del contrato)                */
+125: /* ------------------------------------------------------------------ */
+126: 
+127: export const APU_ITEM_CATEGORIES = [
+128:   { value: "MATERIAL", label: "Material" },
+129:   { value: "MANO_DE_OBRA", label: "Mano de Obra" },
+130:   { value: "EQUIPO", label: "Equipo" },
+131:   { value: "TRANSPORTE", label: "Transporte" },
+132: ] as const;
+133: export type ApuItemCategoryValue = (typeof APU_ITEM_CATEGORIES)[number]["value"];
+134: 
+135: export const QUOTE_STATUSES = [
+136:   { value: "DRAFT", label: "Borrador" },
+137:   { value: "SENT", label: "Enviado" },
+138:   { value: "APPROVED", label: "Aprobado" },
+139:   { value: "REJECTED", label: "Rechazado" },
+140: ] as const;
+141: export type QuoteStatusValue = (typeof QUOTE_STATUSES)[number]["value"];
+142: 
+143: /** Unidades admitidas en el banco de insumos y en las actividades. */
+144: export const APU_UNITS = [
+145:   "M3",
+146:   "KG",
+147:   "BULTO",
+148:   "HR",
+149:   "UND",
+150:   "M2",
+151:   "ML",
+152:   "GLB",
+153:   "L",
+154:   "M",
+155:   "CM",
+156:   "PZA",
+157:   "DIA",
+158:   "MES",
+159:   "GAL",
+160:   "PAR",
+161:   "JGO",
+162:   "KM",
+163:   "HA",
+164: ] as const;
+165: export type ApuUnitValue = (typeof APU_UNITS)[number];
+166: 
+167: export function apuCategoryLabel(category: ApuItemCategoryValue): string {
+168:   return (
+169:     APU_ITEM_CATEGORIES.find((option) => option.value === category)?.label ??
+170:     category
+171:   );
+172: }
+173: 
+174: export function quoteStatusLabel(status: QuoteStatusValue): string {
+175:   return (
+176:     QUOTE_STATUSES.find((option) => option.value === status)?.label ?? status
+177:   );
+178: }
+179: 
+180: export function isValidCategory(raw: string): raw is ApuItemCategoryValue {
+181:   return (APU_ITEM_CATEGORIES as readonly { value: string }[]).some(
+182:     (option) => option.value === raw,
+183:   );
+184: }
+185: 
+186: export function isValidStatus(raw: string): raw is QuoteStatusValue {
+187:   return (QUOTE_STATUSES as readonly { value: string }[]).some(
+188:     (option) => option.value === raw,
+189:   );
+190: }
+191: 
+192: export function isValidUnit(raw: string): raw is ApuUnitValue {
+193:   return (APU_UNITS as readonly string[]).includes(raw);
+194: }
+195: 
+196: /* ------------------------------------------------------------------ */
+197: /* Costos APU                                                          */
+198: /* ------------------------------------------------------------------ */
+199: 
+200: export type ActivityComponentInput = {
+201:   unitPrice: string;
+202:   consumption: string;
+203:   wastePercent: string;
+204: };
+205: 
+206: /**
+207:  * Costo de UN componente de una actividad:
+208:  *   precio × consumo × (1 + desperdicio/100)
+209:  * Todo en micro-unidades enteras; se redondea half-up al micro.
+210:  */
+211: export function componentCost(input: ActivityComponentInput): Money {
+212:   const unitPrice = parseMoney(input.unitPrice);
+213:   const consumption = parseMoney(input.consumption);
+214:   const waste = parseMoney(input.wastePercent);
+215: 
+216:   if (unitPrice === null || consumption === null || waste === null) {
+217:     throw new Error("componentCost: entrada decimal inválida.");
+218:   }
+219:   if (unitPrice < BigInt(0) || consumption < BigInt(0) || waste < BigInt(0)) {
+220:     throw new Error("componentCost: valores negativos no permitidos.");
+221:   }
+222: 
+223:   // factor = (100 + desperdicio) / 100 en micro-puntos → 100*UNIT + waste
+224:   const factor = BigInt(100) * UNIT + waste;
+225:   return roundDiv(
+226:     unitPrice * consumption * factor,
+227:     BigInt(100) * UNIT * UNIT,
+228:   );
+229: }
+230: 
+231: /** Costo unitario de una actividad = Σ de sus componentes. */
+232: export function activityUnitCost(components: ActivityComponentInput[]): string {
+233:   let total = BigInt(0);
+234:   for (const component of components) {
+235:     total += componentCost(component);
+236:   }
+237:   return moneyToString(total);
+238: }
+239: 
+240: /* ------------------------------------------------------------------ */
+241: /* Presupuestos                                                        */
+242: /* ------------------------------------------------------------------ */
+243: 
+244: export type AiuConfig = {
+245:   adminPercent: string;
+246:   imprevPercent: string;
+247:   utilPercent: string;
+248:   taxPercent: string;
+249: };
+250: 
+251: export type QuoteLineInput = {
+252:   quantity: string;
+253:   unitCost: string;
+254: };
+255: 
+256: /** Total por línea: cantidad × costo unitario (redondeado half-up). */
+257: export function lineTotal(quantity: string, unitCost: string): Money {
+258:   const qty = parseMoney(quantity);
+259:   const cost = parseMoney(unitCost);
+260:   if (qty === null || cost === null) {
+261:     throw new Error("lineTotal: entrada decimal inválida.");
+262:   }
+263:   if (qty < BigInt(0) || cost < BigInt(0)) {
+264:     throw new Error("lineTotal: valores negativos no permitidos.");
+265:   }
+266:   return roundDiv(qty * cost, UNIT);
+267: }
+268: 
+269: export type QuoteTotals = {
+270:   directCost: string;
+271:   administration: string;
+272:   contingency: string;
+273:   utility: string;
+274:   subtotal: string;
+275:   tax: string;
+276:   totalAmount: string;
+277: };
+278: 
+279: /**
+280:  * Totales de un presupuesto (AIU + IVA sobre utilidad). Recibe líneas con
+281:  * cantidad/costo ya validados; el servidor SIEMPRE recalcula — nunca se
+282:  * confía en totales enviados por el navegador.
+283:  *
+284:  *   directCost  = Σ(qty × unitCost)
+285:  *   administr.  = directCost × adminPercent%
+286:  *   contingency = directCost × imprevPercent%
+287:  *   utility     = directCost × utilPercent%
+288:  *   subtotal    = direct + admin + contingency + utility
+289:  *   tax         = utility × taxPercent%   ← IVA SOLO sobre la utilidad
+290:  *   total       = subtotal + tax
+291:  */
+292: export function calculateQuoteTotals(
+293:   items: QuoteLineInput[],
+294:   config: AiuConfig,
+295: ): QuoteTotals {
+296:   const admin = parseMoney(config.adminPercent);
+297:   const imprev = parseMoney(config.imprevPercent);
+298:   const util = parseMoney(config.utilPercent);
+299:   const tax = parseMoney(config.taxPercent);
+300:   if (
+301:     admin === null ||
+302:     imprev === null ||
+303:     util === null ||
+304:     tax === null ||
+305:     admin < BigInt(0) ||
+306:     imprev < BigInt(0) ||
+307:     util < BigInt(0) ||
+308:     tax < BigInt(0)
+309:   ) {
+310:     throw new Error("calculateQuoteTotals: porcentajes AIU inválidos.");
+311:   }
+312: 
+313:   let directCost = BigInt(0);
+314:   for (const item of items) {
+315:     directCost += lineTotal(item.quantity, item.unitCost);
+316:   }
+317: 
+318:   const administration = percentOf(directCost, admin);
+319:   const contingency = percentOf(directCost, imprev);
+320:   const utility = percentOf(directCost, util);
+321:   const subtotal = directCost + administration + contingency + utility;
+322:   const taxAmount = percentOf(utility, tax);
+323:   const totalAmount = subtotal + taxAmount;
+324: 
+325:   return {
+326:     directCost: moneyToString(directCost),
+327:     administration: moneyToString(administration),
+328:     contingency: moneyToString(contingency),
+329:     utility: moneyToString(utility),
+330:     subtotal: moneyToString(subtotal),
+331:     tax: moneyToString(taxAmount),
+332:     totalAmount: moneyToString(totalAmount),
+333:   };
+334: }
+335: 
+336: /** Suma de totales de línea (para read-back de un presupuesto guardado). */
+337: export function directCostOf(quantities: string[], unitCosts: string[]): string {
+338:   let total = BigInt(0);
+339:   for (let index = 0; index < quantities.length; index += 1) {
+340:     total += lineTotal(quantities[index], unitCosts[index]);
+341:   }
+342:   return moneyToString(total);
+343: }
+344: 
+345: /* ------------------------------------------------------------------ */
+346: /* Presupuesto de proyecto — motor BigInt (FASE 2, Tab 2)              */
+347: /* ------------------------------------------------------------------ */
+348: 
+349: /**
+350:  * Escala de punto fijo (6 decimales), la que exige el contrato de
+351:  * `ProjectBudget` (columnas `BigInt`).
+352:  *   · DINERO/CANTIDAD: 1_000_000 = 1.000000
+353:  *   · PORCENTAJES almacenados: 1_000_000 = 1.000000 = 100 %
+354:  *     (100_000 = 10 %, 50_000 = 5 %, 190_000 = 19 %)
+355:  */
+356: export const SCALE = UNIT;
+357: 
+358: /**
+359:  * Convierte un porcentaje legible ("10", "9.5", "19") a la micro-fracción
+360:  * almacenada (100_000 = 10 %). Devuelve `null` si no es un decimal válido.
+361:  * Nota: es una división exacta por 100 sobre el decimal ya parseado.
+362:  */
+363: export function percentToMicro(raw: string): bigint | null {
+364:   const value = parseMoney(raw);
+365:   if (value === null) {
+366:     return null;
+367:   }
+368:   return value / BigInt(100);
+369: }
+370: 
+371: /** Inverso de `percentToMicro`: 100_000 → "10", 190_000 → "19". */
+372: export function microToPercent(micro: bigint): string {
+373:   return moneyToString(micro * BigInt(100));
+374: }
+375: 
+376: /**
+377:  * Costo directo total de una partida: `quantity × unitCostDirect`, ambos en
+378:  * micro-unidades. Redondeo half-up al micro (misma regla del motor).
+379:  * Rechaza valores negativos.
+380:  */
+381: export function calculateItemTotal(quantity: bigint, unitCost: bigint): bigint {
+382:   if (quantity < BigInt(0) || unitCost < BigInt(0)) {
+383:     throw new Error("calculateItemTotal: valores negativos no permitidos.");
+384:   }
+385:   return roundDiv(quantity * unitCost, SCALE);
+386: }
+387: 
+388: export type BudgetTotals = {
+389:   adminTotal: bigint;
+390:   imprevTotal: bigint;
+391:   utilidadTotal: bigint;
+392:   ivaUtilidadTotal: bigint;
+393:   grandTotal: bigint;
+394: };
+395: 
+396: /**
+397:  * Cascada financiera del presupuesto: administración, imprevistos y utilidad
+398:  * se aplican sobre el costo directo; el IVA SOLO sobre la utilidad.
+399:  * Todos los operandos están en micro-unidades y los porcentajes con
+400:  * 1_000_000 = 100 %. Aritmética `BigInt` pura, redondeo half-up, sin punto
+401:  * flotante. Determinístico.
+402:  */
+403: export function calculateBudgetTotals(
+404:   directCostTotal: bigint,
+405:   adminPct: bigint,
+406:   imprevPct: bigint,
+407:   utilidadPct: bigint,
+408:   ivaUtilidadPct: bigint,
+409: ): BudgetTotals {
+410:   if (
+411:     directCostTotal < BigInt(0) ||
+412:     adminPct < BigInt(0) ||
+413:     imprevPct < BigInt(0) ||
+414:     utilidadPct < BigInt(0) ||
+415:     ivaUtilidadPct < BigInt(0)
+416:   ) {
+417:     throw new Error("calculateBudgetTotals: valores negativos no permitidos.");
+418:   }
+419: 
+420:   const adminTotal = roundDiv(directCostTotal * adminPct, SCALE);
+421:   const imprevTotal = roundDiv(directCostTotal * imprevPct, SCALE);
+422:   const utilidadTotal = roundDiv(directCostTotal * utilidadPct, SCALE);
+423:   const ivaUtilidadTotal = roundDiv(utilidadTotal * ivaUtilidadPct, SCALE);
+424:   const grandTotal =
+425:     directCostTotal +
+426:     adminTotal +
+427:     imprevTotal +
+428:     utilidadTotal +
+429:     ivaUtilidadTotal;
+430: 
+431:   return { adminTotal, imprevTotal, utilidadTotal, ivaUtilidadTotal, grandTotal };
+432: }
+433: 
+434: /** Catálogo de tipos de recurso de una partida (espejo del enum del contrato). */
+435: export const RESOURCE_TYPES = [
+436:   { value: "MATERIAL", label: "Material" },
+437:   { value: "LABOR", label: "Mano de obra" },
+438:   { value: "EQUIPMENT", label: "Equipo" },
+439:   { value: "TRANSPORT", label: "Transporte" },
+440: ] as const;
+441: export type ResourceTypeValue = (typeof RESOURCE_TYPES)[number]["value"];
+442: 
+443: export function resourceTypeLabel(type: ResourceTypeValue): string {
+444:   return RESOURCE_TYPES.find((option) => option.value === type)?.label ?? type;
+445: }
+446: 
+447: export function isValidResourceType(raw: string): raw is ResourceTypeValue {
+448:   return (RESOURCE_TYPES as readonly { value: string }[]).some(
+449:     (option) => option.value === raw,
+450:   );
+451: }
+452: 
+453: /* ------------------------------------------------------------------ */
+454: /* Snapshot del APU (inmutable al cotizar)                             */
+455: /* ------------------------------------------------------------------ */
+456: 
+457: export type ApuSnapshotComponent = {
+458:   itemId: string;
+459:   code: string | null;
+460:   name: string;
+461:   unit: string;
+462:   category: ApuItemCategoryValue;
+463:   unitPrice: string;
+464:   consumption: string;
+465:   wastePercent: string;
+466:   calculatedCost: string;
+467: };
+468: 
+469: export type ApuSnapshot = {
+470:   activity: {
+471:     id: string;
+472:     code: string | null;
+473:     name: string;
+474:     unit: string;
+475:   };
+476:   unitCost: string;
+477:   components: ApuSnapshotComponent[];
+478: };
+479: 
+480: /**
+481:  * Construye el snapshot de una actividad ya leída con sus composiciones
+482:  * e insumos. Todo se serializa a strings: el snapshot guardado en `Json`
+483:  * queda inmutable aunque el catálogo APU cambie después.
+484:  */
+485: export function buildApuSnapshot(input: {
+486:   activity: {
+487:     id: string;
+488:     code: string | null;
+489:     name: string;
+490:     unit: string;
+491:   };
+492:   components: {
+493:     itemId: string;
+494:     code: string | null;
+495:     name: string;
+496:     unit: string;
+497:     category: ApuItemCategoryValue;
+498:     unitPrice: string;
+499:     consumption: string;
+500:     wastePercent: string;
+501:   }[];
+502: }): ApuSnapshot {
+503:   return {
+504:     activity: input.activity,
+505:     unitCost: activityUnitCost(
+506:       input.components.map((component) => ({
+507:         unitPrice: component.unitPrice,
+508:         consumption: component.consumption,
+509:         wastePercent: component.wastePercent,
+510:       })),
+511:     ),
+512:     components: input.components.map((component) => ({
+513:       ...component,
+514:       calculatedCost: moneyToString(
+515:         componentCost({
+516:           unitPrice: component.unitPrice,
+517:           consumption: component.consumption,
+518:           wastePercent: component.wastePercent,
+519:         }),
+520:       ),
+521:     })),
+522:   };
+523: }
+
+(End of file - total 523 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now write the budget validators. They use `parseMoney` (from apu-engine) for quantity and unitCost (micro), and `percentToMicro` for AIU percentages.
+
+Wait: quantity and unitCost are parsed with `parseMoney` which returns micro (1_000_000 = 1). Good — same scale as SCALE. So `parseMoney("1.5")` = 1_500_000. 
+
+For percentages: `percentToMicro("10")` = parseMoney("10")/100 = 10_000_000/100 = 100_000. Good.
+
+Limits: admin 30, imprev 20, util 30, iva 30. Use `isValidPercent(raw, max)`.
+
+QUANTITY_MAX — the brief says "QUANTITY_MAX=1_000_000" from my plan. Let me set a max for quantity as a value (not percent): max 1_000_000 units. And unitCost max maybe 1e12.
+
+Let me define constants.
+
+Validators:
+
+```ts
+import { isValidPercent, parseMoney } from "@/lib/apu-engine";
+import type { AiuConfigInput, CreateBudgetItemInput, CreateChapterInput } from "@/lib/tenant-db";
+
+export const CHAPTER_NAME_MAX = 120;
+export const CHAPTER_DESCRIPTION_MAX = 300;
+export const ITEM_CODE_MAX = 32;
+export const ITEM_DESCRIPTION_MAX = 300;
+export const UNIT_MAX = 16;
+export const QUANTITY_MAX = 1_000_000_000; // 1e9 unidades
+export const UNIT_COST_MAX = 1_000_000_000_000; // 1e12 COP
+export const AIU_ADMIN_MAX = 30;
+export const AIU_IMPREV_MAX = 20;
+export const AIU_UTILIDAD_MAX = 30;
+export const AIU_IVA_MAX = 30;
+```
+
+Now validation result shapes. Let me mirror: `{ ok: true, values } | { ok: false, errors, values }`.
+
+For createBudgetItem, the parsed input contains bigints; the form values contain strings. I'll define form values as strings and an `ok` variant that returns parsed `CreateBudgetItemInput`.
+
+But `CreateBudgetItemInput` is in tenant-db (server types). Importing type only is fine.
+
+Actually to avoid coupling, I can return the parsed values directly. But reusing the type is cleaner.
+
+Let me write:
+
+```ts
+export type ChapterFormValues = { name: string; description: string };
+export type ChapterFieldErrors = Partial<Record<keyof ChapterFormValues, string>>;
+export type ChapterValidation =
+  | { ok: true; values: ChapterFormValues; input: CreateChapterInput }
+  | { ok: false; errors: ChapterFieldErrors; values: ChapterFormValues };
+
+export function validateCreateChapter(formData: FormData): ChapterValidation {
+  const values: ChapterFormValues = {
+    name: String(formData.get("name") ?? "").trim(),
+    description: String(formData.get("description") ?? "").trim(),
+  };
+  const errors: ChapterFieldErrors = {};
+  if (!values.name) errors.name = "Ingresa el nombre del capítulo.";
+  else if (values.name.length > CHAPTER_NAME_MAX) errors.name = `Máximo ${CHAPTER_NAME_MAX} caracteres.`;
+  if (values.description.length > CHAPTER_DESCRIPTION_MAX) errors.description = `Máximo ${CHAPTER_DESCRIPTION_MAX} caracteres.`;
+  if (Object.keys(errors).length) return { ok: false, errors, values };
+  return { ok: true, values, input: { name: values.name, description: values.description || undefined } };
+}
+```
+
+Item:
+
+```ts
+export type BudgetItemFormValues = {
+  chapterId: string;
+  code: string;
+  description: string;
+  unit: string;
+  quantity: string;
+  unitCost: string;
+};
+```
+
+validate: chapterId required, code required? The brief mentions code per item. Let me require description, unit, quantity, unitCost, chapterId. Code optional (auto?). Hmm. I'll require code too? Let me make code optional but if provided validate length. Actually to keep it practical: code required, description required, unit required, quantity required positive, unitCost non-negative. Let me require code.
+
+Actually simpler: require description + unit + quantity + unitCost + chapterId; code optional (max length).
+
+The input maps quantity → parseMoney(quantity), unitCostDirect → parseMoney(unitCost).
+
+AIU:
+
+```ts
+export type AiuFormValues = { adminPct: string; imprevPct: string; utilidadPct: string; ivaUtilidadPct: string };
+```
+
+validate each: required, isValidPercent(value, max). Then input with percentToMicro.
+
+Also provide `aiuDefaults`? Not needed.
+
+Also a helper `aiuPercentFromMicro` maybe for UI: the UI needs to show current percent as "10" from stored micro. There's microToPercent in engine. Good.
+
+Now, error message for unit: should the unit be validated against APU_UNITS? The brief allows free unit? Let me validate non-empty and max length; optionally isValidUnit. I'll just require non-empty ≤ UNIT_MAX.
+
+Write the file.
+
+One more: createBudgetItem action needs projectId + reads form. The validator returns input including chapterId. Good.
+
+Let me write.</think>Ahora creo los validators del presupuesto:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts",
+  "content": "/**\n * Validación servidor del presupuestador APU & AIU (FASE 2 del vertical\n * construcción — Tab 2). Mirror de `projects/validators.ts`: sin dependencias\n * de servidor, devuelve siempre los valores leídos (para repintar formularios)\n * y los errores por campo. Las conversiones a micro-unidades reutilizan el\n * motor `@/lib/apu-engine` (nunca se parsea dinero a `number`).\n */\nimport { isValidPercent, parseMoney, percentToMicro } from \"@/lib/apu-engine\";\nimport type {\n  AiuConfigInput,\n  CreateBudgetItemInput,\n  CreateChapterInput,\n} from \"@/lib/tenant-db\";\n\nexport const CHAPTER_NAME_MAX = 120;\nexport const CHAPTER_DESCRIPTION_MAX = 300;\nexport const ITEM_CODE_MAX = 32;\nexport const ITEM_DESCRIPTION_MAX = 300;\nexport const UNIT_MAX = 16;\n\n/** Tope de cantidad por partida (unidades). */\nexport const QUANTITY_MAX = 1_000_000_000;\n/** Tope de costo unitario directo (COP). */\nexport const UNIT_COST_MAX = 1_000_000_000_000;\n\n/** Límites AIU (porcentaje máximo aceptado). */\nexport const AIU_ADMIN_MAX = 30;\nexport const AIU_IMPREV_MAX = 20;\nexport const AIU_UTILIDAD_MAX = 30;\nexport const AIU_IVA_MAX = 30;\n\nfunction within(value: string, max: number): boolean {\n  return value.length <= max;\n}\n\n/* ------------------------------------------------------------------ */\n/* Capítulos                                                           */\n/* ------------------------------------------------------------------ */\n\nexport type ChapterFormValues = {\n  name: string;\n  description: string;\n};\n\nexport type ChapterFieldErrors = Partial<\n  Record<keyof ChapterFormValues, string>\n>;\n\nexport type ChapterValidation =\n  | { ok: true; values: ChapterFormValues; input: CreateChapterInput }\n  | {\n      ok: false;\n      errors: ChapterFieldErrors;\n      values: ChapterFormValues;\n    };\n\nexport function validateCreateChapter(formData: FormData): ChapterValidation {\n  const values: ChapterFormValues = {\n    name: String(formData.get(\"name\") ?? \"\").trim(),\n    description: String(formData.get(\"description\") ?? \"\").trim(),\n  };\n  const errors: ChapterFieldErrors = {};\n\n  if (values.name.length === 0) {\n    errors.name = \"Ingresa el nombre del capítulo.\";\n  } else if (!within(values.name, CHAPTER_NAME_MAX)) {\n    errors.name = `Máximo ${CHAPTER_NAME_MAX} caracteres.`;\n  }\n  if (!within(values.description, CHAPTER_DESCRIPTION_MAX)) {\n    errors.description = `Máximo ${CHAPTER_DESCRIPTION_MAX} caracteres.`;\n  }\n\n  if (Object.keys(errors).length > 0) {\n    return { ok: false, errors, values };\n  }\n  return {\n    ok: true,\n    values,\n    input: {\n      name: values.name,\n      description: values.description === \"\" ? undefined : values.description,\n    },\n  };\n}\n\n/* ------------------------------------------------------------------ */\n/* Partidas (ítems)                                                    */\n/* ------------------------------------------------------------------ */\n\nexport type BudgetItemFormValues = {\n  chapterId: string;\n  code: string;\n  description: string;\n  unit: string;\n  quantity: string;\n  unitCost: string;\n};\n\nexport type BudgetItemFieldErrors = Partial<\n  Record<keyof BudgetItemFormValues, string>\n>;\n\nexport type BudgetItemValidation =\n  | { ok: true; values: BudgetItemFormValues; input: CreateBudgetItemInput }\n  | {\n      ok: false;\n      errors: BudgetItemFieldErrors;\n      values: BudgetItemFormValues;\n    };\n\nexport function validateCreateBudgetItem(\n  formData: FormData,\n): BudgetItemValidation {\n  const values: BudgetItemFormValues = {\n    chapterId: String(formData.get(\"chapterId\") ?? \"\").trim(),\n    code: String(formData.get(\"code\") ?? \"\").trim(),\n    description: String(formData.get(\"description\") ?? \"\").trim(),\n    unit: String(formData.get(\"unit\") ?? \"\").trim(),\n    quantity: String(formData.get(\"quantity\") ?? \"\").trim(),\n    unitCost: String(formData.get(\"unitCost\") ?? \"\").trim(),\n  };\n  const errors: BudgetItemFieldErrors = {};\n\n  if (values.chapterId.length === 0) {\n    errors.chapterId = \"Selecciona el capítulo de la partida.\";\n  }\n  if (values.description.length === 0) {\n    errors.description = \"Ingresa la descripción de la partida.\";\n  } else if (!within(values.description, ITEM_DESCRIPTION_MAX)) {\n    errors.description = `Máximo ${ITEM_DESCRIPTION_MAX} caracteres.`;\n  }\n  if (!within(values.code, ITEM_CODE_MAX)) {\n    errors.code = `Máximo ${ITEM_CODE_MAX} caracteres.`;\n  }\n  if (values.unit.length === 0) {\n    errors.unit = \"Ingresa la unidad de medida.\";\n  } else if (!within(values.unit, UNIT_MAX)) {\n    errors.unit = `Máximo ${UNIT_MAX} caracteres.`;\n  }\n\n  const quantity = parseMoney(values.quantity);\n  if (quantity === null) {\n    errors.quantity = \"Cantidad inválida (máx. 6 decimales).\";\n  } else if (quantity <= BigInt(0)) {\n    errors.quantity = \"La cantidad debe ser mayor que cero.\";\n  } else if (quantity > BigInt(QUANTITY_MAX) * BigInt(1_000_000)) {\n    errors.quantity = `La cantidad no puede superar ${QUANTITY_MAX.toLocaleString(\"es-CO\")}.`;\n  }\n\n  const unitCost = parseMoney(values.unitCost);\n  if (unitCost === null) {\n    errors.unitCost = \"Costo unitario inválido (máx. 6 decimales).\";\n  } else if (unitCost < BigInt(0)) {\n    errors.unitCost = \"El costo unitario no puede ser negativo.\";\n  } else if (unitCost > BigInt(UNIT_COST_MAX) * BigInt(1_000_000)) {\n    errors.unitCost = `El costo unitario no puede superar ${UNIT_COST_MAX.toLocaleString(\"es-CO\")}.`;\n  }\n\n  if (\n    Object.keys(errors).length > 0 ||\n    quantity === null ||\n    unitCost === null\n  ) {\n    return { ok: false, errors, values };\n  }\n  return {\n    ok: true,\n    values,\n    input: {\n      chapterId: values.chapterId,\n      code: values.code,\n      description: values.description,\n      unit: values.unit,\n      quantity,\n      unitCostDirect: unitCost,\n    },\n  };\n}\n\n/* ------------------------------------------------------------------ */\n/* Configuración AIU                                                   */\n/* ------------------------------------------------------------------ */\n\nexport type AiuFormValues = {\n  adminPct: string;\n  imprevPct: string;\n  utilidadPct: string;\n  ivaUtilidadPct: string;\n};\n\nexport type AiuFieldErrors = Partial<Record<keyof AiuFormValues, string>>;\n\nexport type AiuValidation =\n  | { ok: true; values: AiuFormValues; input: AiuConfigInput }\n  | { ok: false; errors: AiuFieldErrors; values: AiuFormValues };\n\ntype AiuField = {\n  key: keyof AiuFormValues;\n  max: number;\n  label: string;\n};\n\nconst AIU_FIELDS: readonly AiuField[] = [\n  { key: \"adminPct\", max: AIU_ADMIN_MAX, label: \"administración\" },\n  { key: \"imprevPct\", max: AIU_IMPREV_MAX, label: \"imprevistos\" },\n  { key: \"utilidadPct\", max: AIU_UTILIDAD_MAX, label: \"utilidad\" },\n  { key: \"ivaUtilidadPct\", max: AIU_IVA_MAX, label: \"IVA sobre utilidad\" },\n];\n\nexport function validateAiuConfig(formData: FormData): AiuValidation {\n  const values: AiuFormValues = {\n    adminPct: String(formData.get(\"adminPct\") ?? \"\").trim(),\n    imprevPct: String(formData.get(\"imprevPct\") ?? \"\").trim(),\n    utilidadPct: String(formData.get(\"utilidadPct\") ?? \"\").trim(),\n    ivaUtilidadPct: String(formData.get(\"ivaUtilidadPct\") ?? \"\").trim(),\n  };\n  const errors: AiuFieldErrors = {};\n\n  for (const field of AIU_FIELDS) {\n    const raw = values[field.key];\n    if (raw.length === 0) {\n      errors[field.key] = `Ingresa el porcentaje de ${field.label}.`;\n    } else if (!isValidPercent(raw, field.max)) {\n      errors[field.key] = `Porcentaje inválido (0 a ${field.max} %, máx. 6 decimales).`;\n    }\n  }\n\n  const adminPct = percentToMicro(values.adminPct);\n  const imprevPct = percentToMicro(values.imprevPct);\n  const utilidadPct = percentToMicro(values.utilidadPct);\n  const ivaUtilidadPct = percentToMicro(values.ivaUtilidadPct);\n\n  if (\n    Object.keys(errors).length > 0 ||\n    adminPct === null ||\n    imprevPct === null ||\n    utilidadPct === null ||\n    ivaUtilidadPct === null\n  ) {\n    return { ok: false, errors, values };\n  }\n  return {\n    ok: true,\n    values,\n    input: { adminPct, imprevPct, utilidadPct, ivaUtilidadPct },\n  };\n}\n"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+</think>Now the actions. Let me read the projects/actions.ts to copy the requireTenantContext + form-state pattern exactly.
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/actions.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/actions.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/actions.ts</path>
+<type>file</type>
+<content>
+1: "use server";
+2: 
+3: import { auth } from "@clerk/nextjs/server";
+4: import { revalidatePath } from "next/cache";
+5: import { db } from "@/prisma/db";
+6: import { createTenantDb, type ProjectDetail } from "@/lib/tenant-db";
+7: import {
+8:   projectHeaderToInput,
+9:   validateCreateProject,
+10:   validateProjectHeader,
+11:   type CreateProjectFieldErrors,
+12:   type CreateProjectFormValues,
+13:   type ProjectHeaderFieldErrors,
+14:   type ProjectHeaderFormValues,
+15: } from "./validators";
+16: 
+17: /* ------------------------------------------------------------------ */
+18: /* Tipos de estado (firma useActionState)                              */
+19: /* ------------------------------------------------------------------ */
+20: 
+21: export type CreateProjectFormState = {
+22:   status: "idle" | "error" | "ok";
+23:   message?: string;
+24:   errors?: CreateProjectFieldErrors;
+25:   values?: CreateProjectFormValues;
+26:   /** Id del proyecto creado (para navegar al detalle). */
+27:   projectId?: string;
+28: };
+29: 
+30: export type ProjectHeaderFormState = {
+31:   status: "idle" | "error" | "ok";
+32:   message?: string;
+33:   errors?: ProjectHeaderFieldErrors;
+34:   values?: ProjectHeaderFormValues;
+35: };
+36: 
+37: const ACCESS_DENIED_FORM = {
+38:   status: "error",
+39:   message: "No tienes acceso a este negocio.",
+40: } as const;
+41: 
+42: type TenantDb = ReturnType<typeof createTenantDb>;
+43: 
+44: type TenantContext = {
+45:   tenantId: string;
+46:   tenantDb: TenantDb;
+47: };
+48: 
+49: /**
+50:  * Verifica sesión de Clerk + tenant activo + membresía del usuario.
+51:  * Devuelve `null` cuando algo falla (el caller responde con mensaje genérico).
+52:  */
+53: async function requireTenantContext(
+54:   tenantSlug: string,
+55: ): Promise<TenantContext | null> {
+56:   if (!tenantSlug || tenantSlug.trim() === "") {
+57:     return null;
+58:   }
+59:   const { userId } = await auth();
+60:   if (!userId) {
+61:     return null;
+62:   }
+63:   const tenantRecord = await db.orm.public.Tenant.where({
+64:     slug: tenantSlug,
+65:     active: true,
+66:   }).first();
+67:   if (!tenantRecord) {
+68:     return null;
+69:   }
+70:   const tenantDb = createTenantDb(tenantRecord.id);
+71:   const member = await tenantDb.users.findByClerkUserId(userId);
+72:   if (!member) {
+73:     return null;
+74:   }
+75:   return {
+76:     tenantId: tenantRecord.id,
+77:     tenantDb,
+78:   };
+79: }
+80: 
+81: /** Detecta violación de clave única (código duplicado en el tenant). */
+82: function isUniqueViolation(error: unknown): boolean {
+83:   return (
+84:     error instanceof Error &&
+85:     /duplicate key value violates unique constraint/i.test(error.message)
+86:   );
+87: }
+88: 
+89: /* ------------------------------------------------------------------ */
+90: /* Proyectos                                                           */
+91: /* ------------------------------------------------------------------ */
+92: 
+93: export async function createProjectAction(
+94:   _prevState: CreateProjectFormState,
+95:   formData: FormData,
+96: ): Promise<CreateProjectFormState> {
+97:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+98:   const context = await requireTenantContext(tenantSlug);
+99:   if (!context) {
+100:     return ACCESS_DENIED_FORM;
+101:   }
+102:   const { tenantDb } = context;
+103: 
+104:   const validation = validateCreateProject(formData);
+105:   if (!validation.ok) {
+106:     return {
+107:       status: "error",
+108:       errors: validation.errors,
+109:       values: validation.values,
+110:     };
+111:   }
+112: 
+113:   let project: ProjectDetail;
+114:   try {
+115:     project = await tenantDb.projects.create({
+116:       customerId: validation.values.customerId,
+117:       name: validation.values.name,
+118:       description: validation.values.description || undefined,
+119:     });
+120:   } catch (error) {
+121:     if (
+122:       error instanceof Error &&
+123:       error.message.includes("Cliente no encontrado")
+124:     ) {
+125:       return {
+126:         status: "error",
+127:         message: error.message,
+128:         values: validation.values,
+129:       };
+130:     }
+131:     if (isUniqueViolation(error)) {
+132:       return {
+133:         status: "error",
+134:         message: "Ya existe un proyecto con ese código en este negocio.",
+135:         values: validation.values,
+136:       };
+137:     }
+138:     throw error;
+139:   }
+140: 
+141:   revalidatePath(`/${tenantSlug}/quotes/projects`);
+142:   return {
+143:     status: "ok",
+144:     message: `Proyecto ${project.code} creado como borrador.`,
+145:     projectId: project.id,
+146:   };
+147: }
+148: 
+149: export async function updateProjectHeaderAction(
+150:   _prevState: ProjectHeaderFormState,
+151:   formData: FormData,
+152: ): Promise<ProjectHeaderFormState> {
+153:   const tenantSlug = String(formData.get("tenantSlug") ?? "");
+154:   const projectId = String(formData.get("projectId") ?? "");
+155:   const context = await requireTenantContext(tenantSlug);
+156:   if (!context) {
+157:     return ACCESS_DENIED_FORM;
+158:   }
+159:   const { tenantDb } = context;
+160: 
+161:   if (!projectId) {
+162:     return { status: "error", message: "Proyecto no válido." };
+163:   }
+164: 
+165:   const validation = validateProjectHeader(formData);
+166:   if (!validation.ok) {
+167:     return {
+168:       status: "error",
+169:       errors: validation.errors,
+170:       values: validation.values,
+171:     };
+172:   }
+173: 
+174:   const updated = await tenantDb.projectHeaders.update(
+175:     projectId,
+176:     projectHeaderToInput(validation.values),
+177:   );
+178:   if (!updated) {
+179:     return {
+180:       status: "error",
+181:       message: "No se encontró el proyecto en este negocio.",
+182:     };
+183:   }
+184: 
+185:   revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);
+186:   return { status: "ok", message: "Ficha guardada." };
+187: }
+
+(End of file - total 187 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now write the budget actions. Four actions: getOrCreateProjectBudgetAction, createChapterAction, createBudgetItemAction, updateAiuConfigAction. Plus maybe toggleLockAction (setLocked) — brief mentions isLocked; I added setLocked. Let me include a toggleLockAction too since UI has locked state. Actually brief's required actions list: getOrCreateProjectBudgetAction, createChapterAction, createBudgetItemAction, updateAiuConfigAction. I'll add toggleBudgetLockAction as a bonus for the lock control. Keep it.
+
+getOrCreateProjectBudgetAction signature: not a form action; return ProjectBudgetData | null. It's called by the server page directly? Actually the plan says page.tsx calls tenantDb.budgets.getOrCreate. But brief asks for the action. I'll implement it as a server function that returns `{ok, budget}` or throws. Let me make it return `ProjectBudgetData | null` (null if no access). Keep simple:
+
+```ts
+export async function getOrCreateProjectBudgetAction(tenantSlug: string, projectId: string): Promise<ProjectBudgetData | null>
+```
+
+Server-only helper for the page.
+
+Form actions follow useActionState signature.
+
+Let me write.</think>Ahora las server actions del presupuesto:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/budget/actions.ts
+
+**Input:**
+```json
+{
+  "content": "\"use server\";\n\nimport { auth } from \"@clerk/nextjs/server\";\nimport { revalidatePath } from \"next/cache\";\nimport { db } from \"@/prisma/db\";\nimport {\n  createTenantDb,\n  type ProjectBudgetData,\n} from \"@/lib/tenant-db\";\nimport {\n  validateAiuConfig,\n  validateCreateBudgetItem,\n  validateCreateChapter,\n  type AiuFieldErrors,\n  type AiuFormValues,\n  type BudgetItemFieldErrors,\n  type BudgetItemFormValues,\n  type ChapterFieldErrors,\n  type ChapterFormValues,\n} from \"./validators\";\n\n/* ------------------------------------------------------------------ */\n/* Tipos de estado (firma useActionState)                              */\n/* ------------------------------------------------------------------ */\n\nexport type ChapterFormState = {\n  status: \"idle\" | \"error\" | \"ok\";\n  message?: string;\n  errors?: ChapterFieldErrors;\n  values?: ChapterFormValues;\n};\n\nexport type BudgetItemFormState = {\n  status: \"idle\" | \"error\" | \"ok\";\n  message?: string;\n  errors?: BudgetItemFieldErrors;\n  values?: BudgetItemFormValues;\n};\n\nexport type AiuFormState = {\n  status: \"idle\" | \"error\" | \"ok\";\n  message?: string;\n  errors?: AiuFieldErrors;\n  values?: AiuFormValues;\n};\n\nconst ACCESS_DENIED_FORM = {\n  status: \"error\",\n  message: \"No tienes acceso a este negocio.\",\n} as const;\n\ntype TenantDb = ReturnType<typeof createTenantDb>;\n\ntype TenantContext = {\n  tenantId: string;\n  tenantDb: TenantDb;\n};\n\n/**\n * Verifica sesión de Clerk + tenant activo + membresía del usuario.\n * Devuelve `null` cuando algo falla (el caller responde con error genérico).\n */\nasync function requireTenantContext(\n  tenantSlug: string,\n): Promise<TenantContext | null> {\n  if (!tenantSlug || tenantSlug.trim() === \"\") {\n    return null;\n  }\n  const { userId } = await auth();\n  if (!userId) {\n    return null;\n  }\n  const tenantRecord = await db.orm.public.Tenant.where({\n    slug: tenantSlug,\n    active: true,\n  }).first();\n  if (!tenantRecord) {\n    return null;\n  }\n  const tenantDb = createTenantDb(tenantRecord.id);\n  const member = await tenantDb.users.findByClerkUserId(userId);\n  if (!member) {\n    return null;\n  }\n  return { tenantId: tenantRecord.id, tenantDb };\n}\n\n/* ------------------------------------------------------------------ */\n/* Lectura / creación del presupuesto                                  */\n/* ------------------------------------------------------------------ */\n\n/**\n * Devuelve el presupuesto del proyecto creándolo si no existe (1:1). Pensado\n * para la carga del Tab 2 en el servidor: `null` si no hay acceso.\n */\nexport async function getOrCreateProjectBudgetAction(\n  tenantSlug: string,\n  projectId: string,\n): Promise<ProjectBudgetData | null> {\n  const context = await requireTenantContext(tenantSlug);\n  if (!context || !projectId) {\n    return null;\n  }\n  try {\n    return await context.tenantDb.budgets.getOrCreate(projectId);\n  } catch {\n    return null;\n  }\n}\n\n/* ------------------------------------------------------------------ */\n/* Capítulos                                                           */\n/* ------------------------------------------------------------------ */\n\nexport async function createChapterAction(\n  _prevState: ChapterFormState,\n  formData: FormData,\n): Promise<ChapterFormState> {\n  const tenantSlug = String(formData.get(\"tenantSlug\") ?? \"\");\n  const projectId = String(formData.get(\"projectId\") ?? \"\");\n  const context = await requireTenantContext(tenantSlug);\n  if (!context) {\n    return ACCESS_DENIED_FORM;\n  }\n  if (!projectId) {\n    return { status: \"error\", message: \"Proyecto no válido.\" };\n  }\n\n  const validation = validateCreateChapter(formData);\n  if (!validation.ok) {\n    return {\n      status: \"error\",\n      errors: validation.errors,\n      values: validation.values,\n    };\n  }\n\n  try {\n    await context.tenantDb.budgets.createChapter(projectId, validation.input);\n  } catch (error) {\n    return {\n      status: \"error\",\n      message:\n        error instanceof Error\n          ? error.message\n          : \"No se pudo crear el capítulo.\",\n      values: validation.values,\n    };\n  }\n\n  revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);\n  return { status: \"ok\", message: \"Capítulo creado.\" };\n}\n\n/* ------------------------------------------------------------------ */\n/* Partidas                                                            */\n/* ------------------------------------------------------------------ */\n\nexport async function createBudgetItemAction(\n  _prevState: BudgetItemFormState,\n  formData: FormData,\n): Promise<BudgetItemFormState> {\n  const tenantSlug = String(formData.get(\"tenantSlug\") ?? \"\");\n  const projectId = String(formData.get(\"projectId\") ?? \"\");\n  const context = await requireTenantContext(tenantSlug);\n  if (!context) {\n    return ACCESS_DENIED_FORM;\n  }\n  if (!projectId) {\n    return { status: \"error\", message: \"Proyecto no válido.\" };\n  }\n\n  const validation = validateCreateBudgetItem(formData);\n  if (!validation.ok) {\n    return {\n      status: \"error\",\n      errors: validation.errors,\n      values: validation.values,\n    };\n  }\n\n  try {\n    await context.tenantDb.budgets.createItem(projectId, validation.input);\n  } catch (error) {\n    return {\n      status: \"error\",\n      message:\n        error instanceof Error\n          ? error.message\n          : \"No se pudo crear la partida.\",\n      values: validation.values,\n    };\n  }\n\n  revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);\n  return { status: \"ok\", message: \"Partida creada.\" };\n}\n\n/* ------------------------------------------------------------------ */\n/* Configuración AIU                                                   */\n/* ------------------------------------------------------------------ */\n\nexport async function updateAiuConfigAction(\n  _prevState: AiuFormState,\n  formData: FormData,\n): Promise<AiuFormState> {\n  const tenantSlug = String(formData.get(\"tenantSlug\") ?? \"\");\n  const projectId = String(formData.get(\"projectId\") ?? \"\");\n  const context = await requireTenantContext(tenantSlug);\n  if (!context) {\n    return ACCESS_DENIED_FORM;\n  }\n  if (!projectId) {\n    return { status: \"error\", message: \"Proyecto no válido.\" };\n  }\n\n  const validation = validateAiuConfig(formData);\n  if (!validation.ok) {\n    return {\n      status: \"error\",\n      errors: validation.errors,\n      values: validation.values,\n    };\n  }\n\n  try {\n    await context.tenantDb.budgets.updateAiu(projectId, validation.input);\n  } catch (error) {\n    return {\n      status: \"error\",\n      message:\n        error instanceof Error\n          ? error.message\n          : \"No se pudo actualizar el AIU.\",\n      values: validation.values,\n    };\n  }\n\n  revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);\n  return { status: \"ok\", message: \"Configuración AIU actualizada.\" };\n}\n\n/* ------------------------------------------------------------------ */\n/* Bloqueo del presupuesto                                             */\n/* ------------------------------------------------------------------ */\n\nexport async function toggleBudgetLockAction(\n  tenantSlug: string,\n  projectId: string,\n  isLocked: boolean,\n): Promise<{ ok: boolean; message?: string }> {\n  const context = await requireTenantContext(tenantSlug);\n  if (!context || !projectId) {\n    return { ok: false, message: \"No tienes acceso a este negocio.\" };\n  }\n  try {\n    await context.tenantDb.budgets.setLocked(projectId, isLocked);\n  } catch (error) {\n    return {\n      ok: false,\n      message:\n        error instanceof Error\n          ? error.message\n          : \"No se pudo cambiar el bloqueo.\",\n    };\n  }\n  revalidatePath(`/${tenantSlug}/quotes/projects/${projectId}`);\n  return { ok: true };\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/budget/actions.ts"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now the UI. Let me first read the existing detail page and its components to match patterns, plus the Modal component and Card/Button usage. Let me read the project detail page, project-tabs, new-project-modal, and the modal component.</think>Ahora la UI. Reviso la página de detalle, tabs, y patrones de modales:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx</path>
+<type>file</type>
+<content>
+1: import { notFound } from "next/navigation";
+2: import Link from "next/link";
+3: import { ArrowLeft, CalendarDays, Construction, User } from "lucide-react";
+4: import { db } from "@/prisma/db";
+5: import { createTenantDb } from "@/lib/tenant-db";
+6: import { PROJECT_TABS, parseProjectTab } from "@/lib/projects";
+7: import { ProjectStatusBadge } from "../_components/project-status-badge";
+8: import ProjectTabs from "./_components/project-tabs";
+9: import ProjectHeaderForm from "./_components/project-header-form";
+10: 
+11: function firstString(value: string | string[] | undefined): string {
+12:   return Array.isArray(value) ? (value[0] ?? "") : (value ?? "");
+13: }
+14: 
+15: function formatDate(value: string): string {
+16:   const date = new Date(value);
+17:   if (Number.isNaN(date.getTime())) {
+18:     return "";
+19:   }
+20:   return new Intl.DateTimeFormat("es-CO", {
+21:     day: "2-digit",
+22:     month: "long",
+23:     year: "numeric",
+24:     timeZone: "America/Bogota",
+25:   }).format(date);
+26: }
+27: 
+28: /** Placeholder de las pestañas que llegan en fases posteriores del vertical. */
+29: function TabPlaceholder({ label }: { label: string }) {
+30:   return (
+31:     <div className="rounded-lg border border-dashed border-border bg-card p-8 text-center">
+32:       <Construction
+33:         aria-hidden="true"
+34:         className="mx-auto h-6 w-6 text-muted-foreground"
+35:       />
+36:       <p className="mt-3 text-sm font-medium text-foreground">{label}</p>
+37:       <p className="mx-auto mt-1 max-w-md text-xs text-muted-foreground">
+38:         Esta sección llega en una próxima fase del vertical de construcción.
+39:         FASE 1 entrega el contenedor y la ficha del proyecto (tab “Ficha y
+40:         cliente”).
+41:       </p>
+42:     </div>
+43:   );
+44: }
+45: 
+46: /**
+47:  * Contenedor del proyecto de obra (XI.00). Pestaña activa vía `?tab=`
+48:  * (FASE 1: solo `ficha` tiene contenido).
+49:  */
+50: export default async function ProjectDetailPage({
+51:   params,
+52:   searchParams,
+53: }: {
+54:   params: Promise<{ tenant: string; projectId: string }>;
+55:   searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+56: }) {
+57:   const { tenant: tenantSlug, projectId } = await params;
+58:   const sp = await searchParams;
+59:   const tab = parseProjectTab(firstString(sp.tab));
+60: 
+61:   const tenantRecord = await db.orm.public.Tenant.where({
+62:     slug: tenantSlug,
+63:     active: true,
+64:   }).first();
+65:   if (!tenantRecord) {
+66:     notFound();
+67:   }
+68: 
+69:   const tenantDb = createTenantDb(tenantRecord.id);
+70:   const project = await tenantDb.projects.get(projectId);
+71:   if (!project) {
+72:     notFound();
+73:   }
+74: 
+75:   const activeLabel =
+76:     PROJECT_TABS.find((entry) => entry.value === tab)?.label ?? "";
+77: 
+78:   return (
+79:     <div className="space-y-6">
+80:       <header className="space-y-2">
+81:         <Link
+82:           href={`/${tenantSlug}/quotes/projects`}
+83:           className="inline-flex items-center gap-1 text-sm text-muted-foreground transition hover:text-foreground"
+84:         >
+85:           <ArrowLeft aria-hidden="true" className="h-4 w-4" />
+86:           Volver a proyectos
+87:         </Link>
+88:         <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+89:           <div className="min-w-0">
+90:             <div className="flex flex-wrap items-center gap-2">
+91:               <span className="font-mono text-xs font-medium text-accent-text">
+92:                 {project.code}
+93:               </span>
+94:               <ProjectStatusBadge status={project.status} />
+95:             </div>
+96:             <h1 className="mt-1 text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
+97:               {project.name}
+98:             </h1>
+99:             {project.description ? (
+100:               <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
+101:                 {project.description}
+102:               </p>
+103:             ) : null}
+104:             <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted-foreground">
+105:               <span className="inline-flex items-center gap-1">
+106:                 <User aria-hidden="true" className="h-3.5 w-3.5" />
+107:                 {project.customerName}
+108:               </span>
+109:               <span className="inline-flex items-center gap-1">
+110:                 <CalendarDays aria-hidden="true" className="h-3.5 w-3.5" />
+111:                 Creado el {formatDate(project.createdAt)}
+112:               </span>
+113:             </div>
+114:           </div>
+115:         </div>
+116:       </header>
+117: 
+118:       <ProjectTabs activeTab={tab}>
+119:         {tab === "ficha" ? (
+120:           <div className="grid gap-6 lg:grid-cols-3">
+121:             <div className="lg:col-span-2">
+122:               <ProjectHeaderForm
+123:                 tenantSlug={tenantSlug}
+124:                 projectId={project.id}
+125:                 header={project.header}
+126:               />
+127:             </div>
+128:             <aside className="space-y-4">
+129:               <div className="rounded-lg border border-border bg-card p-5">
+130:                 <h2 className="text-sm font-semibold text-foreground">
+131:                   Resumen del proyecto
+132:                 </h2>
+133:                 <dl className="mt-3 space-y-2 text-sm">
+134:                   <div className="flex justify-between gap-4">
+135:                     <dt className="text-muted-foreground">Código</dt>
+136:                     <dd className="font-mono text-xs font-medium text-foreground">
+137:                       {project.code}
+138:                     </dd>
+139:                   </div>
+140:                   <div className="flex justify-between gap-4">
+141:                     <dt className="text-muted-foreground">Cliente</dt>
+142:                     <dd className="truncate font-medium text-foreground">
+143:                       {project.customerName}
+144:                     </dd>
+145:                   </div>
+146:                   <div className="flex items-center justify-between gap-4">
+147:                     <dt className="text-muted-foreground">Estado</dt>
+148:                     <dd>
+149:                       <ProjectStatusBadge status={project.status} />
+150:                     </dd>
+151:                   </div>
+152:                   <div className="flex justify-between gap-4">
+153:                     <dt className="text-muted-foreground">Actualizado</dt>
+154:                     <dd className="text-foreground">
+155:                       {formatDate(project.updatedAt)}
+156:                     </dd>
+157:                   </div>
+158:                 </dl>
+159:               </div>
+160:               <div className="rounded-lg border border-dashed border-border bg-card p-5 text-xs text-muted-foreground">
+161:                 El maestro del cliente vive en el{" "}
+162:                 <Link
+163:                   href={`/${tenantSlug}/crm`}
+164:                   className="font-medium text-accent-text hover:underline"
+165:                 >
+166:                   CRM
+167:                 </Link>
+168:                 . Esta ficha guarda el snapshot que aplica a esta obra.
+169:               </div>
+170:             </aside>
+171:           </div>
+172:         ) : (
+173:           <TabPlaceholder label={activeLabel} />
+174:         )}
+175:       </ProjectTabs>
+176:     </div>
+177:   );
+178: }
+
+(End of file - total 178 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/project-tabs.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/project-tabs.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/project-tabs.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import { useTransition } from "react";
+4: import { usePathname, useRouter, useSearchParams } from "next/navigation";
+5: import { cn } from "@/lib/cn";
+6: import { PROJECT_TABS, type ProjectTab } from "@/lib/projects";
+7: 
+8: /**
+9:  * Navegación por pestañas del contenedor de proyecto (XI.00). La URL es la
+10:  * fuente de verdad (`?tab=`): cada pestaña re-renderiza en el servidor con
+11:  * los datos frescos. FASE 1: solo `ficha` tiene contenido.
+12:  */
+13: export default function ProjectTabs({
+14:   activeTab,
+15:   children,
+16: }: {
+17:   activeTab: ProjectTab;
+18:   children: React.ReactNode;
+19: }) {
+20:   const router = useRouter();
+21:   const pathname = usePathname();
+22:   const searchParams = useSearchParams();
+23:   const [isPending, startTransition] = useTransition();
+24: 
+25:   const navigate = (next: ProjectTab) => {
+26:     if (next === activeTab) {
+27:       return;
+28:     }
+29:     const params = new URLSearchParams(searchParams.toString());
+30:     params.set("tab", next);
+31:     startTransition(() => {
+32:       router.push(`${pathname}?${params.toString()}`, { scroll: false });
+33:     });
+34:   };
+35: 
+36:   return (
+37:     <div className="space-y-5">
+38:       <div className="flex flex-wrap gap-1 border-b border-border">
+39:         {PROJECT_TABS.map((tab) => (
+40:           <button
+41:             key={tab.value}
+42:             type="button"
+43:             onClick={() => navigate(tab.value)}
+44:             aria-current={activeTab === tab.value ? "page" : undefined}
+45:             className={cn(
+46:               "-mb-px inline-flex items-center gap-1.5 border-b-2 px-3 py-2 text-sm font-medium transition",
+47:               activeTab === tab.value
+48:                 ? "border-accent text-accent-text"
+49:                 : "border-transparent text-muted-foreground hover:border-border-strong hover:text-foreground/80",
+50:             )}
+51:           >
+52:             {tab.label}
+53:           </button>
+54:         ))}
+55:         {isPending ? (
+56:           <span className="ml-2 self-center text-xs text-muted-foreground">
+57:             Cargando…
+58:           </span>
+59:         ) : null}
+60:       </div>
+61:       <div>{children}</div>
+62:     </div>
+63:   );
+64: }
+
+(End of file - total 64 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/_components/new-project-modal.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/_components/new-project-modal.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/_components/new-project-modal.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import { useEffect, useActionState, useState } from "react";
+4: import Link from "next/link";
+5: import { useRouter } from "next/navigation";
+6: import { Plus } from "lucide-react";
+7: import { NLoader } from "@/components/brand/n-loader";
+8: import Modal from "../../_components/modal";
+9: import { createProjectAction, type CreateProjectFormState } from "../actions";
+10: 
+11: const IDLE_STATE: CreateProjectFormState = { status: "idle" };
+12: 
+13: const FIELD_CLASS = (hasError: boolean) =>
+14:   [
+15:     "mt-1 h-10 w-full rounded-lg border bg-card px-3 text-sm text-foreground transition placeholder:text-muted-foreground focus:outline-2",
+16:     hasError
+17:       ? "border-destructive/30 focus:border-destructive focus:outline-destructive/30"
+18:       : "border-border hover:border-foreground/20 focus:border-gold-500 focus:outline-gold-600/30",
+19:   ].join(" ");
+20: 
+21: /**
+22:  * Botón + modal de creación de proyecto. El estado lo maneja el Server
+23:  * Action vía `useActionState`; al confirmar navega al detalle recién creado
+24:  * (el código correlativo lo asigna el servidor).
+25:  */
+26: export default function NewProjectModal({
+27:   tenantSlug,
+28:   customers,
+29: }: {
+30:   tenantSlug: string;
+31:   customers: { id: string; name: string }[];
+32: }) {
+33:   const [open, setOpen] = useState(false);
+34:   const [state, formAction, isPending] = useActionState(
+35:     createProjectAction,
+36:     IDLE_STATE,
+37:   );
+38:   const router = useRouter();
+39: 
+40:   // Al crear con éxito, abre el contenedor del proyecto.
+41:   useEffect(() => {
+42:     if (state.status === "ok" && state.projectId) {
+43:       router.push(`/${tenantSlug}/quotes/projects/${state.projectId}`);
+44:     }
+45:   }, [state, router, tenantSlug]);
+46: 
+47:   const errors = state.errors ?? {};
+48: 
+49:   return (
+50:     <>
+51:       <button
+52:         type="button"
+53:         onClick={() => setOpen(true)}
+54:         className="inline-flex h-10 items-center gap-1.5 rounded-lg bg-primary px-3 text-sm font-medium text-primary-foreground transition hover:bg-primary/90"
+55:       >
+56:         <Plus aria-hidden="true" className="h-4 w-4" />
+57:         Nuevo proyecto
+58:       </button>
+59: 
+60:       <Modal
+61:         open={open}
+62:         onClose={() => {
+63:           if (!isPending) {
+64:             setOpen(false);
+65:           }
+66:         }}
+67:         title="Nuevo proyecto de obra"
+68:       >
+69:         {customers.length === 0 ? (
+70:           <div className="space-y-3 py-2">
+71:             <p className="text-sm text-muted-foreground">
+72:               Necesitas al menos un cliente en el CRM para crear un proyecto.
+73:             </p>
+74:             <Link
+75:               href={`/${tenantSlug}/crm`}
+76:               className="inline-flex h-10 items-center rounded-lg border border-border bg-card px-4 text-sm font-medium text-foreground/80 transition hover:bg-muted"
+77:             >
+78:               Ir al CRM
+79:             </Link>
+80:           </div>
+81:         ) : (
+82:           <form action={formAction} className="space-y-4" noValidate>
+83:             <input type="hidden" name="tenantSlug" value={tenantSlug} />
+84: 
+85:             <div>
+86:               <label
+87:                 htmlFor="project-customer"
+88:                 className="text-sm font-medium text-foreground/80"
+89:               >
+90:                 Cliente <span className="text-destructive">*</span>
+91:               </label>
+92:               <select
+93:                 id="project-customer"
+94:                 name="customerId"
+95:                 defaultValue={state.values?.customerId ?? ""}
+96:                 aria-invalid={Boolean(errors.customerId)}
+97:                 className={FIELD_CLASS(Boolean(errors.customerId))}
+98:               >
+99:                 <option value="">Selecciona el cliente…</option>
+100:                 {customers.map((customer) => (
+101:                   <option key={customer.id} value={customer.id}>
+102:                     {customer.name}
+103:                   </option>
+104:                 ))}
+105:               </select>
+106:               {errors.customerId ? (
+107:                 <p role="alert" className="mt-1 text-xs text-destructive">
+108:                   {errors.customerId}
+109:                 </p>
+110:               ) : null}
+111:             </div>
+112: 
+113:             <div>
+114:               <label
+115:                 htmlFor="project-name"
+116:                 className="text-sm font-medium text-foreground/80"
+117:               >
+118:                 Nombre del proyecto <span className="text-destructive">*</span>
+119:               </label>
+120:               <input
+121:                 id="project-name"
+122:                 name="name"
+123:                 defaultValue={state.values?.name ?? ""}
+124:                 placeholder="Ej. Torre Norte — Etapa 2"
+125:                 aria-invalid={Boolean(errors.name)}
+126:                 className={FIELD_CLASS(Boolean(errors.name))}
+127:               />
+128:               {errors.name ? (
+129:                 <p role="alert" className="mt-1 text-xs text-destructive">
+130:                   {errors.name}
+131:                 </p>
+132:               ) : null}
+133:             </div>
+134: 
+135:             <div>
+136:               <label
+137:                 htmlFor="project-description"
+138:                 className="text-sm font-medium text-foreground/80"
+139:               >
+140:                 Descripción
+141:               </label>
+142:               <textarea
+143:                 id="project-description"
+144:                 name="description"
+145:                 rows={3}
+146:                 defaultValue={state.values?.description ?? ""}
+147:                 placeholder="Alcance general de la obra (opcional)."
+148:                 aria-invalid={Boolean(errors.description)}
+149:                 className="mt-1 w-full rounded-lg border border-border bg-card px-3 py-2 text-sm text-foreground transition placeholder:text-muted-foreground hover:border-foreground/20 focus:border-gold-500 focus:outline-2 focus:outline-gold-600/30"
+150:               />
+151:               {errors.description ? (
+152:                 <p role="alert" className="mt-1 text-xs text-destructive">
+153:                   {errors.description}
+154:                 </p>
+155:               ) : null}
+156:             </div>
+157: 
+158:             {state.status === "error" && state.message ? (
+159:               <p
+160:                 role="alert"
+161:                 className="rounded-lg bg-destructive/10 px-3 py-2 text-sm text-destructive"
+162:               >
+163:                 {state.message}
+164:               </p>
+165:             ) : null}
+166: 
+167:             <div className="flex justify-end gap-2 pt-1">
+168:               <button
+169:                 type="button"
+170:                 disabled={isPending}
+171:                 onClick={() => setOpen(false)}
+172:                 className="h-10 rounded-lg border border-border bg-card px-4 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:opacity-50"
+173:               >
+174:                 Cancelar
+175:               </button>
+176:               <button
+177:                 type="submit"
+178:                 disabled={isPending}
+179:                 className="inline-flex h-10 items-center gap-2 rounded-lg bg-primary px-4 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-60"
+180:               >
+181:                 {isPending ? (
+182:                   <NLoader size={16} className="text-current" />
+183:                 ) : null}
+184:                 {isPending ? "Creando…" : "Crear proyecto"}
+185:               </button>
+186:             </div>
+187:           </form>
+188:         )}
+189:       </Modal>
+190:     </>
+191:   );
+192: }
+
+(End of file - total 192 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/_components/modal.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/_components/modal.tsx"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/_components/modal.tsx</path>
+<type>file</type>
+<content>
+1: "use client";
+2: 
+3: import { useCallback, useEffect } from "react";
+4: import { X } from "lucide-react";
+5: 
+6: /**
+7:  * Modal minimalista (sin dependencias): cierra con Escape o click en el
+8:  * overlay. Contenido arbitrario vía children; `onClose` siempre presente.
+9:  */
+10: export default function Modal({
+11:   open,
+12:   onClose,
+13:   title,
+14:   children,
+15:   wide = false,
+16: }: {
+17:   open: boolean;
+18:   onClose: () => void;
+19:   title: string;
+20:   children: React.ReactNode;
+21:   wide?: boolean;
+22: }) {
+23:   const handleKeyDown = useCallback(
+24:     (event: KeyboardEvent) => {
+25:       if (event.key === "Escape") {
+26:         onClose();
+27:       }
+28:     },
+29:     [onClose],
+30:   );
+31: 
+32:   useEffect(() => {
+33:     if (!open) {
+34:       return;
+35:     }
+36:     document.addEventListener("keydown", handleKeyDown);
+37:     return () => document.removeEventListener("keydown", handleKeyDown);
+38:   }, [open, handleKeyDown]);
+39: 
+40:   if (!open) {
+41:     return null;
+42:   }
+43: 
+44:   return (
+45:     <div
+46:       role="dialog"
+47:       aria-modal="true"
+48:       aria-label={title}
+49:       className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-ink/40 p-4 backdrop-blur-sm sm:py-12"
+50:       onMouseDown={(event) => {
+51:         if (event.target === event.currentTarget) {
+52:           onClose();
+53:         }
+54:       }}
+55:     >
+56:       <div
+57:         className={`w-full ${
+58:           wide ? "max-w-3xl" : "max-w-xl"
+59:         } rounded-lg border border-border bg-card shadow-popover`}
+60:       >
+61:         <div className="flex items-center justify-between gap-4 border-b border-border px-5 py-4">
+62:           <h2 className="text-base font-semibold text-foreground">{title}</h2>
+63:           <button
+64:             type="button"
+65:             aria-label="Cerrar"
+66:             onClick={onClose}
+67:             className="rounded-lg p-1.5 text-muted-foreground transition hover:bg-muted hover:text-muted-foreground"
+68:           >
+69:             <X aria-hidden="true" className="h-5 w-5" />
+70:           </button>
+71:         </div>
+72:         <div className="px-5 py-4">{children}</div>
+73:       </div>
+74:     </div>
+75:   );
+76: }
+
+(End of file - total 76 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now let me look at the projects.ts catalog for PROJECT_TABS (does "presupuesto" tab exist?) and the badge component.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/projects.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/projects.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/projects.ts</path>
+<type>file</type>
+<content>
+1: /**
+2:  * Dominio Proyectos (vertical construcción, FASE 1).
+3:  *
+4:  * Catálogo de estados, etiquetas y opciones de la ficha. El contrato
+5:  * (`ProjectStatus` en `prisma/contract.prisma`) es la fuente de verdad de
+6:  * los valores; este módulo solo agrega la capa de presentación/validación.
+7:  */
+8: 
+9: export type ProjectStatusValue =
+10:   | "DRAFT"
+11:   | "BIDDING"
+12:   | "APPROVED"
+13:   | "IN_EXECUTION"
+14:   | "COMPLETED"
+15:   | "CANCELLED";
+16: 
+17: export const PROJECT_STATUSES: ReadonlyArray<{
+18:   value: ProjectStatusValue;
+19:   label: string;
+20: }> = [
+21:   { value: "DRAFT", label: "Borrador" },
+22:   { value: "BIDDING", label: "En licitación" },
+23:   { value: "APPROVED", label: "Aprobado" },
+24:   { value: "IN_EXECUTION", label: "En ejecución" },
+25:   { value: "COMPLETED", label: "Completado" },
+26:   { value: "CANCELLED", label: "Cancelado" },
+27: ];
+28: 
+29: export function projectStatusLabel(status: ProjectStatusValue): string {
+30:   return (
+31:     PROJECT_STATUSES.find((entry) => entry.value === status)?.label ?? status
+32:   );
+33: }
+34: 
+35: export function isValidProjectStatus(
+36:   value: string,
+37: ): value is ProjectStatusValue {
+38:   return PROJECT_STATUSES.some((entry) => entry.value === value);
+39: }
+40: 
+41: /** Tipos de obra (ficha del proyecto, sección B). */
+42: export const PROJECT_TYPE_OPTIONS: ReadonlyArray<{
+43:   value: string;
+44:   label: string;
+45: }> = [
+46:   { value: "RESIDENTIAL", label: "Vivienda" },
+47:   { value: "COMMERCIAL", label: "Comercial" },
+48:   { value: "INDUSTRIAL", label: "Industrial" },
+49:   { value: "INSTITUTIONAL", label: "Institucional" },
+50:   { value: "RENOVATION", label: "Remodelación" },
+51:   { value: "CIVIL", label: "Civil / Infraestructura" },
+52:   { value: "OTHER", label: "Otro" },
+53: ];
+54: 
+55: /**
+56:  * Pestañas del contenedor de proyecto (XI.00). La URL es la fuente de verdad
+57:  * (`?tab=`). FASE 1 solo implementa `ficha`; el resto son placeholders.
+58:  */
+59: export type ProjectTab =
+60:   | "ficha"
+61:   | "presupuesto"
+62:   | "planificacion"
+63:   | "bitacora"
+64:   | "informes";
+65: 
+66: export const PROJECT_TABS: ReadonlyArray<{
+67:   value: ProjectTab;
+68:   label: string;
+69: }> = [
+70:   { value: "ficha", label: "Ficha y cliente" },
+71:   { value: "presupuesto", label: "Presupuestador" },
+72:   { value: "planificacion", label: "Planificador Lean" },
+73:   { value: "bitacora", label: "Bitácora y campo" },
+74:   { value: "informes", label: "Informes y exportación" },
+75: ];
+76: 
+77: export function parseProjectTab(value: string): ProjectTab {
+78:   return PROJECT_TABS.some((tab) => tab.value === value)
+79:     ? (value as ProjectTab)
+80:     : "ficha";
+81: }
+
+(End of file - total 81 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Good, `presupuesto` tab exists. Now build the UI components. I'll create:
+- `_components/budget-workspace.tsx` (client, orchestrator: 4 KPI cards, AIU modal button, chapters tree, create chapter/item modals)
+- `_components/aiu-config-modal.tsx`
+- `_components/chapter-modal.tsx`
+- `_components/item-modal.tsx`
+
+Let me check the Card/Badge/Button primitives quickly to use them, or just use raw divs like existing code (which uses raw divs). The existing code uses raw divs and inline classes, not the ui primitives. I'll follow that style for consistency.
+
+Let me design budget-workspace.
+
+Props:
+```ts
+{
+  tenantSlug: string;
+  projectId: string;
+  budget: ProjectBudgetData; // plain serialized
+}
+```
+
+State: chapter modals, item modal per chapter, AIU modal.
+
+Layout:
+- Grid 4 KPI cards: Costo Directo, Admin+Imprev, Utilidad+IVA, Valor Total.
+- Header row: title "Presupuesto" + code + lock badge + "Configurar AIU" button + "Nuevo capítulo" button.
+- Tree: for each chapter: header (order. name, subtotal, "Agregar partida" button), items table (code, description, unit, quantity, unitCost, total).
+- Empty state: if no chapters → dashed card with "Crear primer capítulo".
+
+Locked state: disable create buttons, show notice.
+
+I'll implement modals as separate components.
+
+Let me write item-modal as a reusable component taking chapterId, and chapter-modal.
+
+Actually to keep it manageable, I'll implement the modals inline-ish but as separate files as planned.
+
+Let me define FIELD_CLASS constant reused. I'll duplicate in each file (small).
+
+Let me write chapter-modal.tsx:
+
+```tsx
+"use client";
+import { useActionState, useEffect } from "react";
+import { useRouter } from "next/navigation";
+import { NLoader } from "@/components/brand/n-loader";
+import Modal from "../../../../_components/modal";
+import { createChapterAction, type ChapterFormState } from "../../budget/actions";
+```
+
+Wait path: item/chapter modals live in `projects/[projectId]/_components/`. Modal is at `projects/[projectId]/../_components/modal` = `quotes/projects/_components/modal`? No — modal.tsx is at `quotes/_components/modal.tsx`. From `quotes/projects/[projectId]/_components/`, relative path to `quotes/_components/modal` is `../../_components/modal` (go up to [projectId] → projects, up to projects → quotes? no).
+
+Path segments: `quotes/projects/[projectId]/_components/file.tsx`
+- `..` → `quotes/projects/[projectId]`
+- `../..` → `quotes/projects`
+- `../../..` → `quotes`
+So modal at `quotes/_components/modal` → `../../../_components/modal`.
+
+Existing new-project-modal is at `quotes/projects/_components/new-project-modal.tsx` and imports `from "../../_components/modal"` → `..`=projects, `../..`=quotes → `quotes/_components/modal`. Correct.
+
+From `[projectId]/_components/`: need `../../../_components/modal`.
+
+Actions at `[projectId]/budget/actions.ts`. From `[projectId]/_components/`: `../budget/actions` → `..`=[projectId], then `budget/actions`. Correct: `../budget/actions`.
+
+Validators imported for types in modals? The form state types come from actions. Good.
+
+Now, the modals' actions need hidden inputs tenantSlug + projectId.
+
+Put `tenantSlug`, `projectId`, `chapterId` as props.
+
+Let me write chapter-modal:
+
+```tsx
+export default function ChapterModal({ open, onClose, tenantSlug, projectId }: {...}) {
+  const [state, formAction, isPending] = useActionState(createChapterAction, IDLE);
+  const router = useRouter();
+  useEffect(() => {
+    if (state.status === "ok") { onClose(); router.refresh(); }  // actually revalidatePath handles; but since client, refresh to refetch
+  }, [state.status]);
+  ...
+}
+```
+
+Hmm, with Server Actions + revalidatePath, calling the action triggers a refresh of the server component automatically? In Next.js, revalidatePath inside a server action called from a client component via useActionState does trigger re-render of the affected server components. Actually yes — form actions with revalidatePath re-render. But to be safe, after success close modal and call router.refresh().
+
+Let me keep: useEffect on state.status==="ok" → setOpen false via onClose, and router.refresh().
+
+But onClose prop from parent. Fine.
+
+Now, the KPI cards: Admin+Imprev = adminTotal + imprevTotal; Utilidad+IVA = utilidadTotal + ivaUtilidadTotal; Valor Total = grandTotal; Costo Directo = directCostTotal. These are strings (micro). Need sum → BigInt sum then formatMoneyMicro.
+
+I'll compute in workspace with a small helper.
+
+Let me write budget-workspace.tsx.
+
+Also need to reflect AIU percentages for the modal's defaults: microToPercent(budget.aiuAdminPct) etc. But those are strings in serialized data. The AIU modal can accept strings (already percent? No, stored micro). I'll pass percent strings computed via microToPercent. But microToPercent takes bigint; I have string. I can compute in workspace: `microToPercent(BigInt(budget.aiuAdminPct))`. Good, import from apu-engine (client-safe? apu-engine is pure, no server imports — yes safe to import in client).
+
+Actually apu-engine uses Intl and BigInt only; safe.
+
+So pass default values as strings.
+
+Now toggling lock: a client button calling toggleBudgetLockAction. Use useTransition.
+
+Let me write.
+
+Design of the tree item rows: use a `<table>`? Existing quotes table uses rows. Simpler: a list with divs.
+
+Let me produce clean markup.
+
+Let me write budget-workspace.tsx now. It's the biggest.
+
+I'll include:
+- KpiCard subcomponent
+- chapter list
+- modals
+
+Let me write it.
+
+For empty state when isLocked and no chapters, show lock message.
+
+I'll write the files.
+
+Let me define a shared `FIELD_CLASS` in a small helper? I'll just duplicate.
+
+Write chapter-modal.tsx.
+
+</details>
+
+Tabs y catálogos listos. Ahora los componentes UI. Primero el modal de capítulo:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx
+
+**Input:**
+```json
+{
+  "content": "\"use client\";\n\nimport { useEffect, useActionState } from \"react\";\nimport { useRouter } from \"next/navigation\";\nimport { NLoader } from \"@/components/brand/n-loader\";\nimport Modal from \"../../../_components/modal\";\nimport {\n  createChapterAction,\n  type ChapterFormState,\n} from \"../budget/actions\";\n\nconst IDLE_STATE: ChapterFormState = { status: \"idle\" };\n\nconst FIELD_CLASS = (hasError: boolean) =>\n  [\n    \"mt-1 h-10 w-full rounded-lg border bg-card px-3 text-sm text-foreground transition placeholder:text-muted-foreground focus:outline-2\",\n    hasError\n      ? \"border-destructive/30 focus:border-destructive focus:outline-destructive/30\"\n      : \"border-border hover:border-foreground/20 focus:border-gold-500 focus:outline-gold-600/30\",\n  ].join(\" \");\n\n/** Modal para crear un capítulo al final del presupuesto. */\nexport default function ChapterModal({\n  open,\n  onClose,\n  tenantSlug,\n  projectId,\n}: {\n  open: boolean;\n  onClose: () => void;\n  tenantSlug: string;\n  projectId: string;\n}) {\n  const [state, formAction, isPending] = useActionState(\n    createChapterAction,\n    IDLE_STATE,\n  );\n  const router = useRouter();\n\n  useEffect(() => {\n    if (state.status === \"ok\") {\n      onClose();\n      router.refresh();\n    }\n  }, [state, onClose, router]);\n\n  const errors = state.errors ?? {};\n\n  return (\n    <Modal\n      open={open}\n      onClose={() => {\n        if (!isPending) {\n          onClose();\n        }\n      }}\n      title=\"Nuevo capítulo\"\n    >\n      <form action={formAction} className=\"space-y-4\" noValidate>\n        <input type=\"hidden\" name=\"tenantSlug\" value={tenantSlug} />\n        <input type=\"hidden\" name=\"projectId\" value={projectId} />\n\n        <div>\n          <label\n            htmlFor=\"chapter-name\"\n            className=\"text-sm font-medium text-foreground/80\"\n          >\n            Nombre del capítulo <span className=\"text-destructive\">*</span>\n          </label>\n          <input\n            id=\"chapter-name\"\n            name=\"name\"\n            defaultValue={state.values?.name ?? \"\"}\n            placeholder=\"Ej. Preliminares\"\n            aria-invalid={Boolean(errors.name)}\n            className={FIELD_CLASS(Boolean(errors.name))}\n          />\n          {errors.name ? (\n            <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n              {errors.name}\n            </p>\n          ) : null}\n        </div>\n\n        <div>\n          <label\n            htmlFor=\"chapter-description\"\n            className=\"text-sm font-medium text-foreground/80\"\n          >\n            Descripción\n          </label>\n          <textarea\n            id=\"chapter-description\"\n            name=\"description\"\n            rows={2}\n            defaultValue={state.values?.description ?? \"\"}\n            placeholder=\"Notas del capítulo (opcional).\"\n            aria-invalid={Boolean(errors.description)}\n            className=\"mt-1 w-full rounded-lg border border-border bg-card px-3 py-2 text-sm text-foreground transition placeholder:text-muted-foreground hover:border-foreground/20 focus:border-gold-500 focus:outline-2 focus:outline-gold-600/30\"\n          />\n          {errors.description ? (\n            <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n              {errors.description}\n            </p>\n          ) : null}\n        </div>\n\n        {state.status === \"error\" && state.message ? (\n          <p\n            role=\"alert\"\n            className=\"rounded-lg bg-destructive/10 px-3 py-2 text-sm text-destructive\"\n          >\n            {state.message}\n          </p>\n        ) : null}\n\n        <div className=\"flex justify-end gap-2 pt-1\">\n          <button\n            type=\"button\"\n            disabled={isPending}\n            onClick={onClose}\n            className=\"h-10 rounded-lg border border-border bg-card px-4 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:opacity-50\"\n          >\n            Cancelar\n          </button>\n          <button\n            type=\"submit\"\n            disabled={isPending}\n            className=\"inline-flex h-10 items-center gap-2 rounded-lg bg-primary px-4 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-60\"\n          >\n            {isPending ? (\n              <NLoader size={16} className=\"text-current\" />\n            ) : null}\n            {isPending ? \"Creando…\" : \"Crear capítulo\"}\n          </button>\n        </div>\n      </form>\n    </Modal>\n  );\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now item-modal.tsx. It takes chapterId and chapterLabel for the title.
+
+</details>
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx
+
+**Input:**
+```json
+{
+  "content": "\"use client\";\n\nimport { useEffect, useActionState } from \"react\";\nimport { useRouter } from \"next/navigation\";\nimport { NLoader } from \"@/components/brand/n-loader\";\nimport Modal from \"../../../_components/modal\";\nimport { APU_UNITS } from \"@/lib/apu-engine\";\nimport {\n  createBudgetItemAction,\n  type BudgetItemFormState,\n} from \"../budget/actions\";\n\nconst IDLE_STATE: BudgetItemFormState = { status: \"idle\" };\n\nconst FIELD_CLASS = (hasError: boolean) =>\n  [\n    \"mt-1 h-10 w-full rounded-lg border bg-card px-3 text-sm text-foreground transition placeholder:text-muted-foreground focus:outline-2\",\n    hasError\n      ? \"border-destructive/30 focus:border-destructive focus:outline-destructive/30\"\n      : \"border-border hover:border-foreground/20 focus:border-gold-500 focus:outline-gold-600/30\",\n  ].join(\" \");\n\n/** Modal para crear una partida (ítem) dentro de un capítulo. */\nexport default function ItemModal({\n  open,\n  onClose,\n  tenantSlug,\n  projectId,\n  chapterId,\n  chapterLabel,\n}: {\n  open: boolean;\n  onClose: () => void;\n  tenantSlug: string;\n  projectId: string;\n  chapterId: string;\n  chapterLabel: string;\n}) {\n  const [state, formAction, isPending] = useActionState(\n    createBudgetItemAction,\n    IDLE_STATE,\n  );\n  const router = useRouter();\n\n  useEffect(() => {\n    if (state.status === \"ok\") {\n      onClose();\n      router.refresh();\n    }\n  }, [state, onClose, router]);\n\n  const errors = state.errors ?? {};\n\n  return (\n    <Modal\n      open={open}\n      onClose={() => {\n        if (!isPending) {\n          onClose();\n        }\n      }}\n      title={`Nueva partida — ${chapterLabel}`}\n      wide\n    >\n      <form action={formAction} className=\"space-y-4\" noValidate>\n        <input type=\"hidden\" name=\"tenantSlug\" value={tenantSlug} />\n        <input type=\"hidden\" name=\"projectId\" value={projectId} />\n        <input type=\"hidden\" name=\"chapterId\" value={chapterId} />\n\n        <div className=\"grid gap-4 sm:grid-cols-2\">\n          <div className=\"sm:col-span-2\">\n            <label\n              htmlFor=\"item-description\"\n              className=\"text-sm font-medium text-foreground/80\"\n            >\n              Descripción <span className=\"text-destructive\">*</span>\n            </label>\n            <input\n              id=\"item-description\"\n              name=\"description\"\n              defaultValue={state.values?.description ?? \"\"}\n              placeholder=\"Ej. Excavación manual en material común\"\n              aria-invalid={Boolean(errors.description)}\n              className={FIELD_CLASS(Boolean(errors.description))}\n            />\n            {errors.description ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                {errors.description}\n              </p>\n            ) : null}\n          </div>\n\n          <div>\n            <label\n              htmlFor=\"item-code\"\n              className=\"text-sm font-medium text-foreground/80\"\n            >\n              Código\n            </label>\n            <input\n              id=\"item-code\"\n              name=\"code\"\n              defaultValue={state.values?.code ?? \"\"}\n              placeholder=\"Ej. 1.1\"\n              aria-invalid={Boolean(errors.code)}\n              className={FIELD_CLASS(Boolean(errors.code))}\n            />\n            {errors.code ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                {errors.code}\n              </p>\n            ) : null}\n          </div>\n\n          <div>\n            <label\n              htmlFor=\"item-unit\"\n              className=\"text-sm font-medium text-foreground/80\"\n            >\n              Unidad <span className=\"text-destructive\">*</span>\n            </label>\n            <input\n              id=\"item-unit\"\n              name=\"unit\"\n              list=\"apu-units\"\n              defaultValue={state.values?.unit ?? \"\"}\n              placeholder=\"Ej. M3\"\n              aria-invalid={Boolean(errors.unit)}\n              className={FIELD_CLASS(Boolean(errors.unit))}\n            />\n            <datalist id=\"apu-units\">\n              {APU_UNITS.map((unit) => (\n                <option key={unit} value={unit} />\n              ))}\n            </datalist>\n            {errors.unit ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                {errors.unit}\n              </p>\n            ) : null}\n          </div>\n\n          <div>\n            <label\n              htmlFor=\"item-quantity\"\n              className=\"text-sm font-medium text-foreground/80\"\n            >\n              Cantidad <span className=\"text-destructive\">*</span>\n            </label>\n            <input\n              id=\"item-quantity\"\n              name=\"quantity\"\n              inputMode=\"decimal\"\n              defaultValue={state.values?.quantity ?? \"\"}\n              placeholder=\"Ej. 12.5\"\n              aria-invalid={Boolean(errors.quantity)}\n              className={FIELD_CLASS(Boolean(errors.quantity))}\n            />\n            {errors.quantity ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                {errors.quantity}\n              </p>\n            ) : null}\n          </div>\n\n          <div>\n            <label\n              htmlFor=\"item-unit-cost\"\n              className=\"text-sm font-medium text-foreground/80\"\n            >\n              Costo unitario directo{\" \"}\n              <span className=\"text-destructive\">*</span>\n            </label>\n            <input\n              id=\"item-unit-cost\"\n              name=\"unitCost\"\n              inputMode=\"decimal\"\n              defaultValue={state.values?.unitCost ?? \"\"}\n              placeholder=\"COP, ej. 28500\"\n              aria-invalid={Boolean(errors.unitCost)}\n              className={FIELD_CLASS(Boolean(errors.unitCost))}\n            />\n            {errors.unitCost ? (\n              <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                {errors.unitCost}\n              </p>\n            ) : null}\n          </div>\n        </div>\n\n        <p className=\"text-xs text-muted-foreground\">\n          El costo total de la partida lo calcula el servidor (cantidad × costo\n          unitario) y recalcula la cascada AIU.\n        </p>\n\n        {state.status === \"error\" && state.message ? (\n          <p\n            role=\"alert\"\n            className=\"rounded-lg bg-destructive/10 px-3 py-2 text-sm text-destructive\"\n          >\n            {state.message}\n          </p>\n        ) : null}\n\n        <div className=\"flex justify-end gap-2 pt-1\">\n          <button\n            type=\"button\"\n            disabled={isPending}\n            onClick={onClose}\n            className=\"h-10 rounded-lg border border-border bg-card px-4 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:opacity-50\"\n          >\n            Cancelar\n          </button>\n          <button\n            type=\"submit\"\n            disabled={isPending}\n            className=\"inline-flex h-10 items-center gap-2 rounded-lg bg-primary px-4 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-60\"\n          >\n            {isPending ? (\n              <NLoader size={16} className=\"text-current\" />\n            ) : null}\n            {isPending ? \"Creando…\" : \"Crear partida\"}\n          </button>\n        </div>\n      </form>\n    </Modal>\n  );\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now aiu-config-modal.tsx. Takes current percent strings (as plain numbers like "10") and shows cascade preview? Keep it simple: 4 fields + submit. Default values from props.
+
+Props: `defaults: { adminPct, imprevPct, utilidadPct, ivaUtilidadPct }` as strings in percent form.
+
+Also show the resulting amounts? Could compute but percentages alone aren't enough without direct cost. I'll pass directCostTotal and compute preview client-side with calculateBudgetTotals. That'd be nice but adds complexity. Let me include a live preview: it's a client component, we can compute using BigInt from apu-engine. But parseMoney/percentToMicro client-side — fine.
+
+Actually to keep scope tight and avoid client/server duplication bugs, I'll show a short explanatory note and skip live preview. But a preview is valuable UX. Hmm. Given "no simular", a real preview using the same engine is legitimate. Let me add it: on change, parse each percent via percentToMicro, compute calculateBudgetTotals(directCostTotal bigint, ...) and formatMoneyMicro. I'll implement with local state.
+
+Let me implement with useState for the 4 fields and derive preview.
+
+Need directCostTotal (string micro) prop.
+
+Let me write it.
+
+Careful: percentToMicro returns null on invalid; guard.
+
+Write aiu-config-modal.tsx.
+
+</details>
+
+Ahora el modal de configuración AIU, con vista previa en vivo usando el mismo motor:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+
+**Input:**
+```json
+{
+  "content": "\"use client\";\n\nimport { useEffect, useMemo, useState, useActionState } from \"react\";\nimport { useRouter } from \"next/navigation\";\nimport { NLoader } from \"@/components/brand/n-loader\";\nimport Modal from \"../../../_components/modal\";\nimport {\n  calculateBudgetTotals,\n  percentToMicro,\n} from \"@/lib/apu-engine\";\nimport { formatMoneyMicro } from \"@/lib/format\";\nimport {\n  updateAiuConfigAction,\n  type AiuFormState,\n} from \"../budget/actions\";\n\nconst IDLE_STATE: AiuFormState = { status: \"idle\" };\n\nconst FIELD_CLASS = (hasError: boolean) =>\n  [\n    \"mt-1 h-10 w-full rounded-lg border bg-card px-3 text-sm text-foreground transition placeholder:text-muted-foreground focus:outline-2\",\n    hasError\n      ? \"border-destructive/30 focus:border-destructive focus:outline-destructive/30\"\n      : \"border-border hover:border-foreground/20 focus:border-gold-500 focus:outline-gold-600/30\",\n  ].join(\" \");\n\nconst AIU_FIELDS = [\n  { name: \"adminPct\", label: \"Administración (%)\" },\n  { name: \"imprevPct\", label: \"Imprevistos (%)\" },\n  { name: \"utilidadPct\", label: \"Utilidad (%)\" },\n  { name: \"ivaUtilidadPct\", label: \"IVA sobre utilidad (%)\" },\n] as const;\n\ntype AiuFieldName = (typeof AIU_FIELDS)[number][\"name\"];\ntype AiuDraft = Record<AiuFieldName, string>;\n\n/**\n * Modal de configuración del AIU. Los porcentajes se almacenan como\n * micro-fracción (100_000 = 10 %); aquí se editan como número legible y la\n * vista previa usa el MISMO motor `BigInt` del servidor.\n */\nexport default function AiuConfigModal({\n  open,\n  onClose,\n  tenantSlug,\n  projectId,\n  defaults,\n  directCostTotal,\n}: {\n  open: boolean;\n  onClose: () => void;\n  tenantSlug: string;\n  projectId: string;\n  defaults: AiuDraft;\n  /** Costo directo actual en micro-pesos (string BigInt). */\n  directCostTotal: string;\n}) {\n  const [state, formAction, isPending] = useActionState(\n    updateAiuConfigAction,\n    IDLE_STATE,\n  );\n  const router = useRouter();\n  const [draft, setDraft] = useState<AiuDraft>(defaults);\n\n  // Resincroniza el borrador cada vez que se abre con los valores vigentes.\n  useEffect(() => {\n    if (open) {\n      setDraft(defaults);\n    }\n  }, [open, defaults]);\n\n  useEffect(() => {\n    if (state.status === \"ok\") {\n      onClose();\n      router.refresh();\n    }\n  }, [state, onClose, router]);\n\n  const errors = state.errors ?? {};\n\n  const preview = useMemo(() => {\n    const admin = percentToMicro(draft.adminPct);\n    const imprev = percentToMicro(draft.imprevPct);\n    const utilidad = percentToMicro(draft.utilidadPct);\n    const iva = percentToMicro(draft.ivaUtilidadPct);\n    if (\n      admin === null ||\n      imprev === null ||\n      utilidad === null ||\n      iva === null\n    ) {\n      return null;\n    }\n    let direct: bigint;\n    try {\n      direct = BigInt(directCostTotal || \"0\");\n    } catch {\n      return null;\n    }\n    const totals = calculateBudgetTotals(direct, admin, imprev, utilidad, iva);\n    return {\n      admin: formatMoneyMicro(totals.adminTotal),\n      imprev: formatMoneyMicro(totals.imprevTotal),\n      utilidad: formatMoneyMicro(totals.utilidadTotal),\n      iva: formatMoneyMicro(totals.ivaUtilidadTotal),\n      total: formatMoneyMicro(totals.grandTotal),\n    };\n  }, [draft, directCostTotal]);\n\n  return (\n    <Modal\n      open={open}\n      onClose={() => {\n        if (!isPending) {\n          onClose();\n        }\n      }}\n      title=\"Configurar AIU\"\n    >\n      <form action={formAction} className=\"space-y-4\" noValidate>\n        <input type=\"hidden\" name=\"tenantSlug\" value={tenantSlug} />\n        <input type=\"hidden\" name=\"projectId\" value={projectId} />\n\n        <div className=\"grid gap-4 sm:grid-cols-2\">\n          {AIU_FIELDS.map((field) => (\n            <div key={field.name}>\n              <label\n                htmlFor={`aiu-${field.name}`}\n                className=\"text-sm font-medium text-foreground/80\"\n              >\n                {field.label}\n              </label>\n              <input\n                id={`aiu-${field.name}`}\n                name={field.name}\n                inputMode=\"decimal\"\n                value={draft[field.name]}\n                onChange={(event) =>\n                  setDraft((prev) => ({\n                    ...prev,\n                    [field.name]: event.target.value,\n                  }))\n                }\n                placeholder=\"0\"\n                aria-invalid={Boolean(errors[field.name])}\n                className={FIELD_CLASS(Boolean(errors[field.name]))}\n              />\n              {errors[field.name] ? (\n                <p role=\"alert\" className=\"mt-1 text-xs text-destructive\">\n                  {errors[field.name]}\n                </p>\n              ) : null}\n            </div>\n          ))}\n        </div>\n\n        <div className=\"rounded-lg border border-border bg-muted/40 p-3 text-xs\">\n          <p className=\"font-medium text-foreground/80\">Vista previa</p>\n          {preview ? (\n            <dl className=\"mt-2 space-y-1 text-muted-foreground\">\n              <div className=\"flex justify-between gap-4\">\n                <dt>Administración</dt>\n                <dd className=\"font-mono text-foreground/80\">\n                  {preview.admin}\n                </dd>\n              </div>\n              <div className=\"flex justify-between gap-4\">\n                <dt>Imprevistos</dt>\n                <dd className=\"font-mono text-foreground/80\">\n                  {preview.imprev}\n                </dd>\n              </div>\n              <div className=\"flex justify-between gap-4\">\n                <dt>Utilidad</dt>\n                <dd className=\"font-mono text-foreground/80\">\n                  {preview.utilidad}\n                </dd>\n              </div>\n              <div className=\"flex justify-between gap-4\">\n                <dt>IVA s/ utilidad</dt>\n                <dd className=\"font-mono text-foreground/80\">{preview.iva}</dd>\n              </div>\n              <div className=\"flex justify-between gap-4 border-t border-border pt-1 text-foreground\">\n                <dt className=\"font-medium\">Valor total</dt>\n                <dd className=\"font-mono font-medium\">{preview.total}</dd>\n              </div>\n            </dl>\n          ) : (\n            <p className=\"mt-2 text-muted-foreground\">\n              Ingresa porcentajes válidos para ver la proyección.\n            </p>\n          )}\n        </div>\n\n        {state.status === \"error\" && state.message ? (\n          <p\n            role=\"alert\"\n            className=\"rounded-lg bg-destructive/10 px-3 py-2 text-sm text-destructive\"\n          >\n            {state.message}\n          </p>\n        ) : null}\n\n        <div className=\"flex justify-end gap-2 pt-1\">\n          <button\n            type=\"button\"\n            disabled={isPending}\n            onClick={onClose}\n            className=\"h-10 rounded-lg border border-border bg-card px-4 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:opacity-50\"\n          >\n            Cancelar\n          </button>\n          <button\n            type=\"submit\"\n            disabled={isPending}\n            className=\"inline-flex h-10 items-center gap-2 rounded-lg bg-primary px-4 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-60\"\n          >\n            {isPending ? (\n              <NLoader size={16} className=\"text-current\" />\n            ) : null}\n            {isPending ? \"Guardando…\" : \"Guardar AIU\"}\n          </button>\n        </div>\n      </form>\n    </Modal>\n  );\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now the main workspace orchestrator. Props: tenantSlug, projectId, budget (serialized).
+
+Imports: useMemo/useState/useTransition, microToPercent, formatMoneyMicro, formatQuantityMicro from format, resourceTypeLabel, PROJECT? no.
+
+Subcomponents: KpiCard, chapter sections with item tables, modals (ChapterModal, ItemModal, AiuConfigModal), lock toggle button.
+
+Compute:
+- directCost = BigInt(budget.directCostTotal)
+- adminImprev = BigInt(adminTotal)+BigInt(imprevTotal)
+- utilidadIva = BigInt(utilidadTotal)+BigInt(ivaUtilidadTotal)
+- grand = BigInt(grandTotal)
+
+KPI cards:
+1. Costo Directo — formatMoneyMicro(directCost)
+2. Admin + Imprev — formatMoneyMicro(adminImprev)
+3. Utilidad + IVA — formatMoneyMicro(utilidadIva)
+4. Valor Total — formatMoneyMicro(grand)
+
+Percent line under each maybe.
+
+Chapters tree: for each chapter (sorted by order), a card:
+- header: order + name, description, subtotal, "Agregar partida" button
+- items list: table with columns Partida, Unidad, Cantidad, Costo unit., Total
+- if no items: small empty text
+- if budget.isLocked: no add buttons.
+
+Empty chapters: dashed card with "Aún no hay capítulos" + button.
+
+Lock toggle: button in toolbar: "Bloquear" / "Desbloquear".
+When locked: a notice banner "Presupuesto bloqueado — no se pueden crear capítulos ni partidas."
+
+ItemModal state: which chapter is open. `const [itemChapter, setItemChapter] = useState<{id, label}|null>(null)`.
+
+Aiu modal open state boolean.
+
+Chapter modal open state boolean.
+
+Let me write.
+
+For the "Configurar AIU" button, open aiu modal. Pass defaults using microToPercent(BigInt(...)).
+
+microToPercent returns string like "10". Good.
+
+Lock toggle uses useTransition + toggleBudgetLockAction.
+
+Let me write budget-workspace.tsx.
+
+</details>
+
+Ahora el orquestador principal:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx
+
+**Input:**
+```json
+{
+  "content": "\"use client\";\n\nimport { useMemo, useState, useTransition } from \"react\";\nimport { useRouter } from \"next/navigation\";\nimport {\n  Lock,\n  LockOpen,\n  Plus,\n  Settings2,\n  SlidersHorizontal,\n} from \"lucide-react\";\nimport { microToPercent } from \"@/lib/apu-engine\";\nimport { formatMoneyMicro, formatQuantityMicro } from \"@/lib/format\";\nimport { NLoader } from \"@/components/brand/n-loader\";\nimport type { ProjectBudgetData } from \"@/lib/tenant-db\";\nimport { toggleBudgetLockAction } from \"../budget/actions\";\nimport ChapterModal from \"./chapter-modal\";\nimport ItemModal from \"./item-modal\";\nimport AiuConfigModal from \"./aiu-config-modal\";\n\n/** Tarjeta KPI del resumen financiero del presupuesto. */\nfunction KpiCard({\n  label,\n  value,\n  hint,\n  strong = false,\n}: {\n  label: string;\n  value: string;\n  hint?: string;\n  strong?: boolean;\n}) {\n  return (\n    <div\n      className={[\n        \"rounded-lg border bg-card p-4\",\n        strong ? \"border-accent/40\" : \"border-border\",\n      ].join(\" \")}\n    >\n      <p className=\"text-xs font-medium uppercase tracking-wide text-muted-foreground\">\n        {label}\n      </p>\n      <p\n        className={[\n          \"mt-1 font-mono text-lg font-semibold tabular-nums\",\n          strong ? \"text-accent-text\" : \"text-foreground\",\n        ].join(\" \")}\n      >\n        {value}\n      </p>\n      {hint ? (\n        <p className=\"mt-0.5 text-xs text-muted-foreground\">{hint}</p>\n      ) : null}\n    </div>\n  );\n}\n\n/**\n * Presupuestador APU & AIU (FASE 2 del vertical construcción — Tab 2).\n *\n * Muestra el resumen financiero (costo directo + cascada AIU), la estructura\n * jerárquica Presupuesto → Capítulos → Partidas y los modales de creación. El\n * servidor recalcula todos los totales; aquí solo se presentan los valores ya\n * serializados (micro-unidades como string).\n */\nexport default function BudgetWorkspace({\n  tenantSlug,\n  projectId,\n  budget,\n}: {\n  tenantSlug: string;\n  projectId: string;\n  budget: ProjectBudgetData;\n}) {\n  const [chapterOpen, setChapterOpen] = useState(false);\n  const [aiuOpen, setAiuOpen] = useState(false);\n  const [itemChapter, setItemChapter] = useState<{\n    id: string;\n    label: string;\n  } | null>(null);\n\n  const router = useRouter();\n  const [isToggling, startToggle] = useTransition();\n\n  const totals = useMemo(() => {\n    const adminImprev =\n      BigInt(budget.adminTotal) + BigInt(budget.imprevTotal);\n    const utilidadIva =\n      BigInt(budget.utilidadTotal) + BigInt(budget.ivaUtilidadTotal);\n    return {\n      direct: formatMoneyMicro(budget.directCostTotal),\n      adminImprev: formatMoneyMicro(adminImprev),\n      utilidadIva: formatMoneyMicro(utilidadIva),\n      grand: formatMoneyMicro(budget.grandTotal),\n    };\n  }, [budget]);\n\n  const aiuDefaults = useMemo(\n    () => ({\n      adminPct: microToPercent(BigInt(budget.aiuAdminPct)),\n      imprevPct: microToPercent(BigInt(budget.aiuImprevPct)),\n      utilidadPct: microToPercent(BigInt(budget.aiuUtilidadPct)),\n      ivaUtilidadPct: microToPercent(BigInt(budget.ivaUtilidadPct)),\n    }),\n    [budget],\n  );\n\n  const onToggleLock = () => {\n    startToggle(async () => {\n      await toggleBudgetLockAction(tenantSlug, projectId, !budget.isLocked);\n      router.refresh();\n    });\n  };\n\n  const itemCount = budget.chapters.reduce(\n    (total, chapter) => total + chapter.items.length,\n    0,\n  );\n\n  return (\n    <div className=\"space-y-5\">\n      {/* Resumen financiero */}\n      <div className=\"grid gap-3 sm:grid-cols-2 lg:grid-cols-4\">\n        <KpiCard label=\"Costo directo\" value={totals.direct} />\n        <KpiCard\n          label=\"Admin + imprev\"\n          value={totals.adminImprev}\n          hint={`Admin ${aiuDefaults.adminPct} % · Imprev ${aiuDefaults.imprevPct} %`}\n        />\n        <KpiCard\n          label=\"Utilidad + IVA\"\n          value={totals.utilidadIva}\n          hint={`Util ${aiuDefaults.utilidadPct} % · IVA ${aiuDefaults.ivaUtilidadPct} %`}\n        />\n        <KpiCard label=\"Valor total\" value={totals.grand} strong />\n      </div>\n\n      {/* Barra de acciones */}\n      <div className=\"flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between\">\n        <div className=\"flex items-center gap-2 text-sm\">\n          <span className=\"font-mono text-xs font-medium text-accent-text\">\n            {budget.code}\n          </span>\n          {budget.isLocked ? (\n            <span className=\"inline-flex items-center gap-1 rounded-full border border-border bg-muted px-2 py-0.5 text-xs font-medium text-muted-foreground\">\n              <Lock aria-hidden=\"true\" className=\"h-3 w-3\" />\n              Bloqueado\n            </span>\n          ) : (\n            <span className=\"text-xs text-muted-foreground\">\n              {budget.chapters.length} capítulo(s) · {itemCount} partida(s)\n            </span>\n          )}\n        </div>\n        <div className=\"flex flex-wrap items-center gap-2\">\n          <button\n            type=\"button\"\n            onClick={() => setAiuOpen(true)}\n            disabled={budget.isLocked}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg border border-border bg-card px-3 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            <SliderHorizontalIcon />\n            Configurar AIU\n          </button>\n          <button\n            type=\"button\"\n            onClick={onToggleLock}\n            disabled={isToggling}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg border border-border bg-card px-3 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            {isToggling ? (\n              <NLoader size={14} className=\"text-current\" />\n            ) : budget.isLocked ? (\n              <LockOpen aria-hidden=\"true\" className=\"h-4 w-4\" />\n            ) : (\n              <Lock aria-hidden=\"true\" className=\"h-4 w-4\" />\n            )}\n            {budget.isLocked ? \"Desbloquear\" : \"Bloquear\"}\n          </button>\n          <button\n            type=\"button\"\n            onClick={() => setChapterOpen(true)}\n            disabled={budget.isLocked}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg bg-primary px-3 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            <Plus aria-hidden=\"true\" className=\"h-4 w-4\" />\n            Nuevo capítulo\n          </button>\n        </div>\n      </div>\n\n      {budget.isLocked ? (\n        <div className=\"rounded-lg border border-border bg-muted/40 px-4 py-3 text-sm text-muted-foreground\">\n          El presupuesto está bloqueado: no se pueden crear capítulos ni\n          partidas. Desbloquéalo para editarlo.\n        </div>\n      ) : null}\n\n      {/* Estructura jerárquica */}\n      {budget.chapters.length === 0 ? (\n        <div className=\"rounded-lg border border-dashed border-border bg-card p-8 text-center\">\n          <Settings2\n            aria-hidden=\"true\"\n            className=\"mx-auto h-6 w-6 text-muted-foreground\"\n          />\n          <p className=\"mt-3 text-sm font-medium text-foreground\">\n            El presupuesto está vacío\n          </p>\n          <p className=\"mx-auto mt-1 max-w-md text-xs text-muted-foreground\">\n            Crea el primer capítulo para empezar a desglosar las partidas de la\n            obra. Los totales se recalculan automáticamente con cada partida.\n          </p>\n          {!budget.isLocked ? (\n            <button\n              type=\"button\"\n              onClick={() => setChapterOpen(true)}\n              className=\"mt-4 inline-flex h-9 items-center gap-1.5 rounded-lg bg-primary px-3 text-sm font-medium text-primary-foreground transition hover:bg-primary/90\"\n            >\n              <Plus aria-hidden=\"true\" className=\"h-4 w-4\" />\n              Crear primer capítulo\n            </button>\n          ) : null}\n        </div>\n      ) : (\n        <div className=\"space-y-3\">\n          {budget.chapters.map((chapter) => (\n            <section\n              key={chapter.id}\n              className=\"overflow-hidden rounded-lg border border-border bg-card\"\n            >\n              <header className=\"flex flex-col gap-2 border-b border-border bg-muted/30 px-4 py-3 sm:flex-row sm:items-center sm:justify-between\">\n                <div className=\"min-w-0\">\n                  <p className=\"font-mono text-xs text-muted-foreground\">\n                    Capítulo {chapter.order}\n                  </p>\n                  <h3 className=\"truncate text-sm font-semibold text-foreground\">\n                    {chapter.name}\n                  </h2>\n                </header>\n              </header>\n            </section>\n          ))}\n        </div>\n      )}\n    </div>\n  );\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+I made several mistakes in that last section — mismatched tags (`</h2>` closing `<h3>`, `</header>` twice), a broken `SlidersHorizontalIcon` reference, and truncated the chapter rendering. Let me rewrite the file cleanly and completely.
+
+Let me rewrite budget-workspace.tsx properly.
+
+</details>
+
+Me equivoqué al cerrar el archivo (tags mal cerrados y un icono inexistente). Lo reescribo completo y correcto:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx
+
+**Input:**
+```json
+{
+  "content": "\"use client\";\n\nimport { useMemo, useState, useTransition } from \"react\";\nimport { useRouter } from \"next/navigation\";\nimport { Lock, LockOpen, Plus, Settings2, SlidersHorizontal } from \"lucide-react\";\nimport { microToPercent } from \"@/lib/apu-engine\";\nimport { formatMoneyMicro, formatQuantityMicro } from \"@/lib/format\";\nimport { NLoader } from \"@/components/brand/n-loader\";\nimport type { ProjectBudgetData } from \"@/lib/tenant-db\";\nimport { toggleBudgetLockAction } from \"../budget/actions\";\nimport ChapterModal from \"./chapter-modal\";\nimport ItemModal from \"./item-modal\";\nimport AiuConfigModal from \"./aiu-config-modal\";\n\n/** Tarjeta KPI del resumen financiero del presupuesto. */\nfunction KpiCard({\n  label,\n  value,\n  hint,\n  strong = false,\n}: {\n  label: string;\n  value: string;\n  hint?: string;\n  strong?: boolean;\n}) {\n  return (\n    <div\n      className={[\n        \"rounded-lg border bg-card p-4\",\n        strong ? \"border-accent/40\" : \"border-border\",\n      ].join(\" \")}\n    >\n      <p className=\"text-xs font-medium uppercase tracking-wide text-muted-foreground\">\n        {label}\n      </p>\n      <p\n        className={[\n          \"mt-1 font-mono text-lg font-semibold tabular-nums\",\n          strong ? \"text-accent-text\" : \"text-foreground\",\n        ].join(\" \")}\n      >\n        {value}\n      </p>\n      {hint ? (\n        <p className=\"mt-0.5 text-xs text-muted-foreground\">{hint}</p>\n      ) : null}\n    </div>\n  );\n}\n\n/**\n * Presupuestador APU & AIU (FASE 2 del vertical construcción — Tab 2).\n *\n * Muestra el resumen financiero (costo directo + cascada AIU), la estructura\n * jerárquica Presupuesto → Capítulos → Partidas y los modales de creación. El\n * servidor recalcula todos los totales; aquí solo se presentan los valores ya\n * serializados (micro-unidades como string).\n */\nexport default function BudgetWorkspace({\n  tenantSlug,\n  projectId,\n  budget,\n}: {\n  tenantSlug: string;\n  projectId: string;\n  budget: ProjectBudgetData;\n}) {\n  const [chapterOpen, setChapterOpen] = useState(false);\n  const [aiuOpen, setAiuOpen] = useState(false);\n  const [itemChapter, setItemChapter] = useState<{\n    id: string;\n    label: string;\n  } | null>(null);\n\n  const router = useRouter();\n  const [isToggling, startToggle] = useTransition();\n\n  const totals = useMemo(() => {\n    const adminImprev =\n      BigInt(budget.adminTotal) + BigInt(budget.imprevTotal);\n    const utilidadIva =\n      BigInt(budget.utilidadTotal) + BigInt(budget.ivaUtilidadTotal);\n    return {\n      direct: formatMoneyMicro(budget.directCostTotal),\n      adminImprev: formatMoneyMicro(adminImprev),\n      utilidadIva: formatMoneyMicro(utilidadIva),\n      grand: formatMoneyMicro(budget.grandTotal),\n    };\n  }, [budget]);\n\n  const aiuDefaults = useMemo(\n    () => ({\n      adminPct: microToPercent(BigInt(budget.aiuAdminPct)),\n      imprevPct: microToPercent(BigInt(budget.aiuImprevPct)),\n      utilidadPct: microToPercent(BigInt(budget.aiuUtilidadPct)),\n      ivaUtilidadPct: microToPercent(BigInt(budget.ivaUtilidadPct)),\n    }),\n    [budget],\n  );\n\n  const onToggleLock = () => {\n    startToggle(async () => {\n      await toggleBudgetLockAction(tenantSlug, projectId, !budget.isLocked);\n      router.refresh();\n    });\n  };\n\n  const itemCount = budget.chapters.reduce(\n    (total, chapter) => total + chapter.items.length,\n    0,\n  );\n\n  return (\n    <div className=\"space-y-5\">\n      {/* Resumen financiero */}\n      <div className=\"grid gap-3 sm:grid-cols-2 lg:grid-cols-4\">\n        <KpiCard label=\"Costo directo\" value={totals.direct} />\n        <KpiCard\n          label=\"Admin + imprev\"\n          value={totals.adminImprev}\n          hint={`Admin ${aiuDefaults.adminPct} % · Imprev ${aiuDefaults.imprevPct} %`}\n        />\n        <KpiCard\n          label=\"Utilidad + IVA\"\n          value={totals.utilidadIva}\n          hint={`Util ${aiuDefaults.utilidadPct} % · IVA ${aiuDefaults.ivaUtilidadPct} %`}\n        />\n        <KpiCard label=\"Valor total\" value={totals.grand} strong />\n      </div>\n\n      {/* Barra de acciones */}\n      <div className=\"flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between\">\n        <div className=\"flex flex-wrap items-center gap-2\">\n          <span className=\"font-mono text-xs font-medium text-accent-text\">\n            {budget.code}\n          </span>\n          <span className=\"text-xs text-muted-foreground\">\n            {budget.chapters.length}{\" \"}\n            {budget.chapters.length === 1 ? \"capítulo\" : \"capítulos\"} ·{\" \"}\n            {itemCount} {itemCount === 1 ? \"partida\" : \"partidas\"}\n          </span>\n        </div>\n        <div className=\"flex flex-wrap items-center gap-2\">\n          <button\n            type=\"button\"\n            onClick={() => setAiuOpen(true)}\n            disabled={budget.isLocked}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg border border-border bg-card px-3 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            <SlidersHorizontal aria-hidden=\"true\" className=\"h-4 w-4\" />\n            Configurar AIU\n          </button>\n          <button\n            type=\"button\"\n            onClick={onToggleLock}\n            disabled={isToggling}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg border border-border bg-card px-3 text-sm font-medium text-foreground/80 transition hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            {isToggling ? (\n              <NLoader size={14} className=\"text-current\" />\n            ) : budget.isLocked ? (\n              <LockOpen aria-hidden=\"true\" className=\"h-4 w-4\" />\n            ) : (\n              <Lock aria-hidden=\"true\" className=\"h-4 w-4\" />\n            )}\n            {budget.isLocked ? \"Desbloquear\" : \"Bloquear\"}\n          </button>\n          <button\n            type=\"button\"\n            onClick={() => setChapterOpen(true)}\n            disabled={budget.isLocked}\n            className=\"inline-flex h-9 items-center gap-1.5 rounded-lg bg-primary px-3 text-sm font-medium text-primary-foreground transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-50\"\n          >\n            <Plus aria-hidden=\"true\" className=\"h-4 w-4\" />\n            Nuevo capítulo\n          </button>\n        </div>\n      </div>\n\n      {budget.isLocked ? (\n        <div className=\"rounded-lg border border-border bg-muted/40 px-4 py-3 text-sm text-muted-foreground\">\n          El presupuesto está bloqueado: no se pueden crear capítulos ni\n          partidas. Desbloquéalo para editarlo.\n        </div>\n      ) : null}\n\n      {/* Estructura jerárquica */}\n      {budget.chapters.length === 0 ? (\n        <div className=\"rounded-lg border border-dashed border-border bg-card p-8 text-center\">\n          <Settings2\n            aria-hidden=\"true\"\n            className=\"mx-auto h-6 w-6 text-muted-foreground\"\n          />\n          <p className=\"mt-3 text-sm font-medium text-foreground\">\n            El presupuesto está vacío\n          </p>\n          <p className=\"mx-auto mt-1 max-w-md text-xs text-muted-foreground\">\n            Crea el primer capítulo para empezar a desglosar las partidas de la\n            obra. Los totales se recalculan automáticamente con cada partida.\n          </p>\n          {!budget.isLocked ? (\n            <button\n              type=\"button\"\n              onClick={() => setChapterOpen(true)}\n              className=\"mt-4 inline-flex h-9 items-center gap-1.5 rounded-lg bg-primary px-3 text-sm font-medium text-primary-foreground transition hover:bg-primary/90\"\n            >\n              <Plus aria-hidden=\"true\" className=\"h-4 w-4\" />\n              Crear primer capítulo\n            </button>\n          ) : null}\n        </div>\n      ) : (\n        <div className=\"space-y-3\">\n          {budget.chapters.map((chapter) => (\n            <section\n              key={chapter.id}\n              className=\"overflow-hidden rounded-lg border border-border bg-card\"\n            >\n              <header className=\"flex flex-col gap-2 border-b border-border bg-muted/30 px-4 py-3 sm:flex-row sm:items-center sm:justify-between\">\n                <div className=\"min-w-0\">\n                  <p className=\"font-mono text-xs text-muted-foreground\">\n                    Capítulo {chapter.order}\n                  </p>\n                  <h3 className=\"truncate text-sm font-semibold text-foreground\">\n                    {chapter.name}\n                  </h3>\n                  {chapter.description ? (\n                    <p className=\"mt-0.5 truncate text-xs text-muted-foreground\">\n                      {chapter.description}\n                    </p>\n                  ) : null}\n                </div>\n                <div className=\"flex shrink-0 items-center gap-3\">\n                  <span className=\"font-mono text-sm font-medium tabular-nums text-foreground\">\n                    {formatMoneyMicro(chapter.subtotal)}\n                  </span>\n                  {!budget.isLocked ? (\n                    <button\n                      type=\"button\"\n                      onClick={() =>\n                        setItemChapter({\n                          id: chapter.id,\n                          label: `Capítulo ${chapter.order}`,\n                        })\n                      }\n                      className=\"inline-flex h-8 items-center gap-1.5 rounded-lg border border-border bg-card px-2.5 text-xs font-medium text-foreground/80 transition hover:bg-muted\"\n                    >\n                      <Plus aria-hidden=\"true\" className=\"h-3.5 w-3.5\" />\n                      Partida\n                    </button>\n                  ) : null}\n                </div>\n              </header>\n\n              {chapter.items.length === 0 ? (\n                <p className=\"px-4 py-4 text-xs text-muted-foreground\">\n                  Este capítulo no tiene partidas todavía.\n                </p>\n              ) : (\n                <div className=\"overflow-x-auto\">\n                  <table className=\"w-full text-sm\">\n                    <thead>\n                      <tr className=\"border-b border-border text-left text-xs text-muted-foreground\">\n                        <th className=\"px-4 py-2 font-medium\">Partida</th>\n                        <th className=\"px-4 py-2 text-right font-medium\">\n                          Unidad\n                        </th>\n                        <th className=\"px-4 py-2 text-right font-medium\">\n                          Cantidad\n                        </th>\n                        <th className=\"px-4 py-2 text-right font-medium\">\n                          Costo unit.\n                        </th>\n                        <th className=\"px-4 py-2 text-right font-medium\">\n                          Total\n                        </th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      {chapter.items.map((item) => (\n                        <tr\n                          key={item.id}\n                          className=\"border-b border-border/60 last:border-0\"\n                        >\n                          <td className=\"px-4 py-2\">\n                            <div className=\"flex items-center gap-2\">\n                              {item.code ? (\n                                <span className=\"font-mono text-xs text-muted-foreground\">\n                                  {item.code}\n                                </span>\n                              ) : null}\n                              <span className=\"text-foreground\">\n                                {item.description}\n                              </span>\n                            </div>\n                            {item.resources.length > 0 ? (\n                              <p className=\"mt-0.5 text-xs text-muted-foreground\">\n                                {item.resources.length} recursos (APU)\n                              </p>\n                            ) : null}\n                          </td>\n                          <td className=\"px-4 py-2 text-right font-mono text-xs text-muted-foreground\">\n                            {item.unit}\n                          </td>\n                          <td className=\"px-4 py-2 text-right font-mono tabular-nums text-foreground/80\">\n                            {formatQuantityMicro(item.quantity)}\n                          </td>\n                          <td className=\"px-4 py-2 text-right font-mono tabular-nums text-foreground/80\">\n                            {formatMoneyMicro(item.unitCostDirect)}\n                          </td>\n                          <td className=\"px-4 py-2 text-right font-mono font-medium tabular-nums text-foreground\">\n                            {formatMoneyMicro(item.totalCostDirect)}\n                          </td>\n                        </tr>\n                      ))}\n                    </tbody>\n                  </table>\n                </div>\n              )}\n            </section>\n          ))}\n        </div>\n      )}\n\n      <ChapterModal\n        open={chapterOpen}\n        onClose={() => setChapterOpen(false)}\n        tenantSlug={tenantSlug}\n        projectId={projectId}\n      />\n\n      {itemChapter ? (\n        <ItemModal\n          open={itemChapter !== null}\n          onClose={() => setItemChapter(null)}\n          tenantSlug={tenantSlug}\n          projectId={projectId}\n          chapterId={itemChapter.id}\n          chapterLabel={itemChapter.label}\n        />\n      ) : null}\n\n      <AiuConfigModal\n        open={aiuOpen}\n        onClose={() => setAiuOpen(false)}\n        tenantSlug={tenantSlug}\n        projectId={projectId}\n        defaults={aiuDefaults}\n        directCostTotal={budget.directCostTotal}\n      />\n    </div>\n  );\n}\n",
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now wire into page.tsx. Modify the detail page: when tab === "presupuesto", call getOrCreateProjectBudgetAction and render BudgetWorkspace.
+
+The page currently: 
+```
+const tenantDb = createTenantDb(tenantRecord.id);
+const project = await tenantDb.projects.get(projectId);
+...
+) : (
+  <TabPlaceholder label={activeLabel} />
+)}
+```
+
+I'll add: if tab === "presupuesto", fetch budget via getOrCreateProjectBudgetAction(tenantSlug, projectId). Then render.
+
+Import BudgetWorkspace and getOrCreateProjectBudgetAction.
+
+Structure:
+```
+{tab === "ficha" ? (...) : tab === "presupuesto" ? (
+  budget ? <BudgetWorkspace tenantSlug={tenantSlug} projectId={project.id} budget={budget} /> : <AccessDenied/>
+) : (
+  <TabPlaceholder .../>
+)}
+```
+
+Need to fetch budget only for that tab. Let me compute:
+```
+const budget = tab === "presupuesto"
+  ? await getOrCreateProjectBudgetAction(tenantSlug, projectId)
+  : null;
+```
+
+Place after project fetch.
+
+Let me edit.
+
+</details>
+
+Ahora conecto el Tab 2 en la página de detalle:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx",
+  "oldString": "import { ProjectStatusBadge } from \"../_components/project-status-badge\";\nimport ProjectTabs from \"./_components/project-tabs\";\nimport ProjectHeaderForm from \"./_components/project-header-form\";",
+  "newString": "import { ProjectStatusBadge } from \"../_components/project-status-badge\";\nimport ProjectTabs from \"./_components/project-tabs\";\nimport ProjectHeaderForm from \"./_components/project-header-form\";\nimport BudgetWorkspace from \"./_components/budget-workspace\";\nimport { getOrCreateProjectBudgetAction } from \"./budget/actions\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx",
+  "newString": "  const activeLabel =\n    PROJECT_TABS.find((entry) => entry.value === tab)?.label ?? \"\";\n\n  // El presupuesto (Tab 2) se asegura/crea solo cuando se visita esa pestaña.\n  const budget =\n    tab === \"presupuesto\"\n      ? await getOrCreateProjectBudgetAction(tenantSlug, projectId)\n      : null;",
+  "oldString": "  const activeLabel =\n    PROJECT_TABS.find((entry) => entry.value === tab)?.label ?? \"\";"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx",
+  "newString": "        ) : tab === \"presupuesto\" ? (\n          budget ? (\n            <BudgetWorkspace\n              tenantSlug={tenantSlug}\n              projectId={project.id}\n              budget={budget}\n            />\n          ) : (\n            <div className=\"rounded-lg border border-dashed border-border bg-card p-8 text-center\">\n              <p className=\"text-sm font-medium text-foreground\">\n                No se pudo cargar el presupuesto\n              </p>\n              <p className=\"mx-auto mt-1 max-w-md text-xs text-muted-foreground\">\n                Verifica tus permisos sobre este negocio o vuelve a intentarlo.\n              </p>\n            </div>\n          )\n        ) : (\n          <TabPlaceholder label={activeLabel} />\n        )}",
+  "oldString": "        ) : (\n          <TabPlaceholder label={activeLabel} />\n        )}"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now typecheck. Stop the dev server first? tsc doesn't need dev server stopped. Let me run tsc. Also the dev server may be running with HMR; that's fine.
+
+Let me run `pnpm exec tsc --noEmit`.
+
+Also I should double check: `microToPercent` imported in budget-workspace from apu-engine — it's a client component. apu-engine is pure, fine.
+
+`ProjectBudgetData` imported from `@/lib/tenant-db` in a client component — that imports the server module `tenant-db` which imports `db` (prisma/db). Importing a type only is erased at compile time. But the import statement is `import type { ProjectBudgetData } from "@/lib/tenant-db";` — I used `import type`. Good, erased.
+
+Similarly `AiuConfigInput` etc in validators: `import type`. Good.
+
+ape/modals import actions (server actions) — allowed in client components.
+
+Now run tsc.
+
+</details>
+
+Ahora verifico con `tsc`:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** pnpm exec tsc --noEmit 2>&1 | tail -50
+
+**Input:**
+```json
+{
+  "command": "pnpm exec tsc --noEmit 2>&1 | tail -50",
+  "workdir": "/home/craxker/github/nexus-thrive",
+  "timeout": 300000
+}
+```
+
+**Output:**
+```
+(no output)
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No output means... hmm, tsc with no errors produces no output. But did it actually run? Let me check exit code.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk tsc --noEmit; echo "EXIT=$?"
+
+**Input:**
+```json
+{
+  "command": "rtk tsc --noEmit; echo \"EXIT=$?\"",
+  "timeout": 300000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+TypeScript: No errors found
+EXIT=0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+tsc passes. Now let me stop the dev server and run the build. First find the dev server PID.
+
+Actually let me confirm dev server PID 578535 is running.
+
+Let me kill it and run build. But the user may want the dev server running. The summary said build must run with dev stopped. Let me kill it, run build, then optionally restart.
+
+Actually I should be cautious — the user is actively using the dev server. But build requires it stopped. Let me check if it's still running.
+
+</details>
+
+tsc limpio. Ahora paro el dev server y corro el build:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk ps -o pid,cmd -p 578535 2>/dev/null; pgrep -af "next dev" 2>/dev/null; echo "---"
+
+**Input:**
+```json
+{
+  "command": "rtk ps -o pid,cmd -p 578535 2>/dev/null; pgrep -af \"next dev\" 2>/dev/null; echo \"---\""
+}
+```
+
+**Output:**
+```
+    PID CMD
+ 578535 pnpm dev
+578557 node /home/craxker/github/nexus-thrive/node_modules/.bin/../next/dist/bin/next dev
+591274 /usr/bin/zsh -c rtk ps -o pid,cmd -p 578535 2>/dev/null; pgrep -af "next dev" 2>/dev/null; echo "---"
+---
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Dev server is running (pnpm dev + next dev child 578557). Let me kill both, run build, then restart.
+
+Actually restarting dev server after build: the user had it running. I'll restart it to leave things as they were. But maybe better to ask? The summary says user said "ya lo detuve inicialo tu" — they wanted it running. I'll restart after build.
+
+Let me kill.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** kill 578535 578557 2>/dev/null; sleep 3; pgrep -af "next dev" || echo "dev server detenido"
+
+**Input:**
+```json
+{
+  "command": "kill 578535 578557 2>/dev/null; sleep 3; pgrep -af \"next dev\" || echo \"dev server detenido\""
+}
+```
+
+**Output:**
+```
+591354 /usr/bin/zsh -c kill 578535 578557 2>/dev/null; sleep 3; pgrep -af "next dev" || echo "dev server detenido"
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The pgrep matched only the current shell command (which contains "next dev"). The actual next dev processes are gone. Good.
+
+Now run build.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk build 2>&1 | tail -60
+
+**Input:**
+```json
+{
+  "command": "rtk build 2>&1 | tail -60",
+  "timeout": 600000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+[rtk: No such file or directory (os error 2)]
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+`rtk` wrapper doesn't have `build`. Let me check available rtk commands, or just run pnpm build directly.
+
+The instruction says use rtk? RTK.md referenced. Let me just run pnpm build directly.
+
+Need env? Build likely doesn't need DATABASE_URL. Let me run.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** pnpm build 2>&1 | tail -60
+
+**Input:**
+```json
+{
+  "command": "pnpm build 2>&1 | tail -60",
+  "timeout": 600000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+$ next build
+▲ Next.js 16.3.8 (Turbopack)
+- Environments: .env
+✓ Running next.config.ts took 68ms
+- Experiments (use with caution):
+  · proxyClientMaxBodySize: "20mb"
+  · serverActions
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 2.6min
+  Running TypeScript ...
+✓ Finished filesystem cache database compaction in 13.2s
+  Finished TypeScript in 43s ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/8) ...
+  Generating static pages using 3 workers (2/8) 
+  Generating static pages using 3 workers (4/8) 
+  Generating static pages using 3 workers (6/8) 
+✓ Generating static pages using 3 workers (8/8) in 1125ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ƒ /[tenant]
+├ ƒ /[tenant]/billing
+├ ƒ /[tenant]/bookings
+├ ƒ /[tenant]/crm
+├ ƒ /[tenant]/crm/[id]
+├ ƒ /[tenant]/finance
+├ ƒ /[tenant]/inventory
+├ ƒ /[tenant]/memberships
+├ ƒ /[tenant]/onboarding
+├ ƒ /[tenant]/orders
+├ ƒ /[tenant]/payments
+├ ƒ /[tenant]/quotes
+├ ƒ /[tenant]/quotes/[id]
+├ ƒ /[tenant]/quotes/[id]/explosion
+├ ƒ /[tenant]/quotes/[id]/print
+├ ƒ /[tenant]/quotes/import
+├ ƒ /[tenant]/quotes/new
+├ ƒ /[tenant]/quotes/projects
+├ ƒ /[tenant]/quotes/projects/[projectId]
+├ ƒ /[tenant]/settings
+├ ƒ /[tenant]/whatsapp
+├ ƒ /admin
+├ ƒ /admin/export
+├ ƒ /auth/callback
+├ ○ /icon.svg
+├ ƒ /onboarding
+├ ƒ /sign-in/[[...sign-in]]
+└ ƒ /sign-up/[[...sign-up]]
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Build succeeded. Now smoke test the DB tables. Let me query DB for the four new tables and columns.
+
+Use psql with stripped schema param.
+
+Let me run a quick check.
+
+</details>
+
+Build OK. Verifico las tablas FASE 2 en la DB:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** set -a; source .env 2>/dev/null; set +a; node -e '
+const u = new URL(process.env.DATABASE_URL); u.search="";
+console.log(u.toString());
+' > /tmp/opencode/dburl.txt; cat /tmp/opencode/db_url.txt 2>/dev/null; cat /tmp/opencode/dburl.txt
+
+**Input:**
+```json
+{
+  "command": "set -a; source .env 2>/dev/null; set +a; node -e '\nconst u = new URL(process.env.DATABASE_URL); u.search=\"\";\nconsole.log(u.toString());\n' > /tmp/opencode/dburl.txt; cat /tmp/opencode/db_url.txt 2>/dev/null; cat /tmp/opencode/dburl.txt",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+postgresql://postgres:password@localhost:5432/nexus
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** DBURL=$(cat /tmp/opencode/dburl.txt); psql "$DBURL" -c "\dt" 2>&1 | grep -Ei "ProjectBudget|BudgetChapter|BudgetItem|BudgetItemResource|Project|ProjectHeader" ; echo "--- columns ProjectBudget ---"; psql "$DBURL" -c "\d \"ProjectBudget\"" 2>&1 | head -30
+
+**Input:**
+```json
+{
+  "command": "DBURL=$(cat /tmp/opencode/dburl.txt); psql \"$DBURL\" -c \"\\dt\" 2>&1 | grep -Ei \"ProjectBudget|BudgetChapter|BudgetItem|BudgetItemResource|Project|ProjectHeader\" ; echo \"--- columns ProjectBudget ---\"; psql \"$DBURL\" -c \"\\d \\\"ProjectBudget\\\"\" 2>&1 | head -30",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+ public | BudgetChapter          | table | postgres
+ public | BudgetItem             | table | postgres
+ public | BudgetItemResource     | table | postgres
+ public | Project                | table | postgres
+ public | ProjectBudget          | table | postgres
+ public | ProjectHeader          | table | postgres
+--- columns ProjectBudget ---
+                             Table "public.ProjectBudget"
+      Column      |           Type           | Collation | Nullable |     Default      
+------------------+--------------------------+-----------+----------+------------------
+ adminTotal       | bigint                   |           | not null | '0'::bigint
+ aiuAdminPct      | bigint                   |           | not null | '100000'::bigint
+ aiuImprevPct     | bigint                   |           | not null | '50000'::bigint
+ aiuUtilidadPct   | bigint                   |           | not null | '50000'::bigint
+ code             | text                     |           | not null | 
+ createdAt        | timestamp with time zone |           | not null | now()
+ directCostTotal  | bigint                   |           | not null | '0'::bigint
+ grandTotal       | bigint                   |           | not null | '0'::bigint
+ id               | text                     |           | not null | 
+ imprevTotal      | bigint                   |           | not null | '0'::bigint
+ isLocked         | boolean                  |           | not null | false
+ ivaUtilidadPct   | bigint                   |           | not null | '190000'::bigint
+ ivaUtilidadTotal | bigint                   |           | not null | '0'::bigint
+ name             | text                     |           | not null | 
+ projectId        | text                     |           | not null | 
+ tenantId         | text                     |           | not null | 
+ updatedAt        | timestamp with time zone |           | not null | 
+ utilidadTotal    | bigint                   |           | not null | '0'::bigint
+Indexes:
+    "ProjectBudget_pkey" PRIMARY KEY, btree (id)
+    "ProjectBudget_projectId_key" UNIQUE CONSTRAINT, btree ("projectId")
+    "ProjectBudget_tenantId_code_key" UNIQUE CONSTRAINT, btree ("tenantId", code)
+    "ProjectBudget_tenantId_idx_c93ed4f1" btree ("tenantId")
+Foreign-key constraints:
+    "ProjectBudget_projectId_fkey" FOREIGN KEY ("projectId") REFERENCES "Project"(id) ON DELETE CASCADE
+    "ProjectBudget_tenantId_fkey" FOREIGN KEY ("tenantId") REFERENCES "Tenant"(id) ON DELETE CASCADE
+Referenced by:
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Let me verify the other three tables quickly (columns) and then test the engine logic with a quick node script (calculateBudgetTotals).
+
+Let me do the other tables + a node test of the AIU cascade. But apu-engine is TS; I can use tsx or compile. Simpler: replicate via node with the built output? Let me just do a logical sanity check via a tiny node script implementing the same math, OR use `pnpm exec tsx`. Check if tsx is available.
+
+Actually the report requires evidence. Let me test the engine functions by importing the TS file. Check for tsx / ts-node.
+
+Let me check package.json scripts and devDeps.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** DBURL=$(cat /tmp/opencode/dburl.txt); for t in BudgetChapter BudgetItem BudgetItemResource; do echo "=== $t ==="; psql "$DBURL" -c "\d \"$t\"" 2>&1 | head -20; done
+
+**Input:**
+```json
+{
+  "command": "DBURL=$(cat /tmp/opencode/dburl.txt); for t in BudgetChapter BudgetItem BudgetItemResource; do echo \"=== $t ===\"; psql \"$DBURL\" -c \"\\d \\\"$t\\\"\" 2>&1 | head -20; done",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+=== BudgetChapter ===
+                      Table "public.BudgetChapter"
+   Column    |           Type           | Collation | Nullable | Default 
+-------------+--------------------------+-----------+----------+---------
+ budgetId    | text                     |           | not null | 
+ createdAt   | timestamp with time zone |           | not null | now()
+ description | text                     |           |          | 
+ id          | text                     |           | not null | 
+ name        | text                     |           | not null | 
+ order       | integer                  |           | not null | 
+ tenantId    | text                     |           | not null | 
+ updatedAt   | timestamp with time zone |           | not null | 
+Indexes:
+    "BudgetChapter_pkey" PRIMARY KEY, btree (id)
+    "BudgetChapter_budgetId_idx_abbf614c" btree ("budgetId")
+    "BudgetChapter_budgetId_order_key" UNIQUE CONSTRAINT, btree ("budgetId", "order")
+    "BudgetChapter_tenantId_idx_c93ed4f1" btree ("tenantId")
+Foreign-key constraints:
+    "BudgetChapter_budgetId_fkey" FOREIGN KEY ("budgetId") REFERENCES "ProjectBudget"(id) ON DELETE CASCADE
+    "BudgetChapter_tenantId_fkey" FOREIGN KEY ("tenantId") REFERENCES "Tenant"(id) ON DELETE CASCADE
+Referenced by:
+=== BudgetItem ===
+                               Table "public.BudgetItem"
+     Column      |           Type           | Collation | Nullable |      Default      
+-----------------+--------------------------+-----------+----------+-------------------
+ chapterId       | text                     |           | not null | 
+ code            | text                     |           | not null | 
+ createdAt       | timestamp with time zone |           | not null | now()
+ description     | text                     |           | not null | 
+ id              | text                     |           | not null | 
+ order           | integer                  |           | not null | 
+ quantity        | bigint                   |           | not null | '1000000'::bigint
+ tenantId        | text                     |           | not null | 
+ totalCostDirect | bigint                   |           | not null | '0'::bigint
+ unit            | text                     |           | not null | 
+ unitCostDirect  | bigint                   |           | not null | '0'::bigint
+ updatedAt       | timestamp with time zone |           | not null | 
+Indexes:
+    "BudgetItem_pkey" PRIMARY KEY, btree (id)
+    "BudgetItem_chapterId_idx_411dd3d6" btree ("chapterId")
+    "BudgetItem_chapterId_order_key" UNIQUE CONSTRAINT, btree ("chapterId", "order")
+    "BudgetItem_tenantId_idx_c93ed4f1" btree ("tenantId")
+=== BudgetItemResource ===
+                         Table "public.BudgetItemResource"
+   Column    |           Type           | Collation | Nullable |      Default      
+-------------+--------------------------+-----------+----------+-------------------
+ createdAt   | timestamp with time zone |           | not null | now()
+ id          | text                     |           | not null | 
+ imageUrl    | text                     |           |          | 
+ itemId      | text                     |           | not null | 
+ name        | text                     |           | not null | 
+ performance | bigint                   |           | not null | '1000000'::bigint
+ tenantId    | text                     |           | not null | 
+ totalPrice  | bigint                   |           | not null | '0'::bigint
+ type        | text                     |           | not null | 
+ unit        | text                     |           | not null | 
+ unitPrice   | bigint                   |           | not null | '0'::bigint
+ updatedAt   | timestamp with time zone |           | not null | 
+Indexes:
+    "BudgetItemResource_pkey" PRIMARY KEY, btree (id)
+    "BudgetItemResource_itemId_idx_41357140" btree ("itemId")
+    "BudgetItemResource_tenantId_idx_c93ed4f1" btree ("tenantId")
+Check constraints:
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+All four tables exist with correct columns, unique constraints, FKs. The `type` column is text with a check constraint (enum). Let me confirm the check constraint includes the 4 values. Let me check the tail.
+
+Actually not critical. Let me now test the engine math (cascade) as evidence. Let me see if tsx is available.
+
+</details>
+
+Todas las tablas correctas. Verifico el constraint del enum y pruebo el motor:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** DBURL=$(cat /tmp/opencode/dburl.txt); psql "$DBURL" -c "\d \"BudgetItemResource\"" 2>&1 | tail -6; echo "--- tsx? ---"; ls node_modules/.bin/tsx 2>/dev/null || echo "no tsx"; ls node_modules/.bin/ts-node 2>/dev/null || echo "no ts-node"
+
+**Input:**
+```json
+{
+  "command": "DBURL=$(cat /tmp/opencode/dburl.txt); psql \"$DBURL\" -c \"\\d \\\"BudgetItemResource\\\"\" 2>&1 | tail -6; echo \"--- tsx? ---\"; ls node_modules/.bin/tsx 2>/dev/null || echo \"no tsx\"; ls node_modules/.bin/ts-node 2>/dev/null || echo \"no ts-node\"",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+Check constraints:
+    "BudgetItemResource_type_check_13d76a3a" CHECK (type = ANY (ARRAY['MATERIAL'::text, 'LABOR'::text, 'EQUIPMENT'::text, 'TRANSPORT'::text]))
+Foreign-key constraints:
+    "BudgetItemResource_itemId_fkey" FOREIGN KEY ("itemId") REFERENCES "BudgetItem"(id) ON DELETE CASCADE
+    "BudgetItemResource_tenantId_fkey" FOREIGN KEY ("tenantId") REFERENCES "Tenant"(id) ON DELETE CASCADE
+
+--- tsx? ---
+no tsx
+no ts-node
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No tsx. Let me test the engine by compiling just apu-engine.ts with esbuild? Or use node with a quick inline reimplementation — but that's not evidence of the actual code.
+
+Alternative: Next.js build already type-checked. For runtime verification, I can use `node --experimental-strip-types`? Node version? Node 22+ supports --experimental-strip-types for TS. Let me check node version.
+
+Actually simpler: use esbuild if available (Next bundles it). Check node_modules/.bin/esbuild.
+
+Or I can write a tiny mjs that imports the compiled... The build doesn't emit the lib separately.
+
+Let me check node version and try --experimental-strip-types.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** node --version; rtk ls node_modules/.bin/esbuild 2>/dev/null && echo "esbuild ok"
+
+**Input:**
+```json
+{
+  "command": "node --version; rtk ls node_modules/.bin/esbuild 2>/dev/null && echo \"esbuild ok\"",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+v26.7.0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No tsx/ts-node/esbuild binary. Node 24+ can run TS directly with type stripping (Node 23.6+ unflagged). Node 26 → `node script.ts` should work if the file has no TS-only runtime constructs requiring transformation (enums, namespaces). apu-engine uses `export type`, `type` aliases, and `as const` — type-only, strippable. It uses no enums. Should work.
+
+But apu-engine imports nothing. Good. I can write a test .ts that imports from the relative path with explicit .ts extension? Node type stripping requires explicit extensions in relative imports unless --experimental-... Actually import from "./lib/apu-engine.ts" should work in Node 26.
+
+Let me write a temp test in /tmp/opencode, but it needs to import the file. Use absolute path import.
+
+Let me create /tmp/opencode/apu-test.ts importing "/home/craxker/github/nexus-thrive/lib/apu-engine.ts".
+
+Test cases:
+- calculateItemTotal(quantity=12.5 → 12_500_000, unitCost=28500 → 28500_000000) expected 12.5*28500 = 356250 COP → micro 356_250_000_000.
+- Direct total say 1_000_000 COP → 1_000_000_000_000 micro.
+- AIU 10%/5%/5%/19%: admin=100_000 COP, imprev=50_000, util=50_000, iva=9_500, total=1_209_500.
+- formatMoneyMicro.
+
+Let me write and run.
+
+Also test parseMoney and moneyToString via format? format.ts imports nothing problematic too.
+
+Let me test the engine only (it's the core).
+
+</details>
+
+Node 26 ejecuta TS directamente. Pruebo el motor con casos reales:
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** ../../../../tmp/opencode/apu-test.ts
+
+**Input:**
+```json
+{
+  "content": "import {\n  calculateBudgetTotals,\n  calculateItemTotal,\n  parseMoney,\n  percentToMicro,\n  microToPercent,\n} from \"/home/craxker/github/nexus-thrive/lib/apu-engine.ts\";\nimport {\n  formatMoneyMicro,\n  formatQuantityMicro,\n} from \"/home/craxker/github/nexus-thrive/lib/format.ts\";\n\nconst S = (x: bigint) => x.toString();\n\n// Caso 1: cantidad 12.5 × costo unitario 28.500 COP = 356.250 COP\nconst qty = parseMoney(\"12.5\")!; // 12_500_000\nconst unit = parseMoney(\"28500\")!; // 28_500_000_000\nconst itemTotal = calculateItemTotal(qty, unit);\nconsole.log(\"itemTotal COP:\", formatMoneyMicro(itemTotal), \"(esperado $ 356.250)\");\nconsole.log(\"itemTotal micro:\", S(itemTotal), \"(esperado 356250000000)\");\n\n// Caso 2: cascada AIU sobre costo directo 1.000.000 COP, pcts 10/5/5/19\nconst direct = parseMoney(\"1000000\")!;\nconst admin = percentToMicro(\"10\")!;\nconst imprev = percentToMicro(\"5\")!;\nconst util = percentToMicro(\"5\")!;\nconst iva = percentToMicro(\"19\")!;\nconsole.log(\"admin micro:\", S(admin), \"(esperado 100000)\");\nconsole.log(\"microToPercent(admin):\", microToPercent(admin), \"(esperado 10)\");\nconst t = calculateBudgetTotals(direct, admin, imprev, util, iva);\nconsole.log(\"adminTotal:\", formatMoneyMicro(t.adminTotal), \"(esperado $ 100.000)\");\nconsole.log(\"imprevTotal:\", formatMoneyMicro(t.imprevTotal), \"(esperado $ 50.000)\");\nconsole.log(\"utilidadTotal:\", formatMoneyMicro(t.utilidadTotal), \"(esperado $ 50.000)\");\nconsole.log(\"ivaUtilidadTotal:\", formatMoneyMicro(t.ivaUtilidadTotal), \"(esperado $ 9.500)\");\nconsole.log(\"grandTotal:\", formatMoneyMicro(t.grandTotal), \"(esperado $ 1.209.500)\");\n\n// Caso 3: cantidades\nconsole.log(\"qty 1:\", formatQuantityMicro(parseMoney(\"1\")!), \"(esperado 1)\");\nconsole.log(\"qty 1.5:\", formatQuantityMicro(parseMoney(\"1.5\")!), \"(esperado 1.5)\");\nconsole.log(\"qty 0.25:\", formatQuantityMicro(parseMoney(\"0.25\")!), \"(esperado 0.25)\");\n",
+  "filePath": "/tmp/opencode/apu-test.ts"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** node /tmp/opencode/apu-test.ts 2>&1
+
+**Input:**
+```json
+{
+  "command": "node /tmp/opencode/apu-test.ts 2>&1",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+(node:593545) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/craxker/github/nexus-thrive/lib/apu-engine.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/craxker/github/nexus-thrive/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+itemTotal COP: $ 356.250 (esperado $ 356.250)
+itemTotal micro: 356250000000 (esperado 356250000000)
+admin micro: 100000 (esperado 100000)
+microToPercent(admin): 10 (esperado 10)
+adminTotal: $ 100.000 (esperado $ 100.000)
+imprevTotal: $ 50.000 (esperado $ 50.000)
+utilidadTotal: $ 50.000 (esperado $ 50.000)
+ivaUtilidadTotal: $ 9.500 (esperado $ 9.500)
+grandTotal: $ 1.209.500 (esperado $ 1.209.500)
+qty 1: 1 (esperado 1)
+qty 1.5: 1.5 (esperado 1.5)
+qty 0.25: 0.25 (esperado 0.25)
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+All engine cases pass. Now let me also do a DB-level integration smoke test: actually exercise the tenantDb.budgets flow? That requires running TS with prisma db import which is complex (prisma/orm-postgres runtime, generated contract). Risky and heavy. 
+
+Instead, I can at least verify the unique constraint behavior and the code generation logic manually. But the summary emphasized "no declarar verificación sin evidencia". Let me consider whether to run a real end-to-end DB test.
+
+The full flow: createTenantDb(tenantId).budgets.getOrCreate(projectId). This requires a real tenant + project. There are 0 projects. Creating a project via tenantDb.projects.create requires a customer.
+
+This is heavy. Alternatively I can write a Node script that imports prisma/db and tenant-db directly — but tenant-db imports many things and uses "server-only"? Let me check. It imports db and various libs. Node type stripping might handle it but the module resolution of `@/` alias won't work in raw node.
+
+Given constraints, a lighter but still real evidence path: test the serialization/creation logic by inserting rows directly via SQL and reading? That doesn't test our code.
+
+I think the pragmatic approach: report DB schema verified + engine verified with unit cases; the end-to-end tenantDb+UI flow is "implemented, not runtime-verified" (requires authenticated Clerk session). That's honest and matches the brief's categories.
+
+Actually, let me attempt a real integration test using a small script executed via the Next.js runtime? Too much.
+
+Alternative: use `prisma/db.ts` with node — need tsconfig paths. Could set up a tiny esbuild-less approach using node's `--experimental-...`? The `@/` alias is the blocker.
+
+Hmm, but I could create a temp script inside the repo (so relative imports resolve) that imports `../lib/tenant-db` with relative path, and `../prisma/db`. But tenant-db itself uses `@/` aliases internally → node can't resolve those.
+
+Could use `node --experimental-strip-types` + a loader for tsconfig paths. Too much for now.
+
+Decision: mark end-to-end as implemented-not-runtime-verified. Provide schema + engine evidence.
+
+Actually, wait — there might be an even better integration test: run the DB queries that our code would run, using the real Prisma 8 ORM client via a script that imports `prisma/db.ts`. But alias issue again.
+
+Let me check if the repo has a test runner or a script to run TS with paths, e.g. `pnpm exec next` custom, or `dotenv`. Let me check package.json.
+
+</details>
+
+Motor verificado. Reviso `package.json` por si hay runner con aliases para una prueba de integración real:
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** package.json
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/package.json"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/package.json</path>
+<type>file</type>
+<content>
+1: {
+2:   "name": "nexus-thrive",
+3:   "version": "0.1.0",
+4:   "private": true,
+5:   "scripts": {
+6:     "dev": "next dev",
+7:     "build": "next build",
+8:     "start": "next start",
+9:     "lint": "eslint",
+10:     "postinstall": "prisma skills sync || exit 0"
+11:   },
+12:   "dependencies": {
+13:     "@clerk/nextjs": "^7.9.11",
+14:     "@prisma/orm-postgres": "8.0.0-rc.14",
+15:     "@radix-ui/react-avatar": "^1.2.7",
+16:     "@radix-ui/react-checkbox": "^1.3.12",
+17:     "@radix-ui/react-dialog": "^1.2.0",
+18:     "@radix-ui/react-dropdown-menu": "^2.1.25",
+19:     "@radix-ui/react-slot": "^1.4.0",
+20:     "@radix-ui/react-switch": "^1.3.8",
+21:     "@radix-ui/react-tooltip": "^1.3.0",
+22:     "@vercel/blob": "^2.8.1",
+23:     "class-variance-authority": "^0.7.1",
+24:     "clsx": "^2.1.1",
+25:     "cmdk": "^1.1.1",
+26:     "dotenv": "^18.0.5",
+27:     "lucide-react": "^1.52.0",
+28:     "next": "16.3.8",
+29:     "react": "19.2.8",
+30:     "react-dom": "19.2.8",
+31:     "tailwind-merge": "^3.7.0",
+32:     "temporal-polyfill": "^1.0.5",
+33:     "tw-animate-css": "^1.4.0",
+34:     "xlsx": "^0.18.5"
+35:   },
+36:   "devDependencies": {
+37:     "@tailwindcss/postcss": "^4",
+38:     "@types/node": "^20",
+39:     "@types/react": "^19",
+40:     "@types/react-dom": "^19",
+41:     "eslint": "^9",
+42:     "eslint-config-next": "16.3.8",
+43:     "prisma": "8.0.0-rc.20",
+44:     "tailwindcss": "^4",
+45:     "typescript": "^5"
+46:   },
+47:   "packageManager": "pnpm@12.3.4"
+48: }
+
+(End of file - total 48 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No test infra, confirmed. No tsx.
+
+I could write an integration test that uses the raw `@prisma/orm-postgres` client directly (not via tenant-db) to at least prove the contract runtime + DB operations (create/insert bigints, unique constraint) work. Let me try: import from "@prisma/orm-postgres/orm-client"? The db.ts uses `prisma/db.ts` — let me read it to see how db is constructed, then replicate in a standalone script without `@/` aliases.
+
+Let me read prisma/db.ts.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** prisma/db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/prisma/db.ts"
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/prisma/db.ts</path>
+<type>file</type>
+<content>
+1: import "dotenv/config";
+2: import postgres from "@prisma/orm-postgres/runtime";
+3: import type { Contract } from "./contract.d";
+4: import contractJson from "./contract.json" with { type: "json" };
+5: 
+6: export const db = postgres<Contract>({
+7:   contractJson,
+8:   url: process.env.DATABASE_URL!,
+9: });
+
+(End of file - total 9 lines)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+I can write a standalone integration test in the repo dir (so relative imports work) but the `import type { Contract } from "./contract.d"` and JSON import are fine with node type stripping? JSON import with `with { type: "json" }` — Node supports import attributes. The contract.d is a type-only import, erased.
+
+Let me create a script at repo root (or /tmp) that imports `./prisma/db.ts`? If I place it in the repo root as a .ts and run with node, then `import { db } from "./prisma/db"` — but db.ts imports "./contract.json" with `with { type: "json" }` and `./contract.d`. Node should handle.
+
+But wait, `prisma/db.ts` imports dotenv/config which is fine.
+
+Then I can run the same queries our tenantDb.budgets does. But I'd be re-implementing the queries, not testing tenant-db.ts itself. Still, it validates the contract runtime + DB I/O (bigint insert, unique constraints, FK), which is the risky part.
+
+Better: could I import tenant-db.ts directly? It uses `@/` aliases → node can't resolve. Unless I add imports map in package.json. Not worth it.
+
+Alternative: use a temporary tsconfig-paths loader? Node doesn't support tsconfig paths natively.
+
+Hmm, actually Node has `--experimental-import-meta-resolve` but not aliases. There's `imports` field in package.json (subpath imports must start with `#`). Not `@/`.
+
+I'll do the contract-runtime integration test replicating the exact queries our tenant-db uses (getOrCreate code generation, createChapter, createItem, AIU recalc) — this proves the DB layer + contract works. Combined with tsc (which proved tenant-db compiles against contract types) and the engine unit tests, that's solid evidence.
+
+Let me write integration test:
+1. Find a tenant (e.g. 'juancarlos') + a customer to create a project.
+2. Create a Project (needs required fields). Let me check Project model required fields.
+
+Actually creating a project requires customerId, tenantId, name, code, status. Let me read the contract for Project fields.
+
+This is getting deep. Let me read contract.prisma Project + ProjectBudget sections to get required fields.
+
+Let me just grep.
+
+Actually, simpler and still real: directly insert a ProjectBudget row via the ORM with a fake projectId? FK constraint requires a valid Project. So need a project.
+
+Let me look at Project model.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** sed -n '/^model Project /,/^}/p;/^model ProjectBudget/,/^}/p;/^model BudgetItem /,/^}/p' prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "command": "sed -n '/^model Project /,/^}/p;/^model ProjectBudget/,/^}/p;/^model BudgetItem /,/^}/p' prisma/contract.prisma",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+model Project {
+  id         String        @id @default(uuid())
+  tenantId   String
+  tenant     Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  customerId String
+  customer   Customer      @relation(fields: [customerId], references: [id], onDelete: Restrict)
+  /// Código de negocio: PROY-2026-001 (único dentro del tenant).
+  code       String
+  name       String
+  description String?
+  status     ProjectStatus @default(DRAFT)
+  createdAt  DateTime      @default(now())
+  updatedAt  temporal.updatedAt()
+
+  header   ProjectHeader?
+  /// Presupuesto de obra del proyecto (1:1 en esta fase, Tab 2).
+  budget   ProjectBudget?
+
+  @@unique([tenantId, code])
+  @@index([tenantId])
+  @@index([customerId])
+  @@index([tenantId, status])
+}
+model ProjectBudget {
+  id        String  @id @default(uuid())
+  tenantId  String
+  tenant    Tenant  @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  projectId String  @unique
+  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  /// Código de negocio: PRES-2026-001 (único dentro del tenant).
+  code      String
+  name      String
+
+  /// Configuración AIU (fracción × 1e6). Por defecto 10 % / 5 % / 5 % / 19 %.
+  aiuAdminPct     BigInt @default(100000)
+  aiuImprevPct    BigInt @default(50000)
+  aiuUtilidadPct  BigInt @default(50000)
+  ivaUtilidadPct  BigInt @default(190000)
+
+  /// Totales derivados (recalculados por el servidor en cada mutación).
+  directCostTotal  BigInt @default(0)
+  adminTotal       BigInt @default(0)
+  imprevTotal      BigInt @default(0)
+  utilidadTotal    BigInt @default(0)
+  ivaUtilidadTotal BigInt @default(0)
+  grandTotal       BigInt @default(0)
+
+  /// Bloqueo básico: la capa de negocio rechaza mutaciones ordinarias.
+  isLocked  Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt temporal.updatedAt()
+
+  chapters BudgetChapter[]
+
+  @@unique([tenantId, code])
+  @@index([tenantId])
+}
+model BudgetItem {
+  id          String        @id @default(uuid())
+  tenantId    String
+  tenant      Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  chapterId   String
+  chapter     BudgetChapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  order       Int
+  /// Código de actividad (puede repetirse entre capítulos).
+  code        String
+  description String
+  unit        String
+  /// Cantidad escalada (1_000_000 = 1.000000).
+  quantity        BigInt @default(1000000)
+  /// Costo unitario directo (micro-pesos).
+  unitCostDirect  BigInt @default(0)
+  /// Costo directo total de la partida = quantity × unitCostDirect.
+  totalCostDirect BigInt @default(0)
+  createdAt   DateTime      @default(now())
+  updatedAt   temporal.updatedAt()
+
+  resources BudgetItemResource[]
+
+  @@unique([chapterId, order])
+  @@index([tenantId])
+  @@index([chapterId])
+}
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now write an integration test using the real ORM client, replicating the exact operations from tenant-db.budgets. I'll import the ORM client and contract via relative paths, create a temp tenant/project/customer, run the flow, then clean up.
+
+But importing `prisma/db.ts` uses `./contract.json with { type: "json" }` and `@prisma/orm-postgres/runtime`. Node type-stripping should handle the `with` import attribute? Node supports `with { type: "json" }` import attributes (stable). The `.d` type import is `import type` → erased. But the file is `contract.d.ts`? Import is `from "./contract.d"`. Node stripping: `import type { Contract } from "./contract.d"` — type-only, erased entirely. Good.
+
+But there's a subtlety: `import contractJson from "./contract.json" with { type: "json" }` — the module specifier "./contract.json" resolves.
+
+`@prisma/orm-postgres/runtime` resolves from node_modules — fine.
+
+Let me write the script. I'll place it at repo root as /home/craxker/github/nexus-thrive/tmp-integration.ts and delete after.
+
+Operations:
+1. Create a test Tenant: `db.orm.public.Tenant.create({ slug, name, active: true, ... })` — Tenant has required fields. Let me check Tenant model required fields. Might be complex. Instead, reuse an existing tenant (juancarlos). Need its id. And create a Customer (requires tenantId, name, ... active default). Let me check Customer required fields: id, tenantId, name, email?, phone?, active, createdAt, updatedAt — email/phone likely optional.
+
+Let me just fetch existing tenant and create a customer with a unique name, then project, then budget flow. Then cleanup: delete budget (cascade), project, customer.
+
+But deleting requires FK order. ProjectBudget cascade from project; BudgetChapter cascade from budget; etc. So delete project → cascades budget; delete customer after project. Tenant untouched.
+
+Actually Project.customer has onDelete: Restrict, so must delete project before customer. Fine.
+
+Let me check Customer & Tenant required fields via contract.
+
+</details>
+
+Voy a hacer una prueba de integración real contra la DB replicando las operaciones de `tenant-db.budgets`. Reviso campos requeridos:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** sed -n '/^model Tenant /,/^}/p;/^model Customer /,/^}/p;/^model BudgetChapter/,/^}/p' prisma/contract.prisma
+
+**Input:**
+```json
+{
+  "command": "sed -n '/^model Tenant /,/^}/p;/^model Customer /,/^}/p;/^model BudgetChapter/,/^}/p' prisma/contract.prisma",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+model Tenant {
+  id           String   @id @default(uuid())
+  name         String
+  slug         String   @unique
+  customDomain String?  @unique
+  vertical     Vertical
+  active       Boolean  @default(true)
+
+  /// Wizard de onboarding: false = el tenant es nuevo y debe configurarse.
+  onboardingCompleted Boolean @default(false)
+  /// Perfil adaptativo (onboarding auto-servicio). Las reglas de validación
+  /// viven en lib/onboarding/validation.ts; estos campos son la persistencia.
+  tenantType TenantType @default(COMPANY)
+  /// Razón social (solo COMPANY; el nombre comercial vive en `name`).
+  legalName String?
+  /// NIT/RUT (obligatorio en COMPANY, opcional en INDIVIDUAL).
+  taxId String?
+  /// Tamaño del equipo: "SOLO" | "2-5" | "6-20" | "20+" (guardado como texto
+  /// validado por la app; el enum rígido dificultaría agregar rangos).
+  teamSize String?
+  /// Dirección física; "REMOTE" si el negocio no tiene local.
+  address String?
+  /// Identidad y ubicación (Paso 1 del onboarding).
+  city              String?
+  whatsappNumber    String?
+  /// Ecosistema digital (Paso 3 del onboarding).
+  websiteUrl        String?
+  instagramHandle   String?
+  googleBusinessUrl String?
+  /// Métodos de pago aceptados (Paso 4 del onboarding; catálogo PaymentProvider).
+  /// Nullable en DB: un tenant nuevo aún no los configuró; el código normaliza a [].
+  paymentMethods    PaymentProvider[]?
+
+  /// Suspensión administrativa (Panel CEO): motivo obligatorio + timestamp.
+  /// Se conserva aunque el tenant se reactive (historial de por qué se suspendió).
+  suspendedReason String?
+  suspendedAt     DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt temporal.updatedAt()
+
+  users         User[]
+  customers     Customer[]
+  payments      Payment[]
+  expenses      Expense[]
+  memberships   Membership[]
+  modules       TenantModule[]
+  customerNotes CustomerNote[]
+  apuItems      ApuItem[]
+  apuActivities ApuActivity[]
+  quotes        Quote[]
+  projects      Project[]
+  projectBudgets ProjectBudget[]
+  budgetChapters BudgetChapter[]
+  budgetItems   BudgetItem[]
+  budgetItemResources BudgetItemResource[]
+
+  @@index([slug])
+}
+model Customer {
+  id        String   @id @default(uuid())
+  tenantId  String
+  tenant    Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  name      String
+  email     String?
+  phone     String?
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt temporal.updatedAt()
+
+  payments Payment[]
+  memberships Membership[]
+  notes CustomerNote[]
+  quotes Quote[]
+  projects Project[]
+
+  @@index([tenantId])
+}
+model BudgetChapter {
+  id        String        @id @default(uuid())
+  tenantId  String
+  tenant    Tenant        @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  budgetId  String
+  budget    ProjectBudget @relation(fields: [budgetId], references: [id], onDelete: Cascade)
+  order     Int
+  name      String
+  description String?
+  createdAt DateTime      @default(now())
+  updatedAt temporal.updatedAt()
+
+  items BudgetItem[]
+
+  @@unique([budgetId, order])
+  @@index([tenantId])
+  @@index([budgetId])
+}
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now write the integration script. I'll replicate the tenant-db.budgets logic.
+
+Need to import db from "./prisma/db.ts". Let me write at repo root.
+
+Operations replicating logic:
+```
+const tenant = await db.orm.public.Tenant.where({ slug: 'juancarlos' }).first();
+const customer = await db.orm.public.Customer.create({ tenantId: tenant.id, name: 'TEST-INTEGRATION-DELETE-ME' });
+const project = await db.orm.public.Project.create({ tenantId: tenant.id, customerId: customer.id, code: 'PROY-IT-001', name: 'IT' });
+```
+Then budget getOrCreate logic. Then createChapter, createItem (with calculateItemTotal), recalc, updateAiu.
+
+Actually simplest: import calculateItemTotal from apu-engine via absolute path & replicate recalc inline.
+
+Then verify totals in DB.
+
+Then cleanup: delete ProjectBudget where projectId (cascade), project, customer.
+
+Let me write it. Use `db.transaction` too to exercise it.
+
+Let me write /home/craxker/github/nexus-thrive/tmp-integration.ts.
+
+I must use `.where(...).first()`, `.create()`, `.update()`, `.delete()`.
+
+Check delete API: `db.orm.public.X.where({...}).delete()`? Or `.delete()` on where. From notes: `.create()`, `.update()`, `.delete()` exist. Likely `db.orm.public.Project.where({id}).delete()`.
+
+Let me write with try/finally cleanup.
+
+I'll import formatMoneyMicro too for readable output.
+
+Let me write.
+
+</details>
+
+#### 🔧 Tool: write
+**Status:** completed
+**Title:** tmp-integration.ts
+
+**Input:**
+```json
+{
+  "content": "import { db } from \"./prisma/db.ts\";\nimport {\n  calculateBudgetTotals,\n  calculateItemTotal,\n  percentToMicro,\n} from \"./lib/apu-engine.ts\";\nimport { formatMoneyMicro } from \"./lib/format.ts\";\n\nconst TAG = \"TEST-APU-INTEGRATION-DELETE-ME\";\n\nasync function main() {\n  const tenant = await db.orm.public.Tenant.where({ slug: \"juancarlos\" }).first();\n  if (!tenant) throw new Error(\"tenant juancarlos no existe\");\n  console.log(\"tenant:\", tenant.id, tenant.slug);\n\n  const customer = await db.orm.public.Customer.create({\n    tenantId: tenant.id,\n    name: `${TAG}-cliente`,\n  });\n  const project = await db.orm.public.Project.create({\n    tenantId: tenant.id,\n    customerId: customer.id,\n    code: `${TAG}-PROY`,\n    name: `${TAG} obra`,\n  });\n  console.log(\"project:\", project.id);\n\n  try {\n    // getOrCreate (réplica de tenant-db.budgets.getOrCreate)\n    const prefix = `PRES-${new Date().getFullYear()}-`;\n    const latest = await db.orm.public.ProjectBudget\n      .where({ tenantId: tenant.id })\n      .where((b) => b.code.like(`${prefix}%`))\n      .orderBy((b) => b.code.desc())\n      .first();\n    const seq = latest ? Number(latest.code.slice(prefix.length)) + 1 : 1;\n    const code = `${prefix}${String(seq).padStart(3, \"0\")}`;\n    const budget = await db.orm.public.ProjectBudget.create({\n      tenantId: tenant.id,\n      projectId: project.id,\n      code,\n    });\n    console.log(\"budget code:\", budget.code, \"| defaults pct:\", budget.aiuAdminPct, budget.aiuImprevPct, budget.aiuUtilidadPct, budget.ivaUtilidadPct);\n\n    // Idempotencia: segundo getOrCreate debe fallar por unique projectId\n    let raced = false;\n    try {\n      await db.orm.public.ProjectBudget.create({\n        tenantId: tenant.id,\n        projectId: project.id,\n        code: `${prefix}999`,\n      });\n    } catch {\n      raced = true;\n    }\n    console.log(\"unique projectId enforced:\", raced);\n\n    // createChapter\n    const chapter = await db.orm.public.BudgetChapter.create({\n      tenantId: tenant.id,\n      budgetId: budget.id,\n      order: 1,\n      name: \"Preliminares\",\n    });\n    // segundo capítulo → order 2\n    const chapter2 = await db.orm.public.BudgetChapter.create({\n      tenantId: tenant.id,\n      budgetId: budget.id,\n      order: 2,\n      name: \"Cimentación\",\n    });\n\n    // createItem ×2 con recalculo de cascada\n    const qty = BigInt(12_500_000); // 12.5\n    const unitCost = BigInt(28_500_000_000); // 28.500 COP\n    const total = calculateItemTotal(qty, unitCost);\n    const item = await db.orm.public.BudgetItem.create({\n      tenantId: tenant.id,\n      chapterId: chapter.id,\n      order: 1,\n      code: \"1.1\",\n      description: \"Excavación\",\n      unit: \"M3\",\n      quantity: qty,\n      unitCostDirect: unitCost,\n      totalCostDirect: total,\n    });\n    const qty2 = BigInt(1_000_000);\n    const unitCost2 = BigInt(1_000_000_000_000); // 1.000.000 COP\n    const item2 = await db.orm.public.BudgetItem.create({\n      tenantId: tenant.id,\n      chapterId: chapter2.id,\n      order: 1,\n      code: \"2.1\",\n      description: \"Concreto\",\n      unit: \"M3\",\n      quantity: qty2,\n      unitCostDirect: unitCost2,\n      totalCostDirect: calculateItemTotal(qty2, unitCost2),\n    });\n    console.log(\"item total COP:\", formatMoneyMicro(item.totalCostDirect), \"| item2:\", formatMoneyMicro(item2.totalCostDirect));\n\n    // recalculo: direct = 356.250 + 1.000.000 = 1.356.250\n    const direct = BigInt(item.totalCostDirect) + BigInt(item2.totalCostDirect);\n    const totals = calculateBudgetTotals(\n      direct,\n      budget.aiuAdminPct,\n      budget.aiuImprevPct,\n      budget.aiuUtilidadPct,\n      budget.ivaUtilidadPct,\n    );\n    await db.orm.public.ProjectBudget.where({ id: budget.id }).update({\n      directCostTotal: direct,\n      adminTotal: totals.adminTotal,\n      imprevTotal: totals.imprevTotal,\n      utilidadTotal: totals.utilidadTotal,\n      ivaUtilidadTotal: totals.ivaUtilidadTotal,\n      grandTotal: totals.grandTotal,\n    });\n    const reread = await db.orm.public.ProjectBudget.where({ id: budget.id }).first();\n    console.log(\"direct:\", formatMoneyMicro(reread!.directCostTotal));\n    console.log(\"admin:\", formatMoneyMicro(reread!.adminTotal), \"imprev:\", formatMoneyMicro(reread!.imprevTotal), \"util:\", formatMoneyMicro(reread!.utilidadTotal), \"iva:\", formatMoneyMicro(reread!.ivaUtilidadTotal));\n    console.log(\"grand:\", formatMoneyMicro(reread!.grandTotal), \"(esperado $ 1.639.962)\");\n\n    // updateAiu → 15/8/7/19 y recalculo\n    const a2 = percentToMicro(\"15\")!;\n    const i2 = percentToMicro(\"8\")!;\n    const u2 = percentToMicro(\"7\")!;\n    const v2 = percentToMicro(\"19\")!;\n    const t2 = calculateBudgetTotals(direct, a2, i2, u2, v2);\n    await db.orm.public.ProjectBudget.where({ id: budget.id }).update({\n      aiuAdminPct: a2, aiuImprevPct: i2, aiuUtilidadPct: u2, ivaUtilidadPct: v2,\n      adminTotal: t2.adminTotal, imprevTotal: t2.imprevTotal,\n      utilidadTotal: t2.utilidadTotal, ivaUtilidadTotal: t2.ivaUtilidadTotal,\n      grandTotal: t2.grandTotal,\n    });\n    const r2 = await db.orm.public.ProjectBudget.where({ id: budget.id }).first();\n    console.log(\"after AIU 15/8/7/19 → grand:\", formatMoneyMicro(r2!.grandTotal), \"(esperado $ 1.762.015)\");\n\n    // Resource con enum\n    const res = await db.orm.public.BudgetItemResource.create({\n      tenantId: tenant.id,\n      itemId: item.id,\n      type: \"LABOR\",\n      name: \"Oficial\",\n      unit: \"HR\",\n      performance: BigInt(1_000_000),\n      unitPrice: BigInt(15_000_000_000),\n      totalPrice: BigInt(15_000_000_000),\n    });\n    console.log(\"resource:\", res.id, res.type);\n\n    // read tree via .in()\n    const chapters = await db.orm.public.BudgetChapter.where({ budgetId: budget.id }).orderBy((c) => c.order.asc()).all();\n    const items = await db.orm.public.BudgetItem.where((it) => it.chapterId.in(chapters.map((c) => c.id))).all();\n    console.log(\"tree: chapters=\", chapters.length, \"items=\", items.length);\n  } finally {\n    await db.orm.public.Project.delete({ id: project.id });\n    await db.orm.public.Customer.delete({ id: customer.id });\n    const leftover = await db.orm.public.ProjectBudget.where({ tenantId: tenant.id }).where((b) => b.code.like(`${TAG}%`)).all();\n    console.log(\"cleanup leftover budgets:\", leftover.length);\n  }\n}\n\nmain().then(() => process.exit(0)).catch((e) => { console.error(\"FAIL:\", e); process.exit(1); });\n",
+  "filePath": "/home/craxker/github/nexus-thrive/tmp-integration.ts"
+}
+```
+
+**Output:**
+```
+Wrote file successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** node tmp-integration.ts 2>&1 | rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate this warning\|trace-warnings"
+
+**Input:**
+```json
+{
+  "command": "node tmp-integration.ts 2>&1 | rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate this warning\\|trace-warnings\"",
+  "timeout": 120000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+tenant: efe0d021-567a-4f08-9e2b-c1b046eac14d juancarlos
+project: dc8b8af2-f408-4131-a482-35d1d8f56818
+FAIL: TypeError: configure is not a function
+    at #collectAnnotationsFromMeta (file:///home/craxker/github/nexus-thrive/node_modules/.pnpm/@prisma+orm-family-sql@8.0.0-rc.14_@prisma+cli-engine@0.6.2_@prisma+management-api-sdk@_1e96dacafeb4ab2e5340c6d25f48f42e/node_modules/@prisma/orm-family-sql/dist/orm-client.mjs:5171:3)
+    at CollectionImpl.delete (file:///home/craxker/github/nexus-thrive/node_modules/.pnpm/@prisma+orm-family-sql@8.0.0-rc.14_@prisma+cli-engine@0.6.2_@prisma+management-api-sdk@_1e96dacafeb4ab2e5340c6d25f48f42e/node_modules/@prisma/orm-family-sql/dist/orm-client.mjs:4889:58)
+    at main (file:///home/craxker/github/nexus-thrive/tmp-integration.ts:158:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Progress! The flow ran up to cleanup; the delete signature is different — `.delete()` needs a `where` chained differently, or delete expects a config. The error "configure is not a function" at CollectionImpl.delete → suggests `db.orm.public.Project.delete({ id })` isn't the right API. Maybe it's `.where({id}).delete()`? But I did `.where({id})`? No — I called `db.orm.public.Project.delete({ id: project.id })`. Need `.where({id}).delete()`.
+
+Wait but all the create/update worked. So the error only occurred at cleanup (finally). All the actual test output before FAIL — hmm, the output shows only tenant, project, then FAIL. So it failed... at the first `create`? No, project was created. Then FAIL at #collectAnnotationsFromMeta ... CollectionImpl.delete. So the failure happened in the `finally` delete? But then we'd have seen the intermediate logs. We didn't.
+
+Actually wait: the logs show project created, then immediately FAIL. That means the getOrCreate section threw? No — the error is `CollectionImpl.delete`. The only delete is in finally. But finally runs after try. So the try must have completed... but no logs from try. Unless stdout buffering. Hmm, console.log should flush.
+
+Wait — maybe the `db.orm.public.ProjectBudget.where(...).where(b => b.code.like(...))` threw? That's not delete.
+
+Let me reconsider: error stack: `#collectAnnotationsFromMeta` called from `CollectionImpl.delete`. So `.delete()` was invoked. In my script, `.delete` appears only in finally. So try block ran fully but its console.logs didn't appear?? 
+
+Unless... `db.orm.public.Project.delete({ id })` — the `delete` signature might expect a where clause differently, and it's called in finally. But the logs before finally should show.
+
+Oh! Maybe the output was piped through rtk grep and interleaving/ordering got messed? No.
+
+Hmm, alternatively the error occurred at the FIRST delete... but there's no delete before finally.
+
+Wait, actually maybe `.create` internally... no.
+
+Let me just re-run without the rtk grep filter and see full output. Also fix delete API: use `.where({ id }).delete()`.
+
+Let me check how other code deletes. Search repo for `.delete(`.
+
+</details>
+
+El `.delete()` tiene otra firma en Prisma 8. Reviso cómo se usa en el repo:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** rtk grep -rn "\.delete(" app lib lib/*.ts 2>/dev/null | rtk grep -v "delete:" | head -20
+
+**Input:**
+```json
+{
+  "command": "rtk grep -rn \"\\.delete(\" app lib lib/*.ts 2>/dev/null | rtk grep -v \"delete:\" | head -20",
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+app/[tenant]/(app)/crm/_components/customer-filters.tsx:41:    params.delete("page"); // los filtros reinician la paginación
+app/[tenant]/(app)/crm/_components/customer-search.tsx:53:        params.delete("q");
+app/[tenant]/(app)/crm/_components/customer-search.tsx:55:      params.delete("page");
+app/[tenant]/(app)/crm/_components/customer-table.tsx:139:        next.delete(id);
+app/[tenant]/(app)/crm/_components/customer-table.tsx:153:          next.delete(id);
+app/[tenant]/(app)/quotes/_components/quotes-table.tsx:61:      params.delete(key);
+app/[tenant]/(app)/quotes/projects/_components/projects-table.tsx:53:      params.delete(key);
+app/admin/_components/tenant-form.tsx:136:        next.delete(moduleName);
+app/admin/_components/tenant-table.tsx:79:      params.delete("page");
+app/admin/_components/tenant-toolbar.tsx:51:  exportParams.delete("page");
+app/admin/_components/tenant-toolbar.tsx:57:      params.delete("attention");
+app/admin/_components/tenant-toolbar.tsx:61:    params.delete("page");
+app/components/tenant/filter-select.tsx:36:      params.delete(paramKey);
+app/components/tenant/filter-select.tsx:38:    params.delete(pageParam);
+app/components/tenant/search-input.tsx:63:        params.delete(paramKey);
+app/components/tenant/search-input.tsx:66:      params.delete(pageParam);
+app/onboarding/_components/module-selection.tsx:78:      next.delete(moduleName);
+lib/tenant-db.ts:894:          .delete(),
+lib/tenant-db.ts:969:       * El `.delete()` del ORM borra UNA fila por llamada; para borrar en
+lib/tenant-db.ts:980:          .delete()
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Let me look at line 894 in tenant-db.ts for the correct delete signature.
+
+</details>
+
+#### 🔧 Tool: read
+**Status:** completed
+**Title:** lib/tenant-db.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/lib/tenant-db.ts",
+  "limit": 18,
+  "offset": 886
+}
+```
+
+**Output:**
+```
+<path>/home/craxker/github/nexus-thrive/lib/tenant-db.ts</path>
+<type>file</type>
+<content>
+886:         db.orm.public.Customer
+887:           .where({ id, tenantId })
+888:           .update(data),
+889:         
+890: 
+891:       delete: (id: string) =>
+892:         db.orm.public.Customer
+893:           .where({ id, tenantId })
+894:           .delete(),
+895: 
+896:       /**
+897:        * Búsqueda paginada para el CRM: filtra siempre por `tenantId`,
+898:        * por estado (activo/archivado), texto libre y orden.
+899:        * Devuelve la página actual y el total para paginar.
+900:        */
+901:       search: ({
+902:         q,
+903:         status = "active",
+
+(Showing lines 886-903 of 2913. Use offset=904 to continue.)
+</content>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The correct signature is `db.orm.public.X.where({ id }).delete()`, not `.delete({ id })`. Fix the cleanup in the integration script.
+
+But why did the try block logs not appear? Let me re-run after fix and see.
+
+Actually — maybe `.delete({id})` was being interpreted and the error was thrown synchronously during... no.
+
+Wait, maybe the issue is different: the `try` block uses `db.orm.public.ProjectBudget.where(...).where((b) => b.code.like(...))` — but if that threw, error would differ. The error is clearly delete.
+
+Hold on: maybe `console.log` in try DID run but got swallowed by the pipe `| rtk grep -v ...`? The grep filters out lines matching the pattern. My logs don't match. So they should show.
+
+Unless the process printed the tenant/project lines, then the try block... Actually maybe the try block's FIRST statement (getOrCreate replication) threw "configure is not a function" from `.where((b) => b.code.like(...))`? No, error says delete.
+
+Hmm, let me just re-run without grep and with the fix. Perhaps output ordering: stderr vs stdout interleaving — the FAIL is stderr, logs stdout, and in a pipe they can reorder. With `2>&1` they merge but buffering may put stderr first. Indeed! stderr is unbuffered, stdout buffered in pipes → FAIL appeared first, and the rest of stdout may have been... but we saw tenant/project lines. Possibly the try-block stdout was lost because process.exit(1) truncated buffered stdout!
+
+Yes: `process.exit(1)` truncates async stdout writes. That's why we only saw the first lines. The real failure IS the finally delete (since error originates there) — but try completed silently (buffered, then lost on exit).
+
+Fix: use `.where({id}).delete()` and avoid process.exit truncation (or flush). Let me fix delete calls and also capture output to a file.
+
+Update script.
+
+</details>
+
+Signature correcta: `.where({id}).delete()`. Corrijo y evito truncado de stdout:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && rtk sed -i 's|await db.orm.public.Project.delete({ id: project.id });|await db.orm.public.Project.where({ id: project.id }).delete();|; s|await db.orm.public.Customer.delete({ id: customer.id });|await db.orm.public.Customer.where({ id: customer.id }).delete();|' tmp-integration.ts && rtk grep -n "\.delete()" tmp-integration.ts
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && rtk sed -i 's|await db.orm.public.Project.delete({ id: project.id });|await db.orm.public.Project.where({ id: project.id }).delete();|; s|await db.orm.public.Customer.delete({ id: customer.id });|await db.orm.public.Customer.where({ id: customer.id }).delete();|' tmp-integration.ts && rtk grep -n \"\\.delete()\" tmp-integration.ts"
+}
+```
+
+**Output:**
+```
+158:    await db.orm.public.Project.where({ id: project.id }).delete();
+159:    await db.orm.public.Customer.where({ id: customer.id }).delete();
+
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** node tmp-integration.ts > /tmp/opencode/integration.out 2>&1; echo "EXIT=$?"; rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate this warning\|trace-warnings" /tmp/opencode/integration.out
+
+**Input:**
+```json
+{
+  "command": "node tmp-integration.ts > /tmp/opencode/integration.out 2>&1; echo \"EXIT=$?\"; rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate this warning\\|trace-warnings\" /tmp/opencode/integration.out",
+  "timeout": 120000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+EXIT=1
+46 matches in 1 files:
+
+tenant: efe0d021-567a-4f08-9e2b-c1b046eac14d juancarlos
+FAIL: SqlQueryError: duplicate key value violates unique constraint "Project_...
+at normalizePgError (file:///home/craxker/github/nexus-thrive/node_modules/.p...
+at PostgresPoolDriverImpl.query (file:///home/craxker/github/nexus-thrive/nod...
+at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+at async iterator (file:///home/craxker/github/nexus-thrive/node_modules/.pnp...
+... 3 lines matching cause stack trace ...
+at async file:///home/craxker/github/nexus-thrive/node_modules/.pnpm/@prisma+...
+at async CollectionImpl.create (file:///home/craxker/github/nexus-thrive/node...
+at async main (file:///home/craxker/github/nexus-thrive/tmp-integration.ts:20...
+kind: 'sql_query',
+sqlState: '23505',
+constraint: 'Project_tenantId_code_key',
+table: 'Project',
+column: undefined,
+detail: 'Key ("tenantId", code)=(efe0d021-567a-4f08-9e2b-c1b046eac14d, TEST-A...
+[cause]: error: duplicate key value violates unique constraint "Project_tenan...
+at /home/craxker/github/nexus-thrive/node_modules/.pnpm/pg@8.22.0/node_module...
+at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+at async PostgresPoolDriverImpl.executeBuffered (file:///home/craxker/github/...
+at async PostgresPoolDriverImpl.runQuery (file:///home/craxker/github/nexus-t...
+at async PostgresPoolDriverImpl.query (file:///home/craxker/github/nexus-thri...
+at async iterator (file:///home/craxker/github/nexus-thrive/node_modules/.pnp...
+at async PostgresRuntimeImpl.streamRows (file:///home/craxker/github/nexus-th...
+at async generator (file:///home/craxker/github/nexus-thrive/node_modules/.pn...
+  +21 more in /tmp/opencode/integration.out [see remaining: tail -n +26 ~/.local/share/rtk/tee/1791681842_grep_0__tmp_opencode_integration_out.log]
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The previous failed run created project/customer but the finally didn't run? Actually the first run failed in finally delete (wrong signature), so the project + customer from run #1 were left. Now run #2 hits duplicate `Project_tenantId_code_key` because code `${TAG}-PROY` still exists.
+
+So I have leftover test data: one customer and one project with TAG. Need to clean up first. Also run #2's customer create succeeded (different... no, customer has no unique constraint, so it created another customer), then project create failed on duplicate code → the finally in run2 deleted project (none created? project variable... actually project create threw before assignment, so `finally` references `project` — undefined → ReferenceError? But the error shown is the duplicate key from create, in main, so finally hasn't run yet). Actually the throw happens at main line 20 (project create), which is BEFORE the try block, so finally (inside try) doesn't run → run2's customer also leaked.
+
+I need to clean up all leftover TAG data. Let me do a cleanup pass:
+
+- delete customers where name like TAG
+- delete projects where code like TAG
+- order: delete projects first (customer restrict), then customers.
+
+Let me write a small cleanup script. Also find and delete the budget created in run1 (cascade via project delete).
+
+Let me write cleanup.ts.
+
+Then re-run integration.
+
+Let me also make the integration script use a unique suffix (timestamp) to avoid collisions, and make cleanup robust.
+
+Let me create cleanup + rerun in one go.
+
+Simplest: write a cleanup script that deletes TAG leftovers.
+
+```ts
+import { db } from "./prisma/db.ts";
+const tenant = await db.orm.public.Tenant.where({slug:"juancarlos"}).first();
+const projects = await db.orm.public.Project.where({tenantId: tenant.id}).where(p=>p.code.like("TEST-APU-INTEGRATION-DELETE-ME%")).all();
+for (const p of projects) await db.orm.public.Project.where({id:p.id}).delete();
+const customers = await db.orm.public.Customer.where({tenantId: tenant.id}).where(c=>c.name.like("TEST-APU-INTEGRATION-DELETE-ME%")).all();
+for (const c of customers) await db.orm.public.Customer.where({id:c.id}).delete();
+console.log("cleaned projects", projects.length, "customers", customers.length);
+```
+
+Let me write and run.
+
+Also modify integration script to add unique suffix to project code and customer name. Let me update TAG-based strings to include a random suffix. I'll edit the script.
+
+Actually simpler: keep fixed names but ensure cleanup runs first. And in the script, wrap everything in try/finally properly, and use unique suffix. Let me just add `const SUFFIX = Date.now().toString(36)` and append.
+
+Let me edit the script: replace `${TAG}-PROY` with `${TAG}-PROY-${SUFFIX}` etc. And customer name. And the leftover filter.
+
+Let me do edits.
+
+</details>
+
+La corrida anterior dejó datos de prueba. Limpio y añado sufijo único:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && cat > /tmp/opencode/cleanup.ts <<'EOF'
+import { db } from "/home/craxker/github/nexus-thrive/prisma/db.ts";
+const tenant = await db.orm.public.Tenant.where({ slug: "juancarlos" }).first();
+if (!tenant) { console.log("no tenant"); process.exit(0); }
+const projects = await db.orm.public.Project.where({ tenantId: tenant.id }).where(p => p.code.like("TEST-APU-INTEGRATION-DELETE-ME%")).all();
+for (const p of projects) await db.orm.public.Project.where({ id: p.id }).delete();
+const customers = await db.orm.public.Customer.where({ tenantId: tenant.id }).where(c => c.name.like("TEST-APU-INTEGRATION-DELETE-ME%")).all();
+for (const c of customers) await db.orm.public.Customer.where({ id: c.id }).delete();
+const budgets = await db.orm.public.ProjectBudget.where({ tenantId: tenant.id }).all();
+console.log("cleaned projects", projects.length, "customers", customers.length, "| budgets left in tenant:", budgets.length);
+EOF
+node /tmp/opencode/cleanup.ts 2>&1 | rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate\|trace-warnings"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && cat > /tmp/opencode/cleanup.ts <<'EOF'\nimport { db } from \"/home/craxker/github/nexus-thrive/prisma/db.ts\";\nconst tenant = await db.orm.public.Tenant.where({ slug: \"juancarlos\" }).first();\nif (!tenant) { console.log(\"no tenant\"); process.exit(0); }\nconst projects = await db.orm.public.Project.where({ tenantId: tenant.id }).where(p => p.code.like(\"TEST-APU-INTEGRATION-DELETE-ME%\")).all();\nfor (const p of projects) await db.orm.public.Project.where({ id: p.id }).delete();\nconst customers = await db.orm.public.Customer.where({ tenantId: tenant.id }).where(c => c.name.like(\"TEST-APU-INTEGRATION-DELETE-ME%\")).all();\nfor (const c of customers) await db.orm.public.Customer.where({ id: c.id }).delete();\nconst budgets = await db.orm.public.ProjectBudget.where({ tenantId: tenant.id }).all();\nconsole.log(\"cleaned projects\", projects.length, \"customers\", customers.length, \"| budgets left in tenant:\", budgets.length);\nEOF\nnode /tmp/opencode/cleanup.ts 2>&1 | rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate\\|trace-warnings\"",
+  "timeout": 60000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+cleaned projects 1 customers 2 | budgets left in tenant: 0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Cleaned 1 project, 2 customers. Budgets left 0 (cascade deleted the budget). Good — that also confirms cascade works.
+
+Now update integration script with unique suffix and re-run. Let me edit.
+
+</details>
+
+Limpio (y confirmo cascade: budgets en 0). Añado sufijo único al test:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** tmp-integration.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/tmp-integration.ts",
+  "oldString": "const TAG = \"TEST-APU-INTEGRATION-DELETE-ME\";",
+  "newString": "const TAG = \"TEST-APU-INTEGRATION-DELETE-ME\";\nconst SUFFIX = Date.now().toString(36);"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && rtk sed -i 's|name: `${TAG}-cliente`|name: `${TAG}-cliente-${SUFFIX}`|; s|code: `${TAG}-PROY`|code: `${TAG}-PROY-${SUFFIX}`|; s|name: `${TAG} obra`|name: `${TAG} obra ${SUFFIX}`|' tmp-integration.ts && rtk grep -n "SUFFIX" tmp-integration.ts
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && rtk sed -i 's|name: `${TAG}-cliente`|name: `${TAG}-cliente-${SUFFIX}`|; s|code: `${TAG}-PROY`|code: `${TAG}-PROY-${SUFFIX}`|; s|name: `${TAG} obra`|name: `${TAG} obra ${SUFFIX}`|' tmp-integration.ts && rtk grep -n \"SUFFIX\" tmp-integration.ts"
+}
+```
+
+**Output:**
+```
+10:const SUFFIX = Date.now().toString(36);
+19:    name: `${TAG}-cliente-${SUFFIX}`,
+24:    code: `${TAG}-PROY-${SUFFIX}`,
+25:    name: `${TAG} obra ${SUFFIX}`,
+
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && node tmp-integration.ts > /tmp/opencode/integration2.out 2>&1; echo "EXIT=$?"; rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate this warning\|trace-warnings" /tmp/opencode/integration2.out
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && node tmp-integration.ts > /tmp/opencode/integration2.out 2>&1; echo \"EXIT=$?\"; rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate this warning\\|trace-warnings\" /tmp/opencode/integration2.out",
+  "timeout": 120000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+EXIT=1
+48 matches in 1 files:
+
+tenant: efe0d021-567a-4f08-9e2b-c1b046eac14d juancarlos
+project: b47b302c-2ba7-4560-bd16-b3ddb4582305
+cleanup leftover budgets: 0
+FAIL: SqlQueryError: null value in column "name" of relation "ProjectBudget" ...
+at normalizePgError (file:///home/craxker/github/nexus-thrive/node_modules/.p...
+at PostgresPoolDriverImpl.query (file:///home/craxker/github/nexus-thrive/nod...
+at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+at async iterator (file:///home/craxker/github/nexus-thrive/node_modules/.pnp...
+... 3 lines matching cause stack trace ...
+at async file:///home/craxker/github/nexus-thrive/node_modules/.pnpm/@prisma+...
+at async CollectionImpl.create (file:///home/craxker/github/nexus-thrive/node...
+at async main (file:///home/craxker/github/nexus-thrive/tmp-integration.ts:39...
+kind: 'sql_query',
+sqlState: '23502',
+constraint: undefined,
+table: 'ProjectBudget',
+column: 'name',
+detail: 'Failing row contains (0, 100000, 50000, 50000, PRES-2026-001, 2026-1...
+[cause]: error: null value in column "name" of relation "ProjectBudget" viola...
+at /home/craxker/github/nexus-thrive/node_modules/.pnpm/pg@8.22.0/node_module...
+at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+at async PostgresPoolDriverImpl.executeBuffered (file:///home/craxker/github/...
+at async PostgresPoolDriverImpl.runQuery (file:///home/craxker/github/nexus-t...
+at async PostgresPoolDriverImpl.query (file:///home/craxker/github/nexus-thri...
+at async iterator (file:///home/craxker/github/nexus-thrive/node_modules/.pnp...
+  +23 more in /tmp/opencode/integration2.out [see remaining: tail -n +26 ~/.local/share/rtk/tee/1791681896_grep_0__tmp_opencode_integration2_out.log]
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Two things:
+1. My integration script's `ProjectBudget.create` omitted `name` (I didn't pass name) → NOT NULL violation. That's a script bug, not app bug. In the app, getOrCreate passes name. Fix: add name to the create.
+2. Note: `cleanup leftover budgets: 0` ran, meaning try threw and finally ran. Good.
+
+Also important: the actual app's getOrCreate DOES pass `name: `Presupuesto — ${project.name}``. So fine.
+
+Fix script: add `name: `${TAG} presupuesto``.
+
+Let me edit.
+
+</details>
+
+El test olvidó `name` (el app sí lo pasa). Corrijo:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** tmp-integration.ts
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/tmp-integration.ts",
+  "newString": "    const budget = await db.orm.public.ProjectBudget.create({\n      tenantId: tenant.id,\n      projectId: project.id,\n      code,\n      name: `${TAG} presupuesto ${SUFFIX}`,\n    });",
+  "oldString": "    const budget = await db.orm.public.ProjectBudget.create({\n      tenantId: tenant.id,\n      projectId: project.id,\n      code,\n    });"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && node tmp-integration.ts > /tmp/opencode/integration3.out 2>&1; echo "EXIT=$?"; rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate this warning\|trace-warnings" /tmp/opencode/integration3.out
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && node tmp-integration.ts > /tmp/opencode/integration3.out 2>&1; echo \"EXIT=$?\"; rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate this warning\\|trace-warnings\" /tmp/opencode/integration3.out",
+  "timeout": 120000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+EXIT=0
+tenant: efe0d021-567a-4f08-9e2b-c1b046eac14d juancarlos
+project: c9078a15-723f-4ab9-a8d3-bc82ce7e0213
+budget code: PRES-2026-001 | defaults pct: 100000n 50000n 50000n 190000n
+unique projectId enforced: true
+item total COP: $ 356.250 | item2: $ 1.000.000
+direct: $ 1.356.250
+admin: $ 135.625 imprev: $ 67.813 util: $ 67.813 iva: $ 12.884
+grand: $ 1.640.384 (esperado $ 1.639.962)
+after AIU 15/8/7/19 → grand: $ 1.781.163 (esperado $ 1.762.015)
+resource: 0286ddea-e443-4091-892e-48229a3a1990 LABOR
+tree: chapters= 2 items= 2
+cleanup leftover budgets: 0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Everything works. My "esperado" values were rough estimates (I guessed). Let me verify the actual math is correct:
+
+direct = 356.250 + 1.000.000 = 1.356.250 COP → micro 1_356_250_000_000.
+admin 10% = 135.625 ✓ (1,356,250 * 0.10 = 135,625)
+imprev 5% = 67,812.5 → half-up 67,813 ✓
+util 5% = 67,812.5 → 67,813 ✓
+iva 19% of util = 67,813 * 0.19 = 12,884.47 → 12,884 ✓
+grand = 1,356,250 + 135,625 + 67,813 + 67,813 + 12,884 = 1,640,385? Let me add: 1,356,250 + 135,625 = 1,491,875; +67,813 = 1,559,688; +67,813 = 1,627,501; +12,884 = 1,640,385. Hmm output says 1,640,384. Let me recompute rounding at micro level.
+
+Actually rounding happens at micro precision, then displayed rounded to peso. The micro-level rounding accumulates. Let me compute in micro:
+direct = 1_356_250_000_000
+admin = roundDiv(direct * 100_000, 1_000_000) = direct/10 = 135_625_000_000 exactly.
+imprev = roundDiv(direct*50_000,1_000_000)= direct/20 = 67_812_500_000 exactly (since 1_356_250_000_000/20 = 67_812_500_000). Display: 67_812.5 → half-up 67_813 ✓
+util = same 67_812_500_000 → 67_813
+iva = roundDiv(util*190_000, 1_000_000) = util*0.19 = 67_812_500_000 * 0.19 = 12_884_375_000 exactly. display 12_884.375 → 12_884 ✓
+grand = direct+admin+imprev+util+iva = 1_356_250_000_000 + 135_625_000_000 + 67_812_500_000 + 67_812_500_000 + 12_884_375_000 = 
+1_356_250_000_000
++135_625_000_000 = 1_491_875_000_000
++67_812_500_000 = 1_559_687_500_000
++67_812_500_000 = 1_627_500_000_000
++12_884_475... wait 12_884_375_000 → 1_640_384_375_000. Display half-up peso: 1_640_384.375 → 1_640_384 (since .384... wait 1_640_384.0? The value is 1,640,384.375 COP → rounds to 1,640,384). Yes! Output 1,640,384 is correct. My "esperado 1.639.962" was a wrong hand estimate. Good.
+
+Second: 15/8/7/19:
+admin 15% = 1,356,250*0.15 = 203,437.5 → micro 203_437_500_000
+imprev 8% = 108,500 → 108_500_000_000
+util 7% = 94,937.5 → 94_937_500_000
+iva 19% of util = 94,937.5*0.19 = 18,038.125 → 18_038_125_000
+grand = 1,356,250,000,000 + 203,437,500,000 + 108,500,000,000 + 94,937,500,000 + 18,038,125,000 = 
+1,356,250,000,000+203,437,500,000=1,559,687,500,000
++108,500,000,000=1,668,187,500,000
++94,937,500,000=1,763,125,000,000
++18,038,125,000=1,781,163,125,000
+Display: 1,781,163.125 → 1,781,163 ✓. Output matches. My estimate was wrong.
+
+So the engine is verified correct. Great.
+
+All evidence:
+- tsc: no errors
+- build: success
+- DB: 4 tables + constraints
+- Engine unit tests: pass
+- Integration test against real DB: getOrCreate code PRES-2026-001, defaults, unique projectId enforced, item totals, cascade recalc, AIU update, resource enum, tree read via .in(), cascade cleanup — all pass.
+
+Now cleanup: delete tmp-integration.ts from repo (don't commit). Delete temp files in /tmp (fine to leave). Also remove the test artifacts in DB (already cleaned: leftover budgets 0; project/customer deleted).
+
+Let me verify no leftover test data remains.
+
+Then restart the dev server (user was using it).
+
+Then final report (sections 1-10) + mem_session_summary + mem_save.
+
+Let me remove tmp-integration.ts and verify DB clean.
+
+</details>
+
+Todo el flujo funciona (mis "esperado" eran estimaciones a mano; el cálculo real es correcto: 10/5/5/19 sobre $1.356.250 → $1.640.384; 15/8/7/19 → $1.781.163). Limpio los datos y el script de prueba:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && node /tmp/opencode/cleanup.ts 2>&1 | rtk grep -v "MODULE_TYPELESS\|Reparsing\|eliminate\|trace-warnings"; rm -f tmp-integration.ts; ls tmp-integration.ts 2>&1 | tail -1; echo "--- git status ---"; rtk git status --short
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && node /tmp/opencode/cleanup.ts 2>&1 | rtk grep -v \"MODULE_TYPELESS\\|Reparsing\\|eliminate\\|trace-warnings\"; rm -f tmp-integration.ts; ls tmp-integration.ts 2>&1 | tail -1; echo \"--- git status ---\"; rtk git status --short",
+  "timeout": 60000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+cleaned projects 0 customers 0 | budgets left in tenant: 0
+ls: cannot access 'tmp-integration.ts': No such file or directory
+--- git status ---
+ M app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+ M lib/apu-engine.ts
+ M lib/format.ts
+ M lib/tenant-db.ts
+ M prisma/contract.d.ts
+ M prisma/contract.json
+ M prisma/contract.prisma
+?? app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+?? app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx
+?? app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx
+?? app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx
+?? app/[tenant]/(app)/quotes/projects/[projectId]/budget/
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Wait, git status doesn't show FASE 1 files anymore (projects/page.tsx, lib/projects.ts, projects/ dir). That's odd — earlier the summary said FASE 1 files were modified/untracked. Now they're not shown... Maybe FASE 1 was committed in a prior session? Or the compacted summary was from before... Actually this shows only FASE 2 changes. Let me check git log to see if FASE 1 was committed.
+
+Actually the summary said "NO commit made" for FASE 1. But now git status shows none of the FASE 1 files. Hmm. Maybe they were committed in a session that this summary didn't capture? Or maybe the summary was slightly off.
+
+Let me check git log and whether projects/ is tracked.
+
+</details>
+
+FASE 1 ya no aparece como pendiente. Verifico el estado real de git:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && rtk git log --oneline -8; echo "--- branch ---"; rtk git branch --show-current; echo "--- projects tracked? ---"; rtk git ls-files "app/[tenant]/(app)/quotes/projects" | head
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && rtk git log --oneline -8; echo \"--- branch ---\"; rtk git branch --show-current; echo \"--- projects tracked? ---\"; rtk git ls-files \"app/[tenant]/(app)/quotes/projects\" | head"
+}
+```
+
+**Output:**
+```
+8c17ce5 feat(construction): contenedor de proyectos de obra y ficha cliente/receptor (FASE 1 - Tab 1)
+9b38c1b Refactor code structure for improved readability and maintainability
+b812638 Add Vercel configuration for function duration limits
+b75e20e chore: update dependencies and remove vercel configuration
+c666cf5 Add Vercel configuration for function request limits
+ffc5db3 feat(auth): add callback page for post-login redirection based on user role and tenant status
+d7959b1 feat: add temporal-polyfill dependency and instrumentation for temporal support
+25b75d9 Refactor proxy middleware for improved tenant routing and add migration script for database schema setup
+--- branch ---
+feature/construction-apu-engine
+--- projects tracked? ---
+app/[tenant]/(app)/quotes/projects/[projectId]/_components/project-header-form.tsx
+app/[tenant]/(app)/quotes/projects/[projectId]/_components/project-tabs.tsx
+app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx
+app/[tenant]/(app)/quotes/projects/_components/new-project-modal.tsx
+app/[tenant]/(app)/quotes/projects/_components/project-status-badge.tsx
+app/[tenant]/(app)/quotes/projects/_components/projects-table.tsx
+app/[tenant]/(app)/quotes/projects/actions.ts
+app/[tenant]/(app)/quotes/projects/page.tsx
+app/[tenant]/(app)/quotes/projects/validators.ts
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+FASE 1 was committed (commit `f1...`? `git status` earlier summary said no commit, but a commit "add_project_container" exists? Actually the commit message shows FASE 1 committed. The last commit is likely FASE 1. So FASE 1 got committed at some point (maybe by the user or a previous session). Fine.
+
+Now restart dev server for the user, then write the report.
+
+Actually should I restart the dev server? The user said earlier "ya lo detube inicialo tu" (they stopped it, I started it). I stopped it for build. I'll restart it in background.
+
+Let me restart `pnpm dev` in background.
+
+Then verify it responds. Actually dev compile is slow (~2min). I'll start it and note.
+
+Let me start it detached with nohup.
+
+</details>
+
+FASE 1 ya estaba commiteada. Reinicio el dev server (lo había parado para el build):
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && nohup pnpm dev > /tmp/opencode/devserver.log 2>&1 & echo "started pid $!"; sleep 5; rtk grep -m3 -Ei "ready|started|Local:|error" /tmp/opencode/devserver.log 2>/dev/null || cat /tmp/opencode/devserver.log
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && nohup pnpm dev > /tmp/opencode/devserver.log 2>&1 & echo \"started pid $!\"; sleep 5; rtk grep -m3 -Ei \"ready|started|Local:|error\" /tmp/opencode/devserver.log 2>/dev/null || cat /tmp/opencode/devserver.log",
+  "timeout": 30000
+}
+```
+
+**Output:**
+```
+started pid 594941
+- Local:         http://localhost:3000
+✓ Ready in 1706ms
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Dev server running at http://localhost:3000.
+
+Now, before writing the report, let me double-check a couple of code-quality issues:
+
+1. In `budget-workspace.tsx` I import `formatQuantityMicro` — used. `microToPercent` used. Good.
+
+2. The `getOrCreateProjectBudgetAction` is called from the server component page.tsx. It's marked "use server" and calls `requireTenantContext` which uses clerk auth + membership. Good.
+
+3. `router.refresh()` after modal success — server revalidates via revalidatePath; refresh ensures client refetch.
+
+4. Potential issue: In `loadBudgetTree`, `db.orm.public.BudgetItem.where((item) => item.chapterId.in(chapterIds))` — verified `.in()` works (integration test used it). Good.
+
+5. `where((budget) => budget.code.like(...))` — verified in integration (getOrCreate ran and produced PRES-2026-001). Good. Actually the integration script used like and got PRES-2026-001 (seq 1 because no budgets existed for that tenant... wait, but there were budgets? earlier cleanup said 0. So seq 1 → PRES-2026-001 ✓).
+
+6. The `name` column is required — app passes it. ✓
+
+7. BigInt serialization: `loadBudgetTree` converts all BigInt to string. `ProjectBudgetData` has all strings. ✓ Passed to client component. ✓
+
+8. `AiuConfigModal` `defaults` is a new object each render from useMemo dependent on budget — stable. useEffect resets draft on open. ✓
+
+One concern: in `AiuConfigModal`, the `useEffect` dependency `defaults` — since aiuDefaults is memoized on budget, stable. OK.
+
+Another: eslint. Let me run lint to be safe (the brief mentions verify; lint is a good check). The build already ran ESLint? Next build runs type checking but not necessarily eslint in Next 16 (they removed lint from build). Let me run `pnpm lint`.
+
+Let me run eslint on the new files.
+
+Actually `pnpm lint` runs `eslint` (whole repo). Could be slow but let's try with timeout.
+
+Let me run it.
+
+</details>
+
+Dev server arriba. Corro el lint para cerrar verificación:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 180 pnpm lint 2>&1 | tail -40; echo "EXIT=${PIPESTATUS[0]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 180 pnpm lint 2>&1 | tail -40; echo \"EXIT=${PIPESTATUS[0]}\"",
+  "timeout": 200000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+  4358:18  error    The `{}` ("empty object") type allows any non-nullish value, including literals like `0` and `""`.
+- If that's what you want, disable this lint rule with an inline comment or configure the 'allowObjectTypes' rule option.
+- If you want a type meaning "any object", you probably want `object` instead.
+- If you want a type meaning "any value", you probably want `unknown` instead  @typescript-eslint/no-empty-object-type
+
+/home/craxker/github/nexus-thrive/prisma/contract.d.ts
+     5:3   warning  'Bit' is defined but never used                                                                                                                                                                                                                                                                                                                                                            @typescript-eslint/no-unused-vars
+     6:3   warning  'Char' is defined but never used                                                                                                                                                                                                                                                                                                                                                           @typescript-eslint/no-unused-vars
+     8:3   warning  'Interval' is defined but never used                                                                                                                                                                                                                                                                                                                                                       @typescript-eslint/no-unused-vars
+     9:3   warning  'JsonValue' is defined but never used                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+    10:3   warning  'Numeric' is defined but never used                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+    11:3   warning  'Time' is defined but never used                                                                                                                                                                                                                                                                                                                                                           @typescript-eslint/no-unused-vars
+    12:3   warning  'TimeString' is defined but never used                                                                                                                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+    13:3   warning  'Timestamp' is defined but never used                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+    14:3   warning  'TimestampString' is defined but never used                                                                                                                                                                                                                                                                                                                                                @typescript-eslint/no-unused-vars
+    15:3   warning  'Timestamptz' is defined but never used                                                                                                                                                                                                                                                                                                                                                    @typescript-eslint/no-unused-vars
+    16:3   warning  'TimestamptzString' is defined but never used                                                                                                                                                                                                                                                                                                                                              @typescript-eslint/no-unused-vars
+    17:3   warning  'Timetz' is defined but never used                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+    18:3   warning  'VarBit' is defined but never used                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+    19:3   warning  'Varchar' is defined but never used                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+    79:23  error    The `{}` ("empty object") type allows any non-nullish value, including literals like `0` and `""`.
+- If that's what you want, disable this lint rule with an inline comment or configure the 'allowObjectTypes' rule option.
+- If you want a type meaning "any object", you probably want `object` instead.
+- If you want a type meaning "any value", you probably want `unknown` instead  @typescript-eslint/no-empty-object-type
+    84:23  error    The `{}` ("empty object") type allows any non-nullish value, including literals like `0` and `""`.
+- If that's what you want, disable this lint rule with an inline comment or configure the 'allowObjectTypes' rule option.
+- If you want a type meaning "any object", you probably want `object` instead.
+- If you want a type meaning "any value", you probably want `unknown` instead  @typescript-eslint/no-empty-object-type
+  6538:24  error    The `{}` ("empty object") type allows any non-nullish value, including literals like `0` and `""`.
+- If that's what you want, disable this lint rule with an inline comment or configure the 'allowObjectTypes' rule option.
+- If you want a type meaning "any object", you probably want `object` instead.
+- If you want a type meaning "any value", you probably want `unknown` instead  @typescript-eslint/no-empty-object-type
+  6867:18  error    The `{}` ("empty object") type allows any non-nullish value, including literals like `0` and `""`.
+- If that's what you want, disable this lint rule with an inline comment or configure the 'allowObjectTypes' rule option.
+- If you want a type meaning "any object", you probably want `object` instead.
+- If you want a type meaning "any value", you probably want `unknown` instead  @typescript-eslint/no-empty-object-type
+
+✖ 325 problems (69 errors, 256 warnings)
+
+[ELIFECYCLE] Command failed with exit code 1.
+EXIT=
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The lint errors are all in generated `prisma/contract.d.ts` (generated artifact) — not our code. Let me check if any errors are in our files. Let me filter lint output for our new/modified files.
+
+</details>
+
+Errores de lint son en artefactos generados. Verifico si alguno es de mis archivos:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 180 pnpm lint 2>&1 | rtk grep -E "budget-workspace|aiu-config-modal|chapter-modal|item-modal|budget/actions|budget/validators|lib/apu-engine|lib/format|lib/tenant-db|projectId]/page" ; echo "---fin filtro (vacío = sin hallazgos en mis archivos)---"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 180 pnpm lint 2>&1 | rtk grep -E \"budget-workspace|aiu-config-modal|chapter-modal|item-modal|budget/actions|budget/validators|lib/apu-engine|lib/format|lib/tenant-db|projectId]/page\" ; echo \"---fin filtro (vacío = sin hallazgos en mis archivos)---\"",
+  "timeout": 200000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx:68:7
+/home/craxker/github/nexus-thrive/lib/apu-engine.ts
+/home/craxker/github/nexus-thrive/lib/tenant-db.ts
+---fin filtro (vacío = sin hallazgos en mis archivos)---
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+There is one issue in aiu-config-modal.tsx line 68. Let me get the full lint output around that line. Let me run eslint on that specific file.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 120 pnpm exec eslint "app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx" app/[tenant]/\\(app\)/quotes/projects/[projectId]/budget/actions.ts "app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts" 2>&1 | tail -40
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 120 pnpm exec eslint \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx\" app/[tenant]/\\\\(app\\)/quotes/projects/[projectId]/budget/actions.ts \"app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts\" 2>&1 | tail -40",
+  "timeout": 200000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+zsh:1: bad pattern: app/[tenant]/\(app)/quotes/projects/[projectId]/budget/actions.ts app/[tenant]/(app)/quotes/projects/[projectId]/budget/validators.ts 2
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 180 npx eslint "lib/apu-engine.ts" "lib/format.ts" "lib/tenant-db.ts" "app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/" "app/[tenant]/(app)/quotes/projects/[projectId]/budget/" 2>&1 | tail -40; echo "EXIT=${PIPESTATUS[0]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 180 npx eslint \"lib/apu-engine.ts\" \"lib/format.ts\" \"lib/tenant-db.ts\" \"app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/\" \"app/[tenant]/(app)/quotes/projects/[projectId]/budget/\" 2>&1 | tail -40; echo \"EXIT=${PIPESTATUS[0]}\"",
+  "timeout": 200000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+
+/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+  68:7  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx:68:7
+  66 |   useEffect(() => {
+  67 |     if (open) {
+> 68 |       setDraft(defaults);
+     |       ^^^^^^^^ Avoid calling setState() directly within an effect
+  69 |     }
+  70 |   }, [open, defaults]);
+  71 |  react-hooks/set-state-in-effect
+
+/home/craxker/github/nexus-thrive/lib/apu-engine.ts
+  22:7  warning  'HALF' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/home/craxker/github/nexus-thrive/lib/tenant-db.ts
+  38:8  warning  'QuoteTotals' is defined but never used  @typescript-eslint/no-unused-vars
+
+✖ 3 problems (1 error, 2 warnings)
+
+EXIT=
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+One real lint error in my `aiu-config-modal.tsx`: setState in effect. And warnings in apu-engine (HALF unused - pre-existing) and tenant-db QuoteTotals unused (pre-existing? It was imported before... it was already imported before my change; the warning about QuoteTotals unused — was it used before? Let me check. In my edit I kept `type QuoteTotals` import. It may have been used elsewhere. The warning says unused now. Possibly pre-existing. Not an error.
+
+Let me fix the AIU modal: avoid setState-in-effect. Better approach: use a `key` on the modal content to remount when opened, OR reset draft via the parent passing a key. Simplest: instead of syncing via effect, initialize draft with useState(defaults) and give the form a `key` derived from open + defaults so React re-initializes? Actually the cleanest React pattern: lift the "open" reset by keying the component. 
+
+Option: In BudgetWorkspace, render `<AiuConfigModal key={aiuOpen ? 'open' : 'closed'} ... />` — but the state persists across open/close since component stays mounted. If we conditionally render the modal (only when open), state resets on each open naturally. Currently AiuConfigModal is always mounted with `open` prop.
+
+Simplest fix: only render `{aiuOpen && <AiuConfigModal ... />}` and inside assume open=true, drop the `open` prop and the sync effect. Then draft initializes from defaults on mount. But mounting animation? The Modal returns null when !open anyway. Rendering conditionally is fine.
+
+But then the "reset on open" is automatic because it remounts each time. Let me refactor:
+- AiuConfigModal: remove `open` prop (always open), remove sync effect. Keep the success effect.
+- In workspace: `{aiuOpen ? <AiuConfigModal .../> : null}`.
+
+Similarly ChapterModal and ItemModal use `open` prop but they don't setState in effect, so no error. But for consistency/cleanliness I could leave them. ItemModal is already conditionally rendered. ChapterModal always rendered with open. Leave as is (no lint error).
+
+Actually wait, ChapterModal's form uses `defaultValue` from state.values — fine.
+
+Let me refactor AiuConfigModal.
+
+Changes:
+- Props: remove `open`.
+- Remove the reset useEffect.
+- Modal open={true}.
+- Keep success useEffect with onClose/router.
+- The draft useState(defaults).
+
+And workspace: change to conditional render.
+
+Let me edit aiu-config-modal.tsx.
+
+</details>
+
+Un error real de lint en el modal AIU (setState en effect). Lo corrijo montando el modal solo cuando está abierto:
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx",
+  "newString": "export default function AiuConfigModal({\n  onClose,\n  tenantSlug,\n  projectId,\n  defaults,\n  directCostTotal,\n}: {\n  onClose: () => void;\n  tenantSlug: string;\n  projectId: string;\n  defaults: AiuDraft;\n  /** Costo directo actual en micro-pesos (string BigInt). */\n  directCostTotal: string;\n}) {\n  const [state, formAction, isPending] = useActionState(\n    updateAiuConfigAction,\n    IDLE_STATE,\n  );\n  const router = useRouter();\n  // El componente se monta solo cuando el modal está abierto, así que el\n  // borrador se inicializa con los valores vigentes en cada apertura.\n  const [draft, setDraft] = useState<AiuDraft>(defaults);\n\n  useEffect(() => {\n    if (state.status === \"ok\") {\n      onClose();\n      router.refresh();\n    }\n  }, [state, onClose, router]);",
+  "oldString": "export default function AiuConfigModal({\n  open,\n  onClose,\n  tenantSlug,\n  projectId,\n  defaults,\n  directCostTotal,\n}: {\n  open: boolean;\n  onClose: () => void;\n  tenantSlug: string;\n  projectId: string;\n  defaults: AiuDraft;\n  /** Costo directo actual en micro-pesos (string BigInt). */\n  directCostTotal: string;\n}) {\n  const [state, formAction, isPending] = useActionState(\n    updateAiuConfigAction,\n    IDLE_STATE,\n  );\n  const router = useRouter();\n  const [draft, setDraft] = useState<AiuDraft>(defaults);\n\n  // Resincroniza el borrador cada vez que se abre con los valores vigentes.\n  useEffect(() => {\n    if (open) {\n      setDraft(defaults);\n    }\n  }, [open, defaults]);\n\n  useEffect(() => {\n    if (state.status === \"ok\") {\n      onClose();\n      router.refresh();\n    }\n  }, [state, onClose, router]);"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx",
+  "newString": "  return (\n    <Modal\n      open\n      onClose={() => {\n        if (!isPending) {\n          onClose();\n        }\n      }}\n      title=\"Configurar AIU\"\n    >",
+  "oldString": "  return (\n    <Modal\n      open={open}\n      onClose={() => {\n        if (!isPending) {\n          onClose();\n        }\n      }}\n      title=\"Configurar AIU\"\n    >"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+Now update the workspace to render it conditionally:
+
+#### 🔧 Tool: edit
+**Status:** error
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx",
+  "newString": "      <AiuConfigModal\n        open={aiuOpen}\n        onClose={() => setAiuOpen(false)}\n        tenantSlug={tenantSlug}\n        projectId={projectId}\n        defaults={aiuDefaults}\n        directCostTotal={budget.directCostTotal}\n      />",
+  "oldString": "      <AiuConfigModal\n        open={aiuOpen}\n        onClose={() => setAiuOpen(false)}\n        tenantSlug={tenantSlug}\n        projectId={projectId}\n        defaults={aiuDefaults}\n        directCostTotal={budget.directCostTotal}\n      />"
+}
+```
+
+**Error:**
+```
+No changes to apply: oldString and newString are identical.
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: edit
+**Status:** completed
+**Title:** app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx
+
+**Input:**
+```json
+{
+  "filePath": "/home/craxker/github/nexus-thrive/app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx",
+  "newString": "      {aiuOpen ? (\n        <AiuConfigModal\n          onClose={() => setAiuOpen(false)}\n          tenantSlug={tenantSlug}\n          projectId={projectId}\n          defaults={aiuDefaults}\n          directCostTotal={budget.directCostTotal}\n        />\n      ) : null}",
+  "oldString": "      <AiuConfigModal\n        open={aiuOpen}\n        onClose={() => setAiuOpen(false)}\n        tenantSlug={tenantSlug}\n        projectId={projectId}\n        defaults={aiuDefaults}\n        directCostTotal={budget.directCostTotal}\n      />"
+}
+```
+
+**Output:**
+```
+Edit applied successfully.
+```
+
+*[step-finish part]*
+
+*[patch part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now re-run tsc and lint on my files.
+
+Also the `useEffect` import still used in aiu-config-modal. Yes.
+
+Let me run tsc + lint on the changed files.
+
+</details>
+
+Verifico de nuevo tsc y lint:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 300 pnpm exec tsc --noEmit 2>&1 | tail -20; echo "TSC_EXIT=${PIPESTATUS[0]}"; echo "=== lint archivos nuevos/modificados ==="; timeout 180 pnpm exec eslint "app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx" "lib/format.ts" 2>&1 | tail -20; echo "LINT_EXIT=${PIPESTATUS[0]}"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 300 pnpm exec tsc --noEmit 2>&1 | tail -20; echo \"TSC_EXIT=${PIPESTATUS[0]}\"; echo \"=== lint archivos nuevos/modificados ===\"; timeout 180 pnpm exec eslint \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx\" \"lib/format.ts\" 2>&1 | tail -20; echo \"LINT_EXIT=${PIPESTATUS[0]}\"",
+  "timeout": 520000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+TSC_EXIT=
+=== lint archivos nuevos/modificados ===
+LINT_EXIT=
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Empty output = no errors, and exit codes empty (zsh PIPESTATUS quirk but no output means clean). Let me double-confirm with a simple echo of exit.
+
+Actually the `TSC_EXIT=` empty is odd. Let me just run tsc directly with rtk to confirm "No errors found".
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && rtk tsc --noEmit; echo "TSC=$?"; rtk eslint "app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx" "lib/format.ts"; echo "LINT=$?"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && rtk tsc --noEmit; echo \"TSC=$?\"; rtk eslint \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx\" \"lib/format.ts\"; echo \"LINT=$?\"",
+  "timeout": 400000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+TypeScript: No errors found
+TSC=0
+[rtk: No such file or directory (os error 2)]
+LINT=127
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 180 pnpm exec eslint "app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx" "app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx" "lib/format.ts" > /tmp/opencode/lint.out 2>&1; echo "LINT=$?"; cat /tmp/opencode/lint.out
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 180 pnpm exec eslint \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/aiu-config-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/budget-workspace.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/chapter-modal.tsx\" \"app/[tenant]/(app)/quotes/projects/[projectId]/_components/item-modal.tsx\" \"lib/format.ts\" > /tmp/opencode/lint.out 2>&1; echo \"LINT=$?\"; cat /tmp/opencode/lint.out",
+  "timeout": 200000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+LINT=0
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Clean: tsc 0, lint 0 on all new/modified files.
+
+Now run the build one final time to confirm everything still builds after the AIU refactor. Dev server is running — need to stop it for build. Let me find and stop, rebuild, restart.
+
+Actually, tsc passing + lint clean is strong. But the build earlier passed before the AIU refactor. The refactor is small (prop change). To be thorough and match the brief's verification requirement, run build once more.
+
+Stop dev server, build, restart.
+
+</details>
+
+Todo limpio. Corro el build final (paro el dev server, build, reinicio):
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && pkill -f "next dev" 2>/dev/null; pkill -f "pnpm dev" 2>/dev/null; sleep 3; pgrep -af "next dev" || echo "dev detenido"
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && pkill -f \"next dev\" 2>/dev/null; pkill -f \"pnpm dev\" 2>/dev/null; sleep 3; pgrep -af \"next dev\" || echo \"dev detenido\"",
+  "timeout": 30000
+}
+```
+
+**Output:**
+```
+(no output)
+
+<shell_metadata>
+shell tool terminated command after exceeding timeout 30000 ms. If this command is expected to take longer and is not waiting for interactive input, retry with a larger timeout value in milliseconds.
+</shell_metadata>
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+The command hung — probably `pgrep -af "next dev"` matched the zsh -c itself and... no, it printed nothing and timed out. Odd. Possibly `rtk ps`? No. The `pnpm exec`? Anyway, let me check processes.
+
+Actually the timeout is because the shell waited. Let me just check if dev is running and run build.
+
+</details>
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** pgrep -af "next-server\|next dev" 2>/dev/null; echo "---"; ls -la /home/craxker/github/nexus-thrive/.next 2>/dev/null | head -1
+
+**Input:**
+```json
+{
+  "command": "pgrep -af \"next-server\\|next dev\" 2>/dev/null; echo \"---\"; ls -la /home/craxker/github/nexus-thrive/.next 2>/dev/null | head -1",
+  "timeout": 15000
+}
+```
+
+**Output:**
+```
+---
+total 316
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+No next-server running. Good. Now run build.
+
+</details>
+
+Dev detenido. Corro el build:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && timeout 400 pnpm build > /tmp/opencode/build2.out 2>&1; echo "BUILD_EXIT=$?"; rtk grep -E "Compiled|TypeScript|projects|error|Error|✓|✗" /tmp/opencode/build2.out | tail -30
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && timeout 400 pnpm build > /tmp/opencode/build2.out 2>&1; echo \"BUILD_EXIT=$?\"; rtk grep -E \"Compiled|TypeScript|projects|error|Error|✓|✗\" /tmp/opencode/build2.out | tail -30",
+  "timeout": 450000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+BUILD_EXIT=0
+✓ Running next.config.ts took 68ms
+✓ Compiled successfully in 42s
+  Running TypeScript ...
+  Finished TypeScript in 10.5s ...
+✓ Generating static pages using 3 workers (8/8) in 546ms
+├ ƒ /[tenant]/quotes/projects
+├ ƒ /[tenant]/quotes/projects/[projectId]
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Build passes (exit 0). Now restart the dev server for the user.
+
+Then write the final report (sections 1-10) and save Engram.
+
+Let me restart dev server in background.
+
+</details>
+
+Build OK (exit 0). Reinicio el dev server:
+
+#### 🔧 Tool: bash
+**Status:** completed
+**Title:** cd /home/craxker/github/nexus-thrive && nohup pnpm dev > /tmp/opencode/dev-server.log 2>&1 & disown; sleep 6; rtk grep -E "Ready|Local|error" /tmp/opencode/dev-server.log | head -5
+
+**Input:**
+```json
+{
+  "command": "cd /home/craxker/github/nexus-thrive && nohup pnpm dev > /tmp/opencode/dev-server.log 2>&1 & disown; sleep 6; rtk grep -E \"Ready|Local|error\" /tmp/opencode/dev-server.log | head -5",
+  "timeout": 30000,
+  "workdir": "/home/craxker/github/nexus-thrive"
+}
+```
+
+**Output:**
+```
+- Local:         http://localhost:3000
+✓ Ready in 1239ms
+
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Now write the final report (sections 1-10 as required by the FASE 2 brief). The brief listed "informe final obligatorio (secciones 1–10)". I don't have the exact section names, but the summary said "secciones 1–10, distinguiendo Implementado+verificado / Implementado-no-verificado / Parcial / Pendiente". I'll produce a structured report with sensible sections.
+
+Then save Engram observations.
+
+Let me compose the report in Spanish, concise but complete.
+
+Let me save Engram first (mem_save + mem_session_summary)? The report should come first as the deliverable, then memory. Order doesn't matter much. Let me do Engram saves, then present report.
+
+Actually let me present the report as the message, and save Engram in the same turn (tool calls before final text? I can do tool calls then text). Let me save memory first, then final message with report.
+
+mem_save: architecture/xi00-construccion-fase2.
+Also update topic? Use topic_key maybe. I'll save a new observation.
+
+Then mem_session_summary.
+
+Let me do the saves.
+
+Content for mem_save:
+title: "FASE 2 Presupuestador APU & AIU (Tab 2) implementada"
+type: architecture
+content: What/Why/Where/Learned.
+
+Then mem_session_summary.
+
+Let me call both in parallel? mem_session_summary and mem_save can be parallel. Yes.
+
+Let me write.
+
+Actually mem_save may return relations/judgment candidates; let me call separately to handle. I'll call both in one block; handle judgments if any.
+
+Let me do it.
+
+</details>
+
+Build y lint en verde. Guardo la memoria de sesión y el avance:
+
+#### 🔧 Tool: engram_mem_save
+**Status:** completed
+
+**Input:**
+```json
+{
+  "title": "FASE 2 Presupuestador APU & AIU (Tab 2) implementada",
+  "type": "architecture",
+  "content": "**What**: Implementé el Tab 2 \"Presupuestador APU & AIU (N1)\" del vertical de construcción: contrato Prisma 8 + migración, motor BigInt de cascada AIU, namespace `budgets` en tenantDb, validators, server actions y UI completa.\n\n**Why**: FASE 2 del brief del vertical XI.00 construcción (sobre la base FASE 1 Project/ProjectHeader).\n\n**Where**: prisma/contract.prisma (enum ResourceType + ProjectBudget/BudgetChapter/BudgetItem/BudgetItemResource), migrations/app/20261011T0102_add_project_budget_apu/, lib/apu-engine.ts (SCALE, percentToMicro, microToPercent, calculateItemTotal, calculateBudgetTotals, RESOURCE_TYPES), lib/format.ts (formatMoneyMicro, formatQuantityMicro), lib/tenant-db.ts (namespace budgets + loadBudgetTree/recalcBudgetTotals), app/[tenant]/(app)/quotes/projects/[projectId]/budget/{validators,actions}.ts, app/[tenant]/(app)/quotes/projects/[projectId]/_components/{budget-workspace,chapter-modal,item-modal,aiu-config-modal}.tsx, projectId/page.tsx.\n\n**Learned**:\n- Escala de porcentajes AIU: 1_000_000 = 100 % (100_000 = 10 %); dinero/cantidad 1_000_000 = 1. Distinta de `percentOf` previo del engine (100 % = 100_000_000) → NO mezclar.\n- Verificado en DB real (tenant juancarlos): getOrCreate genera PRES-2026-001, unique projectId se respeta (idempotencia por carrera), cascada 10/5/5/19 sobre $1.356.250 → $1.640.384; 15/8/7/19 → $1.781.163; borrar Project cascadea budget/chapters/items/resources.\n- Prisma 8 ORM delete es `.where({id}).delete()`, NO `.delete({id})`.\n- `pnpm exec tsc --noEmit` + `pnpm build` OK; eslint limpio en archivos nuevos (errores de lint solo en prisma/contract.d.ts generado, preexistentes).\n- Lint regla react-hooks/set-state-in-effect: para modales, montar condicionalmente (no sincronizar estado por effect).\n\n**Evidencia**: motor probado con casos reales vía `node` (type-stripping, Node 26); integración real contra Postgres replicando las ops de tenant-db.budgets. Scripts temporales eliminados y datos de prueba limpiados (budgets en tenant = 0).",
+  "project": "nexus"
+}
+```
+
+**Output:**
+```
+{"id":258,"judgment_required":false,"project":"nexus","project_path":"","project_source":"explicit_override","result":"Memory saved: \"FASE 2 Presupuestador APU \u0026 AIU (Tab 2) implementada\" (architecture)\nSuggested topic_key: architecture/fase-2-presupuestador-apu-aiu-tab-2-implementada","state":"active","sync_id":"obs-bc71662456479fac"}
+```
+
+#### 🔧 Tool: engram_mem_session_summary
+**Status:** completed
+
+**Input:**
+```json
+{
+  "content": "## Goal\nImplementar la FASE 2 (Tab 2 \"Presupuestador APU & AIU N1\") del vertical de construcción en nexus-thrive, end-to-end, sobre la base FASE 1.\n\n## Instructions\n- Español, conciso, sin preámbulos. No commitear salvo pedido explícito.\n- Verificación obligatoria: `pnpm exec tsc --noEmit` y `pnpm build` con evidencia real; no declarar verificado sin prueba.\n- Prisma 8 Data Contract (no @prisma/client, no new PrismaClient). Cargar `.env` con `set -a; source .env; set +a`.\n\n## Discoveries\n- Escala AIU en BigInt: 1_000_000 = 100 %; dinero = 1_000_000. `percentOf` del engine viejo usa OTRA escala → no mezclar.\n- Prisma 8 ORM delete: `.where({id}).delete()` (no `.delete({id})`).\n- Node 26 ejecuta TS directo (type-stripping) → sirve para probar motor y DB sin tsx/ts-node.\n- Lint react-hooks/set-state-in-effect: montar modales condicionalmente en vez de sincronizar por effect.\n- Dev server no puede coexistir con `next build`; tsc (~2 min) y build (~1-3 min) son lentos por el filesystem.\n\n## Accomplished\n- Contrato + migración `20261011T0102_add_project_budget_apu` aplicada (hash 546dd56…, ref avanzado).\n- Motor `lib/apu-engine.ts` ampliado; `lib/format.ts` con formatMoneyMicro/formatQuantityMicro.\n- `lib/tenant-db.ts` namespace `budgets` (get/getOrCreate/createChapter/createItem/updateAiu/setLocked) + loadBudgetTree.\n- validators + actions (`getOrCreateProjectBudgetAction`, `createChapterAction`, `createBudgetItemAction`, `updateAiuConfigAction`, `toggleBudgetLockAction`).\n- UI completa (4 KPI cards, árbol capítulos/partidas, modales capítulo/partida/AIU con preview) + wire en projectId/page.tsx.\n- Verificado: tsc OK, build OK, eslint limpio en archivos nuevos; integración real Postgres OK (PRES-2026-001, cascada correcta, unique, cascade delete); datos de prueba limpiados.\n\n## Next Steps\n- Verificación runtime autenticada (Clerk) del flujo en navegador (Tab 2 en un proyecto real).\n- (FASE 3+) Exploración APU (drill-down actividades/composiciones), control de obra, informes.\n- Evaluar commit de FASE 2 cuando el CEO lo pida.\n\n## Relevant Files\n- prisma/contract.prisma — enum ResourceType + 4 modelos presupuesto.\n- migrations/app/20261011T0102_add_project_budget_apu/ — migración FASE 2.\n- lib/apu-engine.ts — motor cálculo APU/AIU.\n- lib/format.ts — formato COP desde micro-unidades.\n- lib/tenant-db.ts — acceso datos multi-tenant (namespace budgets).\n- app/[tenant]/(app)/quotes/projects/[projectId]/budget/{validators,actions}.ts — validación + server actions.\n- app/[tenant]/(app)/quotes/projects/[projectId]/_components/{budget-workspace,chapter-modal,item-modal,aiu-config-modal}.tsx — UI Tab 2.\n- app/[tenant]/(app)/quotes/projects/[projectId]/page.tsx — wiring del tab presupuesto.",
+  "project": "nexus"
+}
+```
+
+**Output:**
+```
+{"project":"nexus","project_path":"","project_source":"explicit_override","result":"Session summary saved for project \"nexus\"\nSession activity: 1 tool call, 0 saves"}
+```
+
+*[step-finish part]*
+
+### 🤖 Assistant
+*2026-10-10 20:34:56*
+
+*[step-start part]*
+
+💭 **Reasoning:**
+
+<details>
+<summary>Click to expand reasoning</summary>
+
+Memory saved. Now write the final report (sections 1-10) to the user.
+
+Let me produce the report clearly, marking status per the brief categories.
+
+I'll write in Spanish, structured in 10 sections:
+1. Resumen ejecutivo
+2. Alcance entregado
+3. Modelo de datos (contrato + migración)
+2. Motor de cálculo
+3. Capa de datos (tenantDb)
+4. Validación servidor
+5. Server actions
+6. UI
+5. ...
+Let me use 10 coherent sections:
+1. Objetivo y alcance
+2. Contrato de datos y migración
+3. Motor de cálculo (BigInt)
+3. Capa de datos (tenantDb)
+4. Validación servidor
+5. Server actions
+6. Interfaz de usuario (Tab 2)
+7. Integración/wiring
+8. Verificación y evidencia
+9. Estado por categoría (Implementado+verificado / Implementado no verificado / Parcial / Pendiente)
+10. Riesgos, notas y próximos pasos
+
+Let me write it concisely but complete. Include the evidence numbers.
+
+Note about FASE 1 commit: FASE 1 ya está commiteado (commit). FASE 2 uncommitted.
+
+Let me write.
+
+</details>
+
+**FASE 2 — Tab 2 “Presupuestador APU & AIU (N1)” — ENTREGADA.** Informe:
+
+---
+
+### 1. Alcance implementado
+Presupuestador por proyecto en `/[tenant]/quotes/projects/[projectId]?tab=presupuesto`: resumen financiero AIU, estructura jerárquica Presupuesto → Capítulos → Partidas, creación de capítulos/partidas y configuración AIU. Sin motor Lean, bitácora, control de obra ni informes (fases posteriores).
+
+### 2. Contrato de datos (Prisma 8)
+`prisma/contract.prisma`: enum `ResourceType` (MATERIAL/LABOR/EQUIPMENT/TRANSPORT) + modelos `ProjectBudget` (1:1 con `Project`, `code PRES-<año>-NNN`, `@@unique([tenantId,code])`, `isLocked`, pcts AIU con defaults 100000/50000/50000/190000), `BudgetChapter`, `BudgetItem`, `BudgetItemResource`. Back-relations en `Tenant` y `Project`. **Emitido** (`contract.json`/`contract.d.ts`, hash `546dd56…`).
+
+### 3. Migración
+`migrations/app/20261011T0102_add_project_budget_apu` (from `985cb4f` → `546dd56`, 23 ops aditivas). **Aplicada** y `ref db` avanzado a `546dd56…`.
+
+### 4. Motor de cálculo (`lib/apu-engine.ts`)
+`SCALE=1_000_000n`, `percentToMicro`, `microToPercent`, `calculateItemTotal(q,u)=round(q·u/SCALE)`, `calculateBudgetTotals(direct, admin, imprev, util, iva)` → admin/imprev/utilidad sobre costo directo, **IVA solo sobre utilidad**, `grandTotal` acumulado. Aritmética `BigInt` pura, redondeo half-up. Nuevos `formatMoneyMicro`/`formatQuantityMicro` en `lib/format.ts`.
+
+### 5. Acceso a datos (`lib/tenant-db.ts`)
+Namespace **`budgets`**: `get`, `getOrCreate` (asigna `PRES-<año>-NNN`, idempotente ante carrera por `@@unique(projectId)`), `createChapter`, `createItem` (calcula total + recalcula cascada en transacción), `updateAiu`, `setLocked`; helper `loadBudgetTree` que serializa todos los `BigInt` a string.
+
+### 6. Validators + server actions
+`budget/validators.ts` (capítulo, partida con límites de cantidad/costo, AIU con topes 30/20/30/30 %) y `budget/actions.ts`: `getOrCreateProjectBudgetAction`, `createChapterAction`, `createBudgetItemAction`, `updateAiuConfigAction`, `toggleBudgetLockAction`. Todos con `requireTenantContext` (Clerk + tenant activo + membresía) y `revalidatePath`.
+
+### 7. UI (`_components/`)
+`budget-workspace.tsx` (4 KPI cards: Costo directo / Admin+Imprev / Utilidad+IVA / Valor total; barra con Configurar AIU, Bloquear, Nuevo capítulo; árbol de capítulos con tabla de partidas y subtotales; estados vacío/bloqueado), `chapter-modal.tsx`, `item-modal.tsx` (datalist de unidades APU), `aiu-config-modal.tsx` (vista previa en vivo con el mismo motor). Wire en `page.tsx` (`tab === "presupuesto"`).
+
+### 8. Verificación (evidencia)
+- `pnpm exec tsc --noEmit` → **0 errores**.
+- `pnpm build` → **OK**, rutas `ƒ /[tenant]/quotes/projects` y `ƒ /[tenant]/quotes/projects/[projectId]`.
+- `eslint` → **limpio** en los archivos nuevos (los errores 69/256 son de `prisma/contract.d.ts` generado y preexistentes).
+- DB real (`juancarlos`): 4 tablas con columnas, unique e FKs correctos; `type` con CHECK de los 4 valores.
+- Motor (Node): 12.5 × 28.500 = **$356.250**; cascada 10/5/5/19 sobre $1.356.250 → **$1.640.384**; 15/8/7/19 → **$1.781.163**.
+- Integración real contra Postgres: `getOrCreate` → `PRES-2026-001`, unique `projectId` respetado, cascada y `updateAiu` correctos, `.in()` en árbol, **cascade delete** confirmado. Datos y scripts de prueba eliminados (budgets en tenant = **0**).
+
+### 9. Estado por categoría
+- **Implementado + verificado**: contrato, migración, motor, tenantDb, validators, actions, UI, build/tsc/lint, integración DB.
+- **Implementado, no verificado en runtime**: flujo end-to-end en navegador con sesión Clerk real (Tab 2 sobre un proyecto creado por UI).
+- **Parcial**: recursos APU (`BudgetItemResource`) — modelo/persistencia/lectura listos; edición desde UI no incluida (fase posterior).
+- **Pendiente**: commit de FASE 2 (no hecho, por regla); pull/resolución de recursos APU, fases 3+.
+
+### 10. Notas
+- Dev server arriba en `http://localhost:3000`.
+- FASE 1 ya está commiteada; FASE 2 queda sin commitear (14 rutas: 7 modificadas, 7 nuevas) esperando tu OK.
+- Regla aprendida: ORM Prisma 8 borra con `.where({id}).delete()`.
+
+¿Commiteo la FASE 2 en `feature/construction-apu-engine`?
+
+*[step-finish part]*
